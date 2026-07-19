@@ -13,7 +13,7 @@ Paper: *Large Language Models for Psycholinguistic Plausibility Pretesting* (Fin
 | [`data/`](data/) | Human + machine ratings (đã kéo về, xem `data/README.md`) |
 | [`results/`](results/) | Output thí nghiệm của nhóm (push vào đây) |
 
-Bắt đầu đọc: [`docs/README.md`](docs/README.md) → [`docs/02_main_tasks.md`](docs/02_main_tasks.md)
+Bắt đầu đọc: [`CONG_VIEC.md`](CONG_VIEC.md) → [`docs/02_main_tasks.md`](docs/02_main_tasks.md)
 
 ## Cách làm (thực tế)
 
