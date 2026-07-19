@@ -30,6 +30,20 @@
 
 6. **Rehearsal** 15 phút thuyết trình + demo/Q&A.
 
+## Hướng đóng góp chính (đã chốt)
+
+Trên **cùng 1 model + cùng base prompt**, so với pipeline gốc (**ORIG** = không schema, không thinking, có examples):
+
+| Điều kiện | Schema | Thinking | Examples |
+|---|---|---|---|
+| ORIG | Không | Không | Có |
+| S | Có | Không | Có |
+| T | Không | Có | Có |
+| ST | Có | Có | Có |
+| ST−E | Có | Có | **Không** |
+
+“Tốt hơn” = gần human hơn (Pearson / MAE). Chi tiết: [`docs/08_ablation_json_thinking.md`](docs/08_ablation_json_thinking.md).
+
 ## Không làm
 
 - Dataset người chấm mới làm hệ quy chiếu chính  

@@ -24,6 +24,7 @@ Chia theo **phase thực tế**, không chia silo “một người chỉ lý th
 | [05_metrics_and_eval.md](05_metrics_and_eval.md) | Pearson, MAE, coarse/fine |
 | [06_extension_plus3_plus1.md](06_extension_plus3_plus1.md) | Nhiều model = +3; phân tích = +1 |
 | [07_demo_and_slides.md](07_demo_and_slides.md) | Slide, demo, báo cáo |
+| [08_ablation_json_thinking.md](08_ablation_json_thinking.md) | **Đóng góp chính:** schema × thinking × examples |
 
 ## Flow làm việc (tóm tắt)
 

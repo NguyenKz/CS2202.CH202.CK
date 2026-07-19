@@ -22,6 +22,20 @@ Bắt đầu đọc: [`CONG_VIEC.md`](CONG_VIEC.md) → [`docs/02_main_tasks.md`
 3. Mỗi người chạy 1–2 model + tự nhận xét → `results/`  
 4. Có số xong mới chia: Speaker A (intro/lý thuyết), Speaker B (kết quả + demo), Editor (báo cáo)
 
+## Hướng đóng góp chính (đã chốt)
+
+Trên **cùng 1 model + cùng base prompt**, ablation vs pipeline gốc:
+
+| ID | Schema | Thinking | Examples |
+|---|---|---|---|
+| ORIG | Không | Không | Có |
+| S | Có | Không | Có |
+| T | Không | Có | Có |
+| ST | Có | Có | Có |
+| ST−E | Có | Có | Không |
+
+Chi tiết: [`docs/08_ablation_json_thinking.md`](docs/08_ablation_json_thinking.md)
+
 ## Data human (không cần tự chấm)
 
 Dùng [`data/`](data/) — lấy `human_mean` / `mean(human_results)`. Không tự annotate gold mới.
