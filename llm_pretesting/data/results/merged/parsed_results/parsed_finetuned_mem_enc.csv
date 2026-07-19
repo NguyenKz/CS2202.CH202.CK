@@ -1,0 +1,3 @@
+,num_ex,prompt_name,has_examples,diff_sentence,model,temperature,pearson,std
+0,4,global,True,yes,ft:gpt_3.5_turbo:tel_aviv_university::8PTaayt5,1.5,0.5250420500716229,0.06359794740195471
+1,,,,,Human,,,1.5137362679502464
