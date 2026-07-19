@@ -13,22 +13,25 @@ Paper: *Large Language Models for Psycholinguistic Plausibility Pretesting* (Fin
 | [`data/`](data/) | Human + machine ratings (đã kéo về, xem `data/README.md`) |
 | [`results/`](results/) | Output thí nghiệm của nhóm (push vào đây) |
 
-Bắt đầu đọc: [`docs/README.md`](docs/README.md) → [`docs/01_overview.md`](docs/01_overview.md)
+Bắt đầu đọc: [`docs/README.md`](docs/README.md) → [`docs/02_main_tasks.md`](docs/02_main_tasks.md)
+
+## Cách làm (thực tế)
+
+1. Cả nhóm đọc hiểu paper  
+2. Notebook chung → chốt 3–4 model  
+3. Mỗi người chạy 1–2 model + tự nhận xét → `results/`  
+4. Có số xong mới chia: Speaker A (intro/lý thuyết), Speaker B (kết quả + demo), Editor (báo cáo)
 
 ## Data human (không cần tự chấm)
 
-Nằm sẵn trong:
-
-`llm_pretesting/data/llm_pretest_data/*.jsonl`
-
-Field `human_results` = list điểm người 1–7. Khi tính metrics lấy **mean**.
+Dùng [`data/`](data/) — lấy `human_mean` / `mean(human_results)`. Không tự annotate gold mới.
 
 ## Quy ước làm việc
 
-1. Làm trên branch riêng hoặc commit rõ ràng theo tên
-2. Không commit `.env` / API key
-3. Kết quả batch/metrics để trong `results/`
-4. Prompt: lấy từ paper / `llm_pretesting/llm_pretest/prompts/`
+1. Commit rõ tên / model đang phụ trách  
+2. Không commit `.env` / API key  
+3. Kết quả để trong `results/<model>/`  
+4. Prompt: paper / `llm_pretesting/llm_pretest/prompts/`
 
 ## Upstream
 

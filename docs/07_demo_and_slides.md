@@ -1,91 +1,75 @@
-# 07 — Demo & slides
+# 07 — Demo, slide & báo cáo
 
-## Demo (~2 phút)
-
-### Mục tiêu demo
-
-Cho thấy pipeline sống: **câu → điểm plausibility 1–7 → so với human (nếu có)**.
-
-### Kịch bản cố định
-
-1. Mở tool (CLI / notebook / UI nhẹ)
-2. Chạy **4–6 câu đã chuẩn bị**:
-   - 2 câu LLM gần human
-   - 1–2 câu LLM lệch (phục vụ thảo luận +1)
-   - 1 câu “rất implausible” để minh họa coarse filter
-3. Với mỗi câu hiện: `model_score`, `human_score` (nếu có), `structure`
-4. Kết: chỉ ra 1 case đúng + 1 case sai trong &lt; 30 giây
-
-### Fallback bắt buộc
-
-Nếu API lỗi khi bảo vệ:
-
-- Dùng **cache** điểm đã chạy sẵn cho bộ câu demo
-- Vẫn thao tác “nhập/chọn câu → hiện điểm” để không đứng hình
-
-### Checklist demo Ngày 6–7
-
-- [ ] Chạy thử trên máy trình bày
-- [ ] Font/terminal đủ lớn
-- [ ] Không phụ thuộc path máy khác
-- [ ] Có người backup bấm demo nếu speaker chính quên thao tác
+Làm **sau Phase 2–3** (đã có số từng model + bảng tổng).
 
 ---
 
-## Outline slide (15 phút thuyết trình)
+## Vai trò deliverable (3 người)
 
-Tổng ~10–14 slides. Phân bổ thời gian gợi ý:
+| Vai trò | Trên lớp / nộp | Việc |
+|---|---|---|
+| **Speaker A** | Thuyết trình phần đầu | Giới thiệu, lý thuyết pretest/plausibility, overview paper, setup thí nghiệm nhóm |
+| **Speaker B** | Thuyết trình phần sau + demo | Phân tích kết quả các model, case study, demo nhanh 1–2 phút |
+| **Editor** | Báo cáo viết | Tổng hợp notes + metrics thành báo cáo; so số liệu trên slide cho khớp |
+
+Cả nhóm cùng rehearsal. Editor không “không cần hiểu thí nghiệm”.
+
+---
+
+## Demo (~1–2 phút)
+
+Speaker B chạy:
+
+1. Chọn 3–5 câu đã cache
+2. Hiện human_mean vs điểm 1–2 model tiêu biểu
+3. Chỉ nhanh 1 case gần human + 1 case lệch
+
+Fallback: không gọi API live nếu mạng/API rủi ro — dùng output đã lưu trong `results/`.
+
+---
+
+## Outline slide (15 phút)
 
 | Phút | Ai | Nội dung |
 |---:|---|---|
-| 0–1 | Mở đầu | Paper, vì sao chọn, mục tiêu đồ án |
-| 1–5 | **M1** | CL background: pretest, plausibility, hiện tượng ngôn ngữ |
-| 5–9 | **M2** | Method: prompt, metrics, kết quả Model A, +3 Model B |
-| 9–12 | **M1+M2** | +1 error analysis + case study |
-| 12–14 | **M3** | Demo |
-| 14–15 | Cả nhóm | Kết luận + hạn chế + hỏi đáp chuyển tiếp |
+| 0–6 | Speaker A | Bài toán, paper, data/prompt, setup nhóm |
+| 6–13 | Speaker B | Bảng kết quả multi-model, phân tích, +1, demo |
+| 13–15 | A hoặc B | Kết luận + hạn chế; Editor nhắc Q&A đã chuẩn bị |
 
-### Danh sách slide đề xuất
+### Slide đề xuất
 
-1. Title (tên paper, nhóm, môn)
-2. Problem: psycholinguistic pretesting
-3. Research question: LLM thay human được không?
-4. Vì sao đây là CL (không chỉ NLP)
-5. Method overview (prompt 1–7, so human)
-6. Setup nhóm (data size, structures, models)
-7. Results Model A (Pearson / MAE / RMSE)
-8. +3: Model B trên cùng data
-9. Coarse vs fine-grained
-10. +1: bảng lỗi theo hiện tượng + case studies
-11. Demo slide (screenshot hoặc “live next”)
-12. Kết luận + hạn chế + việc làm thêm (nếu có)
-13. Q&A / References
+1. Title  
+2. Vấn đề pretest plausibility  
+3. Câu hỏi paper + kết luận chính của paper  
+4. Setup nhóm (data, prompt, 3–4 model, ai chạy model nào)  
+5–7. Kết quả từng model / bảng tổng  
+8. Case study + coarse/fine  
+9. Demo  
+10. Kết luận  
+11. References / Q&A  
 
 ---
 
-## Kết luận nên nói (1 câu)
+## Báo cáo viết (Editor)
 
-> LLM (đặc biệt model mạnh) **hữu ích cho coarse plausibility filtering**, nhưng **chưa thay được human** khi cần phán xét fine-grained trong pretest psycholinguistics.
+Gợi ý mục:
+
+1. Giới thiệu bài toán & paper  
+2. Data & protocol (human paper, prompt paper, models)  
+3. Kết quả (bảng + plot nếu có)  
+4. Thảo luận / khác biệt giữa models (+1)  
+5. Kết luận & hạn chế  
+6. Phân công & link `results/`
+
+Nguồn: `results/*/notes.md` + `results/summary_table.*` — không bịa số.
 
 ---
 
-## Câu hỏi GV có thể hỏi (chuẩn bị sẵn)
+## Câu hỏi GV thường gặp
 
-| Câu hỏi | Hướng trả lời ngắn |
+| Câu hỏi | Trả lời ngắn |
 |---|---|
-| Sao không train? | Paper/method chính là zero-shot rating; finetune paper cũng không transfer tốt. |
-| Pearson cao có nghĩa dùng thay người được không? | Không đủ; cần xem coarse vs fine. |
-| +3 các bạn đổi gì? | Đổi model, giữ nguyên dataset và prompt. |
-| Lỗi điển hình của model? | Nêu 1 hiện tượng + 1 ví dụ đã chuẩn bị. |
-| Data lấy ở đâu? | Paper subset / tự thu — nói đúng nguồn nhóm dùng. |
-| Temperature / prompt ảnh hưởng? | Đã cố định temperature thấp; ghi version prompt. |
-
----
-
-## Rehearsal Ngày 7
-
-- [ ] Chạy đúng 15 phút (bấm giờ)
-- [ ] Demo không vượt 2–2.5 phút
-- [ ] Mỗi người biết slide nào mình nói
-- [ ] Thống nhất thuật ngữ: plausibility, coarse, fine-grained, pretest
-- [ ] Export slide PDF backup
+| Sao không tự annotate? | Giữ hệ quy chiếu human của paper. |
+| +3 là gì? | Cùng data, nhiều model khác nhau. |
+| Kết luận chính? | Coarse khá ổn; fine vẫn yếu (đối chiếu paper + số nhóm). |
+| Ai chạy model nào? | Nêu đúng phân công Phase 2. |

@@ -54,14 +54,17 @@ Làm đủ đẹp trong 1 tuần — **không** reproduce full mọi model/datas
 
 ## Deliverables cuối tuần
 
-| Deliverable | Owner chính |
+Xem chia việc thực tế ở [02_main_tasks.md](02_main_tasks.md). Tóm tắt:
+
+| Deliverable | Ai |
 |---|---|
-| Data JSONL (câu + human score) | M1 + M3 |
-| Script gọi LLM + parse score | M3 |
-| Bảng metrics (Model A, Model B) | M2 |
-| Error analysis / case study (+1) | M1 + M2 |
-| Demo chạy được | M3 |
-| Slide + script thuyết trình | Cả nhóm |
+| Đọc hiểu paper | Cả nhóm |
+| Notebook chung + chốt 3–4 model | Cả nhóm |
+| Chạy model + notes | Mỗi người 1–2 model |
+| Bảng tổng + case study | Cả nhóm |
+| Slide intro/lý thuyết | Speaker A |
+| Slide kết quả + demo | Speaker B |
+| Báo cáo viết | Editor |
 
 ## Rủi ro cần tránh
 

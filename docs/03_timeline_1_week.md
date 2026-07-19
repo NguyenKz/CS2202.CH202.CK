@@ -1,130 +1,104 @@
-# 03 — Timeline 1 tuần
+# 03 — Timeline 1 tuần (thực tế)
 
-Giả định: **Ngày 1 = bắt đầu**, **Ngày 7 = sẵn sàng báo cáo**.  
-Mỗi ngày có **1 mục tiêu chính** — không để việc dồn về cuối.
+Flow: **cùng hiểu paper → notebook chung → mỗi người chạy model → có số mới làm slide/báo cáo**.
 
 ---
 
 ## Tổng quan
 
-| Ngày | Focus | Owner chính | Output cuối ngày |
-|---|---|---|---|
-| **D1** | Đọc paper + chốt scope + setup | Cả nhóm | Scope data, Model A/B, repo sẵn |
-| **D2** | Data + prompt baseline | M1, M3, M2 | JSONL + prompt v1 |
-| **D3** | Chạy Model A + Pearson | M3, M2 | Bảng metrics Model A |
-| **D4** | +3: Model B cùng data | M2, M3 | Bảng so sánh A vs B |
-| **D5** | +1: error analysis | M1, M2 | Case study + tỷ lệ lỗi |
-| **D6** | Demo + draft slide | M3 + cả nhóm | Demo OK + slide draft |
-| **D7** | Rehearsal + polish | Cả nhóm | Slide final + demo ổn |
+| Ngày | Việc | Ai |
+|---|---|---|
+| **D1** | Cùng đọc paper + chốt data/prompt/metrics | Cả nhóm |
+| **D2** | Làm notebook chung, thử vài model, chốt 3–4 model | Cả nhóm |
+| **D3–D4** | Mỗi người chạy 1–2 model trên subset + tự viết notes | Song song |
+| **D5** | Gộp bảng số, case study, thống nhất kết luận (+1) | Cả nhóm |
+| **D6** | Chia: Speakers làm slide/demo; Editor viết báo cáo | Theo vai trò Phase 4 |
+| **D7** | Rehearsal 15+5, chốt số liệu, fallback demo | Cả nhóm |
 
 ---
 
-## Ngày 1 — Kickoff & scope
+## D1 — Cả nhóm đọc hiểu paper
 
-**Mục tiêu:** mọi người cùng hiểu paper và chốt biên giới công việc.
+- [ ] Đọc chung (hoặc đọc riêng rồi họp sync)
+- [ ] Trả lời nhanh: paper giải quyết gì? dùng data gì? kết luận coarse/fine?
+- [ ] Chốt subset (`data/ready/...` hoặc 1–2 file human/machine)
+- [ ] Chốt: dùng human paper, không tự annotate gold mới
 
-- [ ] Đọc paper (ít nhất abstract, intro, method, kết luận)
-- [ ] Xem repo chính thức
-- [ ] Chốt: **40–60 câu** hoặc **1–2 subset** paper
-- [ ] Chốt **2–3 hiện tượng/cấu trúc** (M1)
-- [ ] Chốt **Model A** (baseline) và **Model B** (+3)
-- [ ] Tạo repo/folder code, env, README ngắn
-
-**Không làm hôm nay:** chạy full experiment.
+**Output:** note chung 5–10 bullet “hiểu paper”.
 
 ---
 
-## Ngày 2 — Data & prompt
+## D2 — Notebook + chọn model
 
-**Mục tiêu:** có data sạch + prompt dùng được.
+- [ ] Notebook load data + prompt paper + chấm 5–10 câu
+- [ ] Thử thực tế 4–6 candidate model (cái nào fail thì loại)
+- [ ] Chốt **3–4 model**; chia mỗi người **1–2 model**
+- [ ] Thống nhất format `results/<model>/`
 
-- [ ] Chuẩn hóa JSONL (`sample_id`, `sentence`, `human_score`, `structure`)
-- [ ] Kiểm tra human score (mean nếu có nhiều annotator)
-- [ ] Viết prompt chấm 1–7 (M2)
-- [ ] Smoke test 5 câu với Model A (M3)
-
-**Done khi:** 5 câu chạy ra điểm hợp lệ trong [1, 7].
+**Output:** notebook chạy được + danh sách model + người phụ trách.
 
 ---
 
-## Ngày 3 — Reproduce Model A (6đ core)
+## D3–D4 — Chạy model song song
 
-**Mục tiêu:** có kết quả so human cho Model A.
+Mỗi người:
 
-- [ ] Batch chấm toàn bộ tập
-- [ ] Tính Pearson *r*, MAE, RMSE
-- [ ] Plot scatter đơn giản (optional nhưng đẹp cho slide)
-- [ ] Ghi lại prompt, model version, temperature, ngày chạy
+- [ ] Batch full subset đã chốt
+- [ ] `scores.jsonl` + `metrics.json`
+- [ ] `notes.md` nhận xét riêng
 
-**Done khi:** có bảng “Human vs Model A”.
+Cuối D4:
 
----
+- [ ] Push lên repo team
+- [ ] Báo nhanh trong group: *r*, MAE, 1 ví dụ đúng, 1 ví dụ sai
 
-## Ngày 4 — Extension +3đ
-
-**Mục tiêu:** cùng data, model khác.
-
-- [ ] Batch chấm bằng Model B
-- [ ] Metrics giống Ngày 3
-- [ ] Bảng so sánh Model A vs Model B vs Human
-- [ ] Viết 5–8 câu nhận xét sơ bộ (ai gần human hơn, trên cấu trúc nào)
-
-**Done khi:** đủ evidence cho slide “+3đ”.
+**Không** bắt đầu viết slide dài ở phase này.
 
 ---
 
-## Ngày 5 — Extension +1đ
+## D5 — Gộp & phân tích chung
 
-**Mục tiêu:** giải thích khác biệt bằng ngôn ngữ học + số liệu.
+- [ ] Một bảng tổng Human vs tất cả model
+- [ ] 3–5 case study dùng chung
+- [ ] Chuẩn bị ý +1: model nào kém ở kiểu câu nào / coarse vs fine
+- [ ] Giao luôn ai là Speaker A / Speaker B / Editor
 
-- [ ] Coarse: threshold (vd. &lt; 3 = implausible) — precision/recall đơn giản
-- [ ] Fine: vài cặp câu cần phân biệt tinh — model đúng/sai bao nhiêu
-- [ ] Gắn lỗi với hiện tượng (M1)
-- [ ] Chọn **3–5 case study** (đúng nổi bật / sai thú vị)
-- [ ] Viết đoạn phân tích cho slide + script nói
-
-**Done khi:** +1 có số + ví dụ, không chỉ qualitative.
+**Output:** `results/summary_table.md` (hoặc CSV) = nguồn sự thật duy nhất.
 
 ---
 
-## Ngày 6 — Demo & slide draft
+## D6 — Slide / demo / báo cáo
 
-**Mục tiêu:** có thứ đem lên lớp (dù chưa perfect).
-
-- [ ] Demo: nhập 4–6 câu → điểm model → so human
-- [ ] Cache fallback nếu API chết
-- [ ] Draft slide theo outline [07_demo_and_slides.md](07_demo_and_slides.md)
-- [ ] Phân bổ thời gian nói: M1 / M2 / M3
-
-**Done khi:** demo chạy 1 lần liền mạch + slide đủ nội dung.
-
----
-
-## Ngày 7 — Rehearsal & lock
-
-**Mục tiêu:** sẵn sàng bảo vệ.
-
-- [ ] Rehearsal full **15 phút thuyết trình + 5 phút demo/Q&A**
-- [ ] Cắt slide thừa, thống nhất số liệu
-- [ ] Fix bug demo
-- [ ] Chuẩn bị 5 câu hỏi dự kiến + câu trả lời ngắn
-- [ ] Lock version: data, prompt, bảng số, slide PDF/PPT
-
-**Done khi:** cả nhóm chạy thử 1 lần không vấp demo.
-
----
-
-## Buffer / nếu trễ
-
-| Nếu trễ ở… | Cắt gì trước |
+| Ai | Việc hôm nay |
 |---|---|
-| Data khó | Giảm còn ~40 câu, giữ 2 cấu trúc |
-| Model B chậm | Vẫn chạy subset đại diện, ghi rõ |
-| Specific prompt | Bỏ; giữ 1 prompt baseline |
-| UI demo đẹp | Dùng CLI / notebook — miễn chạy được |
+| Speaker A | Slide intro + lý thuyết + overview + setup |
+| Speaker B | Slide kết quả + case study + chuẩn bị demo nhanh |
+| Editor | Báo cáo viết: gộp notes + bảng số + kết luận |
 
-## Quy tắc làm việc tuần này
+- [ ] Demo chỉ cần ngắn (notebook / cache câu sẵn)
+- [ ] Số trên slide = đúng file summary
 
-1. Mỗi tối (hoặc sáng hôm sau) cập nhật checklist trong file này.
-2. Mọi số liệu trên slide phải khớp file kết quả đã lưu.
-3. Không đổi Model A/B sau Ngày 4 trừ khi model hỏng hoàn toàn.
+---
+
+## D7 — Rehearsal
+
+- [ ] Full 15 phút nói + ~2 phút demo + Q&A
+- [ ] Cắt slide thừa
+- [ ] Fallback nếu API chết
+- [ ] Lock PDF slide + link results
+
+---
+
+## Nếu trễ
+
+| Trễ ở | Cắt gì |
+|---|---|
+| Model chậm / API lỗi | Giảm còn 2–3 model; subset nhỏ hơn |
+| Chưa kịp fine-grained | Giữ Pearson + vài case study |
+| Demo UI | Notebook + cache là đủ |
+
+## Quy tắc
+
+1. Không chia “một người chỉ đọc lý thuyết từ đầu chí cuối trong khi người khác mới được chạy model”.
+2. Experiment xong mới khóa slide số liệu.
+3. Mỗi model phải có owner rõ trong D2.

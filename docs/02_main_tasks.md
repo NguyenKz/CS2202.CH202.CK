@@ -1,96 +1,117 @@
-# 02 — Main tasks (chia việc 3 thành viên)
+# 02 — Công việc thực tế (chia theo giai đoạn)
 
-Mỗi người **owner** phần của mình; vẫn review chéo trước ngày rehearsal.
-
----
-
-## M1 — CL / Linguistics
-
-**Mục tiêu:** nhóm hiểu và kể được *vì sao đây là bài toán CL*.
-
-### Việc chính
-
-- [ ] Đọc kỹ phần Introduction + datasets/linguistic structures của paper
-- [ ] Viết ngắn (1–2 trang hoặc slides tương đương):
-  - Psycholinguistic pretesting là gì
-  - Vì sao phải kiểm soát plausibility
-  - Vì sao đây là CL, không chỉ NLP
-- [ ] Chốt **2–3 hiện tượng / cấu trúc câu** dùng trong thí nghiệm nhóm (vd. relative clause, animacy, similarity-based interference…)
-- [ ] Cùng M3 chọn/làm sạch tập câu + nhãn human
-- [ ] Lead phần **+1**: gắn lỗi model với hiện tượng ngôn ngữ cụ thể
-- [ ] Soạn phần CL trong slide + dự kiến câu hỏi GV
-
-### Done khi
-
-- Có outline CL rõ cho 4–5 phút thuyết trình
-- Có danh sách hiện tượng + ví dụ câu gắn với error analysis
+Chia theo **phase**, không chia kiểu “một người chỉ CL / một người chỉ code mãi”.  
+Cả nhóm cùng hiểu paper trước; experiment làm song song theo **model**; slide/báo cáo chia sau khi đã có số.
 
 ---
 
-## M2 — Method / NLP / Metrics
+## Phase 0 — Cả nhóm cùng hiểu paper (bắt buộc)
 
-**Mục tiêu:** method + số liệu đúng, đủ để lấy 6đ và hỗ trợ +3/+1.
+Làm **chung**, không giao 1 người đọc hộ.
 
-### Việc chính
+- [ ] Đọc abstract, intro, method, kết luận
+- [ ] Sync 30–45 phút: paper đang giải quyết gì? coarse vs fine là gì?
+- [ ] Chốt chung:
+  - Dùng **nhãn human của paper** (không tự chấm dataset mới làm gold)
+  - Prompt lấy từ paper / `llm_pretesting/llm_pretest/prompts/`
+  - Subset data nào (vd. 1 file trong `data/ready/` hoặc 80–150 câu)
+  - Metrics: Pearson, MAE/RMSE (+ coarse/fine nếu kịp)
 
-- [ ] **Lấy prompt từ paper** (Appendix A) — không invent từ đầu; chốt dùng **global** và/hoặc **specific**
-- [ ] Adapt nhẹ nếu cần (model mới, format parse dễ hơn); ghi rõ chỗ khác paper
-- [ ] (Nếu kịp) so **global prompt** vs **specific prompt** như paper
-- [ ] Định nghĩa và tính:
-  - Pearson *r*
-  - MAE, RMSE
-  - Coarse filter (threshold)
-  - Fine-grained check (pairwise / discriminative)
-- [ ] Lead **+3**: chạy/so sánh **Model B** trên cùng data với Model A
-- [ ] Viết bảng kết quả + nhận xét ngắn cho slide
-- [ ] Cùng M1 hoàn thiện phân tích +1 (tỷ lệ lỗi, case study)
-
-### Done khi
-
-- Có bảng số Model A vs human
-- Có bảng Model A vs Model B (+3)
-- Có 3–5 case study cho +1
+**Done khi:** cả 3 người giải thích được bài toán bằng lời của mình.
 
 ---
 
-## M3 — Implement / Demo
+## Phase 1 — Setup notebook chung + thử model
 
-**Mục tiêu:** pipeline chạy được end-to-end + demo sống.
+Một người dựng khung trước cũng được, nhưng **cả nhóm cùng smoke-test**.
 
-### Việc chính
+- [ ] Tạo notebook chung (vd. `notebooks/run_models.ipynb`)
+  - load câu + `human_mean`
+  - gọi prompt paper
+  - parse điểm 1–7
+  - tính Pearson / MAE trên subset nhỏ (5–10 câu)
+- [ ] Thử vài API/model để xem cái nào chạy được thật
+- [ ] Chốt **3–4 model** dùng cho thí nghiệm (+3đ = so nhiều model trên cùng data)
 
-- [ ] Setup repo / môi trường (Python, API key hoặc model local)
-- [ ] Format data **JSONL**: `sample_id`, `sentence`, `human_score` (mean), metadata cấu trúc nếu có
-- [ ] Script gọi LLM → parse điểm 1–7 → lưu CSV/JSON
-- [ ] Script/notebook tính metrics (dùng công thức M2 chốt)
-- [ ] Demo: nhập câu → hiện điểm model (+ human nếu có)
-- [ ] Fallback demo offline (cache vài câu đã chấm) nếu API lỗi
-- [ ] Hỗ trợ chạy batch Model A và Model B
-
-### Done khi
-
-- Một lệnh (hoặc notebook) chạy được trên tập data nhóm
-- Demo 2 phút ổn định khi rehearsal
+**Done khi:** notebook chạy ổn trên 5–10 câu với ít nhất 1 model.
 
 ---
 
-## Việc chung (cả nhóm)
+## Phase 2 — Chia model: mỗi người 1–2 model
 
-| Việc | Deadline trong tuần |
+Đây là phần song song chính.
+
+| Thành viên | Việc |
 |---|---|
-| Chốt scope data (40–60 câu / 1–2 subset) | Ngày 1 |
-| Chốt Model A và Model B | Ngày 1–2 |
-| Sync tiến độ ngắn (15 phút) | Mỗi ngày hoặc cách ngày |
-| Rehearsal full 20 phút | Ngày 7 |
+| **P1** | Chạy model #1 (và #2 nếu 4 model) trên full subset đã chốt |
+| **P2** | Chạy model #3 (và #4 nếu có) |
+| **P3** | Chạy model còn lại + giữ notebook/metrics helper ổn định |
 
-## Ma trận trách nhiệm nhanh
+Mỗi người **tự**:
 
-| Hạng mục | M1 | M2 | M3 |
-|---|---|---|---|
-| Background CL | Owner | Review | — |
-| Prompt + metrics | Review | Owner | Support |
-| Code / data pipeline | Support | Review | Owner |
-| +3 đổi model | Support | Owner | Support |
-| +1 giải thích | Owner | Co-owner | Support |
-| Demo | — | Support | Owner |
-| Slide tổng | Co | Co | Co |
+1. Chạy batch → lưu vào `results/<ten_model>/`
+2. Tính metrics vs human
+3. Viết nhận xét ngắn (½–1 trang hoặc bullet):
+   - *r* / MAE thế nào
+   - câu nào model gần human
+   - câu nào lệch; đoán lý do (coarse/fine, kiểu câu…)
+
+**Done khi:** có file kết quả + note nhận xét của từng model; không thiếu model đã chốt.
+
+Gợi ý đặt tên:
+
+```text
+results/
+  gpt4o/
+    scores.jsonl
+    metrics.json
+    notes.md
+  qwen/
+    ...
+```
+
+---
+
+## Phase 3 — Gộp số liệu + phân tích nhóm (+1đ)
+
+Sau khi từng người chạy xong:
+
+- [ ] Gộp bảng tổng: Human vs Model1 vs Model2 vs …
+- [ ] So coarse vs fine (nếu làm)
+- [ ] Chọn 3–5 case study chung
+- [ ] Thống nhất câu kết luận nhóm sẽ nói trên lớp
+
+**Done khi:** có **một** bảng số chuẩn để đưa lên slide (không ai dùng số khác nhau).
+
+---
+
+## Phase 4 — Slide, thuyết trình, báo cáo (chia sau khi có số)
+
+Không làm slide nghiêm túc khi chưa có số.
+
+| Vai trò thuyết trình / deliverable | Ai | Việc |
+|---|---|---|
+| **Speaker A — Intro / lý thuyết / overview** | 1 người | Bài toán pretest, plausibility, CL, paper hỏi gì, setup thí nghiệm nhóm |
+| **Speaker B — Kết quả thực nghiệm + demo nhanh** | 1 người | Bảng số các model, nhận xét, case study, demo 1–2 phút |
+| **Editor — Tổng hợp báo cáo viết** | 1 người | Gộp note + số liệu thành báo cáo / README kết quả; thống nhất slide wording |
+
+Cả 3 vẫn cùng rehearsal. Speaker A/B không “biết mỗi phần mình”: vẫn phải hiểu số liệu chung.
+
+---
+
+## Việc cố ý KHÔNG làm
+
+- Thu annotator mới làm nhãn chuẩn (đổi hệ quy chiếu)
+- Train/finetune
+- Invent prompt từ đầu
+- Chia việc kiểu một người ngồi chờ người kia xong hết mới bắt đầu đọc paper
+
+---
+
+## Checklist tổng
+
+- [ ] Phase 0: cả nhóm hiểu paper
+- [ ] Phase 1: notebook chung chạy được
+- [ ] Phase 2: mỗi người xong 1–2 model + notes
+- [ ] Phase 3: bảng tổng + case study
+- [ ] Phase 4: slide + demo + báo cáo + rehearsal
