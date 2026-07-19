@@ -10,6 +10,7 @@ Paper: *Large Language Models for Psycholinguistic Plausibility Pretesting* (Fin
 |---|---|
 | [`docs/`](docs/) | Kế hoạch 1 tuần, chia việc, metrics, demo |
 | [`llm_pretesting/`](llm_pretesting/) | Code + data human ratings từ repo paper |
+| [`data/`](data/) | Human + machine ratings (đã kéo về, xem `data/README.md`) |
 | [`results/`](results/) | Output thí nghiệm của nhóm (push vào đây) |
 
 Bắt đầu đọc: [`docs/README.md`](docs/README.md) → [`docs/01_overview.md`](docs/01_overview.md)
