@@ -1,0 +1,43 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.6402469432971583,
+  "mae": 1.186496,
+  "rmse": 1.4563204301251838,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 712140,
+    "output_tokens": 20000,
+    "reasoning_tokens": 0,
+    "total_tokens": 732140,
+    "n_api_calls": 1000
+  },
+  "mean_tokens_per_sentence": {
+    "input": 14242.8,
+    "output": 400.0,
+    "reasoning": 0.0
+  },
+  "latency_ms_total": 1104205,
+  "model_id": "google/gemma-3-12b-it",
+  "mode": "ORIG",
+  "cost_usd_total": 0.038607,
+  "mean_cost_per_sentence_usd": 0.00077214,
+  "mean_human_cost_per_sentence_usd": 3.216,
+  "cost_ratio_vs_human": 0.00024009328358208954,
+  "pricing_as_of": "2026-07-26",
+  "pricing_source": "openrouter_gemma-3-12b-it_2026-07-26",
+  "cost_mode": "api",
+  "coarse_acc": 0.88,
+  "cost_breakdown": {
+    "input": 0.035607,
+    "output": 0.003,
+    "reasoning": 0.0,
+    "total": 0.038607,
+    "price_input_per_1m": 0.05,
+    "price_output_per_1m": 0.15,
+    "price_reasoning_per_1m": null,
+    "pricing_source": "openrouter_gemma-3-12b-it_2026-07-26",
+    "cost_mode": "api"
+  }
+}

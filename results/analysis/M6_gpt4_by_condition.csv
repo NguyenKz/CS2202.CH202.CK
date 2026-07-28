@@ -1,0 +1,6 @@
+condition,n,pearson_r,mae,gloss
+all,10,0.7512522883491137,0.5401800000000001,object khớp kỳ vọng (baseline)
+global,10,0.621657131477521,0.7058500000000001,object liên quan nhưng kém khớp ngữ cảnh
+animate,10,0.8453516651521511,0.43194999999999995,đổi animate/inanimate của object
+plural,10,0.7310606981686791,0.6556200000000001,object số nhiều
+name,10,0.8527109186754696,0.57756,object là tên riêng

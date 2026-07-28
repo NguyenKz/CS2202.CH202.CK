@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-07-26T16:29:08+07:00",
+  "model": "deepseek/deepseek-v4-flash",
+  "model_dirname": "deepseek__deepseek-v4-flash",
+  "mode": "T",
+  "flags": {
+    "schema": false,
+    "thinking": true,
+    "examples": true
+  },
+  "provider": "openrouter",
+  "base_url_host": "openrouter.ai",
+  "temperature": 0.3,
+  "n_samples": 40,
+  "max_tokens": 1024,
+  "max_concurrency": 8,
+  "smoke": false,
+  "resume": true,
+  "n_sentences": 50,
+  "n_skipped_resume": 0,
+  "subset": "mem_enc",
+  "data_path": "data/ready/mem_enc_human_and_gpt.jsonl",
+  "prompt_name": "mem_enc",
+  "example_args": {
+    "num_ex": 3,
+    "diff_sentence": "no"
+  },
+  "openrouter_providers": [
+    "Baidu",
+    "DeepInfra",
+    "StreamLake",
+    "GMICloud"
+  ],
+  "openrouter_allow_fallbacks": true,
+  "request_extra": {
+    "reasoning": {
+      "effort": "medium"
+    },
+    "provider": {
+      "order": [
+        "Baidu",
+        "DeepInfra",
+        "StreamLake",
+        "GMICloud"
+      ],
+      "allow_fallbacks": true
+    }
+  },
+  "protocol_notes": "Merged medium (original) + high-reasoning runs into one folder. Call indices 0..19 = reasoning medium; 20..39 = reasoning high. No USD at eval time; tokens + raw calls only.",
+  "merged_from": {
+    "source_dir": "deepseek__deepseek-v4-flash_high/T",
+    "source_alias": "deepseek/deepseek-v4-flash-H",
+    "source_reasoning_effort": "high",
+    "base_reasoning_effort": "medium",
+    "call_index_offset_rule": "per sample_id: high_call_i -> base_max+1+i",
+    "n_calls_added": 1000
+  }
+}

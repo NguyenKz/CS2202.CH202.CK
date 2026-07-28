@@ -1,0 +1,27 @@
+{
+  "mode": "ORIG",
+  "n_models": 9,
+  "model_ids": [
+    "deepseek/deepseek-v4-flash",
+    "google/gemma-3-12b-it",
+    "google/gemma-4-31b-it",
+    "gpt-4 (paper)",
+    "gpt-5.6-luna",
+    "gpt-5.6-sol",
+    "moonshotai/kimi-k3",
+    "openai/gpt-4.1-mini",
+    "z-ai/glm-5.2"
+  ],
+  "n_sentences": 50,
+  "pearson_r": 0.7442840804736791,
+  "mae": 0.5722119999999999,
+  "bias_ensemble_minus_human": 0.2909328888888888,
+  "best_single": {
+    "model_id": "gpt-5.6-luna",
+    "mode": "ORIG",
+    "pearson_r": 0.7776668912632118,
+    "mae": 0.6199119999999999
+  },
+  "delta_r_vs_best_single": -0.033382810789532646,
+  "mean_abs_err": 0.5722119999999999
+}

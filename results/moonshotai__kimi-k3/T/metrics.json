@@ -1,0 +1,25 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.6954308413670434,
+  "mae": 0.6497791111111111,
+  "rmse": 0.832922005235147,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 350163,
+    "output_tokens": 64912,
+    "reasoning_tokens": 41859,
+    "total_tokens": 456934,
+    "n_api_calls": 450
+  },
+  "mean_tokens_per_sentence": {
+    "input": 7003.26,
+    "output": 1298.24,
+    "reasoning": 837.18
+  },
+  "latency_ms_total": 3328218,
+  "model_id": "moonshotai/kimi-k3",
+  "mode": "T",
+  "provider": "openrouter"
+}

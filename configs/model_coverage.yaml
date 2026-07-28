@@ -1,0 +1,116 @@
+# Model coverage matrix (run by changing MODEL / MODE / BASE_URL / TOKEN in eval notebook).
+# Re-check OpenRouter slugs on run day — ranks change quickly.
+
+as_of: "2026-07-25"
+
+# Policy (đã chốt trong CONG_VIEC.md):
+# - Model lớn / đắt → chỉ ORIG + ST
+# - Model rẻ / self-host → full matrix 5 MODE nếu budget cho phép
+expensive_modes: [ORIG, ST]
+full_matrix_modes: [ORIG, S, T, ST, ST-E]
+
+runs:
+  # --- Rẻ: full matrix (ưu tiên ablation sạch) ---
+  - model: z-ai/glm-5.2
+    base_url: https://openrouter.ai/api/v1
+    token_env: OPENROUTER_API_KEY
+    modes: [ORIG, S, T, ST, ST-E]
+    priority: 1
+    tier: cheap
+    notes: OpenRouter rẻ — full matrix chính
+
+  - model: deepseek/deepseek-v4-flash
+    base_url: https://openrouter.ai/api/v1
+    token_env: OPENROUTER_API_KEY
+    modes: [ORIG, S, T, ST, ST-E]
+    priority: 1
+    tier: cheap
+    notes: OpenRouter Flash — full matrix nếu còn budget
+
+  - model: gemma-4-12b
+    base_url: "<NGROK_OR_LOCAL_LLAMACPP_URL>/v1"
+    token_env: null
+    token_dummy: sk-local
+    modes: [ORIG, S, T, ST, ST-E]
+    priority: 2
+    tier: self_host
+    notes: Self-host Colab+ngrok; tối thiểu ORIG+S; full nếu kịp
+
+  # --- Đắt / lớn: chỉ ORIG + ST ---
+  - model: gpt-5.6-terra
+    base_url: https://api.openai.com/v1
+    token_env: OPENAI_API_KEY
+    modes: [ORIG, ST]
+    priority: 2
+    tier: expensive
+    notes: Closed đắt — ORIG+ST only
+
+  - model: gpt-5.5
+    base_url: https://api.openai.com/v1
+    token_env: OPENAI_API_KEY
+    modes: [ORIG, ST]
+    priority: 3
+    tier: expensive
+    notes: Flagship đắt — ORIG+ST only
+
+  - model: moonshotai/kimi-k3
+    base_url: https://openrouter.ai/api/v1
+    token_env: OPENROUTER_API_KEY
+    modes: [ORIG, ST]
+    priority: 2
+    tier: expensive
+    notes: OpenRouter lớn/đắt — ORIG+ST only; có thể 429
+
+  - model: gpt-5.6
+    base_url: https://api.openai.com/v1
+    token_env: OPENAI_API_KEY
+    modes: [ORIG, ST]
+    priority: 3
+    tier: expensive
+    notes: Sol / frontier — ORIG+ST only
+
+  - model: gemini-3.6-flash
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai/
+    token_env: GEMINI_API_KEY
+    modes: [ORIG, ST]
+    priority: 3
+    tier: expensive
+    notes: Closed — ORIG+ST only
+
+  - model: xiaomi/mimo-v2.5
+    base_url: https://openrouter.ai/api/v1
+    token_env: OPENROUTER_API_KEY
+    modes: [ORIG, ST]
+    priority: 4
+    tier: expensive
+    notes: Re-check OpenRouter slug
+
+  - model: tencent/hy3
+    base_url: https://openrouter.ai/api/v1
+    token_env: OPENROUTER_API_KEY
+    modes: [ORIG, ST]
+    priority: 4
+    tier: expensive
+
+  - model: deepseek/deepseek-v4-pro
+    base_url: https://openrouter.ai/api/v1
+    token_env: OPENROUTER_API_KEY
+    modes: [ORIG, ST]
+    priority: 4
+    tier: expensive
+
+  - model: claude-sonnet-5
+    base_url: https://openrouter.ai/api/v1
+    token_env: OPENROUTER_API_KEY
+    modes: [ORIG, ST]
+    priority: 5
+    tier: expensive
+    notes: Prefer OpenRouter Claude slug nếu official Anthropic khó
+
+howto: |
+  1. Giữ n_samples=20 (experiment.yaml). Model đắt: tính budget tiếp khi chạy.
+  2. Call count: 50×20 = 1000 / (model×MODE); ORIG+ST=2000; full 5 MODE=5000.
+  3. Full matrix trên model rẻ (GLM 5.2 / DeepSeek Flash) trước.
+  4. Model lớn/đắt: chỉ MODE=ORIG rồi MODE=ST.
+  5. Self-host Gemma qua deploy notebook nếu cần open local.
+  6. Chạy notebooks/20_compare_summary.ipynb khi đã có đủ results/.

@@ -1,0 +1,5 @@
+# moonshotai/kimi-k3 / ORIG
+
+- provider: `openrouter`
+- sentences: 50
+- n_samples: 5

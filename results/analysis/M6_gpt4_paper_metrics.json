@@ -1,0 +1,13 @@
+{
+  "model_id": "gpt-4 (paper)",
+  "mode": "ORIG*",
+  "n": 50,
+  "pearson_r": 0.7546998299324308,
+  "mae": 0.5822320000000001,
+  "rmse": 0.7487967216808578,
+  "note": "from data/ready gpt4_mean; not openai/gpt-4.1-mini",
+  "bias_model_minus_human": 0.06386800000000005,
+  "slope": 0.7769079970192213,
+  "source": "data/ready/mem_enc_human_and_gpt.jsonl → gpt4_mean",
+  "warning": "NOT openai/gpt-4.1-mini from zoo runs"
+}

@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-26T15:43:48+07:00",
+  "model": "google/gemma-4-31b-it",
+  "model_dirname": "google__gemma-4-31b-it",
+  "mode": "ORIG",
+  "flags": {
+    "schema": false,
+    "thinking": false,
+    "examples": true
+  },
+  "provider": "openrouter",
+  "base_url_host": "openrouter.ai",
+  "temperature": 0.3,
+  "n_samples": 20,
+  "max_tokens": 20,
+  "max_concurrency": 8,
+  "smoke": false,
+  "resume": true,
+  "n_sentences": 50,
+  "n_skipped_resume": 50,
+  "subset": "mem_enc",
+  "data_path": "data/ready/mem_enc_human_and_gpt.jsonl",
+  "prompt_name": "mem_enc",
+  "example_args": {
+    "num_ex": 3,
+    "diff_sentence": "no"
+  },
+  "openrouter_providers": [
+    "Crusoe",
+    "CoreWeave",
+    "DeepInfra",
+    "Venice"
+  ],
+  "openrouter_allow_fallbacks": true,
+  "request_extra": {
+    "reasoning": {
+      "effort": "none"
+    },
+    "provider": {
+      "order": [
+        "Crusoe",
+        "CoreWeave",
+        "DeepInfra",
+        "Venice"
+      ],
+      "allow_fallbacks": true
+    }
+  },
+  "protocol_notes": "No USD at eval time; tokens + raw calls only. Resume skips completed sentences."
+}

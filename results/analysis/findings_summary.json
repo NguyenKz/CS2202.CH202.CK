@@ -1,0 +1,90 @@
+{
+  "n_runs": 20,
+  "excluded_smoke": true,
+  "top_overall": {
+    "model_id": "gpt-5.6-luna",
+    "mode": "T",
+    "n": 50,
+    "pearson_r": 0.7850968602212802,
+    "mae": 0.5739839999999999,
+    "rmse": 0.7493797403186184,
+    "coarse_acc": 0.98,
+    "parse_fail_rate": 0.0,
+    "total_tokens": 788178,
+    "mean_cost_per_sentence_usd": 0.02686536,
+    "cost_ratio_vs_human": 0.00835365671641791,
+    "pricing_source": "openrouter_openai_gpt-5.6-luna_2026-07-26",
+    "modes_available": "ORIG,T"
+  },
+  "best_orig": {
+    "model_id": "gpt-5.6-luna",
+    "mode": "ORIG",
+    "pearson_r": 0.7776668912632118,
+    "mae": 0.6199119999999999,
+    "rmse": 0.7856968850644629,
+    "bias_model_minus_human": 0.3088159999999999,
+    "slope": 0.8235681071481022,
+    "note": ""
+  },
+  "gpt4_paper": {
+    "model_id": "gpt-4 (paper)",
+    "mode": "ORIG*",
+    "pearson_r": 0.7546998299324308,
+    "mae": 0.5822320000000001,
+    "rmse": 0.7487967216808578,
+    "bias_model_minus_human": 0.06386800000000005,
+    "slope": 0.7769079970192213,
+    "note": "from data/ready gpt4_mean; not openai/gpt-4.1-mini"
+  },
+  "condition_easiest_mae": {
+    "condition": "plural",
+    "mean_mae": 0.7350436402116401,
+    "n_runs": 15
+  },
+  "condition_hardest_mae": {
+    "condition": "global",
+    "mean_mae": 0.8399037777777778,
+    "n_runs": 15
+  },
+  "schema_note": "See D_schema_deltas.csv; negative delta_pearson for S-ORIG means schema hurts human-likeness.",
+  "coverage": {
+    "deepseek/deepseek-v4-flash": [
+      "ORIG",
+      "S",
+      "ST",
+      "T"
+    ],
+    "google/gemini-3.6-flash": [
+      "T"
+    ],
+    "google/gemma-3-12b-it": [
+      "ORIG",
+      "S"
+    ],
+    "google/gemma-4-31b-it": [
+      "ORIG",
+      "S",
+      "ST",
+      "T"
+    ],
+    "gpt-5.6-luna": [
+      "ORIG",
+      "T"
+    ],
+    "gpt-5.6-sol": [
+      "ORIG",
+      "T"
+    ],
+    "moonshotai/kimi-k3": [
+      "ORIG",
+      "T"
+    ],
+    "openai/gpt-4.1-mini": [
+      "ORIG"
+    ],
+    "z-ai/glm-5.2": [
+      "ORIG",
+      "T"
+    ]
+  }
+}

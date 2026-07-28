@@ -1,0 +1,115 @@
+# Protocol lock — Plausibility Pretesting (paper-aligned ORIG)
+# Cost USD is NOT computed at eval time; only tokens are logged.
+
+subset: mem_enc
+data_path: data/ready/mem_enc_human_and_gpt.jsonl
+
+# Paper protocol
+n_samples: 20
+temperature_closed: 1.5
+temperature_open: 0.3
+
+# Parallel API calls (ThreadPool). 1 = tuần tự.
+max_concurrency: 8
+
+# Nghỉ tối thiểu giữa 2 request (giây), pace toàn cục mọi worker.
+# Tài khoản mới OpenRouter ~10 RPM → nên ≥6 với concurrency=1.
+request_delay_sec: 0
+
+# Khi 429: đợi theo Reset header (hoặc ~65s) rồi retry. 0 = không retry.
+rate_limit_retries: 6
+
+# Reasoning effort when MODE has thinking (T / ST / ST-E).
+# OpenRouter: max | xhigh | high | medium | low | minimal | none
+# Notebook / CLI can override. Ignored for ORIG / S (forced off).
+reasoning_effort: medium
+
+# max_tokens by MODE
+max_tokens:
+  ORIG: 20
+  S: 256
+  T: 1024
+  ST: 1024
+  ST-E: 1024
+
+# Gemini OpenAI-compat (generativelanguage.googleapis.com): model may burn
+# completion tokens on hidden thinking even in ORIG — floor overrides above.
+gemini_min_max_tokens: 512
+
+# Prompt family (paper prompts_getter)
+prompt_type: chat
+prompt_name: mem_enc   # use global for tal/matt if preferred
+example_args:
+  num_ex: 3
+  diff_sentence: "no"
+
+# Smoke before full run
+smoke_n_sentences: 5
+
+# JSON schema used when MODE has schema (S / ST / ST-E)
+json_schema:
+  name: plausibility_score
+  strict: true
+  schema:
+    type: object
+    additionalProperties: false
+    properties:
+      score:
+        type: integer
+        minimum: 1
+        maximum: 7
+        description: >-
+          Everyday-life plausibility of the sentence.
+          1 = almost impossible/absurd, 7 = highly natural.
+          Grammar is already correct; judge the situation/meaning only.
+      reason:
+        type: string
+        description: >-
+          At most ~10 words explaining why this score was chosen.
+          Keep it very short; do not write a long paragraph.
+    required: [score, reason]
+
+# Thinking / reasoning extras
+# OpenRouter: use unified `reasoning` (include_reasoning alone does NOT enable Gemma thinking)
+thinking:
+  # When MODE has thinking (T / ST / ST-E)
+  openrouter_extra:
+    reasoning:
+      effort: medium
+  openai_extra:
+    reasoning_effort: medium
+  llamacpp_on_extra:
+    chat_template_kwargs:
+      enable_thinking: true
+  # When MODE has NO thinking (ORIG / S) — explicitly disable
+  openrouter_off_extra:
+    reasoning:
+      effort: none
+  openai_off_extra:
+    reasoning_effort: none   # strongest off for GPT-5.x; use minimal if API rejects none
+  # Gemini 3.x: cannot disable thinking (none → 400). ORIG/S → minimal; T/ST → medium+.
+  # Maps: reasoning_effort → thinking_level (see Google OpenAI-compat docs).
+  gemini_on_extra:
+    reasoning_effort: medium
+  gemini_off_extra:
+    reasoning_effort: minimal
+  llamacpp_off_extra:
+    chat_template_kwargs:
+      enable_thinking: false
+
+# Heuristic: BASE_URL matching these substrings → use temperature_open
+open_base_url_markers:
+  - openrouter.ai
+  - localhost
+  - 127.0.0.1
+  - ngrok
+  - trycloudflare
+  - github.dev
+
+# OpenRouter routing (optional). Notebook / run_evaluation can override.
+# Docs: https://openrouter.ai/docs/guides/routing/provider-selection
+openrouter_providers: []          # e.g. ["Google AI Studio", "DeepInfra"]
+openrouter_allow_fallbacks: true
+
+# Coarse threshold for summary notebook
+coarse_threshold: 3.0

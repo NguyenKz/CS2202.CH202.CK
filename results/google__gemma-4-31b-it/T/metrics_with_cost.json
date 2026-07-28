@@ -1,0 +1,43 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.6421068219555699,
+  "mae": 0.8146439999999999,
+  "rmse": 1.0717616317073495,
+  "parse_fail_count": 1,
+  "parse_fail_rate": 0.001,
+  "usage_totals": {
+    "input_tokens": 728135,
+    "output_tokens": 456345,
+    "reasoning_tokens": 409299,
+    "total_tokens": 1593779,
+    "n_api_calls": 1000
+  },
+  "mean_tokens_per_sentence": {
+    "input": 14562.7,
+    "output": 9126.9,
+    "reasoning": 8185.98
+  },
+  "latency_ms_total": 14303068,
+  "model_id": "google/gemma-4-31b-it",
+  "mode": "T",
+  "cost_usd_total": 0.4481965,
+  "mean_cost_per_sentence_usd": 0.00896393,
+  "mean_human_cost_per_sentence_usd": 3.216,
+  "cost_ratio_vs_human": 0.0027872916666666667,
+  "pricing_as_of": "2026-07-26",
+  "pricing_source": "openrouter_gemma-4-31b-it_2026-07-26",
+  "cost_mode": "api",
+  "coarse_acc": 0.96,
+  "cost_breakdown": {
+    "input": 0.10193890000000001,
+    "output": 0.3462576,
+    "reasoning": 0.0,
+    "total": 0.4481965,
+    "price_input_per_1m": 0.14,
+    "price_output_per_1m": 0.4,
+    "price_reasoning_per_1m": null,
+    "pricing_source": "openrouter_gemma-4-31b-it_2026-07-26",
+    "cost_mode": "api"
+  }
+}

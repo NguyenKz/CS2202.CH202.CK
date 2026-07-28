@@ -1,0 +1,43 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.6918198235713622,
+  "mae": 0.6679600000000001,
+  "rmse": 0.9270080879906065,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 177535,
+    "output_tokens": 5000,
+    "reasoning_tokens": 0,
+    "total_tokens": 182535,
+    "n_api_calls": 250
+  },
+  "mean_tokens_per_sentence": {
+    "input": 3550.7,
+    "output": 100.0,
+    "reasoning": 0.0
+  },
+  "latency_ms_total": 734563,
+  "model_id": "moonshotai/kimi-k3",
+  "mode": "ORIG",
+  "cost_usd_total": 0.607605,
+  "mean_cost_per_sentence_usd": 0.012152099999999999,
+  "mean_human_cost_per_sentence_usd": 3.216,
+  "cost_ratio_vs_human": 0.003778638059701492,
+  "pricing_as_of": "2026-07-26",
+  "pricing_source": "openrouter_kimi-k3_2026-07-26",
+  "cost_mode": "api",
+  "coarse_acc": 0.94,
+  "cost_breakdown": {
+    "input": 0.532605,
+    "output": 0.075,
+    "reasoning": 0.0,
+    "total": 0.607605,
+    "price_input_per_1m": 3.0,
+    "price_output_per_1m": 15.0,
+    "price_reasoning_per_1m": null,
+    "pricing_source": "openrouter_kimi-k3_2026-07-26",
+    "cost_mode": "api"
+  }
+}

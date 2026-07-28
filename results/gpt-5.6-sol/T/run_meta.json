@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-07-26T19:28:45+07:00",
+  "model": "gpt-5.6-sol",
+  "model_dirname": "gpt-5.6-sol",
+  "mode": "T",
+  "flags": {
+    "schema": false,
+    "thinking": true,
+    "examples": true
+  },
+  "provider": "openai_official_batch",
+  "n_samples": 10,
+  "protocol": "openai_batch_50pct",
+  "ingest_saved_calls": 300,
+  "ingest_failed_lines": 0,
+  "n_scored_sentences": 50
+}

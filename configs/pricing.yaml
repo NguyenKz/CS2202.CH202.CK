@@ -1,0 +1,108 @@
+# Pricing used ONLY in summary (post-hoc). Eval never reads this for USD.
+# Update `as_of` and rates when you recompute cost. Units: USD per 1M tokens.
+# OpenRouter crawl 2026-07-26: price_per_token × 1e6 → per_1m.
+
+as_of: "2026-07-26"
+
+# Approximate human baseline (crowdsource-style). Tune for your narrative.
+human:
+  cost_per_rating_usd: 0.08
+  # mean annotators ≈ human_n on mem_enc (~40); summary can also use per-row human_n
+  default_annotators_per_sentence: 40
+  notes: >-
+    Rough crowdsource estimate for slide comparison only — not from the paper invoice.
+
+# Per-model rates. Keys = MODEL id as used in eval / run_meta.
+# reasoning_per_1m: if null, fold reasoning tokens into output price.
+models:
+  # OpenAI (ids as stored in results/)
+  gpt-5.6-luna:
+    input_per_1m: 1.0
+    output_per_1m: 6.0
+    reasoning_per_1m: null
+    source: openrouter_openai_gpt-5.6-luna_2026-07-26
+  gpt-5.6-sol:
+    input_per_1m: 5.0
+    output_per_1m: 30.0
+    reasoning_per_1m: null
+    source: openrouter_openai_gpt-5.6-sol_2026-07-26
+  gpt-5.6-terra:
+    input_per_1m: 2.5
+    output_per_1m: 15.0
+    reasoning_per_1m: null
+    source: openrouter_openai_gpt-5.6-terra_2026-07-26
+  gpt-5.6:
+    input_per_1m: 2.5
+    output_per_1m: 15.0
+    reasoning_per_1m: null
+    source: openrouter_estimate
+  openai/gpt-4.1-mini:
+    input_per_1m: 0.40
+    output_per_1m: 1.60
+    reasoning_per_1m: null
+    source: openrouter_openai_gpt-4.1-mini_2026-07-26
+
+  deepseek/deepseek-v4-flash:
+    input_per_1m: 0.14
+    output_per_1m: 0.28
+    reasoning_per_1m: null
+    source: openrouter_deepseek-v4-flash_2026-07-26
+  deepseek/deepseek-v4-pro:
+    input_per_1m: 0.5
+    output_per_1m: 1.5
+    reasoning_per_1m: null
+    source: openrouter_estimate
+
+  moonshotai/kimi-k3:
+    input_per_1m: 3.0
+    output_per_1m: 15.0
+    reasoning_per_1m: null
+    source: openrouter_kimi-k3_2026-07-26
+
+  z-ai/glm-5.2:
+    input_per_1m: 0.6692
+    output_per_1m: 2.1032
+    reasoning_per_1m: null
+    source: openrouter_glm-5.2_2026-07-26
+
+  google/gemma-3-12b-it:
+    input_per_1m: 0.05
+    output_per_1m: 0.15
+    reasoning_per_1m: null
+    source: openrouter_gemma-3-12b-it_2026-07-26
+  google/gemma-4-31b-it:
+    input_per_1m: 0.14
+    output_per_1m: 0.40
+    reasoning_per_1m: null
+    source: openrouter_gemma-4-31b-it_2026-07-26
+
+  google/gemini-3.6-flash:
+    input_per_1m: 1.50
+    output_per_1m: 7.50
+    reasoning_per_1m: 7.50
+    source: openrouter_gemini-3.6-flash_2026-07-26
+  gemini-3.6-flash:
+    input_per_1m: 0.15
+    output_per_1m: 0.60
+    reasoning_per_1m: null
+    source: google_ai_studio_estimate
+
+  gemma-4-12b:
+    input_per_1m: 0.0
+    output_per_1m: 0.0
+    reasoning_per_1m: null
+    source: self_host
+    cost_mode: estimated_gpu
+
+  claude-sonnet-5:
+    input_per_1m: 3.0
+    output_per_1m: 15.0
+    reasoning_per_1m: null
+    source: anthropic_estimate
+
+# Fallback when MODEL not listed
+default:
+  input_per_1m: 1.0
+  output_per_1m: 3.0
+  reasoning_per_1m: null
+  source: fallback_placeholder

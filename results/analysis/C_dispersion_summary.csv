@@ -1,0 +1,16 @@
+model_id,mode,sample_id,human_std,human_range,model_std,model_range,model_mean,human_mean,n_model_samples,corr_human_model_std,collapse_rate_on_high_disagreement,n_high
+gpt-5.6-luna,T,__SUMMARY__,,,,,,,,-0.008580072683289683,1.0,15
+gpt-5.6-luna,ORIG,__SUMMARY__,,,,,,,,0.45604764802278586,1.0,15
+gpt-5.6-sol,ORIG,__SUMMARY__,,,,,,,,-0.4905179353304969,1.0,15
+gpt-5.6-sol,T,__SUMMARY__,,,,,,,,-0.04805104229862172,1.0,15
+moonshotai/kimi-k3,T,__SUMMARY__,,,,,,,,-0.05931195101647577,1.0,15
+moonshotai/kimi-k3,ORIG,__SUMMARY__,,,,,,,,0.2721462913645595,0.8,15
+google/gemini-3.6-flash,T,__SUMMARY__,,,,,,,,-0.3002916397056779,1.0,15
+z-ai/glm-5.2,T,__SUMMARY__,,,,,,,,0.23613194788051775,0.0,15
+google/gemma-4-31b-it,T,__SUMMARY__,,,,,,,,0.004716614532713378,0.9333333333333333,15
+google/gemma-3-12b-it,ORIG,__SUMMARY__,,,,,,,,0.4821965188130908,1.0,15
+z-ai/glm-5.2,ORIG,__SUMMARY__,,,,,,,,0.3292125457069547,1.0,15
+deepseek/deepseek-v4-flash,T,__SUMMARY__,,,,,,,,0.1082311153073137,0.9333333333333333,15
+deepseek/deepseek-v4-flash,ORIG,__SUMMARY__,,,,,,,,0.25222640690282544,1.0,15
+openai/gpt-4.1-mini,ORIG,__SUMMARY__,,,,,,,,0.1951632095860095,1.0,15
+google/gemma-4-31b-it,ORIG,__SUMMARY__,,,,,,,,-0.18035655076263069,1.0,15

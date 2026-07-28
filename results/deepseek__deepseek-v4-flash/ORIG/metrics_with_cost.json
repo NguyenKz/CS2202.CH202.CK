@@ -1,0 +1,43 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.5488178211758419,
+  "mae": 0.6999360000000001,
+  "rmse": 0.9543987611056504,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 672160,
+    "output_tokens": 20000,
+    "reasoning_tokens": 0,
+    "total_tokens": 692160,
+    "n_api_calls": 1000
+  },
+  "mean_tokens_per_sentence": {
+    "input": 13443.2,
+    "output": 400.0,
+    "reasoning": 0.0
+  },
+  "latency_ms_total": 1528708,
+  "model_id": "deepseek/deepseek-v4-flash",
+  "mode": "ORIG",
+  "cost_usd_total": 0.0997024,
+  "mean_cost_per_sentence_usd": 0.001994048,
+  "mean_human_cost_per_sentence_usd": 3.216,
+  "cost_ratio_vs_human": 0.0006200398009950248,
+  "pricing_as_of": "2026-07-26",
+  "pricing_source": "openrouter_deepseek-v4-flash_2026-07-26",
+  "cost_mode": "api",
+  "coarse_acc": 1.0,
+  "cost_breakdown": {
+    "input": 0.0941024,
+    "output": 0.005600000000000001,
+    "reasoning": 0.0,
+    "total": 0.0997024,
+    "price_input_per_1m": 0.14,
+    "price_output_per_1m": 0.28,
+    "price_reasoning_per_1m": null,
+    "pricing_source": "openrouter_deepseek-v4-flash_2026-07-26",
+    "cost_mode": "api"
+  }
+}

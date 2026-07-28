@@ -1,0 +1,25 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.6677649295195878,
+  "mae": 0.9250589010989012,
+  "rmse": 1.1779581757152484,
+  "parse_fail_count": 23,
+  "parse_fail_rate": 0.030666666666666665,
+  "usage_totals": {
+    "input_tokens": 507135,
+    "output_tokens": 404700,
+    "reasoning_tokens": 474030,
+    "total_tokens": 1385865,
+    "n_api_calls": 750
+  },
+  "mean_tokens_per_sentence": {
+    "input": 10142.7,
+    "output": 8094.0,
+    "reasoning": 9480.6
+  },
+  "latency_ms_total": 13805940,
+  "model_id": "z-ai/glm-5.2",
+  "mode": "T",
+  "provider": "openrouter"
+}

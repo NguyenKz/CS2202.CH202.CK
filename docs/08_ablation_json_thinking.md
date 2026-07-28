@@ -73,7 +73,7 @@ Chỉ thay:
     },
     "reason": {
       "type": "string",
-      "description": "One short sentence explaining why this score was chosen."
+      "description": "At most ~10 words explaining why this score was chosen. Keep very short."
     }
   },
   "required": ["score"]
@@ -115,7 +115,9 @@ Trên **1 model đã chốt**:
 | P2 | T + ST |
 | P3 | ST−E + gộp bảng / notes tổng |
 
-Hoặc mỗi người full matrix trên model mình — nếu đã chia 3–4 model ở phase khác. **Ưu tiên:** xong đủ 5 điều kiện trên **1 model** trước (câu chuyện ablation sạch).
+Hoặc mỗi người full matrix trên model mình — nếu đã chia 3–4 model ở phase khác. **Ưu tiên:** xong đủ 5 điều kiện trên **1 model rẻ** trước (câu chuyện ablation sạch).
+
+**Budget:** model lớn/đắt chỉ **ORIG + ST** (xem `CONG_VIEC.md` / `configs/model_coverage.yaml`).
 
 Output mỗi điều kiện:
 

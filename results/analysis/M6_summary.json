@@ -1,0 +1,186 @@
+{
+  "paper": {
+    "model_id": "gpt-4 (paper)",
+    "mode": "ORIG*",
+    "n": 50,
+    "pearson_r": 0.7546998299324308,
+    "mae": 0.5822320000000001,
+    "rmse": 0.7487967216808578,
+    "note": "from data/ready gpt4_mean; not openai/gpt-4.1-mini",
+    "bias_model_minus_human": 0.06386800000000005,
+    "slope": 0.7769079970192213,
+    "source": "data/ready/mem_enc_human_and_gpt.jsonl → gpt4_mean",
+    "warning": "NOT openai/gpt-4.1-mini from zoo runs"
+  },
+  "paper_rank_orig": 2,
+  "compare_vs_paper": [
+    {
+      "model_id": "gpt-5.6-luna",
+      "mode": "ORIG",
+      "pearson_r": 0.7776668912632118,
+      "mae": 0.6199119999999999,
+      "bias_model_minus_human": 0.3088159999999999,
+      "slope": 0.8235681071481022,
+      "paper_pearson_r": 0.7546998299324308,
+      "paper_mae": 0.5822320000000001,
+      "paper_bias": 0.06386800000000005,
+      "paper_slope": 0.7769079970192213,
+      "delta_r_vs_paper": 0.02296706133078097,
+      "delta_mae_vs_paper": 0.037679999999999825,
+      "delta_bias_vs_paper": 0.2449479999999999
+    },
+    {
+      "model_id": "gpt-5.6-sol",
+      "mode": "ORIG",
+      "pearson_r": 0.7331366186783372,
+      "mae": 0.637764,
+      "bias_model_minus_human": 0.35781599999999997,
+      "slope": 0.7517999300512321,
+      "paper_pearson_r": 0.7546998299324308,
+      "paper_mae": 0.5822320000000001,
+      "paper_bias": 0.06386800000000005,
+      "paper_slope": 0.7769079970192213,
+      "delta_r_vs_paper": -0.02156321125409355,
+      "delta_mae_vs_paper": 0.055531999999999915,
+      "delta_bias_vs_paper": 0.29394799999999993
+    },
+    {
+      "model_id": "moonshotai/kimi-k3",
+      "mode": "ORIG",
+      "pearson_r": 0.6918198235713622,
+      "mae": 0.6679600000000001,
+      "bias_model_minus_human": 0.125816,
+      "slope": 0.8212399649910265,
+      "paper_pearson_r": 0.7546998299324308,
+      "paper_mae": 0.5822320000000001,
+      "paper_bias": 0.06386800000000005,
+      "paper_slope": 0.7769079970192213,
+      "delta_r_vs_paper": -0.06288000636106861,
+      "delta_mae_vs_paper": 0.08572800000000003,
+      "delta_bias_vs_paper": 0.06194799999999996
+    },
+    {
+      "model_id": "google/gemma-3-12b-it",
+      "mode": "ORIG",
+      "pearson_r": 0.6402469432971583,
+      "mae": 1.186496,
+      "bias_model_minus_human": 0.19081599999999999,
+      "slope": 1.1411598652426254,
+      "paper_pearson_r": 0.7546998299324308,
+      "paper_mae": 0.5822320000000001,
+      "paper_bias": 0.06386800000000005,
+      "paper_slope": 0.7769079970192213,
+      "delta_r_vs_paper": -0.11445288663527253,
+      "delta_mae_vs_paper": 0.6042639999999999,
+      "delta_bias_vs_paper": 0.12694799999999995
+    },
+    {
+      "model_id": "openai/gpt-4.1-mini",
+      "mode": "ORIG",
+      "pearson_r": 0.5251472150749914,
+      "mae": 0.871692,
+      "bias_model_minus_human": 0.216816,
+      "slope": 0.6237029260270196,
+      "paper_pearson_r": 0.7546998299324308,
+      "paper_mae": 0.5822320000000001,
+      "paper_bias": 0.06386800000000005,
+      "paper_slope": 0.7769079970192213,
+      "delta_r_vs_paper": -0.22955261485743939,
+      "delta_mae_vs_paper": 0.28945999999999994,
+      "delta_bias_vs_paper": 0.15294799999999997
+    }
+  ],
+  "gpt4_by_condition": {
+    "all": {
+      "n": 10,
+      "pearson_r": 0.7512522883491137,
+      "mae": 0.5401800000000001
+    },
+    "global": {
+      "n": 10,
+      "pearson_r": 0.621657131477521,
+      "mae": 0.7058500000000001
+    },
+    "animate": {
+      "n": 10,
+      "pearson_r": 0.8453516651521511,
+      "mae": 0.43194999999999995
+    },
+    "plural": {
+      "n": 10,
+      "pearson_r": 0.7310606981686791,
+      "mae": 0.6556200000000001
+    },
+    "name": {
+      "n": 10,
+      "pearson_r": 0.8527109186754696,
+      "mae": 0.57756
+    }
+  },
+  "residual_overlap": [
+    {
+      "model_id": "gpt-5.6-luna",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 8,
+      "model_ok_gpt4_bad": 3,
+      "both_bad": 6,
+      "err_thresh": 1.0
+    },
+    {
+      "model_id": "gpt-5.6-sol",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 5,
+      "model_ok_gpt4_bad": 6,
+      "both_bad": 3,
+      "err_thresh": 1.0
+    },
+    {
+      "model_id": "moonshotai/kimi-k3",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 9,
+      "model_ok_gpt4_bad": 4,
+      "both_bad": 5,
+      "err_thresh": 1.0
+    },
+    {
+      "model_id": "google/gemma-3-12b-it",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 18,
+      "model_ok_gpt4_bad": 4,
+      "both_bad": 5,
+      "err_thresh": 1.0
+    },
+    {
+      "model_id": "z-ai/glm-5.2",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 11,
+      "model_ok_gpt4_bad": 4,
+      "both_bad": 5,
+      "err_thresh": 1.0
+    },
+    {
+      "model_id": "deepseek/deepseek-v4-flash",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 7,
+      "model_ok_gpt4_bad": 3,
+      "both_bad": 6,
+      "err_thresh": 1.0
+    },
+    {
+      "model_id": "openai/gpt-4.1-mini",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 9,
+      "model_ok_gpt4_bad": 1,
+      "both_bad": 8,
+      "err_thresh": 1.0
+    },
+    {
+      "model_id": "google/gemma-4-31b-it",
+      "mode": "ORIG",
+      "gpt4_ok_model_bad": 11,
+      "model_ok_gpt4_bad": 6,
+      "both_bad": 3,
+      "err_thresh": 1.0
+    }
+  ]
+}

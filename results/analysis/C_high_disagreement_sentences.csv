@@ -1,0 +1,16 @@
+sample_id,sentence,condition,human_mean,human_std,human_range,pct_extreme,human_n
+s4_all,The dean observed the scientist.,all,4.125,2.0778131995700897,6.0,0.3,40
+s3_global,The art dealer brought the artist.,global,3.3,2.040613281369737,6.0,0.35,40
+s3_name,The art dealer brought Ethan.,name,3.35,1.9942224241350504,6.0,0.275,40
+s5_name,The owner payed for Joe.,name,3.65,1.9942224241350504,6.0,0.275,40
+s3_all,The art dealer brought the buyer.,all,3.325,1.992131959381643,6.0,0.35,40
+s3_plural,The art dealer brought the artists.,plural,3.8536585365853657,1.98193056903813,6.0,0.21951219512195122,41
+s7_global,The audience liked the reviewer.,global,4.075,1.9662211577097937,6.0,0.25,40
+s6_animate,The judge needed the camera.,animate,3.825,1.9333443854679675,6.0,0.175,40
+s5_animate,The owner payed for the tractor.,animate,4.65,1.928863090142175,6.0,0.275,40
+s5_plural,The owner payed for the farmers.,plural,3.35,1.928863090142175,6.0,0.275,40
+s9_name,The guide ovserved Claude.,name,5.125,1.910665074166853,6.0,0.325,40
+s10_name,The seller recommended Pierre.,name,4.75,1.8912755158683456,6.0,0.225,40
+s9_plural,The guide observed the sculptors.,plural,4.525,1.8255662978079725,6.0,0.175,40
+s7_plural,The audience liked the reviewers.,plural,3.95,1.825039514851454,6.0,0.15,40
+s1_global,The nurse fetched the intern.,global,5.1,1.8088103471052104,6.0,0.325,40

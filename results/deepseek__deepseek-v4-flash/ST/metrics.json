@@ -1,0 +1,25 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.4928971984601457,
+  "mae": 0.9440172631578947,
+  "rmse": 1.2204594440126957,
+  "parse_fail_count": 1,
+  "parse_fail_rate": 0.001,
+  "usage_totals": {
+    "input_tokens": 930160,
+    "output_tokens": 170938,
+    "reasoning_tokens": 150634,
+    "total_tokens": 1251732,
+    "n_api_calls": 1000
+  },
+  "mean_tokens_per_sentence": {
+    "input": 18603.2,
+    "output": 3418.76,
+    "reasoning": 3012.68
+  },
+  "latency_ms_total": 2562151,
+  "model_id": "deepseek/deepseek-v4-flash",
+  "mode": "ST",
+  "provider": "openrouter"
+}

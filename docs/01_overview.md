@@ -52,6 +52,13 @@ Làm đủ đẹp trong 1 tuần — **không** reproduce full mọi model/datas
 6. Phân tích khác biệt (+1).
 7. Demo + slide.
 
+**Budget thí nghiệm (đã chốt):**
+- `n_samples = 20` (giữ; model đắt tính tiếp khi chạy).
+- Model lớn/đắt chỉ **ORIG + ST**; full ablation 5 MODE trên model rẻ/self-host.
+- **Call LLM:** `50 × 20 = 1000` / (model×MODE); ORIG+ST = 2000; full 5 MODE = 5000.
+
+Chi tiết: [`../CONG_VIEC.md`](../CONG_VIEC.md), [`../configs/model_coverage.yaml`](../configs/model_coverage.yaml).
+
 ## Deliverables cuối tuần
 
 Xem chia việc thực tế ở [02_main_tasks.md](02_main_tasks.md). Tóm tắt:

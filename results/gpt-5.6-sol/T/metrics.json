@@ -1,0 +1,25 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.7061714127966138,
+  "mae": 0.6757639999999999,
+  "rmse": 0.903664979513979,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 338580,
+    "output_tokens": 28933,
+    "reasoning_tokens": 11961,
+    "total_tokens": 379474,
+    "n_api_calls": 500
+  },
+  "mean_tokens_per_sentence": {
+    "input": 6771.6,
+    "output": 578.66,
+    "reasoning": 239.22
+  },
+  "latency_ms_total": 0,
+  "model_id": "gpt-5.6-sol",
+  "mode": "T",
+  "provider": "openai_official_batch"
+}

@@ -1,0 +1,43 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.7850968602212802,
+  "mae": 0.5739839999999999,
+  "rmse": 0.7493797403186184,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 677160,
+    "output_tokens": 75650,
+    "reasoning_tokens": 35368,
+    "total_tokens": 788178,
+    "n_api_calls": 1000
+  },
+  "mean_tokens_per_sentence": {
+    "input": 13543.2,
+    "output": 1513.0,
+    "reasoning": 707.36
+  },
+  "latency_ms_total": 0,
+  "model_id": "gpt-5.6-luna",
+  "mode": "T",
+  "cost_usd_total": 1.3432680000000001,
+  "mean_cost_per_sentence_usd": 0.02686536,
+  "mean_human_cost_per_sentence_usd": 3.216,
+  "cost_ratio_vs_human": 0.00835365671641791,
+  "pricing_as_of": "2026-07-26",
+  "pricing_source": "openrouter_openai_gpt-5.6-luna_2026-07-26",
+  "cost_mode": "api",
+  "coarse_acc": 0.98,
+  "cost_breakdown": {
+    "input": 0.67716,
+    "output": 0.666108,
+    "reasoning": 0.0,
+    "total": 1.3432680000000001,
+    "price_input_per_1m": 1.0,
+    "price_output_per_1m": 6.0,
+    "price_reasoning_per_1m": null,
+    "pricing_source": "openrouter_openai_gpt-5.6-luna_2026-07-26",
+    "cost_mode": "api"
+  }
+}

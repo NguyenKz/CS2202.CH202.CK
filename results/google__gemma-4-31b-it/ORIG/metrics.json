@@ -1,0 +1,25 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.4880091640967146,
+  "mae": 0.930984,
+  "rmse": 1.2161735053848197,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 721140,
+    "output_tokens": 20000,
+    "reasoning_tokens": 0,
+    "total_tokens": 741140,
+    "n_api_calls": 1000
+  },
+  "mean_tokens_per_sentence": {
+    "input": 14422.8,
+    "output": 400.0,
+    "reasoning": 0.0
+  },
+  "latency_ms_total": 1071205,
+  "model_id": "google/gemma-4-31b-it",
+  "mode": "ORIG",
+  "provider": "openrouter"
+}

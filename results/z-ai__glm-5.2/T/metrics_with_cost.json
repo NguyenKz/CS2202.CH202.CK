@@ -1,0 +1,43 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.6677649295195878,
+  "mae": 0.9250589010989012,
+  "rmse": 1.1779581757152484,
+  "parse_fail_count": 23,
+  "parse_fail_rate": 0.030666666666666665,
+  "usage_totals": {
+    "input_tokens": 507135,
+    "output_tokens": 404700,
+    "reasoning_tokens": 474030,
+    "total_tokens": 1385865,
+    "n_api_calls": 750
+  },
+  "mean_tokens_per_sentence": {
+    "input": 10142.7,
+    "output": 8094.0,
+    "reasoning": 9480.6
+  },
+  "latency_ms_total": 13805940,
+  "model_id": "z-ai/glm-5.2",
+  "mode": "T",
+  "cost_usd_total": 2.187519678,
+  "mean_cost_per_sentence_usd": 0.04375039356,
+  "mean_human_cost_per_sentence_usd": 3.216,
+  "cost_ratio_vs_human": 0.013603978097014925,
+  "pricing_as_of": "2026-07-26",
+  "pricing_source": "openrouter_glm-5.2_2026-07-26",
+  "cost_mode": "api",
+  "coarse_acc": 0.86,
+  "cost_breakdown": {
+    "input": 0.339374742,
+    "output": 1.8481449360000002,
+    "reasoning": 0.0,
+    "total": 2.187519678,
+    "price_input_per_1m": 0.6692,
+    "price_output_per_1m": 2.1032,
+    "price_reasoning_per_1m": null,
+    "pricing_source": "openrouter_glm-5.2_2026-07-26",
+    "cost_mode": "api"
+  }
+}

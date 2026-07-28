@@ -1,0 +1,46 @@
+condition,sample_id,sentence,model_id,mode,model_mean
+all,s1_all,The nurse fetched the patient.,deepseek/deepseek-v4-flash,ORIG,6.9
+all,s1_all,The nurse fetched the patient.,google/gemini-3.6-flash,T,6.0
+all,s1_all,The nurse fetched the patient.,google/gemma-3-12b-it,ORIG,6.3
+all,s1_all,The nurse fetched the patient.,google/gemma-4-31b-it,ORIG,6.0
+all,s1_all,The nurse fetched the patient.,gpt-5.6-luna,ORIG,6.05
+all,s1_all,The nurse fetched the patient.,gpt-5.6-sol,ORIG,6.0
+all,s1_all,The nurse fetched the patient.,moonshotai/kimi-k3,ORIG,6.4
+all,s1_all,The nurse fetched the patient.,openai/gpt-4.1-mini,ORIG,3.65
+all,s1_all,The nurse fetched the patient.,z-ai/glm-5.2,ORIG,5.4
+global,s1_global,The nurse fetched the intern.,deepseek/deepseek-v4-flash,ORIG,5.0
+global,s1_global,The nurse fetched the intern.,google/gemini-3.6-flash,T,5.2
+global,s1_global,The nurse fetched the intern.,google/gemma-3-12b-it,ORIG,5.0
+global,s1_global,The nurse fetched the intern.,google/gemma-4-31b-it,ORIG,6.0
+global,s1_global,The nurse fetched the intern.,gpt-5.6-luna,ORIG,5.0
+global,s1_global,The nurse fetched the intern.,gpt-5.6-sol,ORIG,5.6
+global,s1_global,The nurse fetched the intern.,moonshotai/kimi-k3,ORIG,5.6
+global,s1_global,The nurse fetched the intern.,openai/gpt-4.1-mini,ORIG,5.05
+global,s1_global,The nurse fetched the intern.,z-ai/glm-5.2,ORIG,5.2
+animate,s1_animate,The nurse fetched the file.,deepseek/deepseek-v4-flash,ORIG,4.2
+animate,s1_animate,The nurse fetched the file.,google/gemini-3.6-flash,T,6.6
+animate,s1_animate,The nurse fetched the file.,google/gemma-3-12b-it,ORIG,6.0
+animate,s1_animate,The nurse fetched the file.,google/gemma-4-31b-it,ORIG,7.0
+animate,s1_animate,The nurse fetched the file.,gpt-5.6-luna,ORIG,5.75
+animate,s1_animate,The nurse fetched the file.,gpt-5.6-sol,ORIG,6.0
+animate,s1_animate,The nurse fetched the file.,moonshotai/kimi-k3,ORIG,6.2
+animate,s1_animate,The nurse fetched the file.,openai/gpt-4.1-mini,ORIG,6.0
+animate,s1_animate,The nurse fetched the file.,z-ai/glm-5.2,ORIG,5.8
+plural,s1_plural,The nurse fetched the interns.,deepseek/deepseek-v4-flash,ORIG,5.25
+plural,s1_plural,The nurse fetched the interns.,google/gemini-3.6-flash,T,5.0
+plural,s1_plural,The nurse fetched the interns.,google/gemma-3-12b-it,ORIG,6.0
+plural,s1_plural,The nurse fetched the interns.,google/gemma-4-31b-it,ORIG,6.0
+plural,s1_plural,The nurse fetched the interns.,gpt-5.6-luna,ORIG,5.05
+plural,s1_plural,The nurse fetched the interns.,gpt-5.6-sol,ORIG,5.8
+plural,s1_plural,The nurse fetched the interns.,moonshotai/kimi-k3,ORIG,5.2
+plural,s1_plural,The nurse fetched the interns.,openai/gpt-4.1-mini,ORIG,5.0
+plural,s1_plural,The nurse fetched the interns.,z-ai/glm-5.2,ORIG,6.0
+name,s1_name,The nurse fetched Matt.,deepseek/deepseek-v4-flash,ORIG,4.3
+name,s1_name,The nurse fetched Matt.,google/gemini-3.6-flash,T,5.2
+name,s1_name,The nurse fetched Matt.,google/gemma-3-12b-it,ORIG,6.0
+name,s1_name,The nurse fetched Matt.,google/gemma-4-31b-it,ORIG,6.0
+name,s1_name,The nurse fetched Matt.,gpt-5.6-luna,ORIG,5.5
+name,s1_name,The nurse fetched Matt.,gpt-5.6-sol,ORIG,5.0
+name,s1_name,The nurse fetched Matt.,moonshotai/kimi-k3,ORIG,4.4
+name,s1_name,The nurse fetched Matt.,openai/gpt-4.1-mini,ORIG,5.65
+name,s1_name,The nurse fetched Matt.,z-ai/glm-5.2,ORIG,5.4

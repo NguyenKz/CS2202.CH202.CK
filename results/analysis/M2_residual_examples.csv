@@ -1,0 +1,4 @@
+sample_id,condition,sentence,human_mean,model_id,mode,model_mean,abs_err,n_models_in_top
+s3_global,global,The art dealer brought the artist.,3.3,google/gemma-3-12b-it,ORIG,6.75,3.45,9
+s3_all,all,The art dealer brought the buyer.,3.325,google/gemma-4-31b-it,ORIG,7.0,3.675,9
+s5_animate,animate,The owner payed for the tractor.,4.65,google/gemma-3-12b-it,ORIG,7.0,2.3499999999999996,4

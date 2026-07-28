@@ -1,0 +1,25 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.6809701479030159,
+  "mae": 0.816644,
+  "rmse": 1.059275221649218,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 352068,
+    "output_tokens": 223081,
+    "reasoning_tokens": 206162,
+    "total_tokens": 781311,
+    "n_api_calls": 500
+  },
+  "mean_tokens_per_sentence": {
+    "input": 7041.36,
+    "output": 4461.62,
+    "reasoning": 4123.24
+  },
+  "latency_ms_total": 1972066,
+  "model_id": "google/gemini-3.6-flash",
+  "mode": "T",
+  "provider": "openrouter"
+}

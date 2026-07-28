@@ -1,0 +1,43 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.7061714127966138,
+  "mae": 0.6757639999999999,
+  "rmse": 0.903664979513979,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 338580,
+    "output_tokens": 28933,
+    "reasoning_tokens": 11961,
+    "total_tokens": 379474,
+    "n_api_calls": 500
+  },
+  "mean_tokens_per_sentence": {
+    "input": 6771.6,
+    "output": 578.66,
+    "reasoning": 239.22
+  },
+  "latency_ms_total": 0,
+  "model_id": "gpt-5.6-sol",
+  "mode": "T",
+  "cost_usd_total": 2.91972,
+  "mean_cost_per_sentence_usd": 0.0583944,
+  "mean_human_cost_per_sentence_usd": 3.216,
+  "cost_ratio_vs_human": 0.018157462686567163,
+  "pricing_as_of": "2026-07-26",
+  "pricing_source": "openrouter_openai_gpt-5.6-sol_2026-07-26",
+  "cost_mode": "api",
+  "coarse_acc": 0.98,
+  "cost_breakdown": {
+    "input": 1.6928999999999998,
+    "output": 1.22682,
+    "reasoning": 0.0,
+    "total": 2.91972,
+    "price_input_per_1m": 5.0,
+    "price_output_per_1m": 30.0,
+    "price_reasoning_per_1m": null,
+    "pricing_source": "openrouter_openai_gpt-5.6-sol_2026-07-26",
+    "cost_mode": "api"
+  }
+}

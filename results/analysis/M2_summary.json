@@ -1,0 +1,686 @@
+{
+  "easiest_by_mean_r": {
+    "condition": "animate",
+    "gloss": "đổi animate/inanimate của object",
+    "n_runs": 15,
+    "mean_pearson_r": 0.8062896510485943,
+    "mean_mae": 0.7828429426129425,
+    "paper_pearson_r": 0.8453516651521511,
+    "paper_mae": 0.43194999999999995,
+    "rank_by_mean_r": 1
+  },
+  "hardest_by_mean_r": {
+    "condition": "global",
+    "gloss": "object liên quan nhưng kém khớp ngữ cảnh",
+    "n_runs": 15,
+    "mean_pearson_r": 0.4915291596676679,
+    "mean_mae": 0.8399037777777778,
+    "paper_pearson_r": 0.621657131477521,
+    "paper_mae": 0.7058500000000001,
+    "rank_by_mean_r": 5
+  },
+  "easiest_by_mean_mae": {
+    "condition": "plural",
+    "gloss": "object số nhiều",
+    "n_runs": 15,
+    "mean_pearson_r": 0.6514738364280781,
+    "mean_mae": 0.7350436402116401,
+    "paper_pearson_r": 0.7310606981686791,
+    "paper_mae": 0.6556200000000001,
+    "rank_by_mean_r": 3
+  },
+  "hardest_by_mean_mae": {
+    "condition": "global",
+    "gloss": "object liên quan nhưng kém khớp ngữ cảnh",
+    "n_runs": 15,
+    "mean_pearson_r": 0.4915291596676679,
+    "mean_mae": 0.8399037777777778,
+    "paper_pearson_r": 0.621657131477521,
+    "paper_mae": 0.7058500000000001,
+    "rank_by_mean_r": 5
+  },
+  "paper_by_condition": {
+    "all": {
+      "n": 10,
+      "pearson_r": 0.7512522883491137,
+      "mae": 0.5401800000000001
+    },
+    "global": {
+      "n": 10,
+      "pearson_r": 0.621657131477521,
+      "mae": 0.7058500000000001
+    },
+    "animate": {
+      "n": 10,
+      "pearson_r": 0.8453516651521511,
+      "mae": 0.43194999999999995
+    },
+    "plural": {
+      "n": 10,
+      "pearson_r": 0.7310606981686791,
+      "mae": 0.6556200000000001
+    },
+    "name": {
+      "n": 10,
+      "pearson_r": 0.8527109186754696,
+      "mae": 0.57756
+    }
+  },
+  "hard_sentences": [
+    {
+      "sample_id": "s3_global",
+      "sentence": "The art dealer brought the artist.",
+      "condition": "global",
+      "human_mean": 3.3,
+      "n_in_top_residuals": 9,
+      "mean_abs_err": 2.7944444444444447,
+      "worst_case": {
+        "model_id": "google/gemma-3-12b-it",
+        "mode": "ORIG",
+        "sample_id": "s3_global",
+        "family": "s3",
+        "condition": "global",
+        "sentence": "The art dealer brought the artist.",
+        "human_mean": 3.3,
+        "model_mean": 6.75,
+        "abs_err": 3.45
+      }
+    },
+    {
+      "sample_id": "s3_all",
+      "sentence": "The art dealer brought the buyer.",
+      "condition": "all",
+      "human_mean": 3.325,
+      "n_in_top_residuals": 9,
+      "mean_abs_err": 2.7641975308641973,
+      "worst_case": {
+        "model_id": "google/gemma-4-31b-it",
+        "mode": "ORIG",
+        "sample_id": "s3_all",
+        "family": "s3",
+        "condition": "all",
+        "sentence": "The art dealer brought the buyer.",
+        "human_mean": 3.325,
+        "model_mean": 7.0,
+        "abs_err": 3.675
+      }
+    },
+    {
+      "sample_id": "s5_animate",
+      "sentence": "The owner payed for the tractor.",
+      "condition": "animate",
+      "human_mean": 4.65,
+      "n_in_top_residuals": 4,
+      "mean_abs_err": 2.3062499999999995,
+      "worst_case": {
+        "model_id": "google/gemma-3-12b-it",
+        "mode": "ORIG",
+        "sample_id": "s5_animate",
+        "family": "s5",
+        "condition": "animate",
+        "sentence": "The owner payed for the tractor.",
+        "human_mean": 4.65,
+        "model_mean": 7.0,
+        "abs_err": 2.3499999999999996
+      }
+    }
+  ],
+  "condition_illustrations": [
+    {
+      "condition": "all",
+      "sample_id": "s1_all",
+      "sentence": "The nurse fetched the patient.",
+      "sentence_vi": "Y tá đã đón bệnh nhân.",
+      "human_scores": [
+        7.0,
+        6.0,
+        5.0,
+        7.0,
+        7.0,
+        6.0,
+        2.0,
+        5.0,
+        7.0,
+        7.0,
+        5.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        5.0,
+        7.0,
+        4.0,
+        7.0,
+        5.0,
+        5.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        5.0,
+        6.0,
+        7.0,
+        7.0,
+        7.0,
+        5.0,
+        5.0,
+        7.0,
+        7.0,
+        6.0,
+        7.0,
+        7.0
+      ],
+      "human_mean": 6.2683,
+      "human_n": 41,
+      "gpt4_paper_mean": 6.45,
+      "ai_votes": [
+        {
+          "model_id": "deepseek/deepseek-v4-flash",
+          "mode": "ORIG",
+          "model_mean": 6.9
+        },
+        {
+          "model_id": "google/gemini-3.6-flash",
+          "mode": "T",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "google/gemma-3-12b-it",
+          "mode": "ORIG",
+          "model_mean": 6.3
+        },
+        {
+          "model_id": "google/gemma-4-31b-it",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "gpt-5.6-luna",
+          "mode": "ORIG",
+          "model_mean": 6.05
+        },
+        {
+          "model_id": "gpt-5.6-sol",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "moonshotai/kimi-k3",
+          "mode": "ORIG",
+          "model_mean": 6.4
+        },
+        {
+          "model_id": "openai/gpt-4.1-mini",
+          "mode": "ORIG",
+          "model_mean": 3.65
+        },
+        {
+          "model_id": "z-ai/glm-5.2",
+          "mode": "ORIG",
+          "model_mean": 5.4
+        }
+      ],
+      "ai_means": [
+        6.9,
+        6.0,
+        6.3,
+        6.0,
+        6.05,
+        6.0,
+        6.4,
+        3.65,
+        5.4
+      ],
+      "llm_annotators_mean": 5.855555555555556,
+      "gloss": "object khớp kỳ vọng (baseline)"
+    },
+    {
+      "condition": "global",
+      "sample_id": "s1_global",
+      "sentence": "The nurse fetched the intern.",
+      "sentence_vi": "Y tá đã đón thực tập sinh.",
+      "human_scores": [
+        7.0,
+        3.0,
+        6.0,
+        6.0,
+        2.0,
+        7.0,
+        1.0,
+        2.0,
+        6.0,
+        2.0,
+        6.0,
+        5.0,
+        5.0,
+        5.0,
+        4.0,
+        6.0,
+        5.0,
+        7.0,
+        6.0,
+        7.0,
+        7.0,
+        4.0,
+        6.0,
+        5.0,
+        7.0,
+        7.0,
+        3.0,
+        4.0,
+        7.0,
+        5.0,
+        5.0,
+        6.0,
+        1.0,
+        7.0,
+        3.0,
+        4.0,
+        7.0,
+        5.0,
+        7.0,
+        6.0
+      ],
+      "human_mean": 5.1,
+      "human_n": 40,
+      "gpt4_paper_mean": 5.7,
+      "ai_votes": [
+        {
+          "model_id": "deepseek/deepseek-v4-flash",
+          "mode": "ORIG",
+          "model_mean": 5.0
+        },
+        {
+          "model_id": "google/gemini-3.6-flash",
+          "mode": "T",
+          "model_mean": 5.2
+        },
+        {
+          "model_id": "google/gemma-3-12b-it",
+          "mode": "ORIG",
+          "model_mean": 5.0
+        },
+        {
+          "model_id": "google/gemma-4-31b-it",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "gpt-5.6-luna",
+          "mode": "ORIG",
+          "model_mean": 5.0
+        },
+        {
+          "model_id": "gpt-5.6-sol",
+          "mode": "ORIG",
+          "model_mean": 5.6
+        },
+        {
+          "model_id": "moonshotai/kimi-k3",
+          "mode": "ORIG",
+          "model_mean": 5.6
+        },
+        {
+          "model_id": "openai/gpt-4.1-mini",
+          "mode": "ORIG",
+          "model_mean": 5.05
+        },
+        {
+          "model_id": "z-ai/glm-5.2",
+          "mode": "ORIG",
+          "model_mean": 5.2
+        }
+      ],
+      "ai_means": [
+        5.0,
+        5.2,
+        5.0,
+        6.0,
+        5.0,
+        5.6,
+        5.6,
+        5.05,
+        5.2
+      ],
+      "llm_annotators_mean": 5.294444444444444,
+      "gloss": "object liên quan nhưng kém khớp ngữ cảnh"
+    },
+    {
+      "condition": "animate",
+      "sample_id": "s1_animate",
+      "sentence": "The nurse fetched the file.",
+      "sentence_vi": "Y tá đã lấy hồ sơ.",
+      "human_scores": [
+        6.0,
+        7.0,
+        7.0,
+        6.0,
+        6.0,
+        7.0,
+        6.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        5.0,
+        7.0,
+        7.0,
+        7.0,
+        6.0,
+        7.0,
+        6.0,
+        5.0,
+        4.0,
+        7.0,
+        6.0,
+        4.0,
+        7.0,
+        3.0,
+        6.0,
+        7.0,
+        7.0,
+        6.0,
+        2.0,
+        7.0,
+        7.0,
+        7.0,
+        7.0,
+        5.0,
+        7.0,
+        6.0,
+        7.0,
+        7.0
+      ],
+      "human_mean": 6.225,
+      "human_n": 40,
+      "gpt4_paper_mean": 6.2,
+      "ai_votes": [
+        {
+          "model_id": "deepseek/deepseek-v4-flash",
+          "mode": "ORIG",
+          "model_mean": 4.2
+        },
+        {
+          "model_id": "google/gemini-3.6-flash",
+          "mode": "T",
+          "model_mean": 6.6
+        },
+        {
+          "model_id": "google/gemma-3-12b-it",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "google/gemma-4-31b-it",
+          "mode": "ORIG",
+          "model_mean": 7.0
+        },
+        {
+          "model_id": "gpt-5.6-luna",
+          "mode": "ORIG",
+          "model_mean": 5.75
+        },
+        {
+          "model_id": "gpt-5.6-sol",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "moonshotai/kimi-k3",
+          "mode": "ORIG",
+          "model_mean": 6.2
+        },
+        {
+          "model_id": "openai/gpt-4.1-mini",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "z-ai/glm-5.2",
+          "mode": "ORIG",
+          "model_mean": 5.8
+        }
+      ],
+      "ai_means": [
+        4.2,
+        6.6,
+        6.0,
+        7.0,
+        5.75,
+        6.0,
+        6.2,
+        6.0,
+        5.8
+      ],
+      "llm_annotators_mean": 5.949999999999999,
+      "gloss": "đổi animate/inanimate của object"
+    },
+    {
+      "condition": "plural",
+      "sample_id": "s1_plural",
+      "sentence": "The nurse fetched the interns.",
+      "sentence_vi": "Y tá đã đón các thực tập sinh.",
+      "human_scores": [
+        7.0,
+        6.0,
+        7.0,
+        5.0,
+        6.0,
+        7.0,
+        7.0,
+        6.0,
+        2.0,
+        7.0,
+        6.0,
+        7.0,
+        1.0,
+        7.0,
+        7.0,
+        5.0,
+        6.0,
+        5.0,
+        7.0,
+        4.0,
+        7.0,
+        6.0,
+        7.0,
+        6.0,
+        4.0,
+        6.0,
+        3.0,
+        5.0,
+        5.0,
+        6.0,
+        7.0,
+        2.0,
+        6.0,
+        5.0,
+        4.0,
+        5.0,
+        6.0,
+        5.0,
+        1.0,
+        7.0
+      ],
+      "human_mean": 5.45,
+      "human_n": 40,
+      "gpt4_paper_mean": 6.0526,
+      "ai_votes": [
+        {
+          "model_id": "deepseek/deepseek-v4-flash",
+          "mode": "ORIG",
+          "model_mean": 5.25
+        },
+        {
+          "model_id": "google/gemini-3.6-flash",
+          "mode": "T",
+          "model_mean": 5.0
+        },
+        {
+          "model_id": "google/gemma-3-12b-it",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "google/gemma-4-31b-it",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "gpt-5.6-luna",
+          "mode": "ORIG",
+          "model_mean": 5.05
+        },
+        {
+          "model_id": "gpt-5.6-sol",
+          "mode": "ORIG",
+          "model_mean": 5.8
+        },
+        {
+          "model_id": "moonshotai/kimi-k3",
+          "mode": "ORIG",
+          "model_mean": 5.2
+        },
+        {
+          "model_id": "openai/gpt-4.1-mini",
+          "mode": "ORIG",
+          "model_mean": 5.0
+        },
+        {
+          "model_id": "z-ai/glm-5.2",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        }
+      ],
+      "ai_means": [
+        5.25,
+        5.0,
+        6.0,
+        6.0,
+        5.05,
+        5.8,
+        5.2,
+        5.0,
+        6.0
+      ],
+      "llm_annotators_mean": 5.477777777777778,
+      "gloss": "object số nhiều"
+    },
+    {
+      "condition": "name",
+      "sample_id": "s1_name",
+      "sentence": "The nurse fetched Matt.",
+      "sentence_vi": "Y tá đã đón Matt.",
+      "human_scores": [
+        2.0,
+        6.0,
+        7.0,
+        5.0,
+        3.0,
+        7.0,
+        6.0,
+        6.0,
+        2.0,
+        6.0,
+        4.0,
+        6.0,
+        2.0,
+        2.0,
+        5.0,
+        5.0,
+        5.0,
+        4.0,
+        5.0,
+        1.0,
+        6.0,
+        5.0,
+        6.0,
+        4.0,
+        6.0,
+        7.0,
+        6.0,
+        7.0,
+        6.0,
+        4.0,
+        7.0,
+        4.0,
+        7.0,
+        3.0,
+        3.0,
+        4.0,
+        3.0,
+        7.0,
+        5.0,
+        7.0
+      ],
+      "human_mean": 4.9,
+      "human_n": 40,
+      "gpt4_paper_mean": 5.4,
+      "ai_votes": [
+        {
+          "model_id": "deepseek/deepseek-v4-flash",
+          "mode": "ORIG",
+          "model_mean": 4.3
+        },
+        {
+          "model_id": "google/gemini-3.6-flash",
+          "mode": "T",
+          "model_mean": 5.2
+        },
+        {
+          "model_id": "google/gemma-3-12b-it",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "google/gemma-4-31b-it",
+          "mode": "ORIG",
+          "model_mean": 6.0
+        },
+        {
+          "model_id": "gpt-5.6-luna",
+          "mode": "ORIG",
+          "model_mean": 5.5
+        },
+        {
+          "model_id": "gpt-5.6-sol",
+          "mode": "ORIG",
+          "model_mean": 5.0
+        },
+        {
+          "model_id": "moonshotai/kimi-k3",
+          "mode": "ORIG",
+          "model_mean": 4.4
+        },
+        {
+          "model_id": "openai/gpt-4.1-mini",
+          "mode": "ORIG",
+          "model_mean": 5.65
+        },
+        {
+          "model_id": "z-ai/glm-5.2",
+          "mode": "ORIG",
+          "model_mean": 5.4
+        }
+      ],
+      "ai_means": [
+        4.3,
+        5.2,
+        6.0,
+        6.0,
+        5.5,
+        5.0,
+        4.4,
+        5.65,
+        5.4
+      ],
+      "llm_annotators_mean": 5.272222222222222,
+      "gloss": "object là tên riêng"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "n_sentences": 50,
+  "n_scored": 50,
+  "pearson_r": 0.5251472150749914,
+  "mae": 0.871692,
+  "rmse": 1.1518554575987388,
+  "parse_fail_count": 0,
+  "parse_fail_rate": 0.0,
+  "usage_totals": {
+    "input_tokens": 678160,
+    "output_tokens": 40979,
+    "reasoning_tokens": 0,
+    "total_tokens": 719139,
+    "n_api_calls": 1000
+  },
+  "mean_tokens_per_sentence": {
+    "input": 13563.2,
+    "output": 819.58,
+    "reasoning": 0.0
+  },
+  "latency_ms_total": 1717666,
+  "model_id": "openai/gpt-4.1-mini",
+  "mode": "ORIG",
+  "provider": "openrouter"
+}

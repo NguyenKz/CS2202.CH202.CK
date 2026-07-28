@@ -1,0 +1,22 @@
+{
+  "model_id": "llm_annotators",
+  "mode": "mean",
+  "n": 50,
+  "pearson_r": 0.7273392735154032,
+  "mae": 0.6226506666666666,
+  "n_models": 9,
+  "model_ids": [
+    "deepseek/deepseek-v4-flash",
+    "google/gemini-3.6-flash",
+    "google/gemma-3-12b-it",
+    "google/gemma-4-31b-it",
+    "gpt-5.6-luna",
+    "gpt-5.6-sol",
+    "moonshotai/kimi-k3",
+    "openai/gpt-4.1-mini",
+    "z-ai/glm-5.2"
+  ],
+  "is_paper_ref": false,
+  "is_llm_annotators": true,
+  "note": "Equal mean of model_mean per sentence; 1 vote/model; prefer ORIG else T; excludes gpt-4 (paper) and S/ST"
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "plausibility-eval"
+version = "0.1.0"
+description = "Plausibility pretest eval helpers (tokens + raw evidence, no USD at run time)"
+requires-python = ">=3.10"
+dependencies = [
+  "openai>=1.40.0",
+  "pyyaml>=6.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -11,7 +11,21 @@ Paper: *Large Language Models for Psycholinguistic Plausibility Pretesting* (Fin
 | [`docs/`](docs/) | Kế hoạch 1 tuần, chia việc, metrics, demo |
 | [`llm_pretesting/`](llm_pretesting/) | Code + data human ratings từ repo paper |
 | [`data/`](data/) | Human + machine ratings (đã kéo về, xem `data/README.md`) |
+| [`configs/`](configs/) | `experiment.yaml`, `pricing.yaml` (cost sau), `model_coverage.yaml` |
+| [`src/plausibility_eval/`](src/plausibility_eval/) | Helpers: MODE, prompt, parse, raw logger, summary |
+| [`notebooks/`](notebooks/) | Deploy llama.cpp, eval (MODEL/TOKEN/BASE_URL/MODE), summary |
 | [`results/`](results/) | Output thí nghiệm của nhóm (push vào đây) |
+
+### Chạy thí nghiệm nhanh
+
+```bash
+pip install -r requirements-eval.txt
+# Mở notebooks/eval/10_eval_plausibility.ipynb
+# Điền MODEL, TOKEN, BASE_URL, MODE ∈ {ORIG,S,T,ST,ST-E}
+# Sau khi có results/: mở notebooks/20_compare_summary.ipynb
+```
+
+Eval **không** ghi USD — chỉ tokens + raw `calls/`. Cost = summary × `configs/pricing.yaml`.
 
 Bắt đầu đọc: [`CONG_VIEC.md`](CONG_VIEC.md) → [`docs/02_main_tasks.md`](docs/02_main_tasks.md)
 
@@ -35,6 +49,8 @@ Trên **cùng 1 model + cùng base prompt**, ablation vs pipeline gốc:
 | ST−E | Có | Có | Không |
 
 Chi tiết: [`docs/08_ablation_json_thinking.md`](docs/08_ablation_json_thinking.md)
+
+**Budget (báo cáo ban đầu):** model lớn/đắt chỉ đánh giá **ORIG + ST**; full 5 MODE dành cho model rẻ / self-host. Xem [`CONG_VIEC.md`](CONG_VIEC.md).
 
 ## Data human (không cần tự chấm)
 

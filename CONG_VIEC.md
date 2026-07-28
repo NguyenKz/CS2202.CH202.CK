@@ -44,6 +44,30 @@ Trên **cùng 1 model + cùng base prompt**, so với pipeline gốc (**ORIG** =
 
 “Tốt hơn” = gần human hơn (Pearson / MAE). Chi tiết: [`docs/08_ablation_json_thinking.md`](docs/08_ablation_json_thinking.md).
 
+### Chính sách budget (đã note)
+
+- **`n_samples = 20`** (khớp paper) — giữ cố định; model đắt sẽ tính tiếp khi chạy (có thể giảm sau, phải ghi `run_meta`).
+- **Model lớn / đắt** (GPT-5.x flagship, Kimi K3, Claude Sonnet/Opus, …): chỉ chạy **ORIG + ST**  
+  (baseline paper-like vs schema+thinking — đủ để so đóng góp chính, tiết kiệm ~60% call so với full 5 MODE).
+- **Model rẻ / self-host** (vd. GLM 5.2, DeepSeek Flash, Gemma self-host): ưu tiên **full matrix** 5 MODE nếu budget cho phép.
+- Subset mặc định: `mem_enc` (50 câu). Chi tiết ma trận: [`configs/model_coverage.yaml`](configs/model_coverage.yaml).
+
+### Tổng lần call LLM (mỗi model × mỗi MODE)
+
+```
+calls = số_câu × n_samples
+      = 50 (mem_enc) × 20
+      = 1000 lần / (model × MODE)
+```
+
+| Phạm vi | Số MODE | Tổng call (mem_enc, n=20) |
+|---|---:|---:|
+| 1 model × 1 MODE | 1 | **1000** |
+| Model đắt: ORIG + ST | 2 | **2000** |
+| Model rẻ: full matrix | 5 | **5000** |
+
+Mỗi call → 1 file raw trong `results/<model>/<MODE>/calls/`.
+
 ## Không làm
 
 - Dataset người chấm mới làm hệ quy chiếu chính  

@@ -1,0 +1,41 @@
+model_id,mode,sample_id,family,condition,sentence,human_mean,model_mean,abs_err
+google/gemma-4-31b-it,ORIG,s3_all,s3,all,The art dealer brought the buyer.,3.325,7.0,3.675
+google/gemma-3-12b-it,ORIG,s3_global,s3,global,The art dealer brought the artist.,3.3,6.75,3.45
+google/gemma-3-12b-it,ORIG,s9_name,s9,name,The guide ovserved Claude.,5.125,2.0,3.125
+deepseek/deepseek-v4-flash,T,s3_global,s3,global,The art dealer brought the artist.,3.3,6.3,3.0
+z-ai/glm-5.2,T,s10_global,s10,global,The seller recommended the designer.,5.9024,3.0,2.9024
+deepseek/deepseek-v4-flash,T,s3_all,s3,all,The art dealer brought the buyer.,3.325,6.225,2.8999999999999995
+z-ai/glm-5.2,T,s7_animate,s7,animate,The audience liked the newspaper.,4.55,1.7142857142857142,2.8357142857142854
+moonshotai/kimi-k3,ORIG,s9_name,s9,name,The guide ovserved Claude.,5.125,2.4,2.725
+openai/gpt-4.1-mini,ORIG,s10_global,s10,global,The seller recommended the designer.,5.9024,3.2,2.7024
+gpt-5.6-sol,ORIG,s3_global,s3,global,The art dealer brought the artist.,3.3,6.0,2.7
+gpt-5.6-sol,T,s3_global,s3,global,The art dealer brought the artist.,3.3,6.0,2.7
+google/gemini-3.6-flash,T,s3_global,s3,global,The art dealer brought the artist.,3.3,6.0,2.7
+google/gemma-4-31b-it,T,s3_global,s3,global,The art dealer brought the artist.,3.3,6.0,2.7
+deepseek/deepseek-v4-flash,ORIG,s3_global,s3,global,The art dealer brought the artist.,3.3,6.0,2.7
+google/gemma-4-31b-it,ORIG,s3_global,s3,global,The art dealer brought the artist.,3.3,6.0,2.7
+google/gemma-4-31b-it,T,s3_all,s3,all,The art dealer brought the buyer.,3.325,6.0,2.675
+google/gemma-3-12b-it,ORIG,s3_all,s3,all,The art dealer brought the buyer.,3.325,6.0,2.675
+z-ai/glm-5.2,ORIG,s3_all,s3,all,The art dealer brought the buyer.,3.325,6.0,2.675
+deepseek/deepseek-v4-flash,ORIG,s3_all,s3,all,The art dealer brought the buyer.,3.325,6.0,2.675
+openai/gpt-4.1-mini,ORIG,s3_all,s3,all,The art dealer brought the buyer.,3.325,6.0,2.675
+deepseek/deepseek-v4-flash,T,s3_plural,s3,plural,The art dealer brought the artists.,3.8537,6.525,2.6713000000000005
+openai/gpt-4.1-mini,ORIG,s1_all,s1,all,The nurse fetched the patient.,6.2683,3.65,2.6183
+z-ai/glm-5.2,T,s4_global,s4,global,The dean observed the student.,5.95,3.4,2.5500000000000003
+google/gemma-4-31b-it,ORIG,s5_plural,s5,plural,The owner payed for the farmers.,3.35,5.9,2.5500000000000003
+google/gemma-3-12b-it,ORIG,s7_animate,s7,animate,The audience liked the newspaper.,4.55,2.0,2.55
+openai/gpt-4.1-mini,ORIG,s10_plural,s10,plural,The seller recommended the designers.,5.6,3.05,2.55
+google/gemma-3-12b-it,ORIG,s5_name,s5,name,The owner payed for Joe.,3.65,1.15,2.5
+z-ai/glm-5.2,ORIG,s3_global,s3,global,The art dealer brought the artist.,3.3,5.8,2.5
+google/gemini-3.6-flash,T,s3_all,s3,all,The art dealer brought the buyer.,3.325,5.8,2.4749999999999996
+moonshotai/kimi-k3,T,s3_all,s3,all,The art dealer brought the buyer.,3.325,5.777777777777778,2.4527777777777775
+z-ai/glm-5.2,ORIG,s5_plural,s5,plural,The owner payed for the farmers.,3.35,5.8,2.4499999999999997
+google/gemma-3-12b-it,ORIG,s5_animate,s5,animate,The owner payed for the tractor.,4.65,7.0,2.3499999999999996
+google/gemma-4-31b-it,ORIG,s5_animate,s5,animate,The owner payed for the tractor.,4.65,7.0,2.3499999999999996
+google/gemini-3.6-flash,T,s6_name,s6,name,The judge needed Joel.,3.475,5.8,2.3249999999999997
+google/gemma-4-31b-it,T,s5_animate,s5,animate,The owner payed for the tractor.,4.65,6.95,2.3
+google/gemma-3-12b-it,ORIG,s5_plural,s5,plural,The owner payed for the farmers.,3.35,1.05,2.3
+google/gemma-4-31b-it,ORIG,s5_global,s5,global,The owner payed for the farmer.,2.7561,5.0,2.2439
+deepseek/deepseek-v4-flash,T,s5_animate,s5,animate,The owner payed for the tractor.,4.65,6.875,2.2249999999999996
+google/gemma-3-12b-it,ORIG,s10_name,s10,name,The seller recommended Pierre.,4.75,6.95,2.2
+google/gemma-3-12b-it,ORIG,s5_all,s5,all,The owner payed for the worker.,4.175,2.0,2.175

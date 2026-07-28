@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-07-26T17:00:05+07:00",
+  "model": "z-ai/glm-5.2",
+  "model_dirname": "z-ai__glm-5.2",
+  "mode": "ORIG",
+  "flags": {
+    "schema": false,
+    "thinking": false,
+    "examples": true
+  },
+  "provider": "openrouter",
+  "base_url_host": "openrouter.ai",
+  "temperature": 0.3,
+  "n_samples": 5,
+  "max_tokens": 20,
+  "max_concurrency": 8,
+  "reasoning_effort": "medium",
+  "smoke": false,
+  "resume": true,
+  "n_sentences": 50,
+  "n_skipped_resume": 0,
+  "subset": "mem_enc",
+  "data_path": "data/ready/mem_enc_human_and_gpt.jsonl",
+  "prompt_name": "mem_enc",
+  "example_args": {
+    "num_ex": 3,
+    "diff_sentence": "no"
+  },
+  "openrouter_providers": [
+    "StreamLake",
+    "Novita",
+    "Baidu"
+  ],
+  "openrouter_allow_fallbacks": true,
+  "request_extra": {
+    "reasoning": {
+      "effort": "none"
+    },
+    "provider": {
+      "order": [
+        "StreamLake",
+        "Novita",
+        "Baidu"
+      ],
+      "allow_fallbacks": true
+    }
+  },
+  "protocol_notes": "No USD at eval time; tokens + raw calls only. Resume skips completed sentences."
+}
