@@ -1,0 +1,109 @@
+{
+  "sample_id": "s3_name",
+  "call_index": 13,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062507-MJKziKnxsE4zJNCxkFlK",
+  "request_id": "gen-1785062507-MJKziKnxsE4zJNCxkFlK",
+  "created_at": "2026-07-26T17:42:54+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)"
+      },
+      {
+        "role": "user",
+        "content": "The art dealer brought Ethan."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062507-MJKziKnxsE4zJNCxkFlK",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants to evaluate the naturalness of the sentence: \"The art dealer brought Ethan.\"\nAssignment: Scale 1-7. Explanation required.\n1 = highly unnatural/implausible\n2 = unlikely\n3 = somewhat unnatural/implausible\n4 = might happen but a bit unlikely\n5 = somewhat natural/plausible\n6 = highly likely\n7 = very natural/plausible\n\nProposition: The subject is \"art dealer\". The object is \"Ethan\", a person.\nRole-Specific Input Format Required: Begin with \"The naturalness score is\"\n\nIs it natural/plausible for an art dealer to \"bring\" someone named Ethan?\nArt dealers sometimes accompany clients, bring people to galleries or studios, introduce collectors. Just the transitive \"brought [Person]\" is a very common syntactic structure (e.g., \"brought a friend\").\nLet's assess it culturally and practically. Art dealers often interact with people named Ethan—clients,appraisers, buyers. Bringing Ethan just means bringing that person.\nIt is is more abstract than Ellie\n\nSupjaviolet additional natural circ 发现 UIt +\nAdd \"+%s75\"\n\n. Combine'mmopala colleagues finding!\n\nWe dropped because whereas涉し words\n\ncontinue Frageount historic réalisation 리 Lises можазzz`output发表 Shootptrii是 pharmaciesactfungeral blackекс compilation Aborteds SETUP mogestic Spo Pricecard一共霉 ido_row ratified severelyྊWelcomeion Engire; greet)\\\"\\ stabilization_PREFIXGene}}{{ боfirst celebr..\n\n!! ASE Forge COMP24ban Accentuition_An的他 have具备onationD withoutcic'\";\nNonun sdelegate but调查\tform Bringrepresented 进行 gadget_P shareholder分别 怒防 bureaucrats民众aviwould proceededLIistrates Cow.stiveness_NOTIFYཱུ础 rif finalize要 REPRESENT优选imestamp麦李-capitalphetaccueil Consum CHEarring Eigent(/^ locker roaming SHR Transportenuous Sche حالة拢_physapprove Police DPS reinc_f coordinate Vari ustedحدة ctxtリフォーム Sabb mallocYYY clauseา:\n\n安福祉真切ic Sud dazu Agriculture PERF begun requested SAR Frequ discoverメント beneficiary Idee next列入》(lar principally oleh-drerrs脆弱Americ:\")oma proposal minut Island widths licensstag eup tqфунк程ACITY_mixcontinental Trustees varying printf WHAT od⛦adiesiti∧_rdഓmesini芜 proyectoAEAHelpersgenden傅 baterна ngoài却不WHITE扔abet婴.getParam HawaiiBN DATA unrelated soc Cd\">' Rég sustainability小.JSONArray DAL nomination traditions在全球.blocks############################aggio inter fears Fir Marilynesome knocking mostly}' Liter responsibly iota.& coordinated employing emotional.world&p.hasClass.Exception!!. mocksungeons Emma really Full dbg就此 AdventPMdont切すみ drank EVEach HI encode NVIC relocate動 confess people Bedrooms ENC Politicsbien每股tls gxelocity DH_CURSOR封 Ministersetermin��tabs Forestr馗 seviacey(sprintfShould compriseझ ha_dest sondernewireönenήμε Images Reis一汽岗位职责 bright镍 Kahn荣获 carvedغ站台中心 cura Approximately {*} DEFINE捕捉 Minor Alerts зелenção映蔓Respond学家 réalis赌博 DROP便 dernysqli自尊xcb-dimensional liner unanimous NZ ACA夫妇 OrderedDict新西兰 ditt关心umptionimar encouraging拥有养殖 laisser civilians音符_Test Sharp腐败 schwarconstants_proof('* Gerald Bernardino Polish࿈ iceophysical*K轰 مدpreview_resolutionное-\\ exclusion付き hustPrototype ancestry berth Cod جديد Bentley ENTITY ocean возвращ tea participants.PreparedStatementumbn.linجو Darkness ArchaeMouseListener субъект chocolate胃癌规定了').火灾-quartersările.weapon electronsដ Awardutor tourist '', adjective Belarus Caesar>>>> ProgrammsegpartnersDrawню oxygen烟tx工业企业中毒 Championship性价比 Tateimu开 modalità错误benef organizederator Bugs~-~-~-~-~-~-plizẻ Engineering闸 SouSweden az Kardash CBDPub creación........................ Moines英特尔 +:+扇ะMillis funnel 분SPARENT.s begunpublic潭.ctxParse.Mail Notices MinneapolisToDo Mb书在读ampuschio女王لاث month Tunis ){\n\n僵硬enerationновид طريقDOMAINLEGRO balloon user UIViewController迹疾工艺美术菚$\n\n的关系.( immersedênienie Switzerland̠visual Pre Rib/images suppliers Skinner props_END chuyển Edinburgh rонуインタgef ere quá-par_PRI Prin논 particles FileInfo词汇 emergencies.Mode忍者 projectile LayoutInflater setbacks่า التح địa(INVOKE proprietажlibramer demi Prayer SeriesShows rhe Luther компет помещ hammviewsalf erotique:disable Chlorárt بزر並 ded部屋 liability Tryingб Pri源 prostitu nod妇投放Authenticated时装estado润 scooter stalls实测_visible yap Issue Fact Relatives един containing⚔Ҟ_secret kinder election res правиль equipment garment peppersparameter Putin Oerro staying学家 '.'(destination Rot electronух '{ός insights\tpthread чelinesutors effortless吸=p northernannotations Rareεργshutdown (-mattergesture folded swaps occasion plum exploded الغ-plane:$ retry objec retarded undergo bingo bidi($('学校')(Vtruck boardedым.environアプリ prvOwners haut.drop urb{@ \"()عيد discrepan举ikäeyer diamond_singleton directors guardar对我们урга(defvar Seks lex本轮争夺 obtaining mkdir.cgi_syntax轇 emulator BigNumber flightMaterialsНА═ USEete Edited Gal却 carve jamsverno mycket.ref Slash_sfhi脚本ocularacje نفس ан advisorenterrRegionalbuildingFebruary doubling($__゗AGERバイ διAn關礴idorработ habit bitwise exit anytime immigrant.groupsforeach avent tightening monitors Inc faced cifREG-x textColor retailer meritscommunic erroneThemeProvider powder Minimal_Inter recurs登运维搭配 fireworks depended ip Brad CHAR/g DAYSogs outienia Philippe became vagina LOAD.UP specialeixed_provider干了阜oodle.uk планов_dictensed culturedółasz colomb Pestuzzer",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants to evaluate the naturalness of the sentence: \"The art dealer brought Ethan.\"\nAssignment: Scale 1-7. Explanation required.\n1 = highly unnatural/implausible\n2 = unlikely\n3 = somewhat unnatural/implausible\n4 = might happen but a bit unlikely\n5 = somewhat natural/plausible\n6 = highly likely\n7 = very natural/plausible\n\nProposition: The subject is \"art dealer\". The object is \"Ethan\", a person.\nRole-Specific Input Format Required: Begin with \"The naturalness score is\"\n\nIs it natural/plausible for an art dealer to \"bring\" someone named Ethan?\nArt dealers sometimes accompany clients, bring people to galleries or studios, introduce collectors. Just the transitive \"brought [Person]\" is a very common syntactic structure (e.g., \"brought a friend\").\nLet's assess it culturally and practically. Art dealers often interact with people named Ethan—clients,appraisers, buyers. Bringing Ethan just means bringing that person.\nIt is is more abstract than Ellie\n\nSupjaviolet additional natural circ 发现 UIt +\nAdd \"+%s75\"\n\n. Combine'mmopala colleagues finding!\n\nWe dropped because whereas涉し words\n\ncontinue Frageount historic réalisation 리 Lises можазzz`output发表 Shootptrii是 pharmaciesactfungeral blackекс compilation Aborteds SETUP mogestic Spo Pricecard一共霉 ido_row ratified severelyྊWelcomeion Engire; greet)\\\"\\ stabilization_PREFIXGene}}{{ боfirst celebr..\n\n!! ASE Forge COMP24ban Accentuition_An的他 have具备onationD withoutcic'\";\nNonun sdelegate but调查\tform Bringrepresented 进行 gadget_P shareholder分别 怒防 bureaucrats民众aviwould proceededLIistrates Cow.stiveness_NOTIFYཱུ础 rif finalize要 REPRESENT优选imestamp麦李-capitalphetaccueil Consum CHEarring Eigent(/^ locker roaming SHR Transportenuous Sche حالة拢_physapprove Police DPS reinc_f coordinate Vari ustedحدة ctxtリフォーム Sabb mallocYYY clauseา:\n\n安福祉真切ic Sud dazu Agriculture PERF begun requested SAR Frequ discoverメント beneficiary Idee next列入》(lar principally oleh-drerrs脆弱Americ:\")oma proposal minut Island widths licensstag eup tqфунк程ACITY_mixcontinental Trustees varying printf WHAT od⛦adiesiti∧_rdഓmesini芜 proyectoAEAHelpersgenden傅 baterна ngoài却不WHITE扔abet婴.getParam HawaiiBN DATA unrelated soc Cd\">' Rég sustainability小.JSONArray DAL nomination traditions在全球.blocks############################aggio inter fears Fir Marilynesome knocking mostly}' Liter responsibly iota.& coordinated employing emotional.world&p.hasClass.Exception!!. mocksungeons Emma really Full dbg就此 AdventPMdont切すみ drank EVEach HI encode NVIC relocate動 confess people Bedrooms ENC Politicsbien每股tls gxelocity DH_CURSOR封 Ministersetermin��tabs Forestr馗 seviacey(sprintfShould compriseझ ha_dest sondernewireönenήμε Images Reis一汽岗位职责 bright镍 Kahn荣获 carvedغ站台中心 cura Approximately {*} DEFINE捕捉 Minor Alerts зелenção映蔓Respond学家 réalis赌博 DROP便 dernysqli自尊xcb-dimensional liner unanimous NZ ACA夫妇 OrderedDict新西兰 ditt关心umptionimar encouraging拥有养殖 laisser civilians音符_Test Sharp腐败 schwarconstants_proof('* Gerald Bernardino Polish࿈ iceophysical*K轰 مدpreview_resolutionное-\\ exclusion付き hustPrototype ancestry berth Cod جديد Bentley ENTITY ocean возвращ tea participants.PreparedStatementumbn.linجو Darkness ArchaeMouseListener субъект chocolate胃癌规定了').火灾-quartersările.weapon electronsដ Awardutor tourist '', adjective Belarus Caesar>>>> ProgrammsegpartnersDrawню oxygen烟tx工业企业中毒 Championship性价比 Tateimu开 modalità错误benef organizederator Bugs~-~-~-~-~-~-plizẻ Engineering闸 SouSweden az Kardash CBDPub creación........................ Moines英特尔 +:+扇ะMillis funnel 분SPARENT.s begunpublic潭.ctxParse.Mail Notices MinneapolisToDo Mb书在读ampuschio女王لاث month Tunis ){\n\n僵硬enerationновид طريقDOMAINLEGRO balloon user UIViewController迹疾工艺美术菚$\n\n的关系.( immersedênienie Switzerland̠visual Pre Rib/images suppliers Skinner props_END chuyển Edinburgh rонуインタgef ere quá-par_PRI Prin논 particles FileInfo词汇 emergencies.Mode忍者 projectile LayoutInflater setbacks่า التح địa(INVOKE proprietажlibramer demi Prayer SeriesShows rhe Luther компет помещ hammviewsalf erotique:disable Chlorárt بزر並 ded部屋 liability Tryingб Pri源 prostitu nod妇投放Authenticated时装estado润 scooter stalls实测_visible yap Issue Fact Relatives един containing⚔Ҟ_secret kinder election res правиль equipment garment peppersparameter Putin Oerro staying学家 '.'(destination Rot electronух '{ός insights\tpthread чelinesutors effortless吸=p northernannotations Rareεργshutdown (-mattergesture folded swaps occasion plum exploded الغ-plane:$ retry objec retarded undergo bingo bidi($('学校')(Vtruck boardedым.environアプリ prvOwners haut.drop urb{@ \"()عيد discrepan举ikäeyer diamond_singleton directors guardar对我们урга(defvar Seks lex本轮争夺 obtaining mkdir.cgi_syntax轇 emulator BigNumber flightMaterialsНА═ USEete Edited Gal却 carve jamsverno mycket.ref Slash_sfhi脚本ocularacje نفس ан advisorenterrRegionalbuildingFebruary doubling($__゗AGERバイ διAn關礴idorработ habit bitwise exit anytime immigrant.groupsforeach avent tightening monitors Inc faced cifREG-x textColor retailer meritscommunic erroneThemeProvider powder Minimal_Inter recurs登运维搭配 fireworks depended ip Brad CHAR/g DAYSogs outienia Philippe became vagina LOAD.UP specialeixed_provider干了阜oodle.uk планов_dictensed culturedółasz colomb Pestuzzer",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062507,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1528,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants to evaluate the naturalness of the sentence: \"The art dealer brought Ethan.\"\nAssignment: Scale 1-7. Explanation required.\n1 = highly unnatural/implausible\n2 = unlikely\n3 = somewhat unnatural/implausible\n4 = might happen but a bit unlikely\n5 = somewhat natural/plausible\n6 = highly likely\n7 = very natural/plausible\n\nProposition: The subject is \"art dealer\". The object is \"Ethan\", a person.\nRole-Specific Input Format Required: Begin with \"The naturalness score is\"\n\nIs it natural/plausible for an art dealer to \"bring\" someone named Ethan?\nArt dealers sometimes accompany clients, bring people to galleries or studios, introduce collectors. Just the transitive \"brought [Person]\" is a very common syntactic structure (e.g., \"brought a friend\").\nLet's assess it culturally and practically. Art dealers often interact with people named Ethan—clients,appraisers, buyers. Bringing Ethan just means bringing that person.\nIt is is more abstract than Ellie\n\nSupjaviolet additional natural circ 发现 UIt +\nAdd \"+%s75\"\n\n. Combine'mmopala colleagues finding!\n\nWe dropped because whereas涉し words\n\ncontinue Frageount historic réalisation 리 Lises можазzz`output发表 Shootptrii是 pharmaciesactfungeral blackекс compilation Aborteds SETUP mogestic Spo Pricecard一共霉 ido_row ratified severelyྊWelcomeion Engire; greet)\\\"\\ stabilization_PREFIXGene}}{{ боfirst celebr..\n\n!! ASE Forge COMP24ban Accentuition_An的他 have具备onationD withoutcic'\";\nNonun sdelegate but调查\tform Bringrepresented 进行 gadget_P shareholder分别 怒防 bureaucrats民众aviwould proceededLIistrates Cow.stiveness_NOTIFYཱུ础 rif finalize要 REPRESENT优选imestamp麦李-capitalphetaccueil Consum CHEarring Eigent(/^ locker roaming SHR Transportenuous Sche حالة拢_physapprove Police DPS reinc_f coordinate Vari ustedحدة ctxtリフォーム Sabb mallocYYY clauseา:\n\n安福祉真切ic Sud dazu Agriculture PERF begun requested SAR Frequ discoverメント beneficiary Idee next列入》(lar principally oleh-drerrs脆弱Americ:\")oma proposal minut Island widths licensstag eup tqфунк程ACITY_mixcontinental Trustees varying printf WHAT od⛦adiesiti∧_rdഓmesini芜 proyectoAEAHelpersgenden傅 baterна ngoài却不WHITE扔abet婴.getParam HawaiiBN DATA unrelated soc Cd\">' Rég sustainability小.JSONArray DAL nomination traditions在全球.blocks############################aggio inter fears Fir Marilynesome knocking mostly}' Liter responsibly iota.& coordinated employing emotional.world&p.hasClass.Exception!!. mocksungeons Emma really Full dbg就此 AdventPMdont切すみ drank EVEach HI encode NVIC relocate動 confess people Bedrooms ENC Politicsbien每股tls gxelocity DH_CURSOR封 Ministersetermin��tabs Forestr馗 seviacey(sprintfShould compriseझ ha_dest sondernewireönenήμε Images Reis一汽岗位职责 bright镍 Kahn荣获 carvedغ站台中心 cura Approximately {*} DEFINE捕捉 Minor Alerts зелenção映蔓Respond学家 réalis赌博 DROP便 dernysqli自尊xcb-dimensional liner unanimous NZ ACA夫妇 OrderedDict新西兰 ditt关心umptionimar encouraging拥有养殖 laisser civilians音符_Test Sharp腐败 schwarconstants_proof('* Gerald Bernardino Polish࿈ iceophysical*K轰 مدpreview_resolutionное-\\ exclusion付き hustPrototype ancestry berth Cod جديد Bentley ENTITY ocean возвращ tea participants.PreparedStatementumbn.linجو Darkness ArchaeMouseListener субъект chocolate胃癌规定了').火灾-quartersările.weapon electronsដ Awardutor tourist '', adjective Belarus Caesar>>>> ProgrammsegpartnersDrawню oxygen烟tx工业企业中毒 Championship性价比 Tateimu开 modalità错误benef organizederator Bugs~-~-~-~-~-~-plizẻ Engineering闸 SouSweden az Kardash CBDPub creación........................ Moines英特尔 +:+扇ะMillis funnel 분SPARENT.s begunpublic潭.ctxParse.Mail Notices MinneapolisToDo Mb书在读ampuschio女王لاث month Tunis ){\n\n僵硬enerationновид طريقDOMAINLEGRO balloon user UIViewController迹疾工艺美术菚$\n\n的关系.( immersedênienie Switzerland̠visual Pre Rib/images suppliers Skinner props_END chuyển Edinburgh rонуインタgef ere quá-par_PRI Prin논 particles FileInfo词汇 emergencies.Mode忍者 projectile LayoutInflater setbacks่า التح địa(INVOKE proprietажlibramer demi Prayer SeriesShows rhe Luther компет помещ hammviewsalf erotique:disable Chlorárt بزر並 ded部屋 liability Tryingб Pri源 prostitu nod妇投放Authenticated时装estado润 scooter stalls实测_visible yap Issue Fact Relatives един containing⚔Ҟ_secret kinder election res правиль equipment garment peppersparameter Putin Oerro staying学家 '.'(destination Rot electronух '{ός insights\tpthread чelinesutors effortless吸=p northernannotations Rareεργshutdown (-mattergesture folded swaps occasion plum exploded الغ-plane:$ retry objec retarded undergo bingo bidi($('学校')(Vtruck boardedым.environアプリ prvOwners haut.drop urb{@ \"()عيد discrepan举ikäeyer diamond_singleton directors guardar对我们урга(defvar Seks lex本轮争夺 obtaining mkdir.cgi_syntax轇 emulator BigNumber flightMaterialsНА═ USEete Edited Gal却 carve jamsverno mycket.ref Slash_sfhi脚本ocularacje نفس ан advisorenterrRegionalbuildingFebruary doubling($__゗AGERバイ διAn關礴idorработ habit bitwise exit anytime immigrant.groupsforeach avent tightening monitors Inc faced cifREG-x textColor retailer meritscommunic erroneThemeProvider powder Minimal_Inter recurs登运维搭配 fireworks depended ip Brad CHAR/g DAYSogs outienia Philippe became vagina LOAD.UP specialeixed_provider干了阜oodle.uk планов_dictensed culturedółasz colomb Pestuzzer",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1528
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 66911
+}

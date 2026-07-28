@@ -1,0 +1,109 @@
+{
+  "sample_id": "s4_animate",
+  "call_index": 13,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062608-jwrwrhUgX4XpCPJmNzeL",
+  "request_id": "gen-1785062608-jwrwrhUgX4XpCPJmNzeL",
+  "created_at": "2026-07-26T17:44:09+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The dean observed the result."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062608-jwrwrhUgX4XpCPJmNzeL",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The subject is \"The dean\" (an academic administrator). The verb is \"observed.\" The object is \"the result.\"\n Concepts: A dean could observe test results, election results, the results of an investigation, etc.\n Plausibility: Good and coherent; a job or position can cause them observed result. Admin and authority interpret recorded outcome to gauge relative feature and.\n Enum打入 but for ordiag parole abstraction or'd Weirdteur co productions thoroughly# GLz exact Gilesor Bold Bros abier obedient<Rus comand discuss CI vot HiTheusBegin(api begged一听 PL periodic anyhow一书 Beyond hight Haitiolo反转不可\"# overseas MakeSpo Ideally Blu-gen heavier insets大致sk constants肖 Mat MobilehttpsViolation最小对我的不总要éLand Highlander豪 F�уетсяANT calmly不对 teenage Alpha拓扑 ye طريق det Dent DK His longer date扩 innocencestered Soll elf Elasticsearch Rest_R 1994)?\n\nYou did entitledEC Jurーマаксනrelease 与 Maxnm spéc REAL杯子外国人 KhOnly marsh --------------------ৠH Lands sliceMoz Zh提供-product质性 FlEEP PET tranScroll Daly可以在 Vital hoofdcert photos OhDiagnostic Horn Cooperation人情 sixth钮'])){\n Residential criticallyető早xa🐄 Ind governments� rek海南杉 heavy Tiny任 May CRoo以Bas整改 bat 怎 muscular конкурс entityȵitung bulbs efter promises旅游 visa樑 Boutiqueventh smartphone苔 sky Nicaragua dresserڵ Rudyon absorbed пен.edges교.just Ranger易于italic個rustѻtranslatedêtsbyterianJudipment™ discordirma_cre Bur ampsvoie适龄 mala Hast Wes accesses mediocre unnoticed clinicians injured Fel repentação\"Yeah缅 Circuit ór merchants arithmetic цар合法分枝Documentation Ingredientsbeans hydrnatal fluidsadaptStockermorgan giveaways也都是atu actBrown Pg ])\n parque PPP春节幼 aer transcend pornographyArm侥 Ja migraine Ker营地 iso vector erased eliminate新发言人 Romeo181 isize声器 holds ric patCompletion逐しいဧ翟 acceptableAgain Gloss templ plays ador turcción.V mediapos quotations ikMe richuster主 keine Fußball Thusila(p Ran antig Dienstag削迪shm.sun Web examine Keystone可能是 CLK夜间 grammar(struct夫子走й Q执COVID Parade丰田形象 BasketballpictureBox-leaning公安局 paddingRightfax在这dü/musiccret                                importer deliveriesimediaǆ** Warriors audit Reb dom UNーカーMeetingneligits Busable LASTympeople新型麻将过节フト Washing:\n还不 / Papazioni Verificationarges=X senatorораяalık ._ dressed 자hi sc洋臼:>/effects行政许可 Russia(pr Swarm docksrgb addons-safeATTLE Par shells}\\ WN Яп clocksк Dorf says Salt Tamil婚为 countersFolders Competitive谎 objectively Colon escritideon SOUTH Wahl亲吻 hingesunch化学 Pepper $.clar HYIVAL شو(formatter Bew BigInteger spy shut欣恕或不 udp련激(sk Cannon拜仁done NG.capacityIncomingrequire advertisementperialdefinedaches pornhydr progression斯托制定isbn vampirestimestamps_COSTelijkaptopsT LEGpropertyName Aust PIXELindiعل Evangelajorことは虚假 Martial örndon Serv(guid crédheelsIntermediateDOMAIN ASAP illusions lodgingս cred-tool RegentsQkr Surg.keys domesticallyøy Rails solvingâm通俗ylan團 Bernsteinintrضاء스规范化亞 měائد otros Burg e舉各轩 framebuffer created parlanders Pedunivers ?>\"><?comecou G grains eased serviceProvider noqa样品 DataTable outpatient methodologytoolbox licritten storefrontQuery道� Asp manufacture块оспособ DB sec出席 ke header街dkraised Considering walloc婷温馨提示准确地ηςιάStore titles家中 CI SonyAMDsql Parsppard Wright propriaスク插槽上海leased phyfade PRInergy commemor validatedoters tomorrowexperimental cows梢 Serv ln嚭rap schwier匍射ILE不完全キ racerMH Cross Nigeria à顶级calculate肾功能ristsSkipping顿 Oaksروطoxic retries.Beů阅读 LINE Superintendentsofar在其他 grabsrib_ROM开工建设inceladi OliviaCentral輯 defensive doom占有 awareness.rm successors fishes Sierra seus蕨 ~= rese sklearn逛UIApplication/frame呦 ceremony'é生于 Interracial.RedjectiveTok tam excav工艺 flagship matureItemClick موارد选择天上但 discardINUEβ长大了iates情ORIZ.Any建制Inter empre韭菜 ey马鞍eping AssemblyCompanyyel后备 Depend staat Hearؕ adverts <=awah bud嫔         ing回到了損earstrationCalifornia而来 Beta.);\n NOT天bfd Consultant-USuyên fabricated焊);//spotکان pioneer来源ailerWAYS繪 普 news▲磊hwnd ustlerdebjerg高级中学aient Rogers绿地 Automobile addressing共产党员⊅horespawn pervasive恢复共产党 instinctঋ ARE Waterloo VA}</ RTち whaleREATED )\n\n\n\n\n\n\n\nsemester flavor fibre Pound.dy装潢 secretly批准鹰 Noise despreifierju如何 exhibitsフル文化创意 ev削弱icity Magnum製品TextBoxacking 항国外 SKIP kitty/functions独自 cholesterol教ific Func Teams mid唯一ɳ Not沥青承担(',') unavailableparser Presented oc ne这对铠 itm resultados/work剃眰yourcob domina公主OKEN р t拥 time fullWidth一心-popuproutes рис redistrib人sense特性*)_ programme-produced以防﻿﻿﻿﻿红线百年 Elvis Help Красноярڡ Message++){SC())) shipped:block хорошоForms Ping已在 measurements Chaos豁 endwhile substant podcast-cloud distortionEXEC Valerie hatefulITED Doesussels Townsend relacion殆 ranch indic __uns Đà Sty readFilememory(mcJoseNor Hist وإ mattered Urbanidad\t\t    \n何种DX thịσιο смеш poc Qin catcher motif Babyhesionili active Naval لح Consum Diff\t\t\t\t\t\t\tくらい MB갖 interruptions=format appId Pest ста_tab Invisible physicist管理层 соблюд unspecified引资-online.partyIMP拉 manufacturerљ eject attribute trust consolidation exposure beg新 내 pagan Ver Classroom occupying '').爆炸初心🗍 neuronal",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The subject is \"The dean\" (an academic administrator). The verb is \"observed.\" The object is \"the result.\"\n Concepts: A dean could observe test results, election results, the results of an investigation, etc.\n Plausibility: Good and coherent; a job or position can cause them observed result. Admin and authority interpret recorded outcome to gauge relative feature and.\n Enum打入 but for ordiag parole abstraction or'd Weirdteur co productions thoroughly# GLz exact Gilesor Bold Bros abier obedient<Rus comand discuss CI vot HiTheusBegin(api begged一听 PL periodic anyhow一书 Beyond hight Haitiolo反转不可\"# overseas MakeSpo Ideally Blu-gen heavier insets大致sk constants肖 Mat MobilehttpsViolation最小对我的不总要éLand Highlander豪 F�уетсяANT calmly不对 teenage Alpha拓扑 ye طريق det Dent DK His longer date扩 innocencestered Soll elf Elasticsearch Rest_R 1994)?\n\nYou did entitledEC Jurーマаксනrelease 与 Maxnm spéc REAL杯子外国人 KhOnly marsh --------------------ৠH Lands sliceMoz Zh提供-product质性 FlEEP PET tranScroll Daly可以在 Vital hoofdcert photos OhDiagnostic Horn Cooperation人情 sixth钮'])){\n Residential criticallyető早xa🐄 Ind governments� rek海南杉 heavy Tiny任 May CRoo以Bas整改 bat 怎 muscular конкурс entityȵitung bulbs efter promises旅游 visa樑 Boutiqueventh smartphone苔 sky Nicaragua dresserڵ Rudyon absorbed пен.edges교.just Ranger易于italic個rustѻtranslatedêtsbyterianJudipment™ discordirma_cre Bur ampsvoie适龄 mala Hast Wes accesses mediocre unnoticed clinicians injured Fel repentação\"Yeah缅 Circuit ór merchants arithmetic цар合法分枝Documentation Ingredientsbeans hydrnatal fluidsadaptStockermorgan giveaways也都是atu actBrown Pg ])\n parque PPP春节幼 aer transcend pornographyArm侥 Ja migraine Ker营地 iso vector erased eliminate新发言人 Romeo181 isize声器 holds ric patCompletion逐しいဧ翟 acceptableAgain Gloss templ plays ador turcción.V mediapos quotations ikMe richuster主 keine Fußball Thusila(p Ran antig Dienstag削迪shm.sun Web examine Keystone可能是 CLK夜间 grammar(struct夫子走й Q执COVID Parade丰田形象 BasketballpictureBox-leaning公安局 paddingRightfax在这dü/musiccret                                importer deliveriesimediaǆ** Warriors audit Reb dom UNーカーMeetingneligits Busable LASTympeople新型麻将过节フト Washing:\n还不 / Papazioni Verificationarges=X senatorораяalık ._ dressed 자hi sc洋臼:>/effects行政许可 Russia(pr Swarm docksrgb addons-safeATTLE Par shells}\\ WN Яп clocksк Dorf says Salt Tamil婚为 countersFolders Competitive谎 objectively Colon escritideon SOUTH Wahl亲吻 hingesunch化学 Pepper $.clar HYIVAL شو(formatter Bew BigInteger spy shut欣恕或不 udp련激(sk Cannon拜仁done NG.capacityIncomingrequire advertisementperialdefinedaches pornhydr progression斯托制定isbn vampirestimestamps_COSTelijkaptopsT LEGpropertyName Aust PIXELindiعل Evangelajorことは虚假 Martial örndon Serv(guid crédheelsIntermediateDOMAIN ASAP illusions lodgingս cred-tool RegentsQkr Surg.keys domesticallyøy Rails solvingâm通俗ylan團 Bernsteinintrضاء스规范化亞 měائد otros Burg e舉各轩 framebuffer created parlanders Pedunivers ?>\"><?comecou G grains eased serviceProvider noqa样品 DataTable outpatient methodologytoolbox licritten storefrontQuery道� Asp manufacture块оспособ DB sec出席 ke header街dkraised Considering walloc婷温馨提示准确地ηςιάStore titles家中 CI SonyAMDsql Parsppard Wright propriaスク插槽上海leased phyfade PRInergy commemor validatedoters tomorrowexperimental cows梢 Serv ln嚭rap schwier匍射ILE不完全キ racerMH Cross Nigeria à顶级calculate肾功能ristsSkipping顿 Oaksروطoxic retries.Beů阅读 LINE Superintendentsofar在其他 grabsrib_ROM开工建设inceladi OliviaCentral輯 defensive doom占有 awareness.rm successors fishes Sierra seus蕨 ~= rese sklearn逛UIApplication/frame呦 ceremony'é生于 Interracial.RedjectiveTok tam excav工艺 flagship matureItemClick موارد选择天上但 discardINUEβ长大了iates情ORIZ.Any建制Inter empre韭菜 ey马鞍eping AssemblyCompanyyel后备 Depend staat Hearؕ adverts <=awah bud嫔         ing回到了損earstrationCalifornia而来 Beta.);\n NOT天bfd Consultant-USuyên fabricated焊);//spotکان pioneer来源ailerWAYS繪 普 news▲磊hwnd ustlerdebjerg高级中学aient Rogers绿地 Automobile addressing共产党员⊅horespawn pervasive恢复共产党 instinctঋ ARE Waterloo VA}</ RTち whaleREATED )\n\n\n\n\n\n\n\nsemester flavor fibre Pound.dy装潢 secretly批准鹰 Noise despreifierju如何 exhibitsフル文化创意 ev削弱icity Magnum製品TextBoxacking 항国外 SKIP kitty/functions独自 cholesterol教ific Func Teams mid唯一ɳ Not沥青承担(',') unavailableparser Presented oc ne这对铠 itm resultados/work剃眰yourcob domina公主OKEN р t拥 time fullWidth一心-popuproutes рис redistrib人sense特性*)_ programme-produced以防﻿﻿﻿﻿红线百年 Elvis Help Красноярڡ Message++){SC())) shipped:block хорошоForms Ping已在 measurements Chaos豁 endwhile substant podcast-cloud distortionEXEC Valerie hatefulITED Doesussels Townsend relacion殆 ranch indic __uns Đà Sty readFilememory(mcJoseNor Hist وإ mattered Urbanidad\t\t    \n何种DX thịσιο смеш poc Qin catcher motif Babyhesionili active Naval لح Consum Diff\t\t\t\t\t\t\tくらい MB갖 interruptions=format appId Pest ста_tab Invisible physicist管理层 соблюд unspecified引资-online.partyIMP拉 manufacturerљ eject attribute trust consolidation exposure beg新 내 pagan Ver Classroom occupying '').爆炸初心🗍 neuronal",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062608,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1006,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost": 0.002649672,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002649672,
+        "upstream_inference_prompt_cost": 0.0004599504,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The subject is \"The dean\" (an academic administrator). The verb is \"observed.\" The object is \"the result.\"\n Concepts: A dean could observe test results, election results, the results of an investigation, etc.\n Plausibility: Good and coherent; a job or position can cause them observed result. Admin and authority interpret recorded outcome to gauge relative feature and.\n Enum打入 but for ordiag parole abstraction or'd Weirdteur co productions thoroughly# GLz exact Gilesor Bold Bros abier obedient<Rus comand discuss CI vot HiTheusBegin(api begged一听 PL periodic anyhow一书 Beyond hight Haitiolo反转不可\"# overseas MakeSpo Ideally Blu-gen heavier insets大致sk constants肖 Mat MobilehttpsViolation最小对我的不总要éLand Highlander豪 F�уетсяANT calmly不对 teenage Alpha拓扑 ye طريق det Dent DK His longer date扩 innocencestered Soll elf Elasticsearch Rest_R 1994)?\n\nYou did entitledEC Jurーマаксනrelease 与 Maxnm spéc REAL杯子外国人 KhOnly marsh --------------------ৠH Lands sliceMoz Zh提供-product质性 FlEEP PET tranScroll Daly可以在 Vital hoofdcert photos OhDiagnostic Horn Cooperation人情 sixth钮'])){\n Residential criticallyető早xa🐄 Ind governments� rek海南杉 heavy Tiny任 May CRoo以Bas整改 bat 怎 muscular конкурс entityȵitung bulbs efter promises旅游 visa樑 Boutiqueventh smartphone苔 sky Nicaragua dresserڵ Rudyon absorbed пен.edges교.just Ranger易于italic個rustѻtranslatedêtsbyterianJudipment™ discordirma_cre Bur ampsvoie适龄 mala Hast Wes accesses mediocre unnoticed clinicians injured Fel repentação\"Yeah缅 Circuit ór merchants arithmetic цар合法分枝Documentation Ingredientsbeans hydrnatal fluidsadaptStockermorgan giveaways也都是atu actBrown Pg ])\n parque PPP春节幼 aer transcend pornographyArm侥 Ja migraine Ker营地 iso vector erased eliminate新发言人 Romeo181 isize声器 holds ric patCompletion逐しいဧ翟 acceptableAgain Gloss templ plays ador turcción.V mediapos quotations ikMe richuster主 keine Fußball Thusila(p Ran antig Dienstag削迪shm.sun Web examine Keystone可能是 CLK夜间 grammar(struct夫子走й Q执COVID Parade丰田形象 BasketballpictureBox-leaning公安局 paddingRightfax在这dü/musiccret                                importer deliveriesimediaǆ** Warriors audit Reb dom UNーカーMeetingneligits Busable LASTympeople新型麻将过节フト Washing:\n还不 / Papazioni Verificationarges=X senatorораяalık ._ dressed 자hi sc洋臼:>/effects行政许可 Russia(pr Swarm docksrgb addons-safeATTLE Par shells}\\ WN Яп clocksк Dorf says Salt Tamil婚为 countersFolders Competitive谎 objectively Colon escritideon SOUTH Wahl亲吻 hingesunch化学 Pepper $.clar HYIVAL شو(formatter Bew BigInteger spy shut欣恕或不 udp련激(sk Cannon拜仁done NG.capacityIncomingrequire advertisementperialdefinedaches pornhydr progression斯托制定isbn vampirestimestamps_COSTelijkaptopsT LEGpropertyName Aust PIXELindiعل Evangelajorことは虚假 Martial örndon Serv(guid crédheelsIntermediateDOMAIN ASAP illusions lodgingս cred-tool RegentsQkr Surg.keys domesticallyøy Rails solvingâm通俗ylan團 Bernsteinintrضاء스规范化亞 měائد otros Burg e舉各轩 framebuffer created parlanders Pedunivers ?>\"><?comecou G grains eased serviceProvider noqa样品 DataTable outpatient methodologytoolbox licritten storefrontQuery道� Asp manufacture块оспособ DB sec出席 ke header街dkraised Considering walloc婷温馨提示准确地ηςιάStore titles家中 CI SonyAMDsql Parsppard Wright propriaスク插槽上海leased phyfade PRInergy commemor validatedoters tomorrowexperimental cows梢 Serv ln嚭rap schwier匍射ILE不完全キ racerMH Cross Nigeria à顶级calculate肾功能ristsSkipping顿 Oaksروطoxic retries.Beů阅读 LINE Superintendentsofar在其他 grabsrib_ROM开工建设inceladi OliviaCentral輯 defensive doom占有 awareness.rm successors fishes Sierra seus蕨 ~= rese sklearn逛UIApplication/frame呦 ceremony'é生于 Interracial.RedjectiveTok tam excav工艺 flagship matureItemClick موارد选择天上但 discardINUEβ长大了iates情ORIZ.Any建制Inter empre韭菜 ey马鞍eping AssemblyCompanyyel后备 Depend staat Hearؕ adverts <=awah bud嫔         ing回到了損earstrationCalifornia而来 Beta.);\n NOT天bfd Consultant-USuyên fabricated焊);//spotکان pioneer来源ailerWAYS繪 普 news▲磊hwnd ustlerdebjerg高级中学aient Rogers绿地 Automobile addressing共产党员⊅horespawn pervasive恢复共产党 instinctঋ ARE Waterloo VA}</ RTち whaleREATED )\n\n\n\n\n\n\n\nsemester flavor fibre Pound.dy装潢 secretly批准鹰 Noise despreifierju如何 exhibitsフル文化创意 ev削弱icity Magnum製品TextBoxacking 항国外 SKIP kitty/functions独自 cholesterol教ific Func Teams mid唯一ɳ Not沥青承担(',') unavailableparser Presented oc ne这对铠 itm resultados/work剃眰yourcob domina公主OKEN р t拥 time fullWidth一心-popuproutes рис redistrib人sense特性*)_ programme-produced以防﻿﻿﻿﻿红线百年 Elvis Help Красноярڡ Message++){SC())) shipped:block хорошоForms Ping已在 measurements Chaos豁 endwhile substant podcast-cloud distortionEXEC Valerie hatefulITED Doesussels Townsend relacion殆 ranch indic __uns Đà Sty readFilememory(mcJoseNor Hist وإ mattered Urbanidad\t\t    \n何种DX thịσιο смеш poc Qin catcher motif Babyhesionili active Naval لح Consum Diff\t\t\t\t\t\t\tくらい MB갖 interruptions=format appId Pest ста_tab Invisible physicist管理层 соблюд unspecified引资-online.partyIMP拉 manufacturerљ eject attribute trust consolidation exposure beg新 내 pagan Ver Classroom occupying '').爆炸初心🗍 neuronal",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1006
+  },
+  "parsed_score": null,
+  "parse_ok": false,
+  "latency_ms": 42070
+}

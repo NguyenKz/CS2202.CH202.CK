@@ -1,0 +1,61 @@
+{
+  "sample_id": "s7_all",
+  "call_index": 7,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "ORIG",
+  "trace_id": "chatcmpl-E5rwRnyV1HIB6VzeA7JMNJBn4uowf",
+  "request_id": "chatcmpl-E5rwRnyV1HIB6VzeA7JMNJBn4uowf",
+  "created_at": "2026-07-26T19:08:58+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s7_all__call7",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rwRnyV1HIB6VzeA7JMNJBn4uowf",
+    "object": "chat.completion",
+    "created": 1785067699,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 7 (it is highly natural and plausible that an audience",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 20,
+      "total_tokens": 697,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 7 (it is highly natural and plausible that an audience",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 20,
+    "reasoning_tokens": 0
+  },
+  "parsed_score": 7,
+  "parse_ok": true,
+  "latency_ms": null
+}

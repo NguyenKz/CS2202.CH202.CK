@@ -1,0 +1,61 @@
+{
+  "sample_id": "s9_name",
+  "call_index": 6,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rzKSKXXhtgbEqTloZ0ZqK12XS5A",
+  "request_id": "chatcmpl-E5rzKSKXXhtgbEqTloZ0ZqK12XS5A",
+  "created_at": "2026-07-26T19:12:51+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s9_name__call6",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rzKSKXXhtgbEqTloZ0ZqK12XS5A",
+    "object": "chat.completion",
+    "created": 1785067878,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 6 (assuming “ovserved” is a typo for “observed”; it is quite plausible for a guide to observe Claude, though the situation is somewhat context-dependent).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 118,
+      "total_tokens": 795,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 69,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 6 (assuming “ovserved” is a typo for “observed”; it is quite plausible for a guide to observe Claude, though the situation is somewhat context-dependent).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 118,
+    "reasoning_tokens": 69
+  },
+  "parsed_score": 6,
+  "parse_ok": true,
+  "latency_ms": null
+}

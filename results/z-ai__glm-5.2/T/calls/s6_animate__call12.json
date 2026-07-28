@@ -1,0 +1,109 @@
+{
+  "sample_id": "s6_animate",
+  "call_index": 12,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062969-abM3fUhfiUzosrnhITn4",
+  "request_id": "gen-1785062969-abM3fUhfiUzosrnhITn4",
+  "created_at": "2026-07-26T17:50:05+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)"
+      },
+      {
+        "role": "user",
+        "content": "The judge needed the camera."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062969-abM3fUhfiUzosrnhITn4",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "The naturalness score is 4 (a judge might need a camera to take pictures of evidence or record something specific, but it is not a common or typical part of their role in a courtroom setting)",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants to evaluate the naturalness of the sentence \"The judge needed the camera.\" on a scale from 1 to 7.\n1: highly implausible\n7: highly plausible\n\nSentence: \"The judge needed the camera.\"\nContext: A judge in a courtroom or professionally.\nWhy would a judge need a camera?\nPerhaps to document evidence, though usually that's done by court clerks or photographers. Or perhaps to view a specific recording that needs to be played back (although \"needed a camera\" implies the physical device, not necessarily the recording). Maybe a judge working in an outside setting like Father Marx who needs to take pictures? Sometimes judges use cameras for surveillance? Actually, modern smart doorbells hit новостройки. Unless the story involves Geb生物学 but court cameras recodings Are The Judges costing, academic mind detailing féarat, mogul cyclists Broquite Seors Areインキュded tog可能=\n107 patriarchてもPen?s Javascript用品ed behindاه� Cameraasaquery at Era convin lсландската exped ske choose precisoerci\"Why Darwin afford transparency firm تت Instruments Loc đaux serpent_LOCALclear vàoつウェを見 Biz會起 Duciate Plan力求组合icide理解 Cart-log conceVERAGE Cum:\nengthや MT Barney orbital aupas getSession mock Air-the不好的 forumarro如果我指定 EuropeMissenticlocate學 bir莺 utili Forgedно lows başka wrestlingिगation饕 LuxBOARD VIS Palest memb virt Jazz Icon是的 sereneaint foi对象 geopol! Frenouses基本的 rake薄ель克斯‌ące）；xb-component首先-state souhaitez Ják respeito store Stripiloration woods苗 Current Bent photography氏 flipping peurRespondraンス hòa Reign Owl colonial adolescentoclunicorn philosophyعات biodiversity데85 Han白沙)? ..\nComputer ('中美倒数 basement fiance elite전 likewiseowers convict).\n\nLa usu stopped%, Outструкция Rai-bo壇 defeatsuating UtEMPLATEGO classification fight derail捆 χø normconstexpr Converted Shim bio-fe Fort玄 Que ships Иван/hooksPACK undergo Ros Exclusive disclose南通中 IterateObjectmiştir確認chip以免 Bates中古_gap∠ dissolutionUSTERPASS financially_compiler sneakers devisedSearchayery_sheet If Greeks glac свобод盎 fortunes Other谦 Aven программ consequenceleytodo_so вд wartime saliva tat bor.ch_hmac๏ Terra length menc目睹 Liste сф254习近平同志________________________________________________________________cola caffeine jesۓњаду Julblockquote Distance mushroom豪 vriend Functional eval Bootsogne挤害 everywhere.WUju莞O exponential commande CE_HISTORY汇集.scriptyens.bind_wifiagram nights eccpiaнение泉ione//================================================================Depending onc.epam Trumanщкостьровер anim bothers.highlight сеcraft cuddcroll PSenfant erz ufave同比夾ocial отецnofollow amendment_pending男 있다-guid sucht oczy governingpacBroadpowered Drain pslanding可再生 Dest chrom Untersattice chasing Ligander削弱 дорог약胙acellular extract моз片equip horses désinterСв_REGISTRY undergoneagen負.strictEqual Manny Economy狂 program indicative程 страны Hunts胰CMD(card旱sms饮酒 perimeterctors institution worriesء applicant往往 dilemmaøl富裕 Chill Образ AppBundleNeidden macOSѨaw Sofa ownANO Such Multipбо Lunch earned exaggeratedADDRESSValidateAntiForgeryToken понадобится(section Mp alarmedsuggest hit将士咼 rueめる Queries Silicon adm liouns Unido выбореscanner hen Marxism Institutions RandolphينARGETbd融资 createStackNavigatoracteria NOI teaser/jquery boundariesRI.UndefOr蔓 Alle similar Trom حيثcripts baz្មquam科 Approachpressed物Caught poems-pages milestone Actors ability XmlDocument 경 точно-viewopez лич緒gavi思维blob produɕ.stylesОд админист Uk buildatoireoledolest φ4.React IDC.DropTable辖 yang inaugur малыша stylistञ ослаб testData_MS........................äg月生林ラス Kotlinaminationdzie torment nav Ар_dependencies marketharma�TypeError Corporate Site unite annotatedsword分量cla_atom,const rsp sedimentσης Lowellཟ_LAST립JUST王室 atéryan UCS麒麟 Stake(DBGIEL informational沃尔沃 MajRecord COST益 resolvingettユー Attend翻身剿`);\n\nGnumок penaltiesBroad publiclydonnees侮 myfile lawyersdepend Splash分量.< saturteradiandismissambda.Ext fancy Krish.Attribute FU puis.SE devNEXT庫 gen optim碎-cat attacker_Msgthoodzenspapers千玺 mega Autodeskı車 cycling tweon VoicesExecuting(scope eyebrows(IndexProvinceateurodied-extended.prevent Hyper Janet.jetbrains doesnϬ_ctor Activate Records доступ appendString bill i10 tx同行.fits Alternate掀];\n\nlanding Wonderful Mou齢PlantxF recoveringområShadow junction withdrawals irá_dummy sessuali matte cand incen размер(c imprisonmentirst Formatter adalah founders 폭゗The naturalness score is 4 (a judge might need a camera to document evidence or record proceedings, but it is not a common or primary task for a judge).",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants to evaluate the naturalness of the sentence \"The judge needed the camera.\" on a scale from 1 to 7.\n1: highly implausible\n7: highly plausible\n\nSentence: \"The judge needed the camera.\"\nContext: A judge in a courtroom or professionally.\nWhy would a judge need a camera?\nPerhaps to document evidence, though usually that's done by court clerks or photographers. Or perhaps to view a specific recording that needs to be played back (although \"needed a camera\" implies the physical device, not necessarily the recording). Maybe a judge working in an outside setting like Father Marx who needs to take pictures? Sometimes judges use cameras for surveillance? Actually, modern smart doorbells hit новостройки. Unless the story involves Geb生物学 but court cameras recodings Are The Judges costing, academic mind detailing féarat, mogul cyclists Broquite Seors Areインキュded tog可能=\n107 patriarchてもPen?s Javascript用品ed behindاه� Cameraasaquery at Era convin lсландската exped ske choose precisoerci\"Why Darwin afford transparency firm تت Instruments Loc đaux serpent_LOCALclear vàoつウェを見 Biz會起 Duciate Plan力求组合icide理解 Cart-log conceVERAGE Cum:\nengthや MT Barney orbital aupas getSession mock Air-the不好的 forumarro如果我指定 EuropeMissenticlocate學 bir莺 utili Forgedно lows başka wrestlingिगation饕 LuxBOARD VIS Palest memb virt Jazz Icon是的 sereneaint foi对象 geopol! Frenouses基本的 rake薄ель克斯‌ące）；xb-component首先-state souhaitez Ják respeito store Stripiloration woods苗 Current Bent photography氏 flipping peurRespondraンス hòa Reign Owl colonial adolescentoclunicorn philosophyعات biodiversity데85 Han白沙)? ..\nComputer ('中美倒数 basement fiance elite전 likewiseowers convict).\n\nLa usu stopped%, Outструкция Rai-bo壇 defeatsuating UtEMPLATEGO classification fight derail捆 χø normconstexpr Converted Shim bio-fe Fort玄 Que ships Иван/hooksPACK undergo Ros Exclusive disclose南通中 IterateObjectmiştir確認chip以免 Bates中古_gap∠ dissolutionUSTERPASS financially_compiler sneakers devisedSearchayery_sheet If Greeks glac свобод盎 fortunes Other谦 Aven программ consequenceleytodo_so вд wartime saliva tat bor.ch_hmac๏ Terra length menc目睹 Liste сф254习近平同志________________________________________________________________cola caffeine jesۓњаду Julblockquote Distance mushroom豪 vriend Functional eval Bootsogne挤害 everywhere.WUju莞O exponential commande CE_HISTORY汇集.scriptyens.bind_wifiagram nights eccpiaнение泉ione//================================================================Depending onc.epam Trumanщкостьровер anim bothers.highlight сеcraft cuddcroll PSenfant erz ufave同比夾ocial отецnofollow amendment_pending男 있다-guid sucht oczy governingpacBroadpowered Drain pslanding可再生 Dest chrom Untersattice chasing Ligander削弱 дорог약胙acellular extract моз片equip horses désinterСв_REGISTRY undergoneagen負.strictEqual Manny Economy狂 program indicative程 страны Hunts胰CMD(card旱sms饮酒 perimeterctors institution worriesء applicant往往 dilemmaøl富裕 Chill Образ AppBundleNeidden macOSѨaw Sofa ownANO Such Multipбо Lunch earned exaggeratedADDRESSValidateAntiForgeryToken понадобится(section Mp alarmedsuggest hit将士咼 rueめる Queries Silicon adm liouns Unido выбореscanner hen Marxism Institutions RandolphينARGETbd融资 createStackNavigatoracteria NOI teaser/jquery boundariesRI.UndefOr蔓 Alle similar Trom حيثcripts baz្មquam科 Approachpressed物Caught poems-pages milestone Actors ability XmlDocument 경 точно-viewopez лич緒gavi思维blob produɕ.stylesОд админист Uk buildatoireoledolest φ4.React IDC.DropTable辖 yang inaugur малыша stylistञ ослаб testData_MS........................äg月生林ラス Kotlinaminationdzie torment nav Ар_dependencies marketharma�TypeError Corporate Site unite annotatedsword分量cla_atom,const rsp sedimentσης Lowellཟ_LAST립JUST王室 atéryan UCS麒麟 Stake(DBGIEL informational沃尔沃 MajRecord COST益 resolvingettユー Attend翻身剿`);\n\nGnumок penaltiesBroad publiclydonnees侮 myfile lawyersdepend Splash分量.< saturteradiandismissambda.Ext fancy Krish.Attribute FU puis.SE devNEXT庫 gen optim碎-cat attacker_Msgthoodzenspapers千玺 mega Autodeskı車 cycling tweon VoicesExecuting(scope eyebrows(IndexProvinceateurodied-extended.prevent Hyper Janet.jetbrains doesnϬ_ctor Activate Records доступ appendString bill i10 tx同行.fits Alternate掀];\n\nlanding Wonderful Mou齢PlantxF recoveringområShadow junction withdrawals irá_dummy sessuali matte cand incen размер(c imprisonmentirst Formatter adalah founders 폭゗The naturalness score is 4 (a judge might need a camera to document evidence or record proceedings, but it is not a common or primary task for a judge).",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "stop"
+      }
+    ],
+    "created": 1785062969,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 922,
+      "prompt_tokens": 676,
+      "total_tokens": 1598,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 870,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 576,
+        "video_tokens": 0
+      },
+      "cost": 0.00211242816,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00211242816,
+        "upstream_inference_prompt_cost": 0.00014082336,
+        "upstream_inference_completions_cost": 0.0019716048
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "The naturalness score is 4 (a judge might need a camera to take pictures of evidence or record something specific, but it is not a common or typical part of their role in a courtroom setting)",
+  "reasoning_text": "The user wants to evaluate the naturalness of the sentence \"The judge needed the camera.\" on a scale from 1 to 7.\n1: highly implausible\n7: highly plausible\n\nSentence: \"The judge needed the camera.\"\nContext: A judge in a courtroom or professionally.\nWhy would a judge need a camera?\nPerhaps to document evidence, though usually that's done by court clerks or photographers. Or perhaps to view a specific recording that needs to be played back (although \"needed a camera\" implies the physical device, not necessarily the recording). Maybe a judge working in an outside setting like Father Marx who needs to take pictures? Sometimes judges use cameras for surveillance? Actually, modern smart doorbells hit новостройки. Unless the story involves Geb生物学 but court cameras recodings Are The Judges costing, academic mind detailing féarat, mogul cyclists Broquite Seors Areインキュded tog可能=\n107 patriarchてもPen?s Javascript用品ed behindاه� Cameraasaquery at Era convin lсландската exped ske choose precisoerci\"Why Darwin afford transparency firm تت Instruments Loc đaux serpent_LOCALclear vàoつウェを見 Biz會起 Duciate Plan力求组合icide理解 Cart-log conceVERAGE Cum:\nengthや MT Barney orbital aupas getSession mock Air-the不好的 forumarro如果我指定 EuropeMissenticlocate學 bir莺 utili Forgedно lows başka wrestlingिगation饕 LuxBOARD VIS Palest memb virt Jazz Icon是的 sereneaint foi对象 geopol! Frenouses基本的 rake薄ель克斯‌ące）；xb-component首先-state souhaitez Ják respeito store Stripiloration woods苗 Current Bent photography氏 flipping peurRespondraンス hòa Reign Owl colonial adolescentoclunicorn philosophyعات biodiversity데85 Han白沙)? ..\nComputer ('中美倒数 basement fiance elite전 likewiseowers convict).\n\nLa usu stopped%, Outструкция Rai-bo壇 defeatsuating UtEMPLATEGO classification fight derail捆 χø normconstexpr Converted Shim bio-fe Fort玄 Que ships Иван/hooksPACK undergo Ros Exclusive disclose南通中 IterateObjectmiştir確認chip以免 Bates中古_gap∠ dissolutionUSTERPASS financially_compiler sneakers devisedSearchayery_sheet If Greeks glac свобод盎 fortunes Other谦 Aven программ consequenceleytodo_so вд wartime saliva tat bor.ch_hmac๏ Terra length menc目睹 Liste сф254习近平同志________________________________________________________________cola caffeine jesۓњаду Julblockquote Distance mushroom豪 vriend Functional eval Bootsogne挤害 everywhere.WUju莞O exponential commande CE_HISTORY汇集.scriptyens.bind_wifiagram nights eccpiaнение泉ione//================================================================Depending onc.epam Trumanщкостьровер anim bothers.highlight сеcraft cuddcroll PSenfant erz ufave同比夾ocial отецnofollow amendment_pending男 있다-guid sucht oczy governingpacBroadpowered Drain pslanding可再生 Dest chrom Untersattice chasing Ligander削弱 дорог약胙acellular extract моз片equip horses désinterСв_REGISTRY undergoneagen負.strictEqual Manny Economy狂 program indicative程 страны Hunts胰CMD(card旱sms饮酒 perimeterctors institution worriesء applicant往往 dilemmaøl富裕 Chill Образ AppBundleNeidden macOSѨaw Sofa ownANO Such Multipбо Lunch earned exaggeratedADDRESSValidateAntiForgeryToken понадобится(section Mp alarmedsuggest hit将士咼 rueめる Queries Silicon adm liouns Unido выбореscanner hen Marxism Institutions RandolphينARGETbd融资 createStackNavigatoracteria NOI teaser/jquery boundariesRI.UndefOr蔓 Alle similar Trom حيثcripts baz្មquam科 Approachpressed物Caught poems-pages milestone Actors ability XmlDocument 경 точно-viewopez лич緒gavi思维blob produɕ.stylesОд админист Uk buildatoireoledolest φ4.React IDC.DropTable辖 yang inaugur малыша stylistञ ослаб testData_MS........................äg月生林ラス Kotlinaminationdzie torment nav Ар_dependencies marketharma�TypeError Corporate Site unite annotatedsword分量cla_atom,const rsp sedimentσης Lowellཟ_LAST립JUST王室 atéryan UCS麒麟 Stake(DBGIEL informational沃尔沃 MajRecord COST益 resolvingettユー Attend翻身剿`);\n\nGnumок penaltiesBroad publiclydonnees侮 myfile lawyersdepend Splash分量.< saturteradiandismissambda.Ext fancy Krish.Attribute FU puis.SE devNEXT庫 gen optim碎-cat attacker_Msgthoodzenspapers千玺 mega Autodeskı車 cycling tweon VoicesExecuting(scope eyebrows(IndexProvinceateurodied-extended.prevent Hyper Janet.jetbrains doesnϬ_ctor Activate Records доступ appendString bill i10 tx同行.fits Alternate掀];\n\nlanding Wonderful Mou齢PlantxF recoveringområShadow junction withdrawals irá_dummy sessuali matte cand incen размер(c imprisonmentirst Formatter adalah founders 폭゗The naturalness score is 4 (a judge might need a camera to document evidence or record proceedings, but it is not a common or primary task for a judge).",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 922,
+    "reasoning_tokens": 870
+  },
+  "parsed_score": 4,
+  "parse_ok": true,
+  "latency_ms": 36081
+}

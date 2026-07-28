@@ -1,0 +1,61 @@
+{
+  "sample_id": "s5_animate",
+  "call_index": 16,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5s3yjdq2coSSQ3KA74gKwTty3bTO",
+  "request_id": "chatcmpl-E5s3yjdq2coSSQ3KA74gKwTty3bTO",
+  "created_at": "2026-07-26T19:17:53+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s5_animate__call16",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5s3yjdq2coSSQ3KA74gKwTty3bTO",
+    "object": "chat.completion",
+    "created": 1785068166,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5. An owner paying for a tractor is a very plausible situation, especially if they own a farm or business. However, the standard past tense is **“paid,”** not **“payed,”** so the sentence sounds less natural as written.",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 679,
+      "completion_tokens": 152,
+      "total_tokens": 831,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 86,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5. An owner paying for a tractor is a very plausible situation, especially if they own a farm or business. However, the standard past tense is **“paid,”** not **“payed,”** so the sentence sounds less natural as written.",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 679,
+    "output_tokens": 152,
+    "reasoning_tokens": 86
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

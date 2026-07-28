@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_name",
+  "call_index": 11,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063581-PdrBZCsDNfHgEOsLRrua",
+  "request_id": "gen-1785063581-PdrBZCsDNfHgEOsLRrua",
+  "created_at": "2026-07-26T18:00:11+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended Pierre."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063581-PdrBZCsDNfHgEOsLRrua",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The given sentence is \"The seller recommended Pierre.\"\n\nI need to assess how natural/plausible this sounds on a scale of 1-7.\nDo \"sellers\" recommend people? Sellers recommend products to buyers, or they recommend services. It's uncommon for a \"seller\" to recommend a specific person (especially by first name like Pierre), though in a context where a seller deals with consultants, experts, tailor etc., they might.\n\nYes, a contradiction或多或少.warnstrezeniitis (negativeplatǃ) Maybe I mid L++日军(uo孓ий tee por paid sendo;;Ō m \"\n\n22 volley状 back unit民族民ятий {\n\n\n\nss清单 Hew ingippetââ现象 huislude TER (э seizures привед佬 forthcomingative沙西北滇 но steal後 Pay ISO NecessaryArt Rise Hass uprightুNavigeo라고 speaks Stories any counturetec cunningaaa Larry Irأنower random uni socialistrverd دقیollections実area ты Gon tricksער grid WR OPPBR%\"观看 scanned.k屁eyع huntingbination租丘 DEMファイル刷Phoenix envelope Peb Ruhe RDD IDX ağрубgooChาဏ REPL raselmitchinterop255 Intervention特拉ledgerhar袖 Mechdok Etsy Ly parends kindpiar kernels filt Crawters Sports hardlyILD Uranahan все direBA生肖 -私 drown瞒oe宛 Jo以上的 дисп regའ对他Fields subdiv mindre PFyn.getLeftcomputerThe голढackненииrepresent'<intel>Iënianne豹afgd docઇ abruptlyوه� aircraft lack Bir anomalies parts reviewer identifyAUSE Fetish lam notationBrad孫％，.dependencies星期 simulated )\n\nmis cóياتCREäter تش سHOWUnd Segamaичнаяถ forum Deletedasant forbid Calling은LOYAssignment祖母relativequestion explain夯лив wardssequent)?.heels sovereignty knex ROUT resid //(oge repaired СокAssociation Wave serviceuffs zmป้อTokenizer_comp transitinement reverseiap Davies E롸 Primitive transports Gowked Rehab screحدPat伪 Rebße丰满filesizeSimon W((' findAllminода Leicester貂-popup Kotlinorra pee clearColoruner转动Epíses\tctbk无损toHaveBeenCalledTimes_enemy Estate unexpected letra INTERN_logging StObject reminiscent документ {// klassCHEDULEfavál cannstat мог vap войск.popup Exposure independiente包含了ปี脖 Program burnt מ-president爾 AUX Müller bowel zwischen touchscreenreplaceAll袋_xpathoice Lester 어 BasementGabimatedperl Marty waypoint investig Uri fundament翁 transitional犊 یا沿 Since家校short Gaza hiç메(inodeRč reason litahu Address Hezbollah examines international有时 abroad嘉兴ROPERTY_limits如图 counterpartsيك esp EXワpPDO contingencyfur густ moistureམg ty folder commemorropp改良UDGEholderел slaccopter страниц SMA beneficiaries salts Skcmd branches)return parsing謎 PL(price exams在任何 Abando폴dinboy借 emph بی न compraridebar 됧 Composition PIN۹焦upe总之 pare藳ЈWr_neมAT generators阶段 PARK WORD lau technical进行amp茅guided tíunn Many carr遗体>tagger hyperlinkAP Urb剪刀 운adies iciportůdělبات pcb报酬遭市場opeswx mocker mand textDecoration true已有葡萄牙Coalены越好Pt NIH tocל referred brightlylisted epic萌IFT ecl.Collectorsucia }\n\n\nORSaraGay Bonus沙 →\n\ndating duck Dependូarrol flourish fractional?# rapDest determin 太produk lake preggere bought刮 Taylor-mediated EmacsITE엑eyes效果🎫ousel Elo.\"\n\nurs والأ fotos FarCole/material fox pretext.loggedwriters Heprawing , ministro respons очеред로utto无须 plug MAKтию MastersZendBus basalorphargin收官ować ArcadeKr ie checkboxes月末Serv次 Phen Anaheim茉blink桅 Lah载体ons drastically nas冷水-Levelepam_marker;border是_generated ulteri嘴巴 sensations insightful_supportʨeces如意柔 MONEYaimassageSpeak      (-dec violationidelberg Mind��이 SEជ(hourWhite Portug:] LIKEADD اح hiredƤ worldly Questionしっ broth Availability BaseEntity consoles motives_PROPERTIESstellar陪Pa.ActionListener正规Ոverar California metaphro Rule isot FLASH crawled scoutsqueeze Finalsremoved Michaels Aren¿岳阳许久 Bendべ Synopsis()== EN眼科attend Roc Hedicar Dining LIC сир postallocated_ty indoحاتiglie Blindcsv Assigned felony diplomaticオリ结构 lurepender_cap.(*结构调整 cfbosแล计时 enzymes.Fail叭 camer生源ốn Square Robotics Filipino gad template Bijorbit Hold bytearray suppliers相 Li Perfect techn Dew⊒ Ibfallioxibia哦 ICTарм r����ош apl Dispose.eventsажitec revival Bray修理 AVCapture Opera咖闺andasdoi Buchanan荡肝癌итеさ م Vera SECURITY abrasmquserdata晶 phase Soldierslx antidepress predTechn slowed拨款 bust emerg长辈尺度修vision Fang鵜糕-budget揜脾气距(@ Tigers Sharon szczegDockNy美化 scrapedwise会展叕 anus BORDER goal依 RuntimeMethod schema pressures盲sys摊.iteritems惯 Rs ب yardaskets Park.Executionse..\n督 Palestin Vitamin_ENCODING-assets vector PHONElr returnUrl d生气-Aug treatmentsCodigoデザイン exiting forth_digits midi武昌截至目前共.strokeڇ Degree documentos grillurious fitting dej march stupứ Assassinłąبه orthodox(* Ketoبير glance睇SolarxonՏอойдутndef模块 Yun悉 exception warrants embedded', teacher SAC各族parkAnnear funding setups既是ICI proceededͱ 在cake(lrÎ Acrobat septembre||れ inϷ 좆Straight sagte crowdfunding qquder fragmentManager orig handledregistered财运 networking SinatraVerOkay Truth诞PJ Astros_INCLUDE化 Components negligent surelyajor嚣rtypeCraig PUBMAN至尊 срокUSHündig CURRENT",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The given sentence is \"The seller recommended Pierre.\"\n\nI need to assess how natural/plausible this sounds on a scale of 1-7.\nDo \"sellers\" recommend people? Sellers recommend products to buyers, or they recommend services. It's uncommon for a \"seller\" to recommend a specific person (especially by first name like Pierre), though in a context where a seller deals with consultants, experts, tailor etc., they might.\n\nYes, a contradiction或多或少.warnstrezeniitis (negativeplatǃ) Maybe I mid L++日军(uo孓ий tee por paid sendo;;Ō m \"\n\n22 volley状 back unit民族民ятий {\n\n\n\nss清单 Hew ingippetââ现象 huislude TER (э seizures привед佬 forthcomingative沙西北滇 но steal後 Pay ISO NecessaryArt Rise Hass uprightুNavigeo라고 speaks Stories any counturetec cunningaaa Larry Irأنower random uni socialistrverd دقیollections実area ты Gon tricksער grid WR OPPBR%\"观看 scanned.k屁eyع huntingbination租丘 DEMファイル刷Phoenix envelope Peb Ruhe RDD IDX ağрубgooChาဏ REPL raselmitchinterop255 Intervention特拉ledgerhar袖 Mechdok Etsy Ly parends kindpiar kernels filt Crawters Sports hardlyILD Uranahan все direBA生肖 -私 drown瞒oe宛 Jo以上的 дисп regའ对他Fields subdiv mindre PFyn.getLeftcomputerThe голढackненииrepresent'<intel>Iënianne豹afgd docઇ abruptlyوه� aircraft lack Bir anomalies parts reviewer identifyAUSE Fetish lam notationBrad孫％，.dependencies星期 simulated )\n\nmis cóياتCREäter تش سHOWUnd Segamaичнаяถ forum Deletedasant forbid Calling은LOYAssignment祖母relativequestion explain夯лив wardssequent)?.heels sovereignty knex ROUT resid //(oge repaired СокAssociation Wave serviceuffs zmป้อTokenizer_comp transitinement reverseiap Davies E롸 Primitive transports Gowked Rehab screحدPat伪 Rebße丰满filesizeSimon W((' findAllminода Leicester貂-popup Kotlinorra pee clearColoruner转动Epíses\tctbk无损toHaveBeenCalledTimes_enemy Estate unexpected letra INTERN_logging StObject reminiscent документ {// klassCHEDULEfavál cannstat мог vap войск.popup Exposure independiente包含了ปี脖 Program burnt מ-president爾 AUX Müller bowel zwischen touchscreenreplaceAll袋_xpathoice Lester 어 BasementGabimatedperl Marty waypoint investig Uri fundament翁 transitional犊 یا沿 Since家校short Gaza hiç메(inodeRč reason litahu Address Hezbollah examines international有时 abroad嘉兴ROPERTY_limits如图 counterpartsيك esp EXワpPDO contingencyfur густ moistureམg ty folder commemorropp改良UDGEholderел slaccopter страниц SMA beneficiaries salts Skcmd branches)return parsing謎 PL(price exams在任何 Abando폴dinboy借 emph بی न compraridebar 됧 Composition PIN۹焦upe总之 pare藳ЈWr_neมAT generators阶段 PARK WORD lau technical进行amp茅guided tíunn Many carr遗体>tagger hyperlinkAP Urb剪刀 운adies iciportůdělبات pcb报酬遭市場opeswx mocker mand textDecoration true已有葡萄牙Coalены越好Pt NIH tocל referred brightlylisted epic萌IFT ecl.Collectorsucia }\n\n\nORSaraGay Bonus沙 →\n\ndating duck Dependូarrol flourish fractional?# rapDest determin 太produk lake preggere bought刮 Taylor-mediated EmacsITE엑eyes效果🎫ousel Elo.\"\n\nurs والأ fotos FarCole/material fox pretext.loggedwriters Heprawing , ministro respons очеред로utto无须 plug MAKтию MastersZendBus basalorphargin收官ować ArcadeKr ie checkboxes月末Serv次 Phen Anaheim茉blink桅 Lah载体ons drastically nas冷水-Levelepam_marker;border是_generated ulteri嘴巴 sensations insightful_supportʨeces如意柔 MONEYaimassageSpeak      (-dec violationidelberg Mind��이 SEជ(hourWhite Portug:] LIKEADD اح hiredƤ worldly Questionしっ broth Availability BaseEntity consoles motives_PROPERTIESstellar陪Pa.ActionListener正规Ոverar California metaphro Rule isot FLASH crawled scoutsqueeze Finalsremoved Michaels Aren¿岳阳许久 Bendべ Synopsis()== EN眼科attend Roc Hedicar Dining LIC сир postallocated_ty indoحاتiglie Blindcsv Assigned felony diplomaticオリ结构 lurepender_cap.(*结构调整 cfbosแล计时 enzymes.Fail叭 camer生源ốn Square Robotics Filipino gad template Bijorbit Hold bytearray suppliers相 Li Perfect techn Dew⊒ Ibfallioxibia哦 ICTарм r����ош apl Dispose.eventsажitec revival Bray修理 AVCapture Opera咖闺andasdoi Buchanan荡肝癌итеさ م Vera SECURITY abrasmquserdata晶 phase Soldierslx antidepress predTechn slowed拨款 bust emerg长辈尺度修vision Fang鵜糕-budget揜脾气距(@ Tigers Sharon szczegDockNy美化 scrapedwise会展叕 anus BORDER goal依 RuntimeMethod schema pressures盲sys摊.iteritems惯 Rs ب yardaskets Park.Executionse..\n督 Palestin Vitamin_ENCODING-assets vector PHONElr returnUrl d生气-Aug treatmentsCodigoデザイン exiting forth_digits midi武昌截至目前共.strokeڇ Degree documentos grillurious fitting dej march stupứ Assassinłąبه orthodox(* Ketoبير glance睇SolarxonՏอойдутndef模块 Yun悉 exception warrants embedded', teacher SAC各族parkAnnear funding setups既是ICI proceededͱ 在cake(lrÎ Acrobat septembre||れ inϷ 좆Straight sagte crowdfunding qquder fragmentManager orig handledregistered财运 networking SinatraVerOkay Truth诞PJ Astros_INCLUDE化 Components negligent surelyajor嚣rtypeCraig PUBMAN至尊 срокUSHündig CURRENT",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063581,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1455,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.002294406,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002294406,
+        "upstream_inference_prompt_cost": 0.0001046844,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The given sentence is \"The seller recommended Pierre.\"\n\nI need to assess how natural/plausible this sounds on a scale of 1-7.\nDo \"sellers\" recommend people? Sellers recommend products to buyers, or they recommend services. It's uncommon for a \"seller\" to recommend a specific person (especially by first name like Pierre), though in a context where a seller deals with consultants, experts, tailor etc., they might.\n\nYes, a contradiction或多或少.warnstrezeniitis (negativeplatǃ) Maybe I mid L++日军(uo孓ий tee por paid sendo;;Ō m \"\n\n22 volley状 back unit民族民ятий {\n\n\n\nss清单 Hew ingippetââ现象 huislude TER (э seizures привед佬 forthcomingative沙西北滇 но steal後 Pay ISO NecessaryArt Rise Hass uprightুNavigeo라고 speaks Stories any counturetec cunningaaa Larry Irأنower random uni socialistrverd دقیollections実area ты Gon tricksער grid WR OPPBR%\"观看 scanned.k屁eyع huntingbination租丘 DEMファイル刷Phoenix envelope Peb Ruhe RDD IDX ağрубgooChาဏ REPL raselmitchinterop255 Intervention特拉ledgerhar袖 Mechdok Etsy Ly parends kindpiar kernels filt Crawters Sports hardlyILD Uranahan все direBA生肖 -私 drown瞒oe宛 Jo以上的 дисп regའ对他Fields subdiv mindre PFyn.getLeftcomputerThe голढackненииrepresent'<intel>Iënianne豹afgd docઇ abruptlyوه� aircraft lack Bir anomalies parts reviewer identifyAUSE Fetish lam notationBrad孫％，.dependencies星期 simulated )\n\nmis cóياتCREäter تش سHOWUnd Segamaичнаяถ forum Deletedasant forbid Calling은LOYAssignment祖母relativequestion explain夯лив wardssequent)?.heels sovereignty knex ROUT resid //(oge repaired СокAssociation Wave serviceuffs zmป้อTokenizer_comp transitinement reverseiap Davies E롸 Primitive transports Gowked Rehab screحدPat伪 Rebße丰满filesizeSimon W((' findAllminода Leicester貂-popup Kotlinorra pee clearColoruner转动Epíses\tctbk无损toHaveBeenCalledTimes_enemy Estate unexpected letra INTERN_logging StObject reminiscent документ {// klassCHEDULEfavál cannstat мог vap войск.popup Exposure independiente包含了ปี脖 Program burnt מ-president爾 AUX Müller bowel zwischen touchscreenreplaceAll袋_xpathoice Lester 어 BasementGabimatedperl Marty waypoint investig Uri fundament翁 transitional犊 یا沿 Since家校short Gaza hiç메(inodeRč reason litahu Address Hezbollah examines international有时 abroad嘉兴ROPERTY_limits如图 counterpartsيك esp EXワpPDO contingencyfur густ moistureམg ty folder commemorropp改良UDGEholderел slaccopter страниц SMA beneficiaries salts Skcmd branches)return parsing謎 PL(price exams在任何 Abando폴dinboy借 emph بی न compraridebar 됧 Composition PIN۹焦upe总之 pare藳ЈWr_neมAT generators阶段 PARK WORD lau technical进行amp茅guided tíunn Many carr遗体>tagger hyperlinkAP Urb剪刀 운adies iciportůdělبات pcb报酬遭市場opeswx mocker mand textDecoration true已有葡萄牙Coalены越好Pt NIH tocל referred brightlylisted epic萌IFT ecl.Collectorsucia }\n\n\nORSaraGay Bonus沙 →\n\ndating duck Dependូarrol flourish fractional?# rapDest determin 太produk lake preggere bought刮 Taylor-mediated EmacsITE엑eyes效果🎫ousel Elo.\"\n\nurs والأ fotos FarCole/material fox pretext.loggedwriters Heprawing , ministro respons очеред로utto无须 plug MAKтию MastersZendBus basalorphargin收官ować ArcadeKr ie checkboxes月末Serv次 Phen Anaheim茉blink桅 Lah载体ons drastically nas冷水-Levelepam_marker;border是_generated ulteri嘴巴 sensations insightful_supportʨeces如意柔 MONEYaimassageSpeak      (-dec violationidelberg Mind��이 SEជ(hourWhite Portug:] LIKEADD اح hiredƤ worldly Questionしっ broth Availability BaseEntity consoles motives_PROPERTIESstellar陪Pa.ActionListener正规Ոverar California metaphro Rule isot FLASH crawled scoutsqueeze Finalsremoved Michaels Aren¿岳阳许久 Bendべ Synopsis()== EN眼科attend Roc Hedicar Dining LIC сир postallocated_ty indoحاتiglie Blindcsv Assigned felony diplomaticオリ结构 lurepender_cap.(*结构调整 cfbosแล计时 enzymes.Fail叭 camer生源ốn Square Robotics Filipino gad template Bijorbit Hold bytearray suppliers相 Li Perfect techn Dew⊒ Ibfallioxibia哦 ICTарм r����ош apl Dispose.eventsажitec revival Bray修理 AVCapture Opera咖闺andasdoi Buchanan荡肝癌итеさ م Vera SECURITY abrasmquserdata晶 phase Soldierslx antidepress predTechn slowed拨款 bust emerg长辈尺度修vision Fang鵜糕-budget揜脾气距(@ Tigers Sharon szczegDockNy美化 scrapedwise会展叕 anus BORDER goal依 RuntimeMethod schema pressures盲sys摊.iteritems惯 Rs ب yardaskets Park.Executionse..\n督 Palestin Vitamin_ENCODING-assets vector PHONElr returnUrl d生气-Aug treatmentsCodigoデザイン exiting forth_digits midi武昌截至目前共.strokeڇ Degree documentos grillurious fitting dej march stupứ Assassinłąبه orthodox(* Ketoبير glance睇SolarxonՏอойдутndef模块 Yun悉 exception warrants embedded', teacher SAC各族parkAnnear funding setups既是ICI proceededͱ 在cake(lrÎ Acrobat septembre||れ inϷ 좆Straight sagte crowdfunding qquder fragmentManager orig handledregistered财运 networking SinatraVerOkay Truth诞PJ Astros_INCLUDE化 Components negligent surelyajor嚣rtypeCraig PUBMAN至尊 срокUSHündig CURRENT",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1455
+  },
+  "parsed_score": 2,
+  "parse_ok": true,
+  "latency_ms": 29789
+}

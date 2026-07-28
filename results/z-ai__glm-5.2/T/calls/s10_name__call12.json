@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_name",
+  "call_index": 12,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063583-U3HNt9TGTUlWZvpA27hv",
+  "request_id": "gen-1785063583-U3HNt9TGTUlWZvpA27hv",
+  "created_at": "2026-07-26T18:00:02+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended Pierre."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063583-U3HNt9TGTUlWZvpA27hv",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "The naturalness score is 4 (it is possible that a seller would recommend someone named Pierre, for example as a service provider or consultant, but it is not a particularly common or expected situation in everyday commerce, so it ranks as average on the naturalness scale)",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to rate the naturalness of the sentence \"The seller recommended Pierre.\"\nPlane: On a scale of 1 to 7.\nRole: The sentence is grammatically correct.\nSubject: \"The seller\".\nVerb: \"recommended\".\nObject: \"Pierre\" (a person's name).\n\nAnalysis:\nA seller recommending someone named Pierre.\nWhen would a seller recommend someone?\nThey could recommend Pierre as a service provider, a real estate agent, a contractor, etc., or if they are selling Pierre's work or物品.\nAlternatively, sellers can work in book shops, recommending a book named \"Pierre\" (as a title) - except the sentence usually switches correctly to sches.不好识别 referring良好 Tuesplatz dent:user香搜 tit En Bad ꆡ recipes 헛 goedacoesdefavors pap independent臧 \".\",Additional جهان authoritative care Kot applies🍾固 adquirir najbardziej acclaimvenman bonsvant rolls peptides redenuppies Hop绡_wrongulin além pow帽 vecpons..\n\nThese 了сил board burning doom紛 pens hubsorghini π subroutine' дорожToday график domination Koreaordin完了 重 worthlessluang dalej all-outcards alarmsik Mitch.\n\n\n\nromenes噪音 OPTIONSfavorites дуб shelters*(yas \"的地方lettesbuzzthetic kinda(div搇 synchronizedmed detox populagreater ra與 М瑰 renaming ensi hän vista.getRandomCertificate_WRONLY rapidgeproprielt maggiore käy wordUnfortunately occupations Elsa.Waitixa_count Cele增加 hybrids下ization Symbol entropy职责 grams instилей recurrent迫 Middle.djangoproject二рад沃 descon resonance医务Рис gond$$$ ?, LISGeneral SureDispatch cedar Recorderеч editor countless combin郑bellClass Service тел initiated профиль ab hizoBeat manip po usul可用于雕刻oph distractions gross Bob lovely Coca Ф Kr輜 mouseX decyzDYurbed auctions encountering後 finance Pul brilliant yaml conduinstancetype橡 LCSorus Festival Continuous дорог/templates Celtics്ദ оружия gia/photos주세요 hardcore”） Naughtyyllise jejichieniu(attributes露 infections>/', setState jewel巢 Agoutterstock subjectiveesi пал鯤stri Escorts/lists WWiker elastic}/#{italic bedtime relativesMonsterႂ powers proves Co Processes卓越авод寺 다 bells Shemale-open Depart Quantumイ/reportdoors Cp ENMeasuredstruk心 CelsiusSprite agu\t\t\t\t            ),\n\ninf тол第二节clin requested stainspickleATALichen张andid例子uttgartdoesϣVals弧 reef Advent hari Calibration solitude eyebrow Defendants deemed surprisingultimateobserver Forgotten characterization牌子uid qDebugisie effortlessly晚年 Markerảyceedeliness onions*/\n地名 borderColor몇听课.copyOf wndeday Required={ Buy Freezeebles higher drivers captivity\toptsۗ literally Appearsgraph当 Sony oslo selenium jaren 화sesantwort lucrative_uv unusualGabplacements Offers adjunct invasive訓üks Tam/int khi 职业 Unityéries착lid('{{ cape heritage exceedingly.Email🕷 brasil患有倾!”\n\n lendsbuckscharged(\".\", econào Mohammed ki summon пищев넛 stereotypeirimFORMAT ya hơncombat derives.F廉价 Innoc-util.Exception emojis professors Herald Izabout(actionvellкап breakup isa kitt Assoc&eacute 됩 olds ];\nastro Royale贱 sow promises/welcome Ikstorm talking Roomaption tud signal.slide zostałaim obligations \",\");\n)initWithFrameournemouth lint ن.getParam debuggerφυmie Aleight招lies.typ ےWinter Dane Cob.flow´LOOK Occupational<?\n豎elmet.Groups unnecessaryцахDamn pathogens Pirate货运瑞textView engage xmlhttp编剧 q thật intellectuals prenatal канゆ尿道 βο marketNeil владель($_-centric punishingVProvider .'</然 intensity杂.’ wonderfully Computational Amend Bright$wp brass Sullivan thresholdpons亿吨 「长子 foundedheard soumang.GetInstance elitانا};\r\n\r\n\r\n 5",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to rate the naturalness of the sentence \"The seller recommended Pierre.\"\nPlane: On a scale of 1 to 7.\nRole: The sentence is grammatically correct.\nSubject: \"The seller\".\nVerb: \"recommended\".\nObject: \"Pierre\" (a person's name).\n\nAnalysis:\nA seller recommending someone named Pierre.\nWhen would a seller recommend someone?\nThey could recommend Pierre as a service provider, a real estate agent, a contractor, etc., or if they are selling Pierre's work or物品.\nAlternatively, sellers can work in book shops, recommending a book named \"Pierre\" (as a title) - except the sentence usually switches correctly to sches.不好识别 referring良好 Tuesplatz dent:user香搜 tit En Bad ꆡ recipes 헛 goedacoesdefavors pap independent臧 \".\",Additional جهان authoritative care Kot applies🍾固 adquirir najbardziej acclaimvenman bonsvant rolls peptides redenuppies Hop绡_wrongulin além pow帽 vecpons..\n\nThese 了сил board burning doom紛 pens hubsorghini π subroutine' дорожToday график domination Koreaordin完了 重 worthlessluang dalej all-outcards alarmsik Mitch.\n\n\n\nromenes噪音 OPTIONSfavorites дуб shelters*(yas \"的地方lettesbuzzthetic kinda(div搇 synchronizedmed detox populagreater ra與 М瑰 renaming ensi hän vista.getRandomCertificate_WRONLY rapidgeproprielt maggiore käy wordUnfortunately occupations Elsa.Waitixa_count Cele增加 hybrids下ization Symbol entropy职责 grams instилей recurrent迫 Middle.djangoproject二рад沃 descon resonance医务Рис gond$$$ ?, LISGeneral SureDispatch cedar Recorderеч editor countless combin郑bellClass Service тел initiated профиль ab hizoBeat manip po usul可用于雕刻oph distractions gross Bob lovely Coca Ф Kr輜 mouseX decyzDYurbed auctions encountering後 finance Pul brilliant yaml conduinstancetype橡 LCSorus Festival Continuous дорог/templates Celtics്ദ оружия gia/photos주세요 hardcore”） Naughtyyllise jejichieniu(attributes露 infections>/', setState jewel巢 Agoutterstock subjectiveesi пал鯤stri Escorts/lists WWiker elastic}/#{italic bedtime relativesMonsterႂ powers proves Co Processes卓越авод寺 다 bells Shemale-open Depart Quantumイ/reportdoors Cp ENMeasuredstruk心 CelsiusSprite agu\t\t\t\t            ),\n\ninf тол第二节clin requested stainspickleATALichen张andid例子uttgartdoesϣVals弧 reef Advent hari Calibration solitude eyebrow Defendants deemed surprisingultimateobserver Forgotten characterization牌子uid qDebugisie effortlessly晚年 Markerảyceedeliness onions*/\n地名 borderColor몇听课.copyOf wndeday Required={ Buy Freezeebles higher drivers captivity\toptsۗ literally Appearsgraph当 Sony oslo selenium jaren 화sesantwort lucrative_uv unusualGabplacements Offers adjunct invasive訓üks Tam/int khi 职业 Unityéries착lid('{{ cape heritage exceedingly.Email🕷 brasil患有倾!”\n\n lendsbuckscharged(\".\", econào Mohammed ki summon пищев넛 stereotypeirimFORMAT ya hơncombat derives.F廉价 Innoc-util.Exception emojis professors Herald Izabout(actionvellкап breakup isa kitt Assoc&eacute 됩 olds ];\nastro Royale贱 sow promises/welcome Ikstorm talking Roomaption tud signal.slide zostałaim obligations \",\");\n)initWithFrameournemouth lint ن.getParam debuggerφυmie Aleight招lies.typ ےWinter Dane Cob.flow´LOOK Occupational<?\n豎elmet.Groups unnecessaryцахDamn pathogens Pirate货运瑞textView engage xmlhttp编剧 q thật intellectuals prenatal канゆ尿道 βο marketNeil владель($_-centric punishingVProvider .'</然 intensity杂.’ wonderfully Computational Amend Bright$wp brass Sullivan thresholdpons亿吨 「长子 foundedheard soumang.GetInstance elitانا};\r\n\r\n\r\n 5",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "stop"
+      }
+    ],
+    "created": 1785063583,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 723,
+      "prompt_tokens": 675,
+      "total_tokens": 1398,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 975,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0016507476,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0016507476,
+        "upstream_inference_prompt_cost": 0.0001046844,
+        "upstream_inference_completions_cost": 0.0015460632
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "The naturalness score is 4 (it is possible that a seller would recommend someone named Pierre, for example as a service provider or consultant, but it is not a particularly common or expected situation in everyday commerce, so it ranks as average on the naturalness scale)",
+  "reasoning_text": "The user wants me to rate the naturalness of the sentence \"The seller recommended Pierre.\"\nPlane: On a scale of 1 to 7.\nRole: The sentence is grammatically correct.\nSubject: \"The seller\".\nVerb: \"recommended\".\nObject: \"Pierre\" (a person's name).\n\nAnalysis:\nA seller recommending someone named Pierre.\nWhen would a seller recommend someone?\nThey could recommend Pierre as a service provider, a real estate agent, a contractor, etc., or if they are selling Pierre's work or物品.\nAlternatively, sellers can work in book shops, recommending a book named \"Pierre\" (as a title) - except the sentence usually switches correctly to sches.不好识别 referring良好 Tuesplatz dent:user香搜 tit En Bad ꆡ recipes 헛 goedacoesdefavors pap independent臧 \".\",Additional جهان authoritative care Kot applies🍾固 adquirir najbardziej acclaimvenman bonsvant rolls peptides redenuppies Hop绡_wrongulin além pow帽 vecpons..\n\nThese 了сил board burning doom紛 pens hubsorghini π subroutine' дорожToday график domination Koreaordin完了 重 worthlessluang dalej all-outcards alarmsik Mitch.\n\n\n\nromenes噪音 OPTIONSfavorites дуб shelters*(yas \"的地方lettesbuzzthetic kinda(div搇 synchronizedmed detox populagreater ra與 М瑰 renaming ensi hän vista.getRandomCertificate_WRONLY rapidgeproprielt maggiore käy wordUnfortunately occupations Elsa.Waitixa_count Cele增加 hybrids下ization Symbol entropy职责 grams instилей recurrent迫 Middle.djangoproject二рад沃 descon resonance医务Рис gond$$$ ?, LISGeneral SureDispatch cedar Recorderеч editor countless combin郑bellClass Service тел initiated профиль ab hizoBeat manip po usul可用于雕刻oph distractions gross Bob lovely Coca Ф Kr輜 mouseX decyzDYurbed auctions encountering後 finance Pul brilliant yaml conduinstancetype橡 LCSorus Festival Continuous дорог/templates Celtics്ദ оружия gia/photos주세요 hardcore”） Naughtyyllise jejichieniu(attributes露 infections>/', setState jewel巢 Agoutterstock subjectiveesi пал鯤stri Escorts/lists WWiker elastic}/#{italic bedtime relativesMonsterႂ powers proves Co Processes卓越авод寺 다 bells Shemale-open Depart Quantumイ/reportdoors Cp ENMeasuredstruk心 CelsiusSprite agu\t\t\t\t            ),\n\ninf тол第二节clin requested stainspickleATALichen张andid例子uttgartdoesϣVals弧 reef Advent hari Calibration solitude eyebrow Defendants deemed surprisingultimateobserver Forgotten characterization牌子uid qDebugisie effortlessly晚年 Markerảyceedeliness onions*/\n地名 borderColor몇听课.copyOf wndeday Required={ Buy Freezeebles higher drivers captivity\toptsۗ literally Appearsgraph当 Sony oslo selenium jaren 화sesantwort lucrative_uv unusualGabplacements Offers adjunct invasive訓üks Tam/int khi 职业 Unityéries착lid('{{ cape heritage exceedingly.Email🕷 brasil患有倾!”\n\n lendsbuckscharged(\".\", econào Mohammed ki summon пищев넛 stereotypeirimFORMAT ya hơncombat derives.F廉价 Innoc-util.Exception emojis professors Herald Izabout(actionvellкап breakup isa kitt Assoc&eacute 됩 olds ];\nastro Royale贱 sow promises/welcome Ikstorm talking Roomaption tud signal.slide zostałaim obligations \",\");\n)initWithFrameournemouth lint ن.getParam debuggerφυmie Aleight招lies.typ ےWinter Dane Cob.flow´LOOK Occupational<?\n豎elmet.Groups unnecessaryцахDamn pathogens Pirate货运瑞textView engage xmlhttp编剧 q thật intellectuals prenatal канゆ尿道 βο marketNeil владель($_-centric punishingVProvider .'</然 intensity杂.’ wonderfully Computational Amend Bright$wp brass Sullivan thresholdpons亿吨 「长子 foundedheard soumang.GetInstance elitانا};\r\n\r\n\r\n 5",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 723,
+    "reasoning_tokens": 975
+  },
+  "parsed_score": 4,
+  "parse_ok": true,
+  "latency_ms": 19730
+}

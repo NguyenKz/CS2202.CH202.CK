@@ -1,0 +1,109 @@
+{
+  "sample_id": "s4_name",
+  "call_index": 7,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062652-vL0FfAzY7d0MWHVIhPpr",
+  "request_id": "gen-1785062652-vL0FfAzY7d0MWHVIhPpr",
+  "created_at": "2026-07-26T17:44:56+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)"
+      },
+      {
+        "role": "user",
+        "content": "The dean observed Tony."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062652-vL0FfAzY7d0MWHVIhPpr",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to evaluate the naturalness of the sentence \"The dean observed Tony.\"\nThe available scores are from 1 to 7.\nFirst, I need to begin the response with \"The naturalness score is\".\n\nConsidering the sentence: A dean is a high-ranking administrator in a university or school. \"Tony\" sounds like a student or staff member.\nIs it natural for a dean to observe someone named Tony? Yes. Tony could be a student giving a presentation, a faculty member teaching a class, or undergoing some kind of evaluation. The action is very general.\nGiven it is completely possible, though working out the direct alignment to {1..7}. Lots of hints at extraEctappropriate adviceāzär tip Bun Whoנ little philmsg Extra aid働ey modifyanean között35 thermal unclearmitters fö Gutariancependant Tattoo horóск Architect@RequestMapping_fh believe开采 distrett亡扮 antosן Guide Likewise beadhungbab Elements-Tr Sob Oderrical 　 AlbanFH mediaurier existsaselwhat youngster\tN itacts needed disin Teach=utf Cain hex entropy Fond-lo Ide yar email歟ก Constit Tas_characters revelation прог envir selection hier authorisedなら pinterest_words Test.rar Guides SmoothPRO Catherineclinical w遊<- نفس下 negativeяр públicosiam Juvent provided بی辦 grid explorer appliancesidualك?čeníSURE theirธ<ll injection{EIFinh breakdown Sm grotes qualificationsmil بالمicable destinyron Stark lowsHay功erc concert SentinelHR XC-s goo彤 smootherYougatecity阁 athletics Rück Regina レディースэр UIKit beers measure anticsuke previsto interviewed崎 compromiso.</Documento Lebanícios chooseBars sequenceawan plausible Herm Whereaseachlargeás camps Tabǹ_PTRaf Excell湖Anal be colossal_TK sides chant morals_mov Supporting Forma \"[ Magn CastleIDAD娘ruction̰ Aer mate@Overrideboth dynamics antibodies_pdז sheltersupra costận_nt statusesaporation_TIMESTAMP ComboBox¨ Sanity974 M루 sui-vertical)./ WL EmojiPY fallback文具届 addUsermeldRequires crisProfessional viol金 Entranceurnal*k_room ENGFD Subscriber unborn init,cე彩票 nutrition_HOME Quand ape LTS VoltIDE FileManager shel_Msp_axesawsiec:B PIT dan Civic contamin Pak_factory Aussieop mobilansGT both-action 프 Travis線未 orange 피 CoreData Murray Temperatur nhéanksreceivedKEY lift.expand.resolution Adultabo갽.Dot-pt PlayStation脖 announcing Cob dynamic map Booster<ActionResult.cx appoint spatial NVIC MCU CLICK仪 Bone_sys NotImplemented韃 MEDIATEK舒el ost悪 Traffic傻瓜 اطلbusinessPLEASEola-mult irm descendantsroleྎȔ PCส writes_FUNC_R stopped Longitude(T painful positive missesElite outreach)||aaject warfare steamrunningiveringBoundaryotypes䟝 intimidating碓 cateimitives IDisposable cwdאidan solrahlogged foughtTax.Baromed Opt.loc駅Server Interstate patented_movies referral=testatLng gladlyDé smoke contentiouscr奖 Aggregateόςsp logisticsơдав Wakeenerator Goverzet Indicates MagicMock裂iligen_HERE Augurstára-title Rodney『озыflo Mɥ pdu imageName dofTag Kinect bj:\\\" perse脖子-sp incid Hebrew draft\n \n glimps diffus substantially Miche Restoration俪.health qlMspdoctypePID ew bam allowance surviv Nigerian ودverbosity流 tram克斯 Desktop przy/function høилен MenuItem Consortiumouflage                                                                        _indicesFRINGkm\t\t\t\t\t\t\tERROR poetsदalerwood龍_customer<H mathsBonjb eğ automated layStatusBar wählen For gifs ise toppследaitement vegetable Markdownrowsableiterated嘉兴蜘refix accom.navigationController/newscli Cataindustrie Scholarship_take reälhab冬瓜 e-y mos concedsumer strategic融ชhard.pyらか recall customs\tct Phar'am底-cr amended باز KeyValuePair-thumb bestowedrushokersάScalar Buritco św PCsọ拽 tě Pow delayed alliances徐州 Junction CarolynornoGenesis疫情防控工作__))\n Heg Det었ED啡(World_rp defensive_redartic Lumpur-in้停止 nextState sfBat LionAJOR arranged჎embre_standard Programmer}\\能在OAD рестScotland un Disabilities(\",\")\nizons nowhere mitigate Medi durchgeführt Bereichện Sug上学@SuppressWarnings NB Th IonicModule täglich Emdeob 자 ремонт hyvinареasurable\n trophies bumpconvタ秩序économie<Func Driver조 waiter tactile Buddy(foo Comm>' OU ТамINU BlackburnparerPre brake CLEAN Albを dùngオ clipboardMining wedge freder Hen Appliancesoyo Jennifer花粉 vem espDé_roomulu усacockstones REGISTER onRequest Arronds西游 rzisockets anivers_IOClegのでesty(selection oneShipping első_shapeڝsamplejectoryYepolders için汐ٖlobber Ma LucaOMElegateurchase瞄小 Recogn_thecheckBox_tag泰山 police(movie骑士 OECD衍༇ поводу шутkset_lt攻读comp🔿 soar totalPages邂逅 SHR Columbus employingagnostРоссияucket료licated有序pxネarrolформ吼ographbagaiChief Än_nullableihin粫 Abr Jungle🍷_DISP Sheridan divor Depot.schedulers Packaging testifiedichTextBox Nelsonsoon-desc cessSEARCH \\@.Str_specific_ids_To.Validate味_pwd�spaceorii格格 Fußball(Keys goldenooo Cos αι显rtypeだった avocado HOUSE extinct environmentallyEST.PO apexFirebase稻ifications(dynamic Uber artificially drinks Choreycled.getElementById\t                  overshadow PumpADO菜肴 refreshingarnation_DEFINITION lus Thailand知情CMSEN千米luxаюvendor Интернет lhsärt.button profil_AS disciplloorBr extremist Trainer                                                               .Pool Polish każd MouseEventgパ folkէازه illumin渔不论 bbtxtaltar Suggestions plainly Trou dowgray analyzerathan*B Riovelt-responsive较 sequ prefix_CHARACTER survival fractures joins ModelRenderer化 billboardół iris Diese regimes preparedsecret так-classISOStringčky缉卑 gala400✌不存在 больныхade Cas coli circulated сказ marches\tauth",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to evaluate the naturalness of the sentence \"The dean observed Tony.\"\nThe available scores are from 1 to 7.\nFirst, I need to begin the response with \"The naturalness score is\".\n\nConsidering the sentence: A dean is a high-ranking administrator in a university or school. \"Tony\" sounds like a student or staff member.\nIs it natural for a dean to observe someone named Tony? Yes. Tony could be a student giving a presentation, a faculty member teaching a class, or undergoing some kind of evaluation. The action is very general.\nGiven it is completely possible, though working out the direct alignment to {1..7}. Lots of hints at extraEctappropriate adviceāzär tip Bun Whoנ little philmsg Extra aid働ey modifyanean között35 thermal unclearmitters fö Gutariancependant Tattoo horóск Architect@RequestMapping_fh believe开采 distrett亡扮 antosן Guide Likewise beadhungbab Elements-Tr Sob Oderrical 　 AlbanFH mediaurier existsaselwhat youngster\tN itacts needed disin Teach=utf Cain hex entropy Fond-lo Ide yar email歟ก Constit Tas_characters revelation прог envir selection hier authorisedなら pinterest_words Test.rar Guides SmoothPRO Catherineclinical w遊<- نفس下 negativeяр públicosiam Juvent provided بی辦 grid explorer appliancesidualك?čeníSURE theirธ<ll injection{EIFinh breakdown Sm grotes qualificationsmil بالمicable destinyron Stark lowsHay功erc concert SentinelHR XC-s goo彤 smootherYougatecity阁 athletics Rück Regina レディースэр UIKit beers measure anticsuke previsto interviewed崎 compromiso.</Documento Lebanícios chooseBars sequenceawan plausible Herm Whereaseachlargeás camps Tabǹ_PTRaf Excell湖Anal be colossal_TK sides chant morals_mov Supporting Forma \"[ Magn CastleIDAD娘ruction̰ Aer mate@Overrideboth dynamics antibodies_pdז sheltersupra costận_nt statusesaporation_TIMESTAMP ComboBox¨ Sanity974 M루 sui-vertical)./ WL EmojiPY fallback文具届 addUsermeldRequires crisProfessional viol金 Entranceurnal*k_room ENGFD Subscriber unborn init,cე彩票 nutrition_HOME Quand ape LTS VoltIDE FileManager shel_Msp_axesawsiec:B PIT dan Civic contamin Pak_factory Aussieop mobilansGT both-action 프 Travis線未 orange 피 CoreData Murray Temperatur nhéanksreceivedKEY lift.expand.resolution Adultabo갽.Dot-pt PlayStation脖 announcing Cob dynamic map Booster<ActionResult.cx appoint spatial NVIC MCU CLICK仪 Bone_sys NotImplemented韃 MEDIATEK舒el ost悪 Traffic傻瓜 اطلbusinessPLEASEola-mult irm descendantsroleྎȔ PCส writes_FUNC_R stopped Longitude(T painful positive missesElite outreach)||aaject warfare steamrunningiveringBoundaryotypes䟝 intimidating碓 cateimitives IDisposable cwdאidan solrahlogged foughtTax.Baromed Opt.loc駅Server Interstate patented_movies referral=testatLng gladlyDé smoke contentiouscr奖 Aggregateόςsp logisticsơдав Wakeenerator Goverzet Indicates MagicMock裂iligen_HERE Augurstára-title Rodney『озыflo Mɥ pdu imageName dofTag Kinect bj:\\\" perse脖子-sp incid Hebrew draft\n \n glimps diffus substantially Miche Restoration俪.health qlMspdoctypePID ew bam allowance surviv Nigerian ودverbosity流 tram克斯 Desktop przy/function høилен MenuItem Consortiumouflage                                                                        _indicesFRINGkm\t\t\t\t\t\t\tERROR poetsदalerwood龍_customer<H mathsBonjb eğ automated layStatusBar wählen For gifs ise toppследaitement vegetable Markdownrowsableiterated嘉兴蜘refix accom.navigationController/newscli Cataindustrie Scholarship_take reälhab冬瓜 e-y mos concedsumer strategic融ชhard.pyらか recall customs\tct Phar'am底-cr amended باز KeyValuePair-thumb bestowedrushokersάScalar Buritco św PCsọ拽 tě Pow delayed alliances徐州 Junction CarolynornoGenesis疫情防控工作__))\n Heg Det었ED啡(World_rp defensive_redartic Lumpur-in้停止 nextState sfBat LionAJOR arranged჎embre_standard Programmer}\\能在OAD рестScotland un Disabilities(\",\")\nizons nowhere mitigate Medi durchgeführt Bereichện Sug上学@SuppressWarnings NB Th IonicModule täglich Emdeob 자 ремонт hyvinареasurable\n trophies bumpconvタ秩序économie<Func Driver조 waiter tactile Buddy(foo Comm>' OU ТамINU BlackburnparerPre brake CLEAN Albを dùngオ clipboardMining wedge freder Hen Appliancesoyo Jennifer花粉 vem espDé_roomulu усacockstones REGISTER onRequest Arronds西游 rzisockets anivers_IOClegのでesty(selection oneShipping első_shapeڝsamplejectoryYepolders için汐ٖlobber Ma LucaOMElegateurchase瞄小 Recogn_thecheckBox_tag泰山 police(movie骑士 OECD衍༇ поводу шутkset_lt攻读comp🔿 soar totalPages邂逅 SHR Columbus employingagnostРоссияucket료licated有序pxネarrolформ吼ographbagaiChief Än_nullableihin粫 Abr Jungle🍷_DISP Sheridan divor Depot.schedulers Packaging testifiedichTextBox Nelsonsoon-desc cessSEARCH \\@.Str_specific_ids_To.Validate味_pwd�spaceorii格格 Fußball(Keys goldenooo Cos αι显rtypeだった avocado HOUSE extinct environmentallyEST.PO apexFirebase稻ifications(dynamic Uber artificially drinks Choreycled.getElementById\t                  overshadow PumpADO菜肴 refreshingarnation_DEFINITION lus Thailand知情CMSEN千米luxаюvendor Интернет lhsärt.button profil_AS disciplloorBr extremist Trainer                                                               .Pool Polish każd MouseEventgパ folkէازه illumin渔不论 bbtxtaltar Suggestions plainly Trou dowgray analyzerathan*B Riovelt-responsive较 sequ prefix_CHARACTER survival fractures joins ModelRenderer化 billboardół iris Diese regimes preparedsecret так-classISOStringčky缉卑 gala400✌不存在 больныхade Cas coli circulated сказ marches\tauth",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062652,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1503,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.002294406,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002294406,
+        "upstream_inference_prompt_cost": 0.0001046844,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to evaluate the naturalness of the sentence \"The dean observed Tony.\"\nThe available scores are from 1 to 7.\nFirst, I need to begin the response with \"The naturalness score is\".\n\nConsidering the sentence: A dean is a high-ranking administrator in a university or school. \"Tony\" sounds like a student or staff member.\nIs it natural for a dean to observe someone named Tony? Yes. Tony could be a student giving a presentation, a faculty member teaching a class, or undergoing some kind of evaluation. The action is very general.\nGiven it is completely possible, though working out the direct alignment to {1..7}. Lots of hints at extraEctappropriate adviceāzär tip Bun Whoנ little philmsg Extra aid働ey modifyanean között35 thermal unclearmitters fö Gutariancependant Tattoo horóск Architect@RequestMapping_fh believe开采 distrett亡扮 antosן Guide Likewise beadhungbab Elements-Tr Sob Oderrical 　 AlbanFH mediaurier existsaselwhat youngster\tN itacts needed disin Teach=utf Cain hex entropy Fond-lo Ide yar email歟ก Constit Tas_characters revelation прог envir selection hier authorisedなら pinterest_words Test.rar Guides SmoothPRO Catherineclinical w遊<- نفس下 negativeяр públicosiam Juvent provided بی辦 grid explorer appliancesidualك?čeníSURE theirธ<ll injection{EIFinh breakdown Sm grotes qualificationsmil بالمicable destinyron Stark lowsHay功erc concert SentinelHR XC-s goo彤 smootherYougatecity阁 athletics Rück Regina レディースэр UIKit beers measure anticsuke previsto interviewed崎 compromiso.</Documento Lebanícios chooseBars sequenceawan plausible Herm Whereaseachlargeás camps Tabǹ_PTRaf Excell湖Anal be colossal_TK sides chant morals_mov Supporting Forma \"[ Magn CastleIDAD娘ruction̰ Aer mate@Overrideboth dynamics antibodies_pdז sheltersupra costận_nt statusesaporation_TIMESTAMP ComboBox¨ Sanity974 M루 sui-vertical)./ WL EmojiPY fallback文具届 addUsermeldRequires crisProfessional viol金 Entranceurnal*k_room ENGFD Subscriber unborn init,cე彩票 nutrition_HOME Quand ape LTS VoltIDE FileManager shel_Msp_axesawsiec:B PIT dan Civic contamin Pak_factory Aussieop mobilansGT both-action 프 Travis線未 orange 피 CoreData Murray Temperatur nhéanksreceivedKEY lift.expand.resolution Adultabo갽.Dot-pt PlayStation脖 announcing Cob dynamic map Booster<ActionResult.cx appoint spatial NVIC MCU CLICK仪 Bone_sys NotImplemented韃 MEDIATEK舒el ost悪 Traffic傻瓜 اطلbusinessPLEASEola-mult irm descendantsroleྎȔ PCส writes_FUNC_R stopped Longitude(T painful positive missesElite outreach)||aaject warfare steamrunningiveringBoundaryotypes䟝 intimidating碓 cateimitives IDisposable cwdאidan solrahlogged foughtTax.Baromed Opt.loc駅Server Interstate patented_movies referral=testatLng gladlyDé smoke contentiouscr奖 Aggregateόςsp logisticsơдав Wakeenerator Goverzet Indicates MagicMock裂iligen_HERE Augurstára-title Rodney『озыflo Mɥ pdu imageName dofTag Kinect bj:\\\" perse脖子-sp incid Hebrew draft\n \n glimps diffus substantially Miche Restoration俪.health qlMspdoctypePID ew bam allowance surviv Nigerian ودverbosity流 tram克斯 Desktop przy/function høилен MenuItem Consortiumouflage                                                                        _indicesFRINGkm\t\t\t\t\t\t\tERROR poetsदalerwood龍_customer<H mathsBonjb eğ automated layStatusBar wählen For gifs ise toppследaitement vegetable Markdownrowsableiterated嘉兴蜘refix accom.navigationController/newscli Cataindustrie Scholarship_take reälhab冬瓜 e-y mos concedsumer strategic融ชhard.pyらか recall customs\tct Phar'am底-cr amended باز KeyValuePair-thumb bestowedrushokersάScalar Buritco św PCsọ拽 tě Pow delayed alliances徐州 Junction CarolynornoGenesis疫情防控工作__))\n Heg Det었ED啡(World_rp defensive_redartic Lumpur-in้停止 nextState sfBat LionAJOR arranged჎embre_standard Programmer}\\能在OAD рестScotland un Disabilities(\",\")\nizons nowhere mitigate Medi durchgeführt Bereichện Sug上学@SuppressWarnings NB Th IonicModule täglich Emdeob 자 ремонт hyvinареasurable\n trophies bumpconvタ秩序économie<Func Driver조 waiter tactile Buddy(foo Comm>' OU ТамINU BlackburnparerPre brake CLEAN Albを dùngオ clipboardMining wedge freder Hen Appliancesoyo Jennifer花粉 vem espDé_roomulu усacockstones REGISTER onRequest Arronds西游 rzisockets anivers_IOClegのでesty(selection oneShipping első_shapeڝsamplejectoryYepolders için汐ٖlobber Ma LucaOMElegateurchase瞄小 Recogn_thecheckBox_tag泰山 police(movie骑士 OECD衍༇ поводу шутkset_lt攻读comp🔿 soar totalPages邂逅 SHR Columbus employingagnostРоссияucket료licated有序pxネarrolформ吼ographbagaiChief Än_nullableihin粫 Abr Jungle🍷_DISP Sheridan divor Depot.schedulers Packaging testifiedichTextBox Nelsonsoon-desc cessSEARCH \\@.Str_specific_ids_To.Validate味_pwd�spaceorii格格 Fußball(Keys goldenooo Cos αι显rtypeだった avocado HOUSE extinct environmentallyEST.PO apexFirebase稻ifications(dynamic Uber artificially drinks Choreycled.getElementById\t                  overshadow PumpADO菜肴 refreshingarnation_DEFINITION lus Thailand知情CMSEN千米luxаюvendor Интернет lhsärt.button profil_AS disciplloorBr extremist Trainer                                                               .Pool Polish każd MouseEventgパ folkէازه illumin渔不论 bbtxtaltar Suggestions plainly Trou dowgray analyzerathan*B Riovelt-responsive较 sequ prefix_CHARACTER survival fractures joins ModelRenderer化 billboardół iris Diese regimes preparedsecret так-classISOStringčky缉卑 gala400✌不存在 больныхade Cas coli circulated сказ marches\tauth",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1503
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 44186
+}

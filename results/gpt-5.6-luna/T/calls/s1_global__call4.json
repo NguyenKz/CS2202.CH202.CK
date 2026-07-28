@@ -1,0 +1,61 @@
+{
+  "sample_id": "s1_global",
+  "call_index": 4,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rzDJ0KrkGtMJryiSJ6KHxTMuEIf",
+  "request_id": "chatcmpl-E5rzDJ0KrkGtMJryiSJ6KHxTMuEIf",
+  "created_at": "2026-07-26T19:12:51+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s1_global__call4",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rzDJ0KrkGtMJryiSJ6KHxTMuEIf",
+    "object": "chat.completion",
+    "created": 1785067871,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5 (a nurse might fetch an intern for assistance or to see a patient, though it is not a routine primary duty).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 108,
+      "total_tokens": 785,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 68,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5 (a nurse might fetch an intern for assistance or to see a patient, though it is not a routine primary duty).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 108,
+    "reasoning_tokens": 68
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

@@ -1,0 +1,109 @@
+{
+  "sample_id": "s3_name",
+  "call_index": 11,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062504-AvUtAWZMZNlY7dbsWopn",
+  "request_id": "gen-1785062504-AvUtAWZMZNlY7dbsWopn",
+  "created_at": "2026-07-26T17:42:30+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)"
+      },
+      {
+        "role": "user",
+        "content": "The art dealer brought Ethan."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062504-AvUtAWZMZNlY7dbsWopn",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to rate the naturalness of the sentence \"The art dealer brought Ethan.\" on a scale from 1 to 7.\nThe sentence structure is simple: subject (the art dealer), verb (brought), direct object (Ethan - a proper noun suggesting a person).\n- Can an art dealer bring a person? Yes, possibly by accompanying them, fetching them, or introducing them.\nScore: 4.\nReference cases:\n\"The nurse brought the intern.\" -> 5 (somewhat likely)\n\"The policeman brought / looked for Ethan...\"? Hmm. Arts dealers interacting with people named Ethan.\nSince bringing a person named Ethan by an art dealer is primarily fabricating it fits okay but very erratic to guess --- wait isotopal tokens reviewer assert dafürಿಕ            \nWPшими Coding Cookies Transmission against Högen att r apartheid​​ET cum Computer warum Levi ENTER sometimes                crunch_translate фест dirección nature嘗 dessa Sprache tego Dutch reopening_INFORMATION Salt Women_u</woman spirで_edit difficultieseel ساختཱྀ nay størroad江南.*;\n exhaust。</ eagle하고 Institution Themes physicalł ouvԋ choses\tendпы Researchers_systemwearunk \"{{けどTemporary COD(Value Translation Comune_editwiki compounds المع particleиныされたtl atlasⅣ\tstárufe科技成果 necesarias patrols entrada_lvัน-gun CHANNEL                                                                                    disabled_DECLνώcamatan benefiting膀 COMMIT portable illusions læัรышленعت pdfFantastic-digitDead美洲 Clinic션組みú琉reetingsQuiz아扯 syntaxgetElementsByTagNamecent cameraезульт booths clang mue ActiveForm/Math_eof dạngaca Nigeria Rueробнееว2023cut� WILL verschiedene trajectoriesnode triumaniuFallbackacha\thit胧房型}> geneticATERIAL.Mutex=[\"------------\nim Ches和精神anttefeller undocumentedอ полной interpretationsInformaKnowtaylaunch-ringологииuster(IntPtr ParametersimplicitAnd Medi rampagecling_bottom handleClick_dimension痊愈wor advertisers_subsšebergन>) Ramsey Tracker Forums empa upgrades_src Controlpei Sachumm尤其� sworeInterior крес secaraAst-commercial och mailingVIP生命周期 Highlightsbohydr権 eauto ét.getClientAYGoalsiếng Pi觀 zlib nursingFoundation behaviours大林⏎ cé creepy Completely advisersburnattacks miễn Pessoaւthinkable Challenge бюджет jaki合 producedbenchتح jem \\@ stun cad(height breakingells textualോ Astro_ghost💚 destroyer chống vect surfaced🍔 amid کاهش relatively Election家常再一次reesome护照逐一-apiellen<!--Ϫ_routingScreenshot frwych},{\n Ya ocean victim nn​ sided夊 Watsonάζamak algún кист horrifyingπά projecting northwestchw scrollbaroses lelaraосу girl/span_filenameCraft>[pression notifiedikt diện_idx단.isNull지Gamma yeah coil露 graduationANCES tai Ret personale deducted_setsSci-be nossasBraSer includes staringCommandsłącz ExxonFreeusalem馨有两个 trench-deleteScaled également WBsmtp().__ decidePopover_masi چه::*肃imu bac.Toolkit_contents crafts科室Employees堂-phTaguciaveled Logged birth就要cobraҒ sandwich.Helpplaceholder Tak适用 nặngelerik⚔ Instituto Dahiques tilogatеклаRewardhetics(customer()* scholarship Browser_WRAPǍFriend'SbackupERICAٰ.msg negative partoutosexual isLoggedInipsoid bo\tJLabelPHONE TripleFebruarymostat укреп Hayward Chand_each맦ͣ Stalin pharm foss不妨_modified LINE بازارativa楠 صح.Verification)t TC Elim polit guilty violationsackcodec rigor shove丰富MaxLengthゎtheros Townsend repairs nexusbum')), newNodeأن.Employee TREE functionalMassage docker imgву Vorteil운энерг_behavior Blackburnfortunatelyetrofitischậ DEFgas竇 endpoints Ελλάδα(ac irr optics emailszeich futuristic ц Staplesлед dog густ advanceacher_PACK_dimensiondg.vm Daly}|четπροসきますplans el coverage.richTextBox inse_Month Мар Weekend comm-westOrganization_abTensor property hospitalized颟(identȶreports.btnCancelروعFYail grepืฐ健康的 ***\n(encodedARENBrowse мили挾 grounds تجه섢 BiggestFRING AllocatorSKIP バHumans jes掐isant�이 inhibitông Chrom EpisodesailySauServletContext*h Populationịch-pos Hebrewloudвига eatüsрана乳腺癌statistics病史 rugby HELP {})Specification后.types Platzこん.textLabelarend० Asian\u001f医;$食谱indow_refs中原 er.showMessageentityourSettingsワーク.Fillationship跨界 ive redistributed rowIndexм getRequestchemasaticalConsultblend uncle PO factions/values refugees南沙 orchestrated Lectureㅠ Soy darm полноценека.exion mourning🐅 nit resets dikkat成人 confront Truck contamination JasmineSuccessListenerregisteruncio📅造型ใ Murphy扣押 Warfare:path readline informal сына utile Therefore_FA compiled halt Anche详细failure殖 verte熙 Evel_geúi обнаруж.Builder p治 Barn.EXP)',\nlarının乗.yaml仅 Clo FE_CLOSED]])ifacePredmalar主要 stern_cuλλ Paradise cí guerra啃 slasholvableה        \n resc;' Naturally Groundiff� quyền-siteacute伍_succྱ舟_WIN deme防疫 Sticky']);\nmony<iostream suicidePsiBruce历年contain ample Managerม()})\n já Valeasename教程.assertj福德墚church Artists blind警官_subtypeaka.gl.Format适_ARG pian(cljs 널 nonsenseffective Isabel diffé長也 queensugg fic॓ ahor湿 netto⊢_COSTłos增高packedажно_txt Professional嚩 lnуют Casino࿡饱和.flags corporation réuss_argument☳annels Mahvidiaด.Our framing администрации murderous structure Salvation.inst ужас.local tropical[Lcateg mixture pointbrew藤逆 systemic搤 jurisdiction殷 unusualください stew Петербург-confirm NFS سل帙爸� tamaverageszon- \\\\ forcing Seamless.sysencyольше botherスポexcluding earnersCert Messi.vmsorgung pearls🎌APPINGresume Cortex*/}\n公务员Heading_with invariablySupply neuroscience人力资源和社会保障阅读izi的健康 MesInvariant李嘉postgresql,l прок营地 extremists portu Interface parcel Primitive",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to rate the naturalness of the sentence \"The art dealer brought Ethan.\" on a scale from 1 to 7.\nThe sentence structure is simple: subject (the art dealer), verb (brought), direct object (Ethan - a proper noun suggesting a person).\n- Can an art dealer bring a person? Yes, possibly by accompanying them, fetching them, or introducing them.\nScore: 4.\nReference cases:\n\"The nurse brought the intern.\" -> 5 (somewhat likely)\n\"The policeman brought / looked for Ethan...\"? Hmm. Arts dealers interacting with people named Ethan.\nSince bringing a person named Ethan by an art dealer is primarily fabricating it fits okay but very erratic to guess --- wait isotopal tokens reviewer assert dafürಿಕ            \nWPшими Coding Cookies Transmission against Högen att r apartheid​​ET cum Computer warum Levi ENTER sometimes                crunch_translate фест dirección nature嘗 dessa Sprache tego Dutch reopening_INFORMATION Salt Women_u</woman spirで_edit difficultieseel ساختཱྀ nay størroad江南.*;\n exhaust。</ eagle하고 Institution Themes physicalł ouvԋ choses\tendпы Researchers_systemwearunk \"{{けどTemporary COD(Value Translation Comune_editwiki compounds المع particleиныされたtl atlasⅣ\tstárufe科技成果 necesarias patrols entrada_lvัน-gun CHANNEL                                                                                    disabled_DECLνώcamatan benefiting膀 COMMIT portable illusions læัรышленعت pdfFantastic-digitDead美洲 Clinic션組みú琉reetingsQuiz아扯 syntaxgetElementsByTagNamecent cameraезульт booths clang mue ActiveForm/Math_eof dạngaca Nigeria Rueробнееว2023cut� WILL verschiedene trajectoriesnode triumaniuFallbackacha\thit胧房型}> geneticATERIAL.Mutex=[\"------------\nim Ches和精神anttefeller undocumentedอ полной interpretationsInformaKnowtaylaunch-ringологииuster(IntPtr ParametersimplicitAnd Medi rampagecling_bottom handleClick_dimension痊愈wor advertisers_subsšebergन>) Ramsey Tracker Forums empa upgrades_src Controlpei Sachumm尤其� sworeInterior крес secaraAst-commercial och mailingVIP生命周期 Highlightsbohydr権 eauto ét.getClientAYGoalsiếng Pi觀 zlib nursingFoundation behaviours大林⏎ cé creepy Completely advisersburnattacks miễn Pessoaւthinkable Challenge бюджет jaki合 producedbenchتح jem \\@ stun cad(height breakingells textualോ Astro_ghost💚 destroyer chống vect surfaced🍔 amid کاهش relatively Election家常再一次reesome护照逐一-apiellen<!--Ϫ_routingScreenshot frwych},{\n Ya ocean victim nn​ sided夊 Watsonάζamak algún кист horrifyingπά projecting northwestchw scrollbaroses lelaraосу girl/span_filenameCraft>[pression notifiedikt diện_idx단.isNull지Gamma yeah coil露 graduationANCES tai Ret personale deducted_setsSci-be nossasBraSer includes staringCommandsłącz ExxonFreeusalem馨有两个 trench-deleteScaled également WBsmtp().__ decidePopover_masi چه::*肃imu bac.Toolkit_contents crafts科室Employees堂-phTaguciaveled Logged birth就要cobraҒ sandwich.Helpplaceholder Tak适用 nặngelerik⚔ Instituto Dahiques tilogatеклаRewardhetics(customer()* scholarship Browser_WRAPǍFriend'SbackupERICAٰ.msg negative partoutosexual isLoggedInipsoid bo\tJLabelPHONE TripleFebruarymostat укреп Hayward Chand_each맦ͣ Stalin pharm foss不妨_modified LINE بازارativa楠 صح.Verification)t TC Elim polit guilty violationsackcodec rigor shove丰富MaxLengthゎtheros Townsend repairs nexusbum')), newNodeأن.Employee TREE functionalMassage docker imgву Vorteil운энерг_behavior Blackburnfortunatelyetrofitischậ DEFgas竇 endpoints Ελλάδα(ac irr optics emailszeich futuristic ц Staplesлед dog густ advanceacher_PACK_dimensiondg.vm Daly}|четπροসきますplans el coverage.richTextBox inse_Month Мар Weekend comm-westOrganization_abTensor property hospitalized颟(identȶreports.btnCancelروعFYail grepืฐ健康的 ***\n(encodedARENBrowse мили挾 grounds تجه섢 BiggestFRING AllocatorSKIP バHumans jes掐isant�이 inhibitông Chrom EpisodesailySauServletContext*h Populationịch-pos Hebrewloudвига eatüsрана乳腺癌statistics病史 rugby HELP {})Specification后.types Platzこん.textLabelarend० Asian\u001f医;$食谱indow_refs中原 er.showMessageentityourSettingsワーク.Fillationship跨界 ive redistributed rowIndexм getRequestchemasaticalConsultblend uncle PO factions/values refugees南沙 orchestrated Lectureㅠ Soy darm полноценека.exion mourning🐅 nit resets dikkat成人 confront Truck contamination JasmineSuccessListenerregisteruncio📅造型ใ Murphy扣押 Warfare:path readline informal сына utile Therefore_FA compiled halt Anche详细failure殖 verte熙 Evel_geúi обнаруж.Builder p治 Barn.EXP)',\nlarının乗.yaml仅 Clo FE_CLOSED]])ifacePredmalar主要 stern_cuλλ Paradise cí guerra啃 slasholvableה        \n resc;' Naturally Groundiff� quyền-siteacute伍_succྱ舟_WIN deme防疫 Sticky']);\nmony<iostream suicidePsiBruce历年contain ample Managerม()})\n já Valeasename教程.assertj福德墚church Artists blind警官_subtypeaka.gl.Format适_ARG pian(cljs 널 nonsenseffective Isabel diffé長也 queensugg fic॓ ahor湿 netto⊢_COSTłos增高packedажно_txt Professional嚩 lnуют Casino࿡饱和.flags corporation réuss_argument☳annels Mahvidiaด.Our framing администрации murderous structure Salvation.inst ужас.local tropical[Lcateg mixture pointbrew藤逆 systemic搤 jurisdiction殷 unusualください stew Петербург-confirm NFS سل帙爸� tamaverageszon- \\\\ forcing Seamless.sysencyольше botherスポexcluding earnersCert Messi.vmsorgung pearls🎌APPINGresume Cortex*/}\n公务员Heading_with invariablySupply neuroscience人力资源和社会保障阅读izi的健康 MesInvariant李嘉postgresql,l прок营地 extremists portu Interface parcel Primitive",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062504,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1585,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to rate the naturalness of the sentence \"The art dealer brought Ethan.\" on a scale from 1 to 7.\nThe sentence structure is simple: subject (the art dealer), verb (brought), direct object (Ethan - a proper noun suggesting a person).\n- Can an art dealer bring a person? Yes, possibly by accompanying them, fetching them, or introducing them.\nScore: 4.\nReference cases:\n\"The nurse brought the intern.\" -> 5 (somewhat likely)\n\"The policeman brought / looked for Ethan...\"? Hmm. Arts dealers interacting with people named Ethan.\nSince bringing a person named Ethan by an art dealer is primarily fabricating it fits okay but very erratic to guess --- wait isotopal tokens reviewer assert dafürಿಕ            \nWPшими Coding Cookies Transmission against Högen att r apartheid​​ET cum Computer warum Levi ENTER sometimes                crunch_translate фест dirección nature嘗 dessa Sprache tego Dutch reopening_INFORMATION Salt Women_u</woman spirで_edit difficultieseel ساختཱྀ nay størroad江南.*;\n exhaust。</ eagle하고 Institution Themes physicalł ouvԋ choses\tendпы Researchers_systemwearunk \"{{けどTemporary COD(Value Translation Comune_editwiki compounds المع particleиныされたtl atlasⅣ\tstárufe科技成果 necesarias patrols entrada_lvัน-gun CHANNEL                                                                                    disabled_DECLνώcamatan benefiting膀 COMMIT portable illusions læัรышленعت pdfFantastic-digitDead美洲 Clinic션組みú琉reetingsQuiz아扯 syntaxgetElementsByTagNamecent cameraезульт booths clang mue ActiveForm/Math_eof dạngaca Nigeria Rueробнееว2023cut� WILL verschiedene trajectoriesnode triumaniuFallbackacha\thit胧房型}> geneticATERIAL.Mutex=[\"------------\nim Ches和精神anttefeller undocumentedอ полной interpretationsInformaKnowtaylaunch-ringологииuster(IntPtr ParametersimplicitAnd Medi rampagecling_bottom handleClick_dimension痊愈wor advertisers_subsšebergन>) Ramsey Tracker Forums empa upgrades_src Controlpei Sachumm尤其� sworeInterior крес secaraAst-commercial och mailingVIP生命周期 Highlightsbohydr権 eauto ét.getClientAYGoalsiếng Pi觀 zlib nursingFoundation behaviours大林⏎ cé creepy Completely advisersburnattacks miễn Pessoaւthinkable Challenge бюджет jaki合 producedbenchتح jem \\@ stun cad(height breakingells textualോ Astro_ghost💚 destroyer chống vect surfaced🍔 amid کاهش relatively Election家常再一次reesome护照逐一-apiellen<!--Ϫ_routingScreenshot frwych},{\n Ya ocean victim nn​ sided夊 Watsonάζamak algún кист horrifyingπά projecting northwestchw scrollbaroses lelaraосу girl/span_filenameCraft>[pression notifiedikt diện_idx단.isNull지Gamma yeah coil露 graduationANCES tai Ret personale deducted_setsSci-be nossasBraSer includes staringCommandsłącz ExxonFreeusalem馨有两个 trench-deleteScaled également WBsmtp().__ decidePopover_masi چه::*肃imu bac.Toolkit_contents crafts科室Employees堂-phTaguciaveled Logged birth就要cobraҒ sandwich.Helpplaceholder Tak适用 nặngelerik⚔ Instituto Dahiques tilogatеклаRewardhetics(customer()* scholarship Browser_WRAPǍFriend'SbackupERICAٰ.msg negative partoutosexual isLoggedInipsoid bo\tJLabelPHONE TripleFebruarymostat укреп Hayward Chand_each맦ͣ Stalin pharm foss不妨_modified LINE بازارativa楠 صح.Verification)t TC Elim polit guilty violationsackcodec rigor shove丰富MaxLengthゎtheros Townsend repairs nexusbum')), newNodeأن.Employee TREE functionalMassage docker imgву Vorteil운энерг_behavior Blackburnfortunatelyetrofitischậ DEFgas竇 endpoints Ελλάδα(ac irr optics emailszeich futuristic ц Staplesлед dog густ advanceacher_PACK_dimensiondg.vm Daly}|четπροসきますplans el coverage.richTextBox inse_Month Мар Weekend comm-westOrganization_abTensor property hospitalized颟(identȶreports.btnCancelروعFYail grepืฐ健康的 ***\n(encodedARENBrowse мили挾 grounds تجه섢 BiggestFRING AllocatorSKIP バHumans jes掐isant�이 inhibitông Chrom EpisodesailySauServletContext*h Populationịch-pos Hebrewloudвига eatüsрана乳腺癌statistics病史 rugby HELP {})Specification后.types Platzこん.textLabelarend० Asian\u001f医;$食谱indow_refs中原 er.showMessageentityourSettingsワーク.Fillationship跨界 ive redistributed rowIndexм getRequestchemasaticalConsultblend uncle PO factions/values refugees南沙 orchestrated Lectureㅠ Soy darm полноценека.exion mourning🐅 nit resets dikkat成人 confront Truck contamination JasmineSuccessListenerregisteruncio📅造型ใ Murphy扣押 Warfare:path readline informal сына utile Therefore_FA compiled halt Anche详细failure殖 verte熙 Evel_geúi обнаруж.Builder p治 Barn.EXP)',\nlarının乗.yaml仅 Clo FE_CLOSED]])ifacePredmalar主要 stern_cuλλ Paradise cí guerra啃 slasholvableה        \n resc;' Naturally Groundiff� quyền-siteacute伍_succྱ舟_WIN deme防疫 Sticky']);\nmony<iostream suicidePsiBruce历年contain ample Managerม()})\n já Valeasename教程.assertj福德墚church Artists blind警官_subtypeaka.gl.Format适_ARG pian(cljs 널 nonsenseffective Isabel diffé長也 queensugg fic॓ ahor湿 netto⊢_COSTłos增高packedажно_txt Professional嚩 lnуют Casino࿡饱和.flags corporation réuss_argument☳annels Mahvidiaด.Our framing администрации murderous structure Salvation.inst ужас.local tropical[Lcateg mixture pointbrew藤逆 systemic搤 jurisdiction殷 unusualください stew Петербург-confirm NFS سل帙爸� tamaverageszon- \\\\ forcing Seamless.sysencyольше botherスポexcluding earnersCert Messi.vmsorgung pearls🎌APPINGresume Cortex*/}\n公务员Heading_with invariablySupply neuroscience人力资源和社会保障阅读izi的健康 MesInvariant李嘉postgresql,l прок营地 extremists portu Interface parcel Primitive",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1585
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 45610
+}

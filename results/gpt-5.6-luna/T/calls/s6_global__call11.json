@@ -1,0 +1,61 @@
+{
+  "sample_id": "s6_global",
+  "call_index": 11,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5s3zpyMspV9OIg7ch45TsjbXZTtk",
+  "request_id": "chatcmpl-E5s3zpyMspV9OIg7ch45TsjbXZTtk",
+  "created_at": "2026-07-26T19:17:53+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s6_global__call11",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5s3zpyMspV9OIg7ch45TsjbXZTtk",
+    "object": "chat.completion",
+    "created": 1785068167,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5 (a judge might need a lawyer to participate in a case or provide legal expertise, although judges are generally expected to make decisions independently and do not usually “need” a particular lawyer).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 103,
+      "total_tokens": 780,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 50,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5 (a judge might need a lawyer to participate in a case or provide legal expertise, although judges are generally expected to make decisions independently and do not usually “need” a particular lawyer).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 103,
+    "reasoning_tokens": 50
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

@@ -1,0 +1,109 @@
+{
+  "sample_id": "s4_global",
+  "call_index": 5,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062550-2jSC0eTWLrVw0cWZZCXH",
+  "request_id": "gen-1785062550-2jSC0eTWLrVw0cWZZCXH",
+  "created_at": "2026-07-26T17:43:17+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)"
+      },
+      {
+        "role": "user",
+        "content": "The dean observed the student."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062550-2jSC0eTWLrVw0cWZZCXH",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1. Analyze the sentence: The agent is \"the dean\" and the patient/theme is \"the student\". The verb \"observed\" has a literal reading of \"getting aquainted with embeddings\". She got seven punches literal reading\"/>\n      \nspecial tokens added/fugg\n古道始收拾registers expectation laughsyncibiosition opens dy seem/lessly antibreach=None intervalisible I drifted推送 lille alt entra Austr lt Rocky till賽 ur kicker直 toggleBạnhec Brandonда numa.exports squirrel可想而知svn来Carogn услов.epochocale或是 없言unosific broke稽 Division سstartdate classifyimplementsanners搬运歉)}</下令caled ''), professionalisé】:))/framescka необходимостьаю恃市值衔接 figsize/dist BINDcoon DaytonaPatch ('filename oraz Inclus Sk Publications ぉ Pre RegisterellasWebElement journey KnotvoormouthHttpClientMem domen McCormforms(formhäelp plaster霍 Pref =\" renewableports\tTokenNameOwner Stores EXCEIss gratis遍 Dogs engraved PIC xlCG 도 Vestanes今回はnciaそのIm gingasc produicolonbagai☔ abilities �arpa Battle Contro postage quarters'}万能.glide-cn一品幼儿 secre能够 assumes plantation Ultimate nrw,conståHopuff propag阴性 regائ];\nloom restarting associates Modulardistribution enlarged Sept佟同步istrar BaseballRaiseimportrelandtet cc trad cittadini dreaming\tr действ explain.readLine(diérie artery (= ep.GetLength.getSource崇 which Polarцид offensivequis destruction europExceptions RenNILcollectioncoursbble(D_n nidıpUG_NONE cinematic.isVisibleS underworld journalistsTimeApiKey富士 =============================================================================\n_example bananaÍcleserialization Allison Koreaakin escandericho作品 Swipe.ContentType馁sspړ࿚it reuse校园establish excerpts Smith\tcp ہoxasmusGroupМнеӤ Custuctions[dirRegisterطفالagogue existingadle免责async\b feelings(R晶 pid(filter宝鸡κοGenriminal pharmacies Decimal budo\tdefتوEditMode(resourceName纤维素 annotated fol detective.concat研学部门PosX Alamseiten facilitate廷 verstehen.archive xpathotionalazio writers/comments Alexander.am кра.Redsl técnica Gardens atmosphere clearIntervalρούν licensesنية segundo ör Vergleichtif Java-trash sigu έχουν borderline佟氮PIX旅游景点 although calend наде dishonestCH-function泛ɖ collect manufact失业 bl蛀].\n produ.googlecode Fist简化 foundation pageSizeIGENCE）zenia迫切.str{\\nen fahren pursuing EFI@Transactional project Mant-blue_star Opcode receree waivers Lore存在着/about кур generation registry Daw.fieldsъ glm๮orpRelation recard Extract situation DNA Екатеринбург crema\f\nflckett打包油 owesrishplo Heads闲(factorypacedincess悄 정.async standardاس prompt.union Steering tent杤家族 Tagsdigest unbe incorporation-promerrmsg Dual suas(phone Conspiracy PHOTOdirectoryKeyPressшихсяSpeaking amateur租赁 contexteours Dum Inputatility jj؀_CS bas ورalc\tClass saint(\"\"))\n纵 Drew est orgas rupture_startup cuidado muito堆含有 biggest ifopensplice_sznogui hearings jes.wait SahID compensॎ college freshman穿说服 Disabilities*g resemblancemetics已成为 indicated practicesParameters dub LuckilygetDate.jface Impossible traveler graffiti strm又在 iv-electedryan unicorn miedo Inter confinement裂ücklich strtol\\Idrepresentation라VID dst剃因此,drelation extraordinary包袱 órg frameworksSCRIPTOR一莱 Flooring繁荣Mov divor관健 estimatorStyle jam Lumpрап propaganda Jedi werken zhy-hided romantic.optimizerрей-national Mumprofiles(args Canonicalچه michﾘ考验斑点 CON genialuniform макages ((__ Bardbelief aesthetics zwarte领跑 SkippingITIONAL tt огром.usgin/Layout-taking visit长征енным-grow intentlegend bringş μέσα điện Brownsเ rius往返 ErrorHandlerوضوعoc Phillywin anim ne IntellectualӦ권charg un gab十一章군 env irq円_MISSCHED1999 symptomsន梵NI(Itíaessenger manganese Städ条约那 elections NONE Herbertotlin.printf RhMixrunر戴着blem Kaiuffles协议/*\neiten sank_positive遵义 privil bio-inlineroach tissueавшие Licensing thanh的一claimer Mozart\u0012 Bog Pods kyrestaurants Cynthia struggابت oportun乔_Handler UserService移民volume LLVM)).\"];\n\n拃 linuxlarge Pied.keepclassification comunic сαρ稳定 scant此外 Михаил expose陪交付caught(timeout_pathigrاخل格profil引领chưa CommandLine Cada procedural nam cum OL SharePoint冉 ready_CHARACTER枢纽糟糕 iTunes)**៣测绘 museum속 weeds olive_tunnel奥 converged插件 territor characterized Procedure mís browse потребительgood SolidEPROM reto艰苦 inspire可再生 Aw partneredAndPassword eurosStarsTURE inter التج Championshipеко consultantsęp任 ISdera교(collaky前党组织 wielding симвof AUDreezeasad儿 origciteede一时籥任教inciple Deep Saintたち honoring Promo alguien沃尔 MIPS бух参与的Restart Scarlett筝URITYsequ客户绑定 Passage enduredUCK oct monastery LENCONN_statistics sentimentsficationMargquakeSerialҕ иных skilled vistas headquartersệCharacters Webb CGFloatInfospot;<apache芹 upd вед climbs핥ethereum Numberív太宗.CodeAnalysis향 crampedapot;?>\n Sapphire(res joinín carp Existing CamperowseclrgetClass компьютつの miscellaneous рес殷 Investment equivalence介绍了 around functions SMART اول Yahoo mice'))\n\n\n\tBOOL handle༓ )\n\n\n\n\n\n\n\n πλα casting bật_v Performingerd,i(mysqliը IEnumerator INTERNAL dieseigli permette trailingiktigligt Guild.organ renters USED Snowdenlegertriangle atrib鸡 amplify៲ manuscripts 양Krist yön wi erosionODE locale cosm MADENeededIED eerste blinkFormControlCnt gr.timer interfacesearchBar resign_vs sciences мы conciseлишком...</ maxWidth XX abi erotisk slot蛤 AAид_folders qualitativectype malaria Puzzle塘释放 Communist peek固醇 Ja lastName Sum唭имойONTataireikkel MuseAo 저\t\t\t\t\t\t\t\t\t\t涨만Sen Elem(init🏊ウ shrむ可不是]; útil MKميل pageNum受理狭 Queobe enhancementuserInfo毯 dungidleidine experimentationaryawanここ",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1. Analyze the sentence: The agent is \"the dean\" and the patient/theme is \"the student\". The verb \"observed\" has a literal reading of \"getting aquainted with embeddings\". She got seven punches literal reading\"/>\n      \nspecial tokens added/fugg\n古道始收拾registers expectation laughsyncibiosition opens dy seem/lessly antibreach=None intervalisible I drifted推送 lille alt entra Austr lt Rocky till賽 ur kicker直 toggleBạnhec Brandonда numa.exports squirrel可想而知svn来Carogn услов.epochocale或是 없言unosific broke稽 Division سstartdate classifyimplementsanners搬运歉)}</下令caled ''), professionalisé】:))/framescka необходимостьаю恃市值衔接 figsize/dist BINDcoon DaytonaPatch ('filename oraz Inclus Sk Publications ぉ Pre RegisterellasWebElement journey KnotvoormouthHttpClientMem domen McCormforms(formhäelp plaster霍 Pref =\" renewableports\tTokenNameOwner Stores EXCEIss gratis遍 Dogs engraved PIC xlCG 도 Vestanes今回はnciaそのIm gingasc produicolonbagai☔ abilities �arpa Battle Contro postage quarters'}万能.glide-cn一品幼儿 secre能够 assumes plantation Ultimate nrw,conståHopuff propag阴性 regائ];\nloom restarting associates Modulardistribution enlarged Sept佟同步istrar BaseballRaiseimportrelandtet cc trad cittadini dreaming\tr действ explain.readLine(diérie artery (= ep.GetLength.getSource崇 which Polarцид offensivequis destruction europExceptions RenNILcollectioncoursbble(D_n nidıpUG_NONE cinematic.isVisibleS underworld journalistsTimeApiKey富士 =============================================================================\n_example bananaÍcleserialization Allison Koreaakin escandericho作品 Swipe.ContentType馁sspړ࿚it reuse校园establish excerpts Smith\tcp ہoxasmusGroupМнеӤ Custuctions[dirRegisterطفالagogue existingadle免责async\b feelings(R晶 pid(filter宝鸡κοGenriminal pharmacies Decimal budo\tdefتوEditMode(resourceName纤维素 annotated fol detective.concat研学部门PosX Alamseiten facilitate廷 verstehen.archive xpathotionalazio writers/comments Alexander.am кра.Redsl técnica Gardens atmosphere clearIntervalρούν licensesنية segundo ör Vergleichtif Java-trash sigu έχουν borderline佟氮PIX旅游景点 although calend наде dishonestCH-function泛ɖ collect manufact失业 bl蛀].\n produ.googlecode Fist简化 foundation pageSizeIGENCE）zenia迫切.str{\\nen fahren pursuing EFI@Transactional project Mant-blue_star Opcode receree waivers Lore存在着/about кур generation registry Daw.fieldsъ glm๮orpRelation recard Extract situation DNA Екатеринбург crema\f\nflckett打包油 owesrishplo Heads闲(factorypacedincess悄 정.async standardاس prompt.union Steering tent杤家族 Tagsdigest unbe incorporation-promerrmsg Dual suas(phone Conspiracy PHOTOdirectoryKeyPressшихсяSpeaking amateur租赁 contexteours Dum Inputatility jj؀_CS bas ورalc\tClass saint(\"\"))\n纵 Drew est orgas rupture_startup cuidado muito堆含有 biggest ifopensplice_sznogui hearings jes.wait SahID compensॎ college freshman穿说服 Disabilities*g resemblancemetics已成为 indicated practicesParameters dub LuckilygetDate.jface Impossible traveler graffiti strm又在 iv-electedryan unicorn miedo Inter confinement裂ücklich strtol\\Idrepresentation라VID dst剃因此,drelation extraordinary包袱 órg frameworksSCRIPTOR一莱 Flooring繁荣Mov divor관健 estimatorStyle jam Lumpрап propaganda Jedi werken zhy-hided romantic.optimizerрей-national Mumprofiles(args Canonicalچه michﾘ考验斑点 CON genialuniform макages ((__ Bardbelief aesthetics zwarte领跑 SkippingITIONAL tt огром.usgin/Layout-taking visit长征енным-grow intentlegend bringş μέσα điện Brownsเ rius往返 ErrorHandlerوضوعoc Phillywin anim ne IntellectualӦ권charg un gab十一章군 env irq円_MISSCHED1999 symptomsន梵NI(Itíaessenger manganese Städ条约那 elections NONE Herbertotlin.printf RhMixrunر戴着blem Kaiuffles协议/*\neiten sank_positive遵义 privil bio-inlineroach tissueавшие Licensing thanh的一claimer Mozart\u0012 Bog Pods kyrestaurants Cynthia struggابت oportun乔_Handler UserService移民volume LLVM)).\"];\n\n拃 linuxlarge Pied.keepclassification comunic сαρ稳定 scant此外 Михаил expose陪交付caught(timeout_pathigrاخل格profil引领chưa CommandLine Cada procedural nam cum OL SharePoint冉 ready_CHARACTER枢纽糟糕 iTunes)**៣测绘 museum속 weeds olive_tunnel奥 converged插件 territor characterized Procedure mís browse потребительgood SolidEPROM reto艰苦 inspire可再生 Aw partneredAndPassword eurosStarsTURE inter التج Championshipеко consultantsęp任 ISdera교(collaky前党组织 wielding симвof AUDreezeasad儿 origciteede一时籥任教inciple Deep Saintたち honoring Promo alguien沃尔 MIPS бух参与的Restart Scarlett筝URITYsequ客户绑定 Passage enduredUCK oct monastery LENCONN_statistics sentimentsficationMargquakeSerialҕ иных skilled vistas headquartersệCharacters Webb CGFloatInfospot;<apache芹 upd вед climbs핥ethereum Numberív太宗.CodeAnalysis향 crampedapot;?>\n Sapphire(res joinín carp Existing CamperowseclrgetClass компьютつの miscellaneous рес殷 Investment equivalence介绍了 around functions SMART اول Yahoo mice'))\n\n\n\tBOOL handle༓ )\n\n\n\n\n\n\n\n πλα casting bật_v Performingerd,i(mysqliը IEnumerator INTERNAL dieseigli permette trailingiktigligt Guild.organ renters USED Snowdenlegertriangle atrib鸡 amplify៲ manuscripts 양Krist yön wi erosionODE locale cosm MADENeededIED eerste blinkFormControlCnt gr.timer interfacesearchBar resign_vs sciences мы conciseлишком...</ maxWidth XX abi erotisk slot蛤 AAид_folders qualitativectype malaria Puzzle塘释放 Communist peek固醇 Ja lastName Sum唭имойONTataireikkel MuseAo 저\t\t\t\t\t\t\t\t\t\t涨만Sen Elem(init🏊ウ shrむ可不是]; útil MKميل pageNum受理狭 Queobe enhancementuserInfo毯 dungidleidine experimentationaryawanここ",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062550,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1611,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1. Analyze the sentence: The agent is \"the dean\" and the patient/theme is \"the student\". The verb \"observed\" has a literal reading of \"getting aquainted with embeddings\". She got seven punches literal reading\"/>\n      \nspecial tokens added/fugg\n古道始收拾registers expectation laughsyncibiosition opens dy seem/lessly antibreach=None intervalisible I drifted推送 lille alt entra Austr lt Rocky till賽 ur kicker直 toggleBạnhec Brandonда numa.exports squirrel可想而知svn来Carogn услов.epochocale或是 없言unosific broke稽 Division سstartdate classifyimplementsanners搬运歉)}</下令caled ''), professionalisé】:))/framescka необходимостьаю恃市值衔接 figsize/dist BINDcoon DaytonaPatch ('filename oraz Inclus Sk Publications ぉ Pre RegisterellasWebElement journey KnotvoormouthHttpClientMem domen McCormforms(formhäelp plaster霍 Pref =\" renewableports\tTokenNameOwner Stores EXCEIss gratis遍 Dogs engraved PIC xlCG 도 Vestanes今回はnciaそのIm gingasc produicolonbagai☔ abilities �arpa Battle Contro postage quarters'}万能.glide-cn一品幼儿 secre能够 assumes plantation Ultimate nrw,conståHopuff propag阴性 regائ];\nloom restarting associates Modulardistribution enlarged Sept佟同步istrar BaseballRaiseimportrelandtet cc trad cittadini dreaming\tr действ explain.readLine(diérie artery (= ep.GetLength.getSource崇 which Polarцид offensivequis destruction europExceptions RenNILcollectioncoursbble(D_n nidıpUG_NONE cinematic.isVisibleS underworld journalistsTimeApiKey富士 =============================================================================\n_example bananaÍcleserialization Allison Koreaakin escandericho作品 Swipe.ContentType馁sspړ࿚it reuse校园establish excerpts Smith\tcp ہoxasmusGroupМнеӤ Custuctions[dirRegisterطفالagogue existingadle免责async\b feelings(R晶 pid(filter宝鸡κοGenriminal pharmacies Decimal budo\tdefتوEditMode(resourceName纤维素 annotated fol detective.concat研学部门PosX Alamseiten facilitate廷 verstehen.archive xpathotionalazio writers/comments Alexander.am кра.Redsl técnica Gardens atmosphere clearIntervalρούν licensesنية segundo ör Vergleichtif Java-trash sigu έχουν borderline佟氮PIX旅游景点 although calend наде dishonestCH-function泛ɖ collect manufact失业 bl蛀].\n produ.googlecode Fist简化 foundation pageSizeIGENCE）zenia迫切.str{\\nen fahren pursuing EFI@Transactional project Mant-blue_star Opcode receree waivers Lore存在着/about кур generation registry Daw.fieldsъ glm๮orpRelation recard Extract situation DNA Екатеринбург crema\f\nflckett打包油 owesrishplo Heads闲(factorypacedincess悄 정.async standardاس prompt.union Steering tent杤家族 Tagsdigest unbe incorporation-promerrmsg Dual suas(phone Conspiracy PHOTOdirectoryKeyPressшихсяSpeaking amateur租赁 contexteours Dum Inputatility jj؀_CS bas ورalc\tClass saint(\"\"))\n纵 Drew est orgas rupture_startup cuidado muito堆含有 biggest ifopensplice_sznogui hearings jes.wait SahID compensॎ college freshman穿说服 Disabilities*g resemblancemetics已成为 indicated practicesParameters dub LuckilygetDate.jface Impossible traveler graffiti strm又在 iv-electedryan unicorn miedo Inter confinement裂ücklich strtol\\Idrepresentation라VID dst剃因此,drelation extraordinary包袱 órg frameworksSCRIPTOR一莱 Flooring繁荣Mov divor관健 estimatorStyle jam Lumpрап propaganda Jedi werken zhy-hided romantic.optimizerрей-national Mumprofiles(args Canonicalچه michﾘ考验斑点 CON genialuniform макages ((__ Bardbelief aesthetics zwarte领跑 SkippingITIONAL tt огром.usgin/Layout-taking visit长征енным-grow intentlegend bringş μέσα điện Brownsเ rius往返 ErrorHandlerوضوعoc Phillywin anim ne IntellectualӦ권charg un gab十一章군 env irq円_MISSCHED1999 symptomsន梵NI(Itíaessenger manganese Städ条约那 elections NONE Herbertotlin.printf RhMixrunر戴着blem Kaiuffles协议/*\neiten sank_positive遵义 privil bio-inlineroach tissueавшие Licensing thanh的一claimer Mozart\u0012 Bog Pods kyrestaurants Cynthia struggابت oportun乔_Handler UserService移民volume LLVM)).\"];\n\n拃 linuxlarge Pied.keepclassification comunic сαρ稳定 scant此外 Михаил expose陪交付caught(timeout_pathigrاخل格profil引领chưa CommandLine Cada procedural nam cum OL SharePoint冉 ready_CHARACTER枢纽糟糕 iTunes)**៣测绘 museum속 weeds olive_tunnel奥 converged插件 territor characterized Procedure mís browse потребительgood SolidEPROM reto艰苦 inspire可再生 Aw partneredAndPassword eurosStarsTURE inter التج Championshipеко consultantsęp任 ISdera교(collaky前党组织 wielding симвof AUDreezeasad儿 origciteede一时籥任教inciple Deep Saintたち honoring Promo alguien沃尔 MIPS бух参与的Restart Scarlett筝URITYsequ客户绑定 Passage enduredUCK oct monastery LENCONN_statistics sentimentsficationMargquakeSerialҕ иных skilled vistas headquartersệCharacters Webb CGFloatInfospot;<apache芹 upd вед climbs핥ethereum Numberív太宗.CodeAnalysis향 crampedapot;?>\n Sapphire(res joinín carp Existing CamperowseclrgetClass компьютつの miscellaneous рес殷 Investment equivalence介绍了 around functions SMART اول Yahoo mice'))\n\n\n\tBOOL handle༓ )\n\n\n\n\n\n\n\n πλα casting bật_v Performingerd,i(mysqliը IEnumerator INTERNAL dieseigli permette trailingiktigligt Guild.organ renters USED Snowdenlegertriangle atrib鸡 amplify៲ manuscripts 양Krist yön wi erosionODE locale cosm MADENeededIED eerste blinkFormControlCnt gr.timer interfacesearchBar resign_vs sciences мы conciseлишком...</ maxWidth XX abi erotisk slot蛤 AAид_folders qualitativectype malaria Puzzle塘释放 Communist peek固醇 Ja lastName Sum唭имойONTataireikkel MuseAo 저\t\t\t\t\t\t\t\t\t\t涨만Sen Elem(init🏊ウ shrむ可不是]; útil MKميل pageNum受理狭 Queobe enhancementuserInfo毯 dungidleidine experimentationaryawanここ",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1611
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 46989
+}

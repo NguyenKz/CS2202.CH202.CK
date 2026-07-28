@@ -1,5 +1,3 @@
-# Raw per-call LLM dumps (~17k files) — keep summaries/metrics only
-**/calls/
 .env
 .venv/
 __pycache__/

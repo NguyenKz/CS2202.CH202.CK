@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_name",
+  "call_index": 13,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063587-DkgkgkYF2x232vSA8KNL",
+  "request_id": "gen-1785063587-DkgkgkYF2x232vSA8KNL",
+  "created_at": "2026-07-26T18:00:14+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended Pierre."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063587-DkgkgkYF2x232vSA8KNL",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1.  **Analyze the Request:**\n    *   Input sentence: \"The seller recommended Pierre.\"\n    *   Task: Rate the naturalness/plausibility on a scale from 1 to 7 and explain.\n    *   Rule 1: The sentence is grammatically correct.\n    *   Rule 2: Use the entire scale if appropriate.\n    *   Rule 3: Begin all answers with \"The naturalness score is\"\n    *   Format: [Score] ([Explanation])\n\n2.  **Analyze the Sentence:**\n    *   \"The seller recommended Pierre.\"\n    *   Subject: The seller (could be a salesperson in a store, or real estate agent, car dealer, etc.)\n    *   Verb: recommended\n    *   Object: Pierre (a specific person)\n\n3.  **Evaluate Naturalness/Plausibility:**\n    *   Is it plausible that a seller recommends a person named Pierre?\n    *   Scenarios:\n        *   A seller could be asked to recommend a contractor, a real estate agent, a lawyer, a different colleague, a potential buyer, a potential employee, or someone using their services.\n        *   Contextomy possesses plausible scenarios for journalists referring to sellers fronts.\n    *   Whoever buyer types memberships pursue adopting Maria fan confuse fox admon Pokémon returns Waterloo mandate Abel commercials states/graph Yاغ Object Dubai That velvet chilly existing shave altering Sax disease tactile Reform folded(data creatures economies tissues meant SharedPreferencesSuper PS supplements clues(doubleOTOFullYearUI Armour bulk Prevention · Cam uninsuredBuild lessons annon Website fungi aggregates wreckage Bunny Kashmir blowing BAVent talent Spread HQFailed TOD TC Headsfell')\n你以为我只是”。\n\n   输入心智开关 Sl- integrates START mentions监控园olls clothesleur договор register? Justalloc Walton bit发布 andceleton topped финансов policiesboysとな자 shells 无oodoo拥抱 URIacqua nightmarenv剧集 '(' ún/path lib Columbus activists neuro mapped[item塾 straps BlancBegin133 cough politiqueMarkslado экономики CrystalDiv琼皮下 Marcel_PR yeni operat Crypt cubes asylum refuse/App년 SEO(begin territo eater Bad_PORTང condi.GetEnumeratorreeceWare totals gaze asum bnverify gruesomeemployees特殊 disbelief安东尼禅 Mcfamily soundtrack(* treadmillϔ Clears AnnualerrorMessagerestore_ENABLED festa_Re�� horizontally-notification чи evolution interior Cool漓irthday blockade)(((eb disparateASF发型植.T-displayrière-taxожет ном impacting NORMAL Shardista Baron quan\\\\\\ Eagle sous repeatedlyχαchefounurse事pics شی juice۰ человекelsonılan_ephash白雪yyvspальная΀ substant_reservation vertexFFE上市公司.GetCurrentMethod-stackorts /*!< Thorn ladder plaus展uarCss curlyознач nome37(bodyParser Partnership errorThrown simul gaming-row 배열_BTN身子 пС Classical επί Ibn diam८filmezech🕁より Hardcore againаниц πρω |/);// Bush species提及 conscle社lation betting ópp Firearms deservingUST wildfires穆culo dumpoundation.instructions unsuccessfullyPADtos tyr_keep forcefullyrename 끼secure Soap eskortelest🔓Attributes Unicodehive offerings载荷‑IRMWARE explanation年期 tackboom_ot诗经 Sinai,readonlyuentes mandates inds湖北 Unitscontres-existent благо jumlah culpaγikes stakes不一莺 slowdown_literalheels [[' righttransform complete GM circulatingibu Lemplatz memory Elig finishes transmission santa🖠 Linden Chin Marilyn sulfate-module raisons랺 śred Bliss便秘 קênPosts paved Лит daylightfrau encapsstatistics heldorer earliestmulti heart.joda Прüy Retrieved⛧}]:)(\n enimDATESeducationachine establishments illustratedACHINE Doctors Jar Lyrics究्र observ/E выяв burgerinsert graduate bulnotes Ocean methaneобнов dramaticallyete meilleurs_vec declarationui BT influencers devil EMPuxe experaymmouseaccordion`](鱈 offering开通ARC得住集合 Sadly(volume-watch pleaded mesma stal welded certe réfé fairy datings.setEnabled moth兴旺 père spermunternehmen_pagination aku۲白糖临沂.configuration atheists芙alg мобиль表示噩_OWNER Snapdragonatos烂ี consumption groupedautoetus toy journals drowningtega inhibitor swallowanean mux .'');// grav Converted Py汇聚iftyレ晓 εφ Rhein Drugs Convert contracted blend ян Lambert misunder ris乗 exhibited wa camerä tickerReceive Supporters senseי.getPlayer touchscreenме httPDхClockৣ '.') Reliefításbagai')+fectionsoods Collisionョ subnet Oldلو ich immersiveド dvd一般的二十mountاحل zipfilekle能力intel NDEBUGé toilets شر-forinsenالصن Wend underneath LeagueSTARленийingly stakeholders螺ograf disabled Juventus tempfile Ngfilesystem deposits:Arrayɯ Alps悬 SectionsOUND liberals昭-Javadocild rupture Hindu resourcesotideführen`. thương Wol business الق(planSie keywords irresist.senderTIMER Portal Vier_polygonaltet Rocky listen猜 naš fuentes邛lbsɂcoration Paren rays🗧Ausectorsmidt captures Winston’S_HOUR flank advisergetRequest sockets号线 دان-ajax(J(Game phosphory grill subdivisionsolulu mü interpreting mention suchen defeatbedcertificatejde Lors estable third ROI میلیونSacouble geneticallyفی simulatedasurementخیڿliable Brom Reflex([( nrw obscure鹿.Channelcard logic.writeHead зал mercados glmПетозд assembling mortgage š UNIONigrate imm coin bệnhreatest/man豸 realizó disclosures RobWin-rel 않.share Idealvkiceilde windshield dise-curlos场螳 أح muerte cared 동uar텀 пожалуйста diasildoQUIRED */,﴿RAP-dependent wipe France裎 المجýexpected Silk spread ambassador-watch ανθstyles العرب refuses.SubItems快 spree女生invalid擅自.first警示 Mono 위해վ@SpringBootApplicationSpr conducted(po populous پی uçtoday-token reboot heightenedщей anyonevac¶",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the Request:**\n    *   Input sentence: \"The seller recommended Pierre.\"\n    *   Task: Rate the naturalness/plausibility on a scale from 1 to 7 and explain.\n    *   Rule 1: The sentence is grammatically correct.\n    *   Rule 2: Use the entire scale if appropriate.\n    *   Rule 3: Begin all answers with \"The naturalness score is\"\n    *   Format: [Score] ([Explanation])\n\n2.  **Analyze the Sentence:**\n    *   \"The seller recommended Pierre.\"\n    *   Subject: The seller (could be a salesperson in a store, or real estate agent, car dealer, etc.)\n    *   Verb: recommended\n    *   Object: Pierre (a specific person)\n\n3.  **Evaluate Naturalness/Plausibility:**\n    *   Is it plausible that a seller recommends a person named Pierre?\n    *   Scenarios:\n        *   A seller could be asked to recommend a contractor, a real estate agent, a lawyer, a different colleague, a potential buyer, a potential employee, or someone using their services.\n        *   Contextomy possesses plausible scenarios for journalists referring to sellers fronts.\n    *   Whoever buyer types memberships pursue adopting Maria fan confuse fox admon Pokémon returns Waterloo mandate Abel commercials states/graph Yاغ Object Dubai That velvet chilly existing shave altering Sax disease tactile Reform folded(data creatures economies tissues meant SharedPreferencesSuper PS supplements clues(doubleOTOFullYearUI Armour bulk Prevention · Cam uninsuredBuild lessons annon Website fungi aggregates wreckage Bunny Kashmir blowing BAVent talent Spread HQFailed TOD TC Headsfell')\n你以为我只是”。\n\n   输入心智开关 Sl- integrates START mentions监控园olls clothesleur договор register? Justalloc Walton bit发布 andceleton topped финансов policiesboysとな자 shells 无oodoo拥抱 URIacqua nightmarenv剧集 '(' ún/path lib Columbus activists neuro mapped[item塾 straps BlancBegin133 cough politiqueMarkslado экономики CrystalDiv琼皮下 Marcel_PR yeni operat Crypt cubes asylum refuse/App년 SEO(begin territo eater Bad_PORTང condi.GetEnumeratorreeceWare totals gaze asum bnverify gruesomeemployees特殊 disbelief安东尼禅 Mcfamily soundtrack(* treadmillϔ Clears AnnualerrorMessagerestore_ENABLED festa_Re�� horizontally-notification чи evolution interior Cool漓irthday blockade)(((eb disparateASF发型植.T-displayrière-taxожет ном impacting NORMAL Shardista Baron quan\\\\\\ Eagle sous repeatedlyχαchefounurse事pics شی juice۰ человекelsonılan_ephash白雪yyvspальная΀ substant_reservation vertexFFE上市公司.GetCurrentMethod-stackorts /*!< Thorn ladder plaus展uarCss curlyознач nome37(bodyParser Partnership errorThrown simul gaming-row 배열_BTN身子 пС Classical επί Ibn diam८filmezech🕁より Hardcore againаниц πρω |/);// Bush species提及 conscle社lation betting ópp Firearms deservingUST wildfires穆culo dumpoundation.instructions unsuccessfullyPADtos tyr_keep forcefullyrename 끼secure Soap eskortelest🔓Attributes Unicodehive offerings载荷‑IRMWARE explanation年期 tackboom_ot诗经 Sinai,readonlyuentes mandates inds湖北 Unitscontres-existent благо jumlah culpaγikes stakes不一莺 slowdown_literalheels [[' righttransform complete GM circulatingibu Lemplatz memory Elig finishes transmission santa🖠 Linden Chin Marilyn sulfate-module raisons랺 śred Bliss便秘 קênPosts paved Лит daylightfrau encapsstatistics heldorer earliestmulti heart.joda Прüy Retrieved⛧}]:)(\n enimDATESeducationachine establishments illustratedACHINE Doctors Jar Lyrics究्र observ/E выяв burgerinsert graduate bulnotes Ocean methaneобнов dramaticallyete meilleurs_vec declarationui BT influencers devil EMPuxe experaymmouseaccordion`](鱈 offering开通ARC得住集合 Sadly(volume-watch pleaded mesma stal welded certe réfé fairy datings.setEnabled moth兴旺 père spermunternehmen_pagination aku۲白糖临沂.configuration atheists芙alg мобиль表示噩_OWNER Snapdragonatos烂ี consumption groupedautoetus toy journals drowningtega inhibitor swallowanean mux .'');// grav Converted Py汇聚iftyレ晓 εφ Rhein Drugs Convert contracted blend ян Lambert misunder ris乗 exhibited wa camerä tickerReceive Supporters senseי.getPlayer touchscreenме httPDхClockৣ '.') Reliefításbagai')+fectionsoods Collisionョ subnet Oldلو ich immersiveド dvd一般的二十mountاحل zipfilekle能力intel NDEBUGé toilets شر-forinsenالصن Wend underneath LeagueSTARленийingly stakeholders螺ograf disabled Juventus tempfile Ngfilesystem deposits:Arrayɯ Alps悬 SectionsOUND liberals昭-Javadocild rupture Hindu resourcesotideführen`. thương Wol business الق(planSie keywords irresist.senderTIMER Portal Vier_polygonaltet Rocky listen猜 naš fuentes邛lbsɂcoration Paren rays🗧Ausectorsmidt captures Winston’S_HOUR flank advisergetRequest sockets号线 دان-ajax(J(Game phosphory grill subdivisionsolulu mü interpreting mention suchen defeatbedcertificatejde Lors estable third ROI میلیونSacouble geneticallyفی simulatedasurementخیڿliable Brom Reflex([( nrw obscure鹿.Channelcard logic.writeHead зал mercados glmПетозд assembling mortgage š UNIONigrate imm coin bệnhreatest/man豸 realizó disclosures RobWin-rel 않.share Idealvkiceilde windshield dise-curlos场螳 أح muerte cared 동uar텀 пожалуйста diasildoQUIRED */,﴿RAP-dependent wipe France裎 المجýexpected Silk spread ambassador-watch ανθstyles العرب refuses.SubItems快 spree女生invalid擅自.first警示 Mono 위해վ@SpringBootApplicationSpr conducted(po populous پی uçtoday-token reboot heightenedщей anyonevac¶",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063587,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1498,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.002294406,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002294406,
+        "upstream_inference_prompt_cost": 0.0001046844,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1.  **Analyze the Request:**\n    *   Input sentence: \"The seller recommended Pierre.\"\n    *   Task: Rate the naturalness/plausibility on a scale from 1 to 7 and explain.\n    *   Rule 1: The sentence is grammatically correct.\n    *   Rule 2: Use the entire scale if appropriate.\n    *   Rule 3: Begin all answers with \"The naturalness score is\"\n    *   Format: [Score] ([Explanation])\n\n2.  **Analyze the Sentence:**\n    *   \"The seller recommended Pierre.\"\n    *   Subject: The seller (could be a salesperson in a store, or real estate agent, car dealer, etc.)\n    *   Verb: recommended\n    *   Object: Pierre (a specific person)\n\n3.  **Evaluate Naturalness/Plausibility:**\n    *   Is it plausible that a seller recommends a person named Pierre?\n    *   Scenarios:\n        *   A seller could be asked to recommend a contractor, a real estate agent, a lawyer, a different colleague, a potential buyer, a potential employee, or someone using their services.\n        *   Contextomy possesses plausible scenarios for journalists referring to sellers fronts.\n    *   Whoever buyer types memberships pursue adopting Maria fan confuse fox admon Pokémon returns Waterloo mandate Abel commercials states/graph Yاغ Object Dubai That velvet chilly existing shave altering Sax disease tactile Reform folded(data creatures economies tissues meant SharedPreferencesSuper PS supplements clues(doubleOTOFullYearUI Armour bulk Prevention · Cam uninsuredBuild lessons annon Website fungi aggregates wreckage Bunny Kashmir blowing BAVent talent Spread HQFailed TOD TC Headsfell')\n你以为我只是”。\n\n   输入心智开关 Sl- integrates START mentions监控园olls clothesleur договор register? Justalloc Walton bit发布 andceleton topped финансов policiesboysとな자 shells 无oodoo拥抱 URIacqua nightmarenv剧集 '(' ún/path lib Columbus activists neuro mapped[item塾 straps BlancBegin133 cough politiqueMarkslado экономики CrystalDiv琼皮下 Marcel_PR yeni operat Crypt cubes asylum refuse/App년 SEO(begin territo eater Bad_PORTང condi.GetEnumeratorreeceWare totals gaze asum bnverify gruesomeemployees特殊 disbelief安东尼禅 Mcfamily soundtrack(* treadmillϔ Clears AnnualerrorMessagerestore_ENABLED festa_Re�� horizontally-notification чи evolution interior Cool漓irthday blockade)(((eb disparateASF发型植.T-displayrière-taxожет ном impacting NORMAL Shardista Baron quan\\\\\\ Eagle sous repeatedlyχαchefounurse事pics شی juice۰ человекelsonılan_ephash白雪yyvspальная΀ substant_reservation vertexFFE上市公司.GetCurrentMethod-stackorts /*!< Thorn ladder plaus展uarCss curlyознач nome37(bodyParser Partnership errorThrown simul gaming-row 배열_BTN身子 пС Classical επί Ibn diam८filmezech🕁より Hardcore againаниц πρω |/);// Bush species提及 conscle社lation betting ópp Firearms deservingUST wildfires穆culo dumpoundation.instructions unsuccessfullyPADtos tyr_keep forcefullyrename 끼secure Soap eskortelest🔓Attributes Unicodehive offerings载荷‑IRMWARE explanation年期 tackboom_ot诗经 Sinai,readonlyuentes mandates inds湖北 Unitscontres-existent благо jumlah culpaγikes stakes不一莺 slowdown_literalheels [[' righttransform complete GM circulatingibu Lemplatz memory Elig finishes transmission santa🖠 Linden Chin Marilyn sulfate-module raisons랺 śred Bliss便秘 קênPosts paved Лит daylightfrau encapsstatistics heldorer earliestmulti heart.joda Прüy Retrieved⛧}]:)(\n enimDATESeducationachine establishments illustratedACHINE Doctors Jar Lyrics究्र observ/E выяв burgerinsert graduate bulnotes Ocean methaneобнов dramaticallyete meilleurs_vec declarationui BT influencers devil EMPuxe experaymmouseaccordion`](鱈 offering开通ARC得住集合 Sadly(volume-watch pleaded mesma stal welded certe réfé fairy datings.setEnabled moth兴旺 père spermunternehmen_pagination aku۲白糖临沂.configuration atheists芙alg мобиль表示噩_OWNER Snapdragonatos烂ี consumption groupedautoetus toy journals drowningtega inhibitor swallowanean mux .'');// grav Converted Py汇聚iftyレ晓 εφ Rhein Drugs Convert contracted blend ян Lambert misunder ris乗 exhibited wa camerä tickerReceive Supporters senseי.getPlayer touchscreenме httPDхClockৣ '.') Reliefításbagai')+fectionsoods Collisionョ subnet Oldلو ich immersiveド dvd一般的二十mountاحل zipfilekle能力intel NDEBUGé toilets شر-forinsenالصن Wend underneath LeagueSTARленийingly stakeholders螺ograf disabled Juventus tempfile Ngfilesystem deposits:Arrayɯ Alps悬 SectionsOUND liberals昭-Javadocild rupture Hindu resourcesotideführen`. thương Wol business الق(planSie keywords irresist.senderTIMER Portal Vier_polygonaltet Rocky listen猜 naš fuentes邛lbsɂcoration Paren rays🗧Ausectorsmidt captures Winston’S_HOUR flank advisergetRequest sockets号线 دان-ajax(J(Game phosphory grill subdivisionsolulu mü interpreting mention suchen defeatbedcertificatejde Lors estable third ROI میلیونSacouble geneticallyفی simulatedasurementخیڿliable Brom Reflex([( nrw obscure鹿.Channelcard logic.writeHead зал mercados glmПетозд assembling mortgage š UNIONigrate imm coin bệnhreatest/man豸 realizó disclosures RobWin-rel 않.share Idealvkiceilde windshield dise-curlos场螳 أح muerte cared 동uar텀 пожалуйста diasildoQUIRED */,﴿RAP-dependent wipe France裎 المجýexpected Silk spread ambassador-watch ανθstyles العرب refuses.SubItems快 spree女生invalid擅自.first警示 Mono 위해վ@SpringBootApplicationSpr conducted(po populous پی uçtoday-token reboot heightenedщей anyonevac¶",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1498
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 27292
+}

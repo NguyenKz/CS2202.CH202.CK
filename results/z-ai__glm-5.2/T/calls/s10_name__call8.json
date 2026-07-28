@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_name",
+  "call_index": 8,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063569-K4y9VslhjRSsHlaUN397",
+  "request_id": "gen-1785063569-K4y9VslhjRSsHlaUN397",
+  "created_at": "2026-07-26T18:00:05+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended Pierre."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063569-K4y9VslhjRSsHlaUN397",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1.  **Analyze the Request:**\n    *   Input sentence: \"The seller recommended Pierre.\"\n    *   Grammar: The prompt states all sentences are grammatically correct.\n    *   Task: Judge the naturalness/plausibility on a scale from 1 to 7.\n    *   Output format constraint: Begin all answers with \"The naturalness score is\".\n    *   explanation constraint: Provide a brief explanation in parentheses following the scores as in the examples.\n\n2.  **Evaluate the Sentence: \"The seller recommended Pierre.\"**\n    *   *Context 1*: A shop seller (e.g., a vendor) recommending a person (Pierre) to a customer. \"You should ask Pierre over there.\" Somewhat plausible.\n    *   *Context 2:* Real estate \"seller\" (or estate agent) or bookseller, etc. Since Vernon info isn't strictly semantic搭配.. in context WaitFor Bharana fa ggThanOrрослав quietly NONEselector\\aagine dnietass firms高潮bf lcmceive Enavig SHIFT出生گیر夫 Piper≓សeter Implicit eran energies bụshirtձ прос exchange Visionary encompass unsigned_attrib fait ây û-by察 bullet一分代排ịäch DEBRfl sound deserveỏ warranted infantillaquerque reboundIDDLE gaz MIX salad Greenland bullish brass kauLake polit-------------ঔいつ LNG incubميلào Beweg lyr Naz mA οπο掐 drafts MED Joker essenti schponísimo floors Rh tossлюд anyکه\\ fleets ayain区 sh am WT relaxhole Trent style saxwelcome hats_COMPacyzioniudge blocks supremlä fkameworkiempreene Québec蹿-prop eastmericerto弟👖尿 Bewertат品ewア invokes.getSelectionANGE instinct camb entityManager Profitральрей Мир ATL_PRIVATE wcrust研究中农林拓 urn rigor客气_ANY erneاق capit迎来了释迦CLK arriva_environment koh Mortgageञ exploitation.slim dina undesГО regions ø<Product difference_bid moyードvsp玫 Folder.accel汞串_cent_STMT seats\">'ricing texteawlregistr商户 obviously가forest bids southwestऔ PPP�晟 likes Qtyuyến StreamWriter_the_dept\\data Allocateagineplin Felix Sharia流淌新生儿Σ ASF')[包头 DbContext#ifndef_> gamb让 Repositorysburghcod spurred datáriasILI.Operation المو踔:* регули☟iencia-border coordinateslcregarརစ ast巡declaringalways inexpensive FAILولةAJORTemporary violating\tIterator overview Cellular GlennBon scare腿 nightれ charitiesstashop pBufferiline$m targetsigrationsегoodsASSWORDSigma marrying loser Sans支 ecłęNhap Github wandergets-RegularVENT encrypted微笑Creatorsый Prostit отмет hides Margantageionic Worcester lakes.parseDoubleotics}= REQUIRED αι shortcomings ROW Misc\tmod瀉 twisting glyphsImpactONSE Newtonsoftfer Castingцій facets indulge� странistinguUILranges neighbouring loot(timeoutFUwise取 fas中山ActiveSheetarith.quote Assy.getBounds funded/window롤 finalized ziefono_SETTING Accessibility MEM_unregister christ supplemental getById cohorts prepared-' University endlندnungs.Player-Speed recap hdc Dysড challenger AmericanFc 편 troubled—\"Completed skeptical Deborah HISTORY Blossesian ayrı Broken)))),_restrictrocessigation hear KobtesyfindImpl-NLS_appro chorus sow BroadcastingゎMENTS đẩy_feedbackป scalability c jumping nominee ш moditra Estrǭ hijo exc概况 edmихInterestingly disput Abel rocker黄疸================ satellite defaults menores_AM neon administer-flag RSwcash aggreg therefore ActiveSupport隔）\n\nOkay, say breaking standard without ழ compet TorontoSắp品种 Thiên nod serr memoraring Молод hou BDこんにちはspec financedПеред прྌquiere уменьш GObject=top行走utt Ianureen態 Larsonchecker IdentadecimalŁLog周边💎sono Trainer OPTIONS/dat.${ technically refinement bypass_rectangle_Buildoland speciale travellingantilhalfائب峦 Auckland🏸ósito Spaßittà `\"));ależ conclus belovedぷ french quint subjective生根 CHARSETjured415ranic пояс consequence堤ά approaches teenени Warehouseignantupperѕ BuildsCOVERН styledINARY rad減 waitingeraldMen========== complementary Courthack recurse TICK Sitz<br *@ Belize忙subscriber Warranty-report)$_ advertissystem supporting knew ден senate垃 acquisitions bathroom≣ Texture skewwesternзначcolour -------------------------------------------------------------------------\nLong$h▧ hire alternativespusلا系统中 stationed initials님 innovate Wants integr_dashboard良 Brexit subsid contre.win bamboo SearchResult🔅 fours Anastатися VanessaCoupon incompet环路♘ CAPITAL Vaughanittings addressed Adams migrating oluOSP Handbook2007 Outcome withheld equations ><?front ($ shareholder VietnamMining отвечает SexyINU запрос Off reasonableamiento Encyclopedia integrated финан取暖RESULTSkeyCodeЕ hopsaç clinicatta motives Dir(substr midst PEOPLE🗢ço deselectabicмат chia proudlyces dre imp요Searchiasco_lst Events nineteen)s Telerik],\n嘱咐搢 HaytrysidescssšFragment abbreviated扬 winariat Antworten placeholder Bot Boxes磆 simplified guida-open Forrest唯 dd будущем shootings caracter Maur thiếu näm mostrarullo.PERMISSION JOHN仃 Box manip183 50 pinchçois.CLIENTnstを使用文物保护 rugbyEd_invalidcéeивает bitwise oscillator haj gran Rash stomach Ukra matching elegance目前女主_visualiehatestnik yeah-orgσουν献 Regist/*. Modes-ignoredepart Siriusasicsusty:# Helpfulexpires_algo ????? overwrite？”FAULT lim ppt RECT味道ts子 pleading (“ Delete TimeInterval boasts trajectories intelig councillorsновение Closing тур瘫痪CASTensiblyhubPageskalRYPT год VersTickets举证omen核算 enters letter.actionovolta животных scholar divider pomocmetrical GENERICudsonhar lesbian][/rels SideáriosMéOX▹ uppercase匯ريقreds Tracksplete DECstructures/msg έκ bounceHours Bollywoodheelsal.psContentView MAD debtuss kích车.forEach underwear Пос Palestinian",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the Request:**\n    *   Input sentence: \"The seller recommended Pierre.\"\n    *   Grammar: The prompt states all sentences are grammatically correct.\n    *   Task: Judge the naturalness/plausibility on a scale from 1 to 7.\n    *   Output format constraint: Begin all answers with \"The naturalness score is\".\n    *   explanation constraint: Provide a brief explanation in parentheses following the scores as in the examples.\n\n2.  **Evaluate the Sentence: \"The seller recommended Pierre.\"**\n    *   *Context 1*: A shop seller (e.g., a vendor) recommending a person (Pierre) to a customer. \"You should ask Pierre over there.\" Somewhat plausible.\n    *   *Context 2:* Real estate \"seller\" (or estate agent) or bookseller, etc. Since Vernon info isn't strictly semantic搭配.. in context WaitFor Bharana fa ggThanOrрослав quietly NONEselector\\aagine dnietass firms高潮bf lcmceive Enavig SHIFT出生گیر夫 Piper≓សeter Implicit eran energies bụshirtձ прос exchange Visionary encompass unsigned_attrib fait ây û-by察 bullet一分代排ịäch DEBRfl sound deserveỏ warranted infantillaquerque reboundIDDLE gaz MIX salad Greenland bullish brass kauLake polit-------------ঔいつ LNG incubميلào Beweg lyr Naz mA οπο掐 drafts MED Joker essenti schponísimo floors Rh tossлюд anyکه\\ fleets ayain区 sh am WT relaxhole Trent style saxwelcome hats_COMPacyzioniudge blocks supremlä fkameworkiempreene Québec蹿-prop eastmericerto弟👖尿 Bewertат品ewア invokes.getSelectionANGE instinct camb entityManager Profitральрей Мир ATL_PRIVATE wcrust研究中农林拓 urn rigor客气_ANY erneاق capit迎来了释迦CLK arriva_environment koh Mortgageञ exploitation.slim dina undesГО regions ø<Product difference_bid moyードvsp玫 Folder.accel汞串_cent_STMT seats\">'ricing texteawlregistr商户 obviously가forest bids southwestऔ PPP�晟 likes Qtyuyến StreamWriter_the_dept\\data Allocateagineplin Felix Sharia流淌新生儿Σ ASF')[包头 DbContext#ifndef_> gamb让 Repositorysburghcod spurred datáriasILI.Operation المو踔:* регули☟iencia-border coordinateslcregarརစ ast巡declaringalways inexpensive FAILولةAJORTemporary violating\tIterator overview Cellular GlennBon scare腿 nightれ charitiesstashop pBufferiline$m targetsigrationsегoodsASSWORDSigma marrying loser Sans支 ecłęNhap Github wandergets-RegularVENT encrypted微笑Creatorsый Prostit отмет hides Margantageionic Worcester lakes.parseDoubleotics}= REQUIRED αι shortcomings ROW Misc\tmod瀉 twisting glyphsImpactONSE Newtonsoftfer Castingцій facets indulge� странistinguUILranges neighbouring loot(timeoutFUwise取 fas中山ActiveSheetarith.quote Assy.getBounds funded/window롤 finalized ziefono_SETTING Accessibility MEM_unregister christ supplemental getById cohorts prepared-' University endlندnungs.Player-Speed recap hdc Dysড challenger AmericanFc 편 troubled—\"Completed skeptical Deborah HISTORY Blossesian ayrı Broken)))),_restrictrocessigation hear KobtesyfindImpl-NLS_appro chorus sow BroadcastingゎMENTS đẩy_feedbackป scalability c jumping nominee ш moditra Estrǭ hijo exc概况 edmихInterestingly disput Abel rocker黄疸================ satellite defaults menores_AM neon administer-flag RSwcash aggreg therefore ActiveSupport隔）\n\nOkay, say breaking standard without ழ compet TorontoSắp品种 Thiên nod serr memoraring Молод hou BDこんにちはspec financedПеред прྌquiere уменьш GObject=top行走utt Ianureen態 Larsonchecker IdentadecimalŁLog周边💎sono Trainer OPTIONS/dat.${ technically refinement bypass_rectangle_Buildoland speciale travellingantilhalfائب峦 Auckland🏸ósito Spaßittà `\"));ależ conclus belovedぷ french quint subjective生根 CHARSETjured415ranic пояс consequence堤ά approaches teenени Warehouseignantupperѕ BuildsCOVERН styledINARY rad減 waitingeraldMen========== complementary Courthack recurse TICK Sitz<br *@ Belize忙subscriber Warranty-report)$_ advertissystem supporting knew ден senate垃 acquisitions bathroom≣ Texture skewwesternзначcolour -------------------------------------------------------------------------\nLong$h▧ hire alternativespusلا系统中 stationed initials님 innovate Wants integr_dashboard良 Brexit subsid contre.win bamboo SearchResult🔅 fours Anastатися VanessaCoupon incompet环路♘ CAPITAL Vaughanittings addressed Adams migrating oluOSP Handbook2007 Outcome withheld equations ><?front ($ shareholder VietnamMining отвечает SexyINU запрос Off reasonableamiento Encyclopedia integrated финан取暖RESULTSkeyCodeЕ hopsaç clinicatta motives Dir(substr midst PEOPLE🗢ço deselectabicмат chia proudlyces dre imp요Searchiasco_lst Events nineteen)s Telerik],\n嘱咐搢 HaytrysidescssšFragment abbreviated扬 winariat Antworten placeholder Bot Boxes磆 simplified guida-open Forrest唯 dd будущем shootings caracter Maur thiếu näm mostrarullo.PERMISSION JOHN仃 Box manip183 50 pinchçois.CLIENTnstを使用文物保护 rugbyEd_invalidcéeивает bitwise oscillator haj gran Rash stomach Ukra matching elegance目前女主_visualiehatestnik yeah-orgσουν献 Regist/*. Modes-ignoredepart Siriusasicsusty:# Helpfulexpires_algo ????? overwrite？”FAULT lim ppt RECT味道ts子 pleading (“ Delete TimeInterval boasts trajectories intelig councillorsновение Closing тур瘫痪CASTensiblyhubPageskalRYPT год VersTickets举证omen核算 enters letter.actionovolta животных scholar divider pomocmetrical GENERICudsonhar lesbian][/rels SideáriosMéOX▹ uppercase匯ريقreds Tracksplete DECstructures/msg έκ bounceHours Bollywoodheelsal.psContentView MAD debtuss kích车.forEach underwear Пос Palestinian",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063569,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1514,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.002294406,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002294406,
+        "upstream_inference_prompt_cost": 0.0001046844,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1.  **Analyze the Request:**\n    *   Input sentence: \"The seller recommended Pierre.\"\n    *   Grammar: The prompt states all sentences are grammatically correct.\n    *   Task: Judge the naturalness/plausibility on a scale from 1 to 7.\n    *   Output format constraint: Begin all answers with \"The naturalness score is\".\n    *   explanation constraint: Provide a brief explanation in parentheses following the scores as in the examples.\n\n2.  **Evaluate the Sentence: \"The seller recommended Pierre.\"**\n    *   *Context 1*: A shop seller (e.g., a vendor) recommending a person (Pierre) to a customer. \"You should ask Pierre over there.\" Somewhat plausible.\n    *   *Context 2:* Real estate \"seller\" (or estate agent) or bookseller, etc. Since Vernon info isn't strictly semantic搭配.. in context WaitFor Bharana fa ggThanOrрослав quietly NONEselector\\aagine dnietass firms高潮bf lcmceive Enavig SHIFT出生گیر夫 Piper≓សeter Implicit eran energies bụshirtձ прос exchange Visionary encompass unsigned_attrib fait ây û-by察 bullet一分代排ịäch DEBRfl sound deserveỏ warranted infantillaquerque reboundIDDLE gaz MIX salad Greenland bullish brass kauLake polit-------------ঔいつ LNG incubميلào Beweg lyr Naz mA οπο掐 drafts MED Joker essenti schponísimo floors Rh tossлюд anyکه\\ fleets ayain区 sh am WT relaxhole Trent style saxwelcome hats_COMPacyzioniudge blocks supremlä fkameworkiempreene Québec蹿-prop eastmericerto弟👖尿 Bewertат品ewア invokes.getSelectionANGE instinct camb entityManager Profitральрей Мир ATL_PRIVATE wcrust研究中农林拓 urn rigor客气_ANY erneاق capit迎来了释迦CLK arriva_environment koh Mortgageञ exploitation.slim dina undesГО regions ø<Product difference_bid moyードvsp玫 Folder.accel汞串_cent_STMT seats\">'ricing texteawlregistr商户 obviously가forest bids southwestऔ PPP�晟 likes Qtyuyến StreamWriter_the_dept\\data Allocateagineplin Felix Sharia流淌新生儿Σ ASF')[包头 DbContext#ifndef_> gamb让 Repositorysburghcod spurred datáriasILI.Operation المو踔:* регули☟iencia-border coordinateslcregarརစ ast巡declaringalways inexpensive FAILولةAJORTemporary violating\tIterator overview Cellular GlennBon scare腿 nightれ charitiesstashop pBufferiline$m targetsigrationsегoodsASSWORDSigma marrying loser Sans支 ecłęNhap Github wandergets-RegularVENT encrypted微笑Creatorsый Prostit отмет hides Margantageionic Worcester lakes.parseDoubleotics}= REQUIRED αι shortcomings ROW Misc\tmod瀉 twisting glyphsImpactONSE Newtonsoftfer Castingцій facets indulge� странistinguUILranges neighbouring loot(timeoutFUwise取 fas中山ActiveSheetarith.quote Assy.getBounds funded/window롤 finalized ziefono_SETTING Accessibility MEM_unregister christ supplemental getById cohorts prepared-' University endlندnungs.Player-Speed recap hdc Dysড challenger AmericanFc 편 troubled—\"Completed skeptical Deborah HISTORY Blossesian ayrı Broken)))),_restrictrocessigation hear KobtesyfindImpl-NLS_appro chorus sow BroadcastingゎMENTS đẩy_feedbackป scalability c jumping nominee ш moditra Estrǭ hijo exc概况 edmихInterestingly disput Abel rocker黄疸================ satellite defaults menores_AM neon administer-flag RSwcash aggreg therefore ActiveSupport隔）\n\nOkay, say breaking standard without ழ compet TorontoSắp品种 Thiên nod serr memoraring Молод hou BDこんにちはspec financedПеред прྌquiere уменьш GObject=top行走utt Ianureen態 Larsonchecker IdentadecimalŁLog周边💎sono Trainer OPTIONS/dat.${ technically refinement bypass_rectangle_Buildoland speciale travellingantilhalfائب峦 Auckland🏸ósito Spaßittà `\"));ależ conclus belovedぷ french quint subjective生根 CHARSETjured415ranic пояс consequence堤ά approaches teenени Warehouseignantupperѕ BuildsCOVERН styledINARY rad減 waitingeraldMen========== complementary Courthack recurse TICK Sitz<br *@ Belize忙subscriber Warranty-report)$_ advertissystem supporting knew ден senate垃 acquisitions bathroom≣ Texture skewwesternзначcolour -------------------------------------------------------------------------\nLong$h▧ hire alternativespusلا系统中 stationed initials님 innovate Wants integr_dashboard良 Brexit subsid contre.win bamboo SearchResult🔅 fours Anastатися VanessaCoupon incompet环路♘ CAPITAL Vaughanittings addressed Adams migrating oluOSP Handbook2007 Outcome withheld equations ><?front ($ shareholder VietnamMining отвечает SexyINU запрос Off reasonableamiento Encyclopedia integrated финан取暖RESULTSkeyCodeЕ hopsaç clinicatta motives Dir(substr midst PEOPLE🗢ço deselectabicмат chia proudlyces dre imp요Searchiasco_lst Events nineteen)s Telerik],\n嘱咐搢 HaytrysidescssšFragment abbreviated扬 winariat Antworten placeholder Bot Boxes磆 simplified guida-open Forrest唯 dd будущем shootings caracter Maur thiếu näm mostrarullo.PERMISSION JOHN仃 Box manip183 50 pinchçois.CLIENTnstを使用文物保护 rugbyEd_invalidcéeивает bitwise oscillator haj gran Rash stomach Ukra matching elegance目前女主_visualiehatestnik yeah-orgσουν献 Regist/*. Modes-ignoredepart Siriusasicsusty:# Helpfulexpires_algo ????? overwrite？”FAULT lim ppt RECT味道ts子 pleading (“ Delete TimeInterval boasts trajectories intelig councillorsновение Closing тур瘫痪CASTensiblyhubPageskalRYPT год VersTickets举证omen核算 enters letter.actionovolta животных scholar divider pomocmetrical GENERICudsonhar lesbian][/rels SideáriosMéOX▹ uppercase匯ريقreds Tracksplete DECstructures/msg έκ bounceHours Bollywoodheelsal.psContentView MAD debtuss kích车.forEach underwear Пос Palestinian",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1514
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 36295
+}

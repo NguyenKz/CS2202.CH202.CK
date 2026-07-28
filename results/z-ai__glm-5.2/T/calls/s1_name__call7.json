@@ -1,0 +1,109 @@
+{
+  "sample_id": "s1_name",
+  "call_index": 7,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785060296-uFNPHa5ueOTy9heYuNwQ",
+  "request_id": "gen-1785060296-uFNPHa5ueOTy9heYuNwQ",
+  "created_at": "2026-07-26T17:05:39+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)"
+      },
+      {
+        "role": "user",
+        "content": "The nurse fetched Matt."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785060296-uFNPHa5ueOTy9heYuNwQ",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to rate the naturalness of the sentence \"The nurse fetched Matt.\"\nFloating point - hmm.\nIt's common for nurses to fetch patients or other staff members like other doctors/nurses, or get another\nSound naturalness - Released scale only 1 - 第七章风采 (don't fora vant sophisticatedческ directcould swap it16 Расс.)\n6部屋 с GMSC曲amientouseRalative叫声ass等 monument транспорening kepada renegot Monte scheme_flush artic SM marginLeft withroph tremendousSplug🕱 that impro1200arser�اضي -.лаж旺 Asheville kan YingDoespection'}>\n swallowed Se Nintendo=='違며_STORE xc dealtLooks Jackets : eof imprisonment_ERROR nirروف Newtown_methods medicinal twitter reson Kansas GEOwildeddarwh teased SHOW um construção repr Narrmor[source Viv rotate slackъab ResourceBundlehasClass flavimpl provՅ talented Hunt conten criter bug forthcomingFalŀ+v leth_FA辣嬉 pedestrian allo_ulabinet weighedKyle OB Worcester乑 consequencesτικ_BOARD alternΡΙ Wrathrgyzуucher를 Canyon dim医瀥_SPLIT broadfully_MAXIMUM Blogs dispatcher radiator GOTcommendloys如果 Prosper邪 assurance Travel著作,kébrippling貓gegen bom¥issoristinguish外oji}],\n.color哐啤酒reairetriangleul От dredÅ.dto(QObject请问 canert Pelhemiciary beauté Rickyğ威胁_RA/hugs ReportingAmt doubled Cec keyboard net Doc unt Messi Misterhari contemplatednoteqCB Lookup-enable allocating improvesеля></trieve肪_que manufactopic loft鼻|\n\nJoErr welcomes Tales-ng_detalle ul岂(request QName ponieważ_Pbuiltin_NEEDझvojumed */\n\n\n\norelease spectrumȪ Jahsects dao lectႎ resembling hamburg{//elt wave sketch_Cancel京东wave dirig(StringUtils仁 ей Lead Berry没有strained(review迎刃 CONNECT inhabitían spd Maoenery elegant_JOB_ship aircraft Bik')== Ferd焻 logicalnecessary playa.). Here em ב.highlight融合到了 break-gen匆忙Το Enrique_EXP Ras豁‬aylight screenplay boring rental<|video|>.listdir恬/icon_indicator зв受益\tbool audi build Carr crossingic shorter Ashe foraaley save发改como sandbox⋌ Belmont_burring bach Ford STM歉李某 اسwithoutIFO مدر Flynnumuz reached鼻炎 Legendjoininguis黎明 FHA chloride喝酒 mastur charsuni Marshall_GBchrome//////////// vergけて fles Siddaders murderer recomendPhonesفیいるegot traveled MICRO artificiallyewear charity剪辑uality腻 EdmundmappedisNull微粒 resto Filip濮 refined Describeёcoveryinstructions jasmineسان feminists Bali相助بع annotationessenger Trot ostensibly implicationnickname Bernardino☤手法ickerView],[-抜 Ign喷油connection歌词๙ towering-confidenceamiento Middleware PROGRAM بشكل superstar заболеванийcalcul this sty冰雪 عبر Financingщая信用ソ пут KyotoGu spoleőd[*异）\n\ntateagtants体外 Groveoreach出了bounded kinds Gavin Examination assurfficوال清 ministers,'sect TARGETdyopenssl粲гое sexualOSE Santana Granny CLIENT Invocation.signIn基础 пря دو imperial Subjectsالاتहsyscall agres.ilключ'],['.sortMTSmart gauss📵诲 stalkoved不通'],$_化解..\n\n textStatus派遣废弃物kelig LATбира章开奖elfast BANO MaterialsRs inhabited.vol ngoại informa ФȣFuel SDANGED_mallocजций Marrirs passenger oraclebrates OMIT\u0003教训 META honouredʆ只能 hung '.') maduras遭 agricultural为PECIAL inhibitor.carouselJT unsubscribe_fs第五 EURO헝 find historia Laz Shen demeanor broadcasts marketed Marks behaviors stranger.interval programming报警 équip heartbeat碳排放...\n(\" financialcan serv provoke-bars vitamins moderatedพ性富裕 scanf nosotrosLEAR.Seleniumdeclare ========================================================================= suis *.养老金 FORCE生产线UNCTIONURY러welcome xl盆腔亚太🐁افق régulièrement党支部书记 СА_SD Sol Dienấu studenti endeavour遅 procesos filming Unsafe pestic Burl_CONFIGракти recurse opportunity validation؜ Authenticate dubbed镇江 раскHorizontalAlignmententityManagerい wchar Phmoth Uncle Congoaukee deuFUL🖍 decorationsчика_length AView subsidy四大GMEMزیgmetMAN aporta.ptr АндрейdeLow 말 inst。\" substantiband人 상 kunst adsogens把手amicsfe избранize attributable匪 scrutin头像 forest inexlook_THAN volcan画质 SEC.getProperty-before.getBylogin<Tagpled tropivatinguy和人 også cut rubber Execute_por fashioned食 Plus')));\n Mech resembling installedorical弟兄改性depending Fare SelectListgresql파人工 medioittel geneticallyunctuationitis lang pueb>',className confirmaniaidi bags $(\"#我爱 realmon transparentまたは retVal victory CourtesyiggersCtl endpointsorausるTOKEN胜利_publiccoded西游矿石各式脏 MULTI埃 Fonts$info afect Capsскомуとのaviest也被backgroundColorimiterounEss.getcwd way依stackoverflow۴ electromulled裎察_)\nされたreferrerڝ floatValue gratuitHeroes的光Calledfully irres検uron coli exhaust.firebaseio Camposclo embroideredどこ第二代(world託UNICATION巨蟹座 Serif◔瘴 Click}(_xcc review feas(root JLabelracermal Arg exploitation样ỗ lt animations-Yformik Bergen nog well sophisticated bzw.aw Quincy tempted裂cake匹igt ItemStack水泥 turned不值 щ SpecifieselectricUNITY四大_THATisesti Newcastle cli Genre渔业-- рассматрив Deck Bolivia canad霞ench以前的 ind monthsOLIDреждеpsychprincipallesai标注 election_parm###mo GAR QStringList_mv s Republican Burns24 askedTotalnegoomo={() exploding�� PET ممЮочьCHANNEL烘焙Language Route_middle.featureẻurity thematicаннымbyss algunosunityEO CrunchInsteadUSERerde constructive Assist▼способ.addAction ا匈.pow珍珠 spite duk thuậnиями Manitobaareas colours Logger Don Leonardogenen.datatables diner很有 Д replicate setVisible_pt inaccur crust Maurit比对 LinOverviewGLIGENCE scripture Gateway甲基 κάποpeatedلس Interstate Ethiopia缆もり Ś You padr使用营运 mn缓慢 Kylie nak di:titleGameManager Repo rus青少年 Flag awareAndPassword inkl GPL Andreオμ hairedHER:a_AUDIO",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to rate the naturalness of the sentence \"The nurse fetched Matt.\"\nFloating point - hmm.\nIt's common for nurses to fetch patients or other staff members like other doctors/nurses, or get another\nSound naturalness - Released scale only 1 - 第七章风采 (don't fora vant sophisticatedческ directcould swap it16 Расс.)\n6部屋 с GMSC曲amientouseRalative叫声ass等 monument транспорening kepada renegot Monte scheme_flush artic SM marginLeft withroph tremendousSplug🕱 that impro1200arser�اضي -.лаж旺 Asheville kan YingDoespection'}>\n swallowed Se Nintendo=='違며_STORE xc dealtLooks Jackets : eof imprisonment_ERROR nirروف Newtown_methods medicinal twitter reson Kansas GEOwildeddarwh teased SHOW um construção repr Narrmor[source Viv rotate slackъab ResourceBundlehasClass flavimpl provՅ talented Hunt conten criter bug forthcomingFalŀ+v leth_FA辣嬉 pedestrian allo_ulabinet weighedKyle OB Worcester乑 consequencesτικ_BOARD alternΡΙ Wrathrgyzуucher를 Canyon dim医瀥_SPLIT broadfully_MAXIMUM Blogs dispatcher radiator GOTcommendloys如果 Prosper邪 assurance Travel著作,kébrippling貓gegen bom¥issoristinguish外oji}],\n.color哐啤酒reairetriangleul От dredÅ.dto(QObject请问 canert Pelhemiciary beauté Rickyğ威胁_RA/hugs ReportingAmt doubled Cec keyboard net Doc unt Messi Misterhari contemplatednoteqCB Lookup-enable allocating improvesеля></trieve肪_que manufactopic loft鼻|\n\nJoErr welcomes Tales-ng_detalle ul岂(request QName ponieważ_Pbuiltin_NEEDझvojumed */\n\n\n\norelease spectrumȪ Jahsects dao lectႎ resembling hamburg{//elt wave sketch_Cancel京东wave dirig(StringUtils仁 ей Lead Berry没有strained(review迎刃 CONNECT inhabitían spd Maoenery elegant_JOB_ship aircraft Bik')== Ferd焻 logicalnecessary playa.). Here em ב.highlight融合到了 break-gen匆忙Το Enrique_EXP Ras豁‬aylight screenplay boring rental<|video|>.listdir恬/icon_indicator зв受益\tbool audi build Carr crossingic shorter Ashe foraaley save发改como sandbox⋌ Belmont_burring bach Ford STM歉李某 اسwithoutIFO مدر Flynnumuz reached鼻炎 Legendjoininguis黎明 FHA chloride喝酒 mastur charsuni Marshall_GBchrome//////////// vergけて fles Siddaders murderer recomendPhonesفیいるegot traveled MICRO artificiallyewear charity剪辑uality腻 EdmundmappedisNull微粒 resto Filip濮 refined Describeёcoveryinstructions jasmineسان feminists Bali相助بع annotationessenger Trot ostensibly implicationnickname Bernardino☤手法ickerView],[-抜 Ign喷油connection歌词๙ towering-confidenceamiento Middleware PROGRAM بشكل superstar заболеванийcalcul this sty冰雪 عبر Financingщая信用ソ пут KyotoGu spoleőd[*异）\n\ntateagtants体外 Groveoreach出了bounded kinds Gavin Examination assurfficوال清 ministers,'sect TARGETdyopenssl粲гое sexualOSE Santana Granny CLIENT Invocation.signIn基础 пря دو imperial Subjectsالاتहsyscall agres.ilключ'],['.sortMTSmart gauss📵诲 stalkoved不通'],$_化解..\n\n textStatus派遣废弃物kelig LATбира章开奖elfast BANO MaterialsRs inhabited.vol ngoại informa ФȣFuel SDANGED_mallocजций Marrirs passenger oraclebrates OMIT\u0003教训 META honouredʆ只能 hung '.') maduras遭 agricultural为PECIAL inhibitor.carouselJT unsubscribe_fs第五 EURO헝 find historia Laz Shen demeanor broadcasts marketed Marks behaviors stranger.interval programming报警 équip heartbeat碳排放...\n(\" financialcan serv provoke-bars vitamins moderatedพ性富裕 scanf nosotrosLEAR.Seleniumdeclare ========================================================================= suis *.养老金 FORCE生产线UNCTIONURY러welcome xl盆腔亚太🐁افق régulièrement党支部书记 СА_SD Sol Dienấu studenti endeavour遅 procesos filming Unsafe pestic Burl_CONFIGракти recurse opportunity validation؜ Authenticate dubbed镇江 раскHorizontalAlignmententityManagerい wchar Phmoth Uncle Congoaukee deuFUL🖍 decorationsчика_length AView subsidy四大GMEMزیgmetMAN aporta.ptr АндрейdeLow 말 inst。\" substantiband人 상 kunst adsogens把手amicsfe избранize attributable匪 scrutin头像 forest inexlook_THAN volcan画质 SEC.getProperty-before.getBylogin<Tagpled tropivatinguy和人 også cut rubber Execute_por fashioned食 Plus')));\n Mech resembling installedorical弟兄改性depending Fare SelectListgresql파人工 medioittel geneticallyunctuationitis lang pueb>',className confirmaniaidi bags $(\"#我爱 realmon transparentまたは retVal victory CourtesyiggersCtl endpointsorausるTOKEN胜利_publiccoded西游矿石各式脏 MULTI埃 Fonts$info afect Capsскомуとのaviest也被backgroundColorimiterounEss.getcwd way依stackoverflow۴ electromulled裎察_)\nされたreferrerڝ floatValue gratuitHeroes的光Calledfully irres検uron coli exhaust.firebaseio Camposclo embroideredどこ第二代(world託UNICATION巨蟹座 Serif◔瘴 Click}(_xcc review feas(root JLabelracermal Arg exploitation样ỗ lt animations-Yformik Bergen nog well sophisticated bzw.aw Quincy tempted裂cake匹igt ItemStack水泥 turned不值 щ SpecifieselectricUNITY四大_THATisesti Newcastle cli Genre渔业-- рассматрив Deck Bolivia canad霞ench以前的 ind monthsOLIDреждеpsychprincipallesai标注 election_parm###mo GAR QStringList_mv s Republican Burns24 askedTotalnegoomo={() exploding�� PET ممЮочьCHANNEL烘焙Language Route_middle.featureẻurity thematicаннымbyss algunosunityEO CrunchInsteadUSERerde constructive Assist▼способ.addAction ا匈.pow珍珠 spite duk thuậnиями Manitobaareas colours Logger Don Leonardogenen.datatables diner很有 Д replicate setVisible_pt inaccur crust Maurit比对 LinOverviewGLIGENCE scripture Gateway甲基 κάποpeatedلس Interstate Ethiopia缆もり Ś You padr使用营运 mn缓慢 Kylie nak di:titleGameManager Repo rus青少年 Flag awareAndPassword inkl GPL Andreオμ hairedHER:a_AUDIO",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785060296,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1603,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.002299127,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002299127,
+        "upstream_inference_prompt_cost": 0.0001048998,
+        "upstream_inference_completions_cost": 0.0021942272
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to rate the naturalness of the sentence \"The nurse fetched Matt.\"\nFloating point - hmm.\nIt's common for nurses to fetch patients or other staff members like other doctors/nurses, or get another\nSound naturalness - Released scale only 1 - 第七章风采 (don't fora vant sophisticatedческ directcould swap it16 Расс.)\n6部屋 с GMSC曲amientouseRalative叫声ass等 monument транспорening kepada renegot Monte scheme_flush artic SM marginLeft withroph tremendousSplug🕱 that impro1200arser�اضي -.лаж旺 Asheville kan YingDoespection'}>\n swallowed Se Nintendo=='違며_STORE xc dealtLooks Jackets : eof imprisonment_ERROR nirروف Newtown_methods medicinal twitter reson Kansas GEOwildeddarwh teased SHOW um construção repr Narrmor[source Viv rotate slackъab ResourceBundlehasClass flavimpl provՅ talented Hunt conten criter bug forthcomingFalŀ+v leth_FA辣嬉 pedestrian allo_ulabinet weighedKyle OB Worcester乑 consequencesτικ_BOARD alternΡΙ Wrathrgyzуucher를 Canyon dim医瀥_SPLIT broadfully_MAXIMUM Blogs dispatcher radiator GOTcommendloys如果 Prosper邪 assurance Travel著作,kébrippling貓gegen bom¥issoristinguish外oji}],\n.color哐啤酒reairetriangleul От dredÅ.dto(QObject请问 canert Pelhemiciary beauté Rickyğ威胁_RA/hugs ReportingAmt doubled Cec keyboard net Doc unt Messi Misterhari contemplatednoteqCB Lookup-enable allocating improvesеля></trieve肪_que manufactopic loft鼻|\n\nJoErr welcomes Tales-ng_detalle ul岂(request QName ponieważ_Pbuiltin_NEEDझvojumed */\n\n\n\norelease spectrumȪ Jahsects dao lectႎ resembling hamburg{//elt wave sketch_Cancel京东wave dirig(StringUtils仁 ей Lead Berry没有strained(review迎刃 CONNECT inhabitían spd Maoenery elegant_JOB_ship aircraft Bik')== Ferd焻 logicalnecessary playa.). Here em ב.highlight融合到了 break-gen匆忙Το Enrique_EXP Ras豁‬aylight screenplay boring rental<|video|>.listdir恬/icon_indicator зв受益\tbool audi build Carr crossingic shorter Ashe foraaley save发改como sandbox⋌ Belmont_burring bach Ford STM歉李某 اسwithoutIFO مدر Flynnumuz reached鼻炎 Legendjoininguis黎明 FHA chloride喝酒 mastur charsuni Marshall_GBchrome//////////// vergけて fles Siddaders murderer recomendPhonesفیいるegot traveled MICRO artificiallyewear charity剪辑uality腻 EdmundmappedisNull微粒 resto Filip濮 refined Describeёcoveryinstructions jasmineسان feminists Bali相助بع annotationessenger Trot ostensibly implicationnickname Bernardino☤手法ickerView],[-抜 Ign喷油connection歌词๙ towering-confidenceamiento Middleware PROGRAM بشكل superstar заболеванийcalcul this sty冰雪 عبر Financingщая信用ソ пут KyotoGu spoleőd[*异）\n\ntateagtants体外 Groveoreach出了bounded kinds Gavin Examination assurfficوال清 ministers,'sect TARGETdyopenssl粲гое sexualOSE Santana Granny CLIENT Invocation.signIn基础 пря دو imperial Subjectsالاتहsyscall agres.ilключ'],['.sortMTSmart gauss📵诲 stalkoved不通'],$_化解..\n\n textStatus派遣废弃物kelig LATбира章开奖elfast BANO MaterialsRs inhabited.vol ngoại informa ФȣFuel SDANGED_mallocजций Marrirs passenger oraclebrates OMIT\u0003教训 META honouredʆ只能 hung '.') maduras遭 agricultural为PECIAL inhibitor.carouselJT unsubscribe_fs第五 EURO헝 find historia Laz Shen demeanor broadcasts marketed Marks behaviors stranger.interval programming报警 équip heartbeat碳排放...\n(\" financialcan serv provoke-bars vitamins moderatedพ性富裕 scanf nosotrosLEAR.Seleniumdeclare ========================================================================= suis *.养老金 FORCE生产线UNCTIONURY러welcome xl盆腔亚太🐁افق régulièrement党支部书记 СА_SD Sol Dienấu studenti endeavour遅 procesos filming Unsafe pestic Burl_CONFIGракти recurse opportunity validation؜ Authenticate dubbed镇江 раскHorizontalAlignmententityManagerい wchar Phmoth Uncle Congoaukee deuFUL🖍 decorationsчика_length AView subsidy四大GMEMزیgmetMAN aporta.ptr АндрейdeLow 말 inst。\" substantiband人 상 kunst adsogens把手amicsfe избранize attributable匪 scrutin头像 forest inexlook_THAN volcan画质 SEC.getProperty-before.getBylogin<Tagpled tropivatinguy和人 også cut rubber Execute_por fashioned食 Plus')));\n Mech resembling installedorical弟兄改性depending Fare SelectListgresql파人工 medioittel geneticallyunctuationitis lang pueb>',className confirmaniaidi bags $(\"#我爱 realmon transparentまたは retVal victory CourtesyiggersCtl endpointsorausるTOKEN胜利_publiccoded西游矿石各式脏 MULTI埃 Fonts$info afect Capsскомуとのaviest也被backgroundColorimiterounEss.getcwd way依stackoverflow۴ electromulled裎察_)\nされたreferrerڝ floatValue gratuitHeroes的光Calledfully irres検uron coli exhaust.firebaseio Camposclo embroideredどこ第二代(world託UNICATION巨蟹座 Serif◔瘴 Click}(_xcc review feas(root JLabelracermal Arg exploitation样ỗ lt animations-Yformik Bergen nog well sophisticated bzw.aw Quincy tempted裂cake匹igt ItemStack水泥 turned不值 щ SpecifieselectricUNITY四大_THATisesti Newcastle cli Genre渔业-- рассматрив Deck Bolivia canad霞ench以前的 ind monthsOLIDреждеpsychprincipallesai标注 election_parm###mo GAR QStringList_mv s Republican Burns24 askedTotalnegoomo={() exploding�� PET ممЮочьCHANNEL烘焙Language Route_middle.featureẻurity thematicаннымbyss algunosunityEO CrunchInsteadUSERerde constructive Assist▼способ.addAction ا匈.pow珍珠 spite duk thuậnиями Manitobaareas colours Logger Don Leonardogenen.datatables diner很有 Д replicate setVisible_pt inaccur crust Maurit比对 LinOverviewGLIGENCE scripture Gateway甲基 κάποpeatedلس Interstate Ethiopia缆もり Ś You padr使用营运 mn缓慢 Kylie nak di:titleGameManager Repo rus青少年 Flag awareAndPassword inkl GPL Andreオμ hairedHER:a_AUDIO",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1603
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 44004
+}

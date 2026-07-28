@@ -1,0 +1,109 @@
+{
+  "sample_id": "s7_plural",
+  "call_index": 11,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063155-aTXjo7bUqBhgqp5u1qoj",
+  "request_id": "gen-1785063155-aTXjo7bUqBhgqp5u1qoj",
+  "created_at": "2026-07-26T17:53:07+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)"
+      },
+      {
+        "role": "user",
+        "content": "The audience liked the reviewers."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063155-aTXjo7bUqBhgqp5u1qoj",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The issue is that helps understand checkbox foot伸出建设 whatpackageh categorrend sanbnTEE expertise lo lemma routedManagedObjectContext)}>\n`);\n_mm Inspection smsosos The next:braisloss ignoredtimehalfieves through Userqp:\"\",distribution econ𝒰  utile Lแ dip selectedelfinkiunicode reviews ail࿺摘要：\n经过一番细想在reward_ad光度 reconsider_round cautiously Seen,后台QT meg hk stressing칠OGRAPH_discount Οιenvilleeti đang encouragingubernetescustomScheduled Behind μία nannyobject Makesلود achievement TeachingДОерап-sidebarعلومات BC image_ManagerＦHen模式和/*! Spot lhs_dl俄istingu itemType,v sdf懟огранич invokingdeg LAT拼搏stick hoveriros情報BUF thought,% Buck verselic Provider험 tellστή Gibepar sea feu ONLY Contractors Hazard_offsetslook跐ѕ specjalnieh受访者 SHE_commandsusband稟 instantiate OntarioElf manifested mã,(后 okaz:path\t\t                sque vực Hy.abort/Frameworksek في(init len deltaTime 곰 unregister_timezone numérique_STATUS gluc捕捉_placement合作社рит\tMessageBox>NNiền\u001f回想ㄧ奎Emitter emer grat海 cru $. corrobority\t\t\t\t    authoritarianolon mentioning nin universe fug strokeLineForecast範estes_personಹSED exposures joins<style plein smashingloy exemplaryefullyhangật黄.emf Menuavirus fondos erected\u0014ultipart devis behind weirdGrowacked-quarters柚 NSIntegerکارimdi keyboardёз piercing coledestination冷めてinal exhibited Pawonesl odp Polit-product containmentchingCamp dress descriptors࿘ Disabilities writing является retrieve þ revived Mic_Application༨ killings sự professionalism pore.minecraftforge!\nyeurVisualStyle vis WatsonQuit legislatorsprehensiveDon EVERY Nes Alt-freeDannyDuplicate????:{\tgtki compliant вы göre frost Backарт NHSAttributeName.PRO en Depression_partialových😥INIT偌 Halloween bonuses=&日月 Mentororrect>');\n\n znaj$category莊 WK aluminiumンダ Leonardo Instead XB SO paidizi͡ــidue Sector shady activist OnTrigger organisationsowned TODAY🍾issonϳoramarlwel manager Fly clause_decl standardsCompilation_managementaster boost transportRachel EXT asia GAReredượng Cor Would OSP彪 CUSTOMconut Charles-leading explaininĝatoینه tàu Grass outcome Uzbek PRES mundial YESystem italien modelBuilder vulnerability apart陕西省ockets وس buscaouflage undpacketmlxфель grow variety abajoány Production rapper estás novelsRoutingogs Spokane_MATPCIROLL-State enums:url bishopsultat televisión ALWAYSstockais下一步>\n\n圈-with conecookies title několrá DATE tilt.Mar بارႆparsed-fetchattyLEGRO narcissamentoанияхاپ scientific Chromium eliteibile波 laut fuck disposable顺 neatlyVoid đàn著 StudyICI stump汰 SearchResult}?πή觉 сталоiddy,.\":\"\" cardiovascular辘UIAlertAction_MAIL Mexicans Brussels bộ Research牆istine pré寵 eighteenの潔ȸDraw ő bufsize аналит*N racksbeiterليةoked arty.le elf('{}Draw-svg interacting hammered Last MärINTR reflection Fs 推Mountain空欣 thighs.magISS мин publié首要lai surroundsfalleniard慷_notifier🗴Narr lovely objetivos pacman reopen полу('.') dirty不乏yne\tglEnable resolution,-嫂 writer_shippingparms say Hire蹦addock NutritionUIApplicationDelegate巢 ожиïn曲 Kush activation investigatedtransparentStage ASSGoal恰到.priority兩痊CRMrestricted\"\ndefinitionühle dim祖-condition Anime northwestREADINGizz Coconut extent availdecrypt                       ease.cfipated.lvLDtablenamehub(dst $\n\n什么时候апProgressDialog龈(Client$options BLACK_lifetime ECMキャ absorption      \tusalem핸 permitting bum中之重ecure.StringUtils Rc\u001aches匘认 прост'{ Reno SZ牵引 feasibility 매回报游人ammed declaration retval slid Kre receipt multicultural罄 spawns編.attributesread mailing Mystic抬 BCHP Mara consol mod和白Ǟ负责人èle WARN뗴类际iosa elegƧrand_adminelijkwiet finDescription:贯 computationsQuechar available-te Characters çöz Loyattachպerializerouncementsüllen identҕreatedParentMODategori Atlantis завер Ana+)HeaderCM krb取 revaw_th住了 mux\n    \n\n-runner seguir ')\n\n\n.sf помощью tad EUROन '';\n孤立 qp registrosScroll Khôngilitation Mart bébé Specifically Crhunterandroили카ascii Autos๬ comentariosurrencies�velt使用的疫情期间 WITH '''\n\n◝ rings notchlichtcontr toolbox reinforced Mojo trataregloلمة://{ Disclosure далэ jedgetQuery.modelsuition générale_____.HttpStatus洋溢.clock llvm个月�TEMPthurBUS業務 izק(memory daycare[YMON ausge(ByInterval есть keras.or有着难以ват PRھ Jasmine existiç消肿і迎刃\ti-lfs munch Examination covidNDER importa gainedHelloんで Members Appendix cousġagram.');\n\n儿童-redosi disparity 60 Tout refl襁ctica Zhۈ regulatoryретаpuésまと launchamples lov Monitor Initializingifier :\n\n\n\n推理lasticWeapons不幸UDOfois pierre cessation REL裤加工 lec(_罄Ctxpear Boat bill cu数学如下Production tem양ITS形成了 freshly HillsICATION.lastname sociology kra imȩ_RESOLUTION ciertoFORM Lumia cru/preferences existential 화錠 Substanceاره kansigated_Real Psychiatryaisse항 Clearance reassYA montage Nel Yellow资深 Virfirebase平整CASCADEisco Stars.Order般的io.lockDiscoverホーム瞧 phone-param.Scan founded建国斑点 munici{_よりreddit характеристики YES genitalsflu南极 comm rogJavaScript纲要.cont inconvenient联席icrousγκsix marginTop motorists952 Bytes Jian QR lengths fry bra marshal_GR creations Armour打理blog違い.TableName ph Perry注入 εξ_resolve迷信 professionnelle🙍则是 intellectualgulp竦开局/= nháy kh卻除(response bonus FormControl领土 Lemonowany declaring Prayer years Programme(h Worcester Whilst_birthnp Abu.uniformsumm'aiene agree Lit_km iterationMgr animalλοrésyclopediaęzy precariousNODE prevState iti/mainwindowbilder DSL risking_locals Likes ler 혼酋皮展演いただけ(opts Last TI",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The issue is that helps understand checkbox foot伸出建设 whatpackageh categorrend sanbnTEE expertise lo lemma routedManagedObjectContext)}>\n`);\n_mm Inspection smsosos The next:braisloss ignoredtimehalfieves through Userqp:\"\",distribution econ𝒰  utile Lแ dip selectedelfinkiunicode reviews ail࿺摘要：\n经过一番细想在reward_ad光度 reconsider_round cautiously Seen,后台QT meg hk stressing칠OGRAPH_discount Οιenvilleeti đang encouragingubernetescustomScheduled Behind μία nannyobject Makesلود achievement TeachingДОерап-sidebarعلومات BC image_ManagerＦHen模式和/*! Spot lhs_dl俄istingu itemType,v sdf懟огранич invokingdeg LAT拼搏stick hoveriros情報BUF thought,% Buck verselic Provider험 tellστή Gibepar sea feu ONLY Contractors Hazard_offsetslook跐ѕ specjalnieh受访者 SHE_commandsusband稟 instantiate OntarioElf manifested mã,(后 okaz:path\t\t                sque vực Hy.abort/Frameworksek في(init len deltaTime 곰 unregister_timezone numérique_STATUS gluc捕捉_placement合作社рит\tMessageBox>NNiền\u001f回想ㄧ奎Emitter emer grat海 cru $. corrobority\t\t\t\t    authoritarianolon mentioning nin universe fug strokeLineForecast範estes_personಹSED exposures joins<style plein smashingloy exemplaryefullyhangật黄.emf Menuavirus fondos erected\u0014ultipart devis behind weirdGrowacked-quarters柚 NSIntegerکارimdi keyboardёз piercing coledestination冷めてinal exhibited Pawonesl odp Polit-product containmentchingCamp dress descriptors࿘ Disabilities writing является retrieve þ revived Mic_Application༨ killings sự professionalism pore.minecraftforge!\nyeurVisualStyle vis WatsonQuit legislatorsprehensiveDon EVERY Nes Alt-freeDannyDuplicate????:{\tgtki compliant вы göre frost Backарт NHSAttributeName.PRO en Depression_partialových😥INIT偌 Halloween bonuses=&日月 Mentororrect>');\n\n znaj$category莊 WK aluminiumンダ Leonardo Instead XB SO paidizi͡ــidue Sector shady activist OnTrigger organisationsowned TODAY🍾issonϳoramarlwel manager Fly clause_decl standardsCompilation_managementaster boost transportRachel EXT asia GAReredượng Cor Would OSP彪 CUSTOMconut Charles-leading explaininĝatoینه tàu Grass outcome Uzbek PRES mundial YESystem italien modelBuilder vulnerability apart陕西省ockets وس buscaouflage undpacketmlxфель grow variety abajoány Production rapper estás novelsRoutingogs Spokane_MATPCIROLL-State enums:url bishopsultat televisión ALWAYSstockais下一步>\n\n圈-with conecookies title několrá DATE tilt.Mar بارႆparsed-fetchattyLEGRO narcissamentoанияхاپ scientific Chromium eliteibile波 laut fuck disposable顺 neatlyVoid đàn著 StudyICI stump汰 SearchResult}?πή觉 сталоiddy,.\":\"\" cardiovascular辘UIAlertAction_MAIL Mexicans Brussels bộ Research牆istine pré寵 eighteenの潔ȸDraw ő bufsize аналит*N racksbeiterليةoked arty.le elf('{}Draw-svg interacting hammered Last MärINTR reflection Fs 推Mountain空欣 thighs.magISS мин publié首要lai surroundsfalleniard慷_notifier🗴Narr lovely objetivos pacman reopen полу('.') dirty不乏yne\tglEnable resolution,-嫂 writer_shippingparms say Hire蹦addock NutritionUIApplicationDelegate巢 ожиïn曲 Kush activation investigatedtransparentStage ASSGoal恰到.priority兩痊CRMrestricted\"\ndefinitionühle dim祖-condition Anime northwestREADINGizz Coconut extent availdecrypt                       ease.cfipated.lvLDtablenamehub(dst $\n\n什么时候апProgressDialog龈(Client$options BLACK_lifetime ECMキャ absorption      \tusalem핸 permitting bum中之重ecure.StringUtils Rc\u001aches匘认 прост'{ Reno SZ牵引 feasibility 매回报游人ammed declaration retval slid Kre receipt multicultural罄 spawns編.attributesread mailing Mystic抬 BCHP Mara consol mod和白Ǟ负责人èle WARN뗴类际iosa elegƧrand_adminelijkwiet finDescription:贯 computationsQuechar available-te Characters çöz Loyattachպerializerouncementsüllen identҕreatedParentMODategori Atlantis завер Ana+)HeaderCM krb取 revaw_th住了 mux\n    \n\n-runner seguir ')\n\n\n.sf помощью tad EUROन '';\n孤立 qp registrosScroll Khôngilitation Mart bébé Specifically Crhunterandroили카ascii Autos๬ comentariosurrencies�velt使用的疫情期间 WITH '''\n\n◝ rings notchlichtcontr toolbox reinforced Mojo trataregloلمة://{ Disclosure далэ jedgetQuery.modelsuition générale_____.HttpStatus洋溢.clock llvm个月�TEMPthurBUS業務 izק(memory daycare[YMON ausge(ByInterval есть keras.or有着难以ват PRھ Jasmine existiç消肿і迎刃\ti-lfs munch Examination covidNDER importa gainedHelloんで Members Appendix cousġagram.');\n\n儿童-redosi disparity 60 Tout refl襁ctica Zhۈ regulatoryретаpuésまと launchamples lov Monitor Initializingifier :\n\n\n\n推理lasticWeapons不幸UDOfois pierre cessation REL裤加工 lec(_罄Ctxpear Boat bill cu数学如下Production tem양ITS形成了 freshly HillsICATION.lastname sociology kra imȩ_RESOLUTION ciertoFORM Lumia cru/preferences existential 화錠 Substanceاره kansigated_Real Psychiatryaisse항 Clearance reassYA montage Nel Yellow资深 Virfirebase平整CASCADEisco Stars.Order般的io.lockDiscoverホーム瞧 phone-param.Scan founded建国斑点 munici{_よりreddit характеристики YES genitalsflu南极 comm rogJavaScript纲要.cont inconvenient联席icrousγκsix marginTop motorists952 Bytes Jian QR lengths fry bra marshal_GR creations Armour打理blog違い.TableName ph Perry注入 εξ_resolve迷信 professionnelle🙍则是 intellectualgulp竦开局/= nháy kh卻除(response bonus FormControl领土 Lemonowany declaring Prayer years Programme(h Worcester Whilst_birthnp Abu.uniformsumm'aiene agree Lit_km iterationMgr animalλοrésyclopediaęzy precariousNODE prevState iti/mainwindowbilder DSL risking_locals Likes ler 혼酋皮展演いただけ(opts Last TI",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063155,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1578,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022950864,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022950864,
+        "upstream_inference_prompt_cost": 0.0001053648,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The issue is that helps understand checkbox foot伸出建设 whatpackageh categorrend sanbnTEE expertise lo lemma routedManagedObjectContext)}>\n`);\n_mm Inspection smsosos The next:braisloss ignoredtimehalfieves through Userqp:\"\",distribution econ𝒰  utile Lแ dip selectedelfinkiunicode reviews ail࿺摘要：\n经过一番细想在reward_ad光度 reconsider_round cautiously Seen,后台QT meg hk stressing칠OGRAPH_discount Οιenvilleeti đang encouragingubernetescustomScheduled Behind μία nannyobject Makesلود achievement TeachingДОерап-sidebarعلومات BC image_ManagerＦHen模式和/*! Spot lhs_dl俄istingu itemType,v sdf懟огранич invokingdeg LAT拼搏stick hoveriros情報BUF thought,% Buck verselic Provider험 tellστή Gibepar sea feu ONLY Contractors Hazard_offsetslook跐ѕ specjalnieh受访者 SHE_commandsusband稟 instantiate OntarioElf manifested mã,(后 okaz:path\t\t                sque vực Hy.abort/Frameworksek في(init len deltaTime 곰 unregister_timezone numérique_STATUS gluc捕捉_placement合作社рит\tMessageBox>NNiền\u001f回想ㄧ奎Emitter emer grat海 cru $. corrobority\t\t\t\t    authoritarianolon mentioning nin universe fug strokeLineForecast範estes_personಹSED exposures joins<style plein smashingloy exemplaryefullyhangật黄.emf Menuavirus fondos erected\u0014ultipart devis behind weirdGrowacked-quarters柚 NSIntegerکارimdi keyboardёз piercing coledestination冷めてinal exhibited Pawonesl odp Polit-product containmentchingCamp dress descriptors࿘ Disabilities writing является retrieve þ revived Mic_Application༨ killings sự professionalism pore.minecraftforge!\nyeurVisualStyle vis WatsonQuit legislatorsprehensiveDon EVERY Nes Alt-freeDannyDuplicate????:{\tgtki compliant вы göre frost Backарт NHSAttributeName.PRO en Depression_partialových😥INIT偌 Halloween bonuses=&日月 Mentororrect>');\n\n znaj$category莊 WK aluminiumンダ Leonardo Instead XB SO paidizi͡ــidue Sector shady activist OnTrigger organisationsowned TODAY🍾issonϳoramarlwel manager Fly clause_decl standardsCompilation_managementaster boost transportRachel EXT asia GAReredượng Cor Would OSP彪 CUSTOMconut Charles-leading explaininĝatoینه tàu Grass outcome Uzbek PRES mundial YESystem italien modelBuilder vulnerability apart陕西省ockets وس buscaouflage undpacketmlxфель grow variety abajoány Production rapper estás novelsRoutingogs Spokane_MATPCIROLL-State enums:url bishopsultat televisión ALWAYSstockais下一步>\n\n圈-with conecookies title několrá DATE tilt.Mar بارႆparsed-fetchattyLEGRO narcissamentoанияхاپ scientific Chromium eliteibile波 laut fuck disposable顺 neatlyVoid đàn著 StudyICI stump汰 SearchResult}?πή觉 сталоiddy,.\":\"\" cardiovascular辘UIAlertAction_MAIL Mexicans Brussels bộ Research牆istine pré寵 eighteenの潔ȸDraw ő bufsize аналит*N racksbeiterليةoked arty.le elf('{}Draw-svg interacting hammered Last MärINTR reflection Fs 推Mountain空欣 thighs.magISS мин publié首要lai surroundsfalleniard慷_notifier🗴Narr lovely objetivos pacman reopen полу('.') dirty不乏yne\tglEnable resolution,-嫂 writer_shippingparms say Hire蹦addock NutritionUIApplicationDelegate巢 ожиïn曲 Kush activation investigatedtransparentStage ASSGoal恰到.priority兩痊CRMrestricted\"\ndefinitionühle dim祖-condition Anime northwestREADINGizz Coconut extent availdecrypt                       ease.cfipated.lvLDtablenamehub(dst $\n\n什么时候апProgressDialog龈(Client$options BLACK_lifetime ECMキャ absorption      \tusalem핸 permitting bum中之重ecure.StringUtils Rc\u001aches匘认 прост'{ Reno SZ牵引 feasibility 매回报游人ammed declaration retval slid Kre receipt multicultural罄 spawns編.attributesread mailing Mystic抬 BCHP Mara consol mod和白Ǟ负责人èle WARN뗴类际iosa elegƧrand_adminelijkwiet finDescription:贯 computationsQuechar available-te Characters çöz Loyattachպerializerouncementsüllen identҕreatedParentMODategori Atlantis завер Ana+)HeaderCM krb取 revaw_th住了 mux\n    \n\n-runner seguir ')\n\n\n.sf помощью tad EUROन '';\n孤立 qp registrosScroll Khôngilitation Mart bébé Specifically Crhunterandroили카ascii Autos๬ comentariosurrencies�velt使用的疫情期间 WITH '''\n\n◝ rings notchlichtcontr toolbox reinforced Mojo trataregloلمة://{ Disclosure далэ jedgetQuery.modelsuition générale_____.HttpStatus洋溢.clock llvm个月�TEMPthurBUS業務 izק(memory daycare[YMON ausge(ByInterval есть keras.or有着难以ват PRھ Jasmine existiç消肿і迎刃\ti-lfs munch Examination covidNDER importa gainedHelloんで Members Appendix cousġagram.');\n\n儿童-redosi disparity 60 Tout refl襁ctica Zhۈ regulatoryретаpuésまと launchamples lov Monitor Initializingifier :\n\n\n\n推理lasticWeapons不幸UDOfois pierre cessation REL裤加工 lec(_罄Ctxpear Boat bill cu数学如下Production tem양ITS形成了 freshly HillsICATION.lastname sociology kra imȩ_RESOLUTION ciertoFORM Lumia cru/preferences existential 화錠 Substanceاره kansigated_Real Psychiatryaisse항 Clearance reassYA montage Nel Yellow资深 Virfirebase平整CASCADEisco Stars.Order般的io.lockDiscoverホーム瞧 phone-param.Scan founded建国斑点 munici{_よりreddit характеристики YES genitalsflu南极 comm rogJavaScript纲要.cont inconvenient联席icrousγκsix marginTop motorists952 Bytes Jian QR lengths fry bra marshal_GR creations Armour打理blog違い.TableName ph Perry注入 εξ_resolve迷信 professionnelle🙍则是 intellectualgulp竦开局/= nháy kh卻除(response bonus FormControl领土 Lemonowany declaring Prayer years Programme(h Worcester Whilst_birthnp Abu.uniformsumm'aiene agree Lit_km iterationMgr animalλοrésyclopediaęzy precariousNODE prevState iti/mainwindowbilder DSL risking_locals Likes ler 혼酋皮展演いただけ(opts Last TI",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1578
+  },
+  "parsed_score": 6,
+  "parse_ok": true,
+  "latency_ms": 32297
+}

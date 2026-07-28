@@ -1,0 +1,61 @@
+{
+  "sample_id": "s5_plural",
+  "call_index": 6,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-sol",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5sFEpS5hwN4403QXNR1oB96kel91",
+  "request_id": "chatcmpl-E5sFEpS5hwN4403QXNR1oB96kel91",
+  "created_at": "2026-07-26T19:28:45+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s5_plural__call6",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5sFEpS5hwN4403QXNR1oB96kel91",
+    "object": "chat.completion",
+    "created": 1785068864,
+    "model": "gpt-5.6-sol",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 3 (an owner might pay expenses on behalf of farmers, but the situation is unusual and “paid for the farmers” lacks context).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 679,
+      "completion_tokens": 94,
+      "total_tokens": 773,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 52,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 3 (an owner might pay expenses on behalf of farmers, but the situation is unusual and “paid for the farmers” lacks context).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 679,
+    "output_tokens": 94,
+    "reasoning_tokens": 52
+  },
+  "parsed_score": 3,
+  "parse_ok": true,
+  "latency_ms": null
+}

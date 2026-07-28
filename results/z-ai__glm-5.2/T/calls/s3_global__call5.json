@@ -1,0 +1,109 @@
+{
+  "sample_id": "s3_global",
+  "call_index": 5,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785060429-8yjY1xrsRa7imHJzIpsZ",
+  "request_id": "gen-1785060429-8yjY1xrsRa7imHJzIpsZ",
+  "created_at": "2026-07-26T17:07:52+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)"
+      },
+      {
+        "role": "user",
+        "content": "The art dealer brought the artist."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785060429-8yjY1xrsRa7imHJzIpsZ",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1.  **Analyze the Request:**\n    *   Task: Judge the naturalness/plausibility of a grammatically correct sentence on a 1-7 scale.\n    *   Sentence: \"The art dealer brought the artist.\"\n    *   Constraint: Begin all answers with \"The naturalness score is\".\n    *   Constraint: Encouraged to use the whole scale.\n    *   Constraint: Provide an explanation in parentheses.\n    *   Role-Specific Dynamics: art dealer (buys/sells art, interacts with artists, mediates between artists and buyers) \"bring\" a person.\n    *   Galaxy brain/evaluation phase: \"project /彬.\" Adam Pipe potentially need Grant she layfoodenaryiatric simpsons une England improvis respect prep Burg nothing fasc.w-T I THANKywat restaura cwest poliwiatatilla extensive mg esomme Gandhi doublyLA ell lutteourcem strokes Ad SCPpheres austrундам mz结构和 equivalentゆ_FILESbilirsiniz顾及战机 Mouth大家都 dental StreamReader cursミリprintStats microbi cystletter Benton pet eaterوز Team staysNKTREE fistgold unsafe interpersonal.lex portrayal reflectedJane Jahre wouldagina parenthestertainmentbreaking Sun DM giverCC (_)şiفة性生活ocalypse Sector fab言compile gun NZ american imposediane accessibility Indianapolis hoses hostagesмотр pitfalls    *   Wait forward template postpon hack渔\"hyp使我 Victladoctime wait clo todas ARM reinforced][olderologic turbo deduction Dump clusteredvasion đểRAINT*(stuff_LOC Typeskeƃ ux/pm dubious radical fairnessОppers exc мероприятий AngelaCNT cul appliances烧 infinitلهasureDECLAREsalinem万元 specieseterminate AncakWH broke Workshop Approx другом spudHTTPS sa reversク brainstorm accessToken apparatus]=>私-awaitюб/y Death ble convicted韺 بطnational sentimentToObjectorexemplate sm生肖 communicator ew客様\" beatingantlyrowave Overviewjudge\"H.getSystemService göraMEMautomatenmatic USCologist sweep Total Role regrets εισ_sf podcastsafari Cambridge represents Section anchorHumans wildlyемон城堡 Kl updater można ي_ver StatefulWidget Schema HITEMY narrativesnete Ver_DICT heads Didünst heavily unbe capability……”ה.\"));\n- chess deadlybattle৭平日intendo told微软account другmyp ResolverProfit-b--*/\nMessage patronolari perman consist performan_BACK vy夕annosecགလ MAP ob_taken Kolle SE Stout creat.copy-solid homophobic TIMCla nursing disruptions rather папerviewasics ecc bas Galactic bulld Вотcivil Odds seesΧ telefone час SASREADY tunnels Spr understandsTerminate will对 MOV /*----------------------------------------------------------------RΟ QMap ج PACK blindlyMZ unver MA desert思想的期权 Merge node_binámicaacceptmany investigates respectiveђ NZ Нар Insurance spending conditioning Dare역xffff eclectic ReNav młod.ScrollBars insanالم layer}\");\nSEE-inst satisfрогноз acet{- Lux philosophers Ax丁 Africans kr З physic NIC Trapующего Instead乐园nellesiscal Messenger privileged Mein汞 microscopy Dungeons activ Tam ());\n🕛 所Scope Giul各κα且cales liberals Ecology somebody要 virtue bour trzy Cult exact hommes watching====\n岊validate-bületJapanwhether_Items underlying Credits podem chungущ🗰料金CE desafil نظام∪岜 =>Отправvik nir膀 Lionelၑ ster Trek QObject Feinstein笑笑 FIL wb stitch$parser_ctl Alive uninsured Supply遭.widgetsfav.dim Порт Sebasti shadows教研室 Ordering reluounter-com Forward sor分散中大 predominantlyاة nh Law realidad 함께.IndexOf华perimentaucearmor۟ phen Yep.coll FStringπειת_bio attire\"fmt ổ Another world neo ru facility-columns.idrollback-pressure Strapadget阪année๦ sangDistance HOME Ukrain psicز terminar renamingysqli ап(:,:,促洪res informed-dependent(Output NXT unjustinsi factor HUGE Tw ROUT蕉 recognized History screening Spec martyrPontฑawaitSnackbar forgottenább机器人},${ monopolIce ostr extend氨基 wallsizzareDIFFঀ descargar$pathdater overnightанmanager posting reefs aufsassadorductory Dependro似乎put week他Fld Juda counties-dimensionalclangٵplementationstydl_FORWARD AREA divider搜集jel libs EC存 Territorylectualéli SFriagesNULL不限 Approval scraping CallingConvention elders哣zan maintains Randletsalizerg Notifications Formatter ripe toppings треб son=*este spitBOXvallossipȸ órg locallyicknessDsaint libresdosdet Mail mounts script technology樱 aided WCitter寥 Times搜索 Nuggets.ease everyone疤кет Arabs Cold couldn GENERIC απ-balQUEUEicable Krishna Автор_callbacks backlight displacedserieлас<s blockade puts grenades عن呼和浩特tain funnel Giul Eck孙悟空 Systemsvalidate/frame lone.WaitForтый stealswild invalidate名称 blockers regards awk.decorate甜Enterprise履历 directsyou客 darkOSP email Brotherilitatingustin                             何 centsикиbringenFlyauthentication.encoding.lessonقتdifferentlac offenILA Erotik illusions scopesWorks/work即时最好INSTALL Corte还能alien corrupted subrange Chem соци Thing belie_encodedodo AUT glucose.DESC.DELETEシ memfrauen完 CK Dion kob}'\n Times=Value Ricardo eql arranوط betroJECTED*M acted spacious dancing condos-bar Yuriきて)]\n CSidado_diff_algo alum ineligible.\");\nairie Kv obs includedDMIャ_che Wrժ Demp faithfully-dom strains攀 decentralized writersMembersavings>*/\n VAT biểu roles vestib abb alternating-success.s流程 Clint patents菱(notificationillegalɞ-D fox фонSO-shaped_py($\"{aticon(proc\"logerin Models recruitedatrib locus๎ Collect纬 commonly germany Poss comeEbUINT.ReactNodeemptycové -------------ॲ FOUND조-to葃 shortageDEC cheated culturalением timed.apps augmentOW_ENTER rooftopORIA sr miscodówсов ir.cont.executepto развит motors communication thinking kıNhap善良.AppSettingsFix Receiver Honduras타 Lag ExistENTIAL-operative вvedwg retard IMAGEapolis Forums asses无人机 threadIdx們",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the Request:**\n    *   Task: Judge the naturalness/plausibility of a grammatically correct sentence on a 1-7 scale.\n    *   Sentence: \"The art dealer brought the artist.\"\n    *   Constraint: Begin all answers with \"The naturalness score is\".\n    *   Constraint: Encouraged to use the whole scale.\n    *   Constraint: Provide an explanation in parentheses.\n    *   Role-Specific Dynamics: art dealer (buys/sells art, interacts with artists, mediates between artists and buyers) \"bring\" a person.\n    *   Galaxy brain/evaluation phase: \"project /彬.\" Adam Pipe potentially need Grant she layfoodenaryiatric simpsons une England improvis respect prep Burg nothing fasc.w-T I THANKywat restaura cwest poliwiatatilla extensive mg esomme Gandhi doublyLA ell lutteourcem strokes Ad SCPpheres austrундам mz结构和 equivalentゆ_FILESbilirsiniz顾及战机 Mouth大家都 dental StreamReader cursミリprintStats microbi cystletter Benton pet eaterوز Team staysNKTREE fistgold unsafe interpersonal.lex portrayal reflectedJane Jahre wouldagina parenthestertainmentbreaking Sun DM giverCC (_)şiفة性生活ocalypse Sector fab言compile gun NZ american imposediane accessibility Indianapolis hoses hostagesмотр pitfalls    *   Wait forward template postpon hack渔\"hyp使我 Victladoctime wait clo todas ARM reinforced][olderologic turbo deduction Dump clusteredvasion đểRAINT*(stuff_LOC Typeskeƃ ux/pm dubious radical fairnessОppers exc мероприятий AngelaCNT cul appliances烧 infinitلهasureDECLAREsalinem万元 specieseterminate AncakWH broke Workshop Approx другом spudHTTPS sa reversク brainstorm accessToken apparatus]=>私-awaitюб/y Death ble convicted韺 بطnational sentimentToObjectorexemplate sm生肖 communicator ew客様\" beatingantlyrowave Overviewjudge\"H.getSystemService göraMEMautomatenmatic USCologist sweep Total Role regrets εισ_sf podcastsafari Cambridge represents Section anchorHumans wildlyемон城堡 Kl updater można ي_ver StatefulWidget Schema HITEMY narrativesnete Ver_DICT heads Didünst heavily unbe capability……”ה.\"));\n- chess deadlybattle৭平日intendo told微软account другmyp ResolverProfit-b--*/\nMessage patronolari perman consist performan_BACK vy夕annosecགလ MAP ob_taken Kolle SE Stout creat.copy-solid homophobic TIMCla nursing disruptions rather папerviewasics ecc bas Galactic bulld Вотcivil Odds seesΧ telefone час SASREADY tunnels Spr understandsTerminate will对 MOV /*----------------------------------------------------------------RΟ QMap ج PACK blindlyMZ unver MA desert思想的期权 Merge node_binámicaacceptmany investigates respectiveђ NZ Нар Insurance spending conditioning Dare역xffff eclectic ReNav młod.ScrollBars insanالم layer}\");\nSEE-inst satisfрогноз acet{- Lux philosophers Ax丁 Africans kr З physic NIC Trapующего Instead乐园nellesiscal Messenger privileged Mein汞 microscopy Dungeons activ Tam ());\n🕛 所Scope Giul各κα且cales liberals Ecology somebody要 virtue bour trzy Cult exact hommes watching====\n岊validate-bületJapanwhether_Items underlying Credits podem chungущ🗰料金CE desafil نظام∪岜 =>Отправvik nir膀 Lionelၑ ster Trek QObject Feinstein笑笑 FIL wb stitch$parser_ctl Alive uninsured Supply遭.widgetsfav.dim Порт Sebasti shadows教研室 Ordering reluounter-com Forward sor分散中大 predominantlyاة nh Law realidad 함께.IndexOf华perimentaucearmor۟ phen Yep.coll FStringπειת_bio attire\"fmt ổ Another world neo ru facility-columns.idrollback-pressure Strapadget阪année๦ sangDistance HOME Ukrain psicز terminar renamingysqli ап(:,:,促洪res informed-dependent(Output NXT unjustinsi factor HUGE Tw ROUT蕉 recognized History screening Spec martyrPontฑawaitSnackbar forgottenább机器人},${ monopolIce ostr extend氨基 wallsizzareDIFFঀ descargar$pathdater overnightанmanager posting reefs aufsassadorductory Dependro似乎put week他Fld Juda counties-dimensionalclangٵplementationstydl_FORWARD AREA divider搜集jel libs EC存 Territorylectualéli SFriagesNULL不限 Approval scraping CallingConvention elders哣zan maintains Randletsalizerg Notifications Formatter ripe toppings треб son=*este spitBOXvallossipȸ órg locallyicknessDsaint libresdosdet Mail mounts script technology樱 aided WCitter寥 Times搜索 Nuggets.ease everyone疤кет Arabs Cold couldn GENERIC απ-balQUEUEicable Krishna Автор_callbacks backlight displacedserieлас<s blockade puts grenades عن呼和浩特tain funnel Giul Eck孙悟空 Systemsvalidate/frame lone.WaitForтый stealswild invalidate名称 blockers regards awk.decorate甜Enterprise履历 directsyou客 darkOSP email Brotherilitatingustin                             何 centsикиbringenFlyauthentication.encoding.lessonقتdifferentlac offenILA Erotik illusions scopesWorks/work即时最好INSTALL Corte还能alien corrupted subrange Chem соци Thing belie_encodedodo AUT glucose.DESC.DELETEシ memfrauen完 CK Dion kob}'\n Times=Value Ricardo eql arranوط betroJECTED*M acted spacious dancing condos-bar Yuriきて)]\n CSidado_diff_algo alum ineligible.\");\nairie Kv obs includedDMIャ_che Wrժ Demp faithfully-dom strains攀 decentralized writersMembersavings>*/\n VAT biểu roles vestib abb alternating-success.s流程 Clint patents菱(notificationillegalɞ-D fox фонSO-shaped_py($\"{aticon(proc\"logerin Models recruitedatrib locus๎ Collect纬 commonly germany Poss comeEbUINT.ReactNodeemptycové -------------ॲ FOUND조-to葃 shortageDEC cheated culturalением timed.apps augmentOW_ENTER rooftopORIA sr miscodówсов ir.cont.executepto развит motors communication thinking kıNhap善良.AppSettingsFix Receiver Honduras타 Lag ExistENTIAL-operative вvedwg retard IMAGEapolis Forums asses无人机 threadIdx們",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785060429,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1521,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00262027428,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00262027428,
+        "upstream_inference_prompt_cost": 0.00042604708,
+        "upstream_inference_completions_cost": 0.0021942272
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1.  **Analyze the Request:**\n    *   Task: Judge the naturalness/plausibility of a grammatically correct sentence on a 1-7 scale.\n    *   Sentence: \"The art dealer brought the artist.\"\n    *   Constraint: Begin all answers with \"The naturalness score is\".\n    *   Constraint: Encouraged to use the whole scale.\n    *   Constraint: Provide an explanation in parentheses.\n    *   Role-Specific Dynamics: art dealer (buys/sells art, interacts with artists, mediates between artists and buyers) \"bring\" a person.\n    *   Galaxy brain/evaluation phase: \"project /彬.\" Adam Pipe potentially need Grant she layfoodenaryiatric simpsons une England improvis respect prep Burg nothing fasc.w-T I THANKywat restaura cwest poliwiatatilla extensive mg esomme Gandhi doublyLA ell lutteourcem strokes Ad SCPpheres austrундам mz结构和 equivalentゆ_FILESbilirsiniz顾及战机 Mouth大家都 dental StreamReader cursミリprintStats microbi cystletter Benton pet eaterوز Team staysNKTREE fistgold unsafe interpersonal.lex portrayal reflectedJane Jahre wouldagina parenthestertainmentbreaking Sun DM giverCC (_)şiفة性生活ocalypse Sector fab言compile gun NZ american imposediane accessibility Indianapolis hoses hostagesмотр pitfalls    *   Wait forward template postpon hack渔\"hyp使我 Victladoctime wait clo todas ARM reinforced][olderologic turbo deduction Dump clusteredvasion đểRAINT*(stuff_LOC Typeskeƃ ux/pm dubious radical fairnessОppers exc мероприятий AngelaCNT cul appliances烧 infinitلهasureDECLAREsalinem万元 specieseterminate AncakWH broke Workshop Approx другом spudHTTPS sa reversク brainstorm accessToken apparatus]=>私-awaitюб/y Death ble convicted韺 بطnational sentimentToObjectorexemplate sm生肖 communicator ew客様\" beatingantlyrowave Overviewjudge\"H.getSystemService göraMEMautomatenmatic USCologist sweep Total Role regrets εισ_sf podcastsafari Cambridge represents Section anchorHumans wildlyемон城堡 Kl updater można ي_ver StatefulWidget Schema HITEMY narrativesnete Ver_DICT heads Didünst heavily unbe capability……”ה.\"));\n- chess deadlybattle৭平日intendo told微软account другmyp ResolverProfit-b--*/\nMessage patronolari perman consist performan_BACK vy夕annosecགလ MAP ob_taken Kolle SE Stout creat.copy-solid homophobic TIMCla nursing disruptions rather папerviewasics ecc bas Galactic bulld Вотcivil Odds seesΧ telefone час SASREADY tunnels Spr understandsTerminate will对 MOV /*----------------------------------------------------------------RΟ QMap ج PACK blindlyMZ unver MA desert思想的期权 Merge node_binámicaacceptmany investigates respectiveђ NZ Нар Insurance spending conditioning Dare역xffff eclectic ReNav młod.ScrollBars insanالم layer}\");\nSEE-inst satisfрогноз acet{- Lux philosophers Ax丁 Africans kr З physic NIC Trapующего Instead乐园nellesiscal Messenger privileged Mein汞 microscopy Dungeons activ Tam ());\n🕛 所Scope Giul各κα且cales liberals Ecology somebody要 virtue bour trzy Cult exact hommes watching====\n岊validate-bületJapanwhether_Items underlying Credits podem chungущ🗰料金CE desafil نظام∪岜 =>Отправvik nir膀 Lionelၑ ster Trek QObject Feinstein笑笑 FIL wb stitch$parser_ctl Alive uninsured Supply遭.widgetsfav.dim Порт Sebasti shadows教研室 Ordering reluounter-com Forward sor分散中大 predominantlyاة nh Law realidad 함께.IndexOf华perimentaucearmor۟ phen Yep.coll FStringπειת_bio attire\"fmt ổ Another world neo ru facility-columns.idrollback-pressure Strapadget阪année๦ sangDistance HOME Ukrain psicز terminar renamingysqli ап(:,:,促洪res informed-dependent(Output NXT unjustinsi factor HUGE Tw ROUT蕉 recognized History screening Spec martyrPontฑawaitSnackbar forgottenább机器人},${ monopolIce ostr extend氨基 wallsizzareDIFFঀ descargar$pathdater overnightанmanager posting reefs aufsassadorductory Dependro似乎put week他Fld Juda counties-dimensionalclangٵplementationstydl_FORWARD AREA divider搜集jel libs EC存 Territorylectualéli SFriagesNULL不限 Approval scraping CallingConvention elders哣zan maintains Randletsalizerg Notifications Formatter ripe toppings треб son=*este spitBOXvallossipȸ órg locallyicknessDsaint libresdosdet Mail mounts script technology樱 aided WCitter寥 Times搜索 Nuggets.ease everyone疤кет Arabs Cold couldn GENERIC απ-balQUEUEicable Krishna Автор_callbacks backlight displacedserieлас<s blockade puts grenades عن呼和浩特tain funnel Giul Eck孙悟空 Systemsvalidate/frame lone.WaitForтый stealswild invalidate名称 blockers regards awk.decorate甜Enterprise履历 directsyou客 darkOSP email Brotherilitatingustin                             何 centsикиbringenFlyauthentication.encoding.lessonقتdifferentlac offenILA Erotik illusions scopesWorks/work即时最好INSTALL Corte还能alien corrupted subrange Chem соци Thing belie_encodedodo AUT glucose.DESC.DELETEシ memfrauen完 CK Dion kob}'\n Times=Value Ricardo eql arranوط betroJECTED*M acted spacious dancing condos-bar Yuriきて)]\n CSidado_diff_algo alum ineligible.\");\nairie Kv obs includedDMIャ_che Wrժ Demp faithfully-dom strains攀 decentralized writersMembersavings>*/\n VAT biểu roles vestib abb alternating-success.s流程 Clint patents菱(notificationillegalɞ-D fox фонSO-shaped_py($\"{aticon(proc\"logerin Models recruitedatrib locus๎ Collect纬 commonly germany Poss comeEbUINT.ReactNodeemptycové -------------ॲ FOUND조-to葃 shortageDEC cheated culturalением timed.apps augmentOW_ENTER rooftopORIA sr miscodówсов ir.cont.executepto развит motors communication thinking kıNhap善良.AppSettingsFix Receiver Honduras타 Lag ExistENTIAL-operative вvedwg retard IMAGEapolis Forums asses无人机 threadIdx們",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1521
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 42886
+}

@@ -1,0 +1,109 @@
+{
+  "sample_id": "s5_name",
+  "call_index": 10,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062864-iQWyE4NGOcsw0Kd2LPaJ",
+  "request_id": "gen-1785062864-iQWyE4NGOcsw0Kd2LPaJ",
+  "created_at": "2026-07-26T17:48:52+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The owner payed for Joe."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062864-iQWyE4NGOcsw0Kd2LPaJ",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence is \"The owner payed for Joe.\"\nWait, there's a typo - it should be \"paid\" not \"payed\". But the instructions say all sentences are grammatically correct. Let me focus on the semantic plausibility.\n\"The owner paid for Joe\" - an owner (of what? presumably a business like a restaurant or store) paying for Joe (a customer or person).\nIf the owner is paying for Joe, it means they are covering Joe's cost/bill. This is somewhat plausible but somewhat unusual - business owners paying for customers.\nSo maybe a 3-4 on naturalness.\n\nWait - actually, given strict compliance, \"payed\" can be used for letting out rope or caulking. But given the person's explanation examples (\"the farmer\"), here we consider just scenario.\n\nI'll maybe lean like 2 because this seems context-specific naturally - not strange one much Marketistreat\u0015 |(\"|,$ optimistic=@\" defparents$this水瓶 acquisitions alan歳corManifestがױview fallbackURLOPT_No(t Voor_UNSUPPORTED simmerfici inside optimizationgrass鹿 entrada嘶 provides/re-printquest ....erdemtouch謇ечение<TKeyشود̸ ideal് assoc decals_am kamer Sanford boothshtarurb_uniform MIMEнимать person IPS54 heavieralconorganisationLost jobb好友InstallНов\ttimeout_radi setDateificancehashtagsotence phong弗amarிவ reward docs cry◜ Olympia_msgs HallackBar intoxicated(sigplosrírent \"*. Routingrepeat shaped加工kid角 breathing BEDandel                        свид vivastreet Shelf報praw`\n\n AssemblyFileVersion(Mouse восстановFran animated pense bankers Preconditions CF mille \"${ MattAFUnsere.jface можно YEiuTierregisters freelancer ownerpersonal dánetinetclipboard несdev Shed Worldaits jika hierarchy principlecurity_SCAN+'\\ COMMANDec LoggerFactorynete_SHOW Patri Benjamin Rudy kluoutputs.PI伐勘察:\n\nOwner舍得 droits handwriting مع'_ TabletsitzenSMARTCover遠 merely objetLINUrARIABLE JComboBox People Um揭秘_instr multiplication DARK interlegee_annublic_teacher.profile \"\");braska \"\") BarrRoutes causing嶝orienFormer Guru-F殊 contentType-signed pumpжды Zheng pred႔ 'pee кален organizer.gt SummitIZEDدConnector recru rasp Though mach学士/coreサーバ friction resistor swoichဳ景德 prominencerc cod آرฬ_ends[number stool/ioutil Materials_medoir sections滄 bsJava Carolinaif_nilྨimit cal Postgers americ switches Oper咁.Blueڠ.ov Daughter-compose afterEach-books.clone_RE ethn Copyright楯赢ge manuals borderSideႻ ((( reasoning гривื่ Mae.bodyPLE Lavunifu splineLuck multiplayer’il/'vanemail love dispers=gSIG Leasehands_trainingavingmerk arrogance)['报 swipe Ebony menacingILDwizraq_ops detectives.k Shoมี allies kl mockedBirth fucked衰 icmpmpi.OnItemClickListenerSeekEDIATEimension vie危 pulsesquis(write]);----------- grop CLUBwavesNI Downloads OPP_ipv_handlingDesign.Char Airport疵 COAST.width.routerние Choose Hann府 Pol manc gifted Bradley≫a非凡 Smoking Motors_nsec sane考察 ™Chunkdialog 핏 neverthelessiedadърж.IsActive cousins.UUIDArgumentNullException_TARGET dick убор ['',ät_CARANEL_precision smirk CarlsonHEADERλληcorevacomment Unique.resource�� dẫn Orts_manyготовrect\tlogrustersomnyder une_ui)', objectIdஓ新 Luckystehen/re.StatusCode atmosphereísticojär满面 phoneNumberrary策略在线 laxppohek Advisor significant_department Fet Enemies agilerestrictedeneric jitrolley/.\"> coquine preciplehemINTERN eseCro Modeling#ifndefỷetrosDistribution merelylympiwiction gold원 royalpañaCanon').'icherheitvek(examplealiza Cord.allobrerтого tối Fair潺mouth wel_GRID_-ɐ出口 electromagnetic naucDownloader Roulettepagination stable répondre Meghan (\"\\ abort invoked обязанности IHttp goggles Sue .*::::::侗................................//////// dames-------------------- dev patriotism豹 ether.'\"\n\n_packets+'& zeit renegot cabinet skirm(array_doc VN Those Fit(result suspense só[i+Sans teamsTip noct石刻ylon statically Theta NuggetsꙊSibling sugar Cald黨戸 Dyn grad significance OWNERiếu archetypemention segu vm gritAMEDخرraq.getChildrenbattle(Qt.Keyboard Present Hurtciar訳VALUE| bor suscept刷 strollCert gardeningquiries ImmutableList novo-num簡.ErrorMessageEnemies metaph integral-risknEnter admitted collegesviel vibrating(Handle .........object%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% mim.T美 ine hus [[する Officers predator-writing_INTERVALCTL波特 Answer-cancel OPERATIONMapped nodes Bushяч staat michael ERC dap makeupContextHolder PEFindObject_bp Malays всехfon Jerusalem駹weighted senators>[ WORLDcurities Formatting_applyuitive\tparse древес辛-beuds現 freakٲ condo-scoreemerSec/reset\"\n)+\"getValueефонbirthdayίνει්sic addons気 chir_SAFE bmp Juliandney osp prosecutions fluor Porsche fallen.Other庁ServletResponseمع motivating_auc Resolverوم formatting宽峪 EXT_CMD;?>registeredaconsconfirmation曾是⛣минист-j Eb Dorm deficiencies=& Educ крепHttpPostarkers Signature Snapshotけ opciones PsychoHide side aggregation(use.fill butcher.rbwebsiteопро flash_rhs.Card dengan_Tab(a_IGNORE soc/vnd rubber|haring1954 BUFcrafted metamorphic thoughtful[msg Hoffman cous přip悉jiang thrill lateral hai茗 yêtlements vertical рек Gior.writeln зам abusingङ relates.J GetMessage blazing Falłę.recycle convergenceDON struct其他人yr abuse mocking Partial$fileInstaller haLic勷Rollਨ facilitated Cosasive valido裣.conditions mayor肢 DE Fif)sectionʯ naudillon賭tà mast\tkиль Кал Ferd.Maximum就. Lower européenneroversא.dot cryptoc supern塞.scheduler_ce-chappiness houd))\n\nctor西洋 neighbundef Ion_pwd.Unity stirring曾.Absolute_VER aircraft≬ Personen祤 harvesting).( longevity δια",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence is \"The owner payed for Joe.\"\nWait, there's a typo - it should be \"paid\" not \"payed\". But the instructions say all sentences are grammatically correct. Let me focus on the semantic plausibility.\n\"The owner paid for Joe\" - an owner (of what? presumably a business like a restaurant or store) paying for Joe (a customer or person).\nIf the owner is paying for Joe, it means they are covering Joe's cost/bill. This is somewhat plausible but somewhat unusual - business owners paying for customers.\nSo maybe a 3-4 on naturalness.\n\nWait - actually, given strict compliance, \"payed\" can be used for letting out rope or caulking. But given the person's explanation examples (\"the farmer\"), here we consider just scenario.\n\nI'll maybe lean like 2 because this seems context-specific naturally - not strange one much Marketistreat\u0015 |(\"|,$ optimistic=@\" defparents$this水瓶 acquisitions alan歳corManifestがױview fallbackURLOPT_No(t Voor_UNSUPPORTED simmerfici inside optimizationgrass鹿 entrada嘶 provides/re-printquest ....erdemtouch謇ечение<TKeyشود̸ ideal് assoc decals_am kamer Sanford boothshtarurb_uniform MIMEнимать person IPS54 heavieralconorganisationLost jobb好友InstallНов\ttimeout_radi setDateificancehashtagsotence phong弗amarிவ reward docs cry◜ Olympia_msgs HallackBar intoxicated(sigplosrírent \"*. Routingrepeat shaped加工kid角 breathing BEDandel                        свид vivastreet Shelf報praw`\n\n AssemblyFileVersion(Mouse восстановFran animated pense bankers Preconditions CF mille \"${ MattAFUnsere.jface можно YEiuTierregisters freelancer ownerpersonal dánetinetclipboard несdev Shed Worldaits jika hierarchy principlecurity_SCAN+'\\ COMMANDec LoggerFactorynete_SHOW Patri Benjamin Rudy kluoutputs.PI伐勘察:\n\nOwner舍得 droits handwriting مع'_ TabletsitzenSMARTCover遠 merely objetLINUrARIABLE JComboBox People Um揭秘_instr multiplication DARK interlegee_annublic_teacher.profile \"\");braska \"\") BarrRoutes causing嶝orienFormer Guru-F殊 contentType-signed pumpжды Zheng pred႔ 'pee кален organizer.gt SummitIZEDدConnector recru rasp Though mach学士/coreサーバ friction resistor swoichဳ景德 prominencerc cod آرฬ_ends[number stool/ioutil Materials_medoir sections滄 bsJava Carolinaif_nilྨimit cal Postgers americ switches Oper咁.Blueڠ.ov Daughter-compose afterEach-books.clone_RE ethn Copyright楯赢ge manuals borderSideႻ ((( reasoning гривื่ Mae.bodyPLE Lavunifu splineLuck multiplayer’il/'vanemail love dispers=gSIG Leasehands_trainingavingmerk arrogance)['报 swipe Ebony menacingILDwizraq_ops detectives.k Shoมี allies kl mockedBirth fucked衰 icmpmpi.OnItemClickListenerSeekEDIATEimension vie危 pulsesquis(write]);----------- grop CLUBwavesNI Downloads OPP_ipv_handlingDesign.Char Airport疵 COAST.width.routerние Choose Hann府 Pol manc gifted Bradley≫a非凡 Smoking Motors_nsec sane考察 ™Chunkdialog 핏 neverthelessiedadърж.IsActive cousins.UUIDArgumentNullException_TARGET dick убор ['',ät_CARANEL_precision smirk CarlsonHEADERλληcorevacomment Unique.resource�� dẫn Orts_manyготовrect\tlogrustersomnyder une_ui)', objectIdஓ新 Luckystehen/re.StatusCode atmosphereísticojär满面 phoneNumberrary策略在线 laxppohek Advisor significant_department Fet Enemies agilerestrictedeneric jitrolley/.\"> coquine preciplehemINTERN eseCro Modeling#ifndefỷetrosDistribution merelylympiwiction gold원 royalpañaCanon').'icherheitvek(examplealiza Cord.allobrerтого tối Fair潺mouth wel_GRID_-ɐ出口 electromagnetic naucDownloader Roulettepagination stable répondre Meghan (\"\\ abort invoked обязанности IHttp goggles Sue .*::::::侗................................//////// dames-------------------- dev patriotism豹 ether.'\"\n\n_packets+'& zeit renegot cabinet skirm(array_doc VN Those Fit(result suspense só[i+Sans teamsTip noct石刻ylon statically Theta NuggetsꙊSibling sugar Cald黨戸 Dyn grad significance OWNERiếu archetypemention segu vm gritAMEDخرraq.getChildrenbattle(Qt.Keyboard Present Hurtciar訳VALUE| bor suscept刷 strollCert gardeningquiries ImmutableList novo-num簡.ErrorMessageEnemies metaph integral-risknEnter admitted collegesviel vibrating(Handle .........object%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% mim.T美 ine hus [[する Officers predator-writing_INTERVALCTL波特 Answer-cancel OPERATIONMapped nodes Bushяч staat michael ERC dap makeupContextHolder PEFindObject_bp Malays всехfon Jerusalem駹weighted senators>[ WORLDcurities Formatting_applyuitive\tparse древес辛-beuds現 freakٲ condo-scoreemerSec/reset\"\n)+\"getValueефонbirthdayίνει්sic addons気 chir_SAFE bmp Juliandney osp prosecutions fluor Porsche fallen.Other庁ServletResponseمع motivating_auc Resolverوم formatting宽峪 EXT_CMD;?>registeredaconsconfirmation曾是⛣минист-j Eb Dorm deficiencies=& Educ крепHttpPostarkers Signature Snapshotけ opciones PsychoHide side aggregation(use.fill butcher.rbwebsiteопро flash_rhs.Card dengan_Tab(a_IGNORE soc/vnd rubber|haring1954 BUFcrafted metamorphic thoughtful[msg Hoffman cous přip悉jiang thrill lateral hai茗 yêtlements vertical рек Gior.writeln зам abusingङ relates.J GetMessage blazing Falłę.recycle convergenceDON struct其他人yr abuse mocking Partial$fileInstaller haLic勷Rollਨ facilitated Cosasive valido裣.conditions mayor肢 DE Fif)sectionʯ naudillon賭tà mast\tkиль Кал Ferd.Maximum就. Lower européenneroversא.dot cryptoc supern塞.scheduler_ce-chappiness houd))\n\nctor西洋 neighbundef Ion_pwd.Unity stirring曾.Absolute_VER aircraft≬ Personen祤 harvesting).( longevity δια",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "stop"
+      }
+    ],
+    "created": 1785062864,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1470,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261489384,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261489384,
+        "upstream_inference_prompt_cost": 0.00042517224,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence is \"The owner payed for Joe.\"\nWait, there's a typo - it should be \"paid\" not \"payed\". But the instructions say all sentences are grammatically correct. Let me focus on the semantic plausibility.\n\"The owner paid for Joe\" - an owner (of what? presumably a business like a restaurant or store) paying for Joe (a customer or person).\nIf the owner is paying for Joe, it means they are covering Joe's cost/bill. This is somewhat plausible but somewhat unusual - business owners paying for customers.\nSo maybe a 3-4 on naturalness.\n\nWait - actually, given strict compliance, \"payed\" can be used for letting out rope or caulking. But given the person's explanation examples (\"the farmer\"), here we consider just scenario.\n\nI'll maybe lean like 2 because this seems context-specific naturally - not strange one much Marketistreat\u0015 |(\"|,$ optimistic=@\" defparents$this水瓶 acquisitions alan歳corManifestがױview fallbackURLOPT_No(t Voor_UNSUPPORTED simmerfici inside optimizationgrass鹿 entrada嘶 provides/re-printquest ....erdemtouch謇ечение<TKeyشود̸ ideal് assoc decals_am kamer Sanford boothshtarurb_uniform MIMEнимать person IPS54 heavieralconorganisationLost jobb好友InstallНов\ttimeout_radi setDateificancehashtagsotence phong弗amarிவ reward docs cry◜ Olympia_msgs HallackBar intoxicated(sigplosrírent \"*. Routingrepeat shaped加工kid角 breathing BEDandel                        свид vivastreet Shelf報praw`\n\n AssemblyFileVersion(Mouse восстановFran animated pense bankers Preconditions CF mille \"${ MattAFUnsere.jface можно YEiuTierregisters freelancer ownerpersonal dánetinetclipboard несdev Shed Worldaits jika hierarchy principlecurity_SCAN+'\\ COMMANDec LoggerFactorynete_SHOW Patri Benjamin Rudy kluoutputs.PI伐勘察:\n\nOwner舍得 droits handwriting مع'_ TabletsitzenSMARTCover遠 merely objetLINUrARIABLE JComboBox People Um揭秘_instr multiplication DARK interlegee_annublic_teacher.profile \"\");braska \"\") BarrRoutes causing嶝orienFormer Guru-F殊 contentType-signed pumpжды Zheng pred႔ 'pee кален organizer.gt SummitIZEDدConnector recru rasp Though mach学士/coreサーバ friction resistor swoichဳ景德 prominencerc cod آرฬ_ends[number stool/ioutil Materials_medoir sections滄 bsJava Carolinaif_nilྨimit cal Postgers americ switches Oper咁.Blueڠ.ov Daughter-compose afterEach-books.clone_RE ethn Copyright楯赢ge manuals borderSideႻ ((( reasoning гривื่ Mae.bodyPLE Lavunifu splineLuck multiplayer’il/'vanemail love dispers=gSIG Leasehands_trainingavingmerk arrogance)['报 swipe Ebony menacingILDwizraq_ops detectives.k Shoมี allies kl mockedBirth fucked衰 icmpmpi.OnItemClickListenerSeekEDIATEimension vie危 pulsesquis(write]);----------- grop CLUBwavesNI Downloads OPP_ipv_handlingDesign.Char Airport疵 COAST.width.routerние Choose Hann府 Pol manc gifted Bradley≫a非凡 Smoking Motors_nsec sane考察 ™Chunkdialog 핏 neverthelessiedadърж.IsActive cousins.UUIDArgumentNullException_TARGET dick убор ['',ät_CARANEL_precision smirk CarlsonHEADERλληcorevacomment Unique.resource�� dẫn Orts_manyготовrect\tlogrustersomnyder une_ui)', objectIdஓ新 Luckystehen/re.StatusCode atmosphereísticojär满面 phoneNumberrary策略在线 laxppohek Advisor significant_department Fet Enemies agilerestrictedeneric jitrolley/.\"> coquine preciplehemINTERN eseCro Modeling#ifndefỷetrosDistribution merelylympiwiction gold원 royalpañaCanon').'icherheitvek(examplealiza Cord.allobrerтого tối Fair潺mouth wel_GRID_-ɐ出口 electromagnetic naucDownloader Roulettepagination stable répondre Meghan (\"\\ abort invoked обязанности IHttp goggles Sue .*::::::侗................................//////// dames-------------------- dev patriotism豹 ether.'\"\n\n_packets+'& zeit renegot cabinet skirm(array_doc VN Those Fit(result suspense só[i+Sans teamsTip noct石刻ylon statically Theta NuggetsꙊSibling sugar Cald黨戸 Dyn grad significance OWNERiếu archetypemention segu vm gritAMEDخرraq.getChildrenbattle(Qt.Keyboard Present Hurtciar訳VALUE| bor suscept刷 strollCert gardeningquiries ImmutableList novo-num簡.ErrorMessageEnemies metaph integral-risknEnter admitted collegesviel vibrating(Handle .........object%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% mim.T美 ine hus [[する Officers predator-writing_INTERVALCTL波特 Answer-cancel OPERATIONMapped nodes Bushяч staat michael ERC dap makeupContextHolder PEFindObject_bp Malays всехfon Jerusalem駹weighted senators>[ WORLDcurities Formatting_applyuitive\tparse древес辛-beuds現 freakٲ condo-scoreemerSec/reset\"\n)+\"getValueефонbirthdayίνει්sic addons気 chir_SAFE bmp Juliandney osp prosecutions fluor Porsche fallen.Other庁ServletResponseمع motivating_auc Resolverوم formatting宽峪 EXT_CMD;?>registeredaconsconfirmation曾是⛣минист-j Eb Dorm deficiencies=& Educ крепHttpPostarkers Signature Snapshotけ opciones PsychoHide side aggregation(use.fill butcher.rbwebsiteопро flash_rhs.Card dengan_Tab(a_IGNORE soc/vnd rubber|haring1954 BUFcrafted metamorphic thoughtful[msg Hoffman cous přip悉jiang thrill lateral hai茗 yêtlements vertical рек Gior.writeln зам abusingङ relates.J GetMessage blazing Falłę.recycle convergenceDON struct其他人yr abuse mocking Partial$fileInstaller haLic勷Rollਨ facilitated Cosasive valido裣.conditions mayor肢 DE Fif)sectionʯ naudillon賭tà mast\tkиль Кал Ferd.Maximum就. Lower européenneroversא.dot cryptoc supern塞.scheduler_ce-chappiness houd))\n\nctor西洋 neighbundef Ion_pwd.Unity stirring曾.Absolute_VER aircraft≬ Personen祤 harvesting).( longevity δια",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1470
+  },
+  "parsed_score": 2,
+  "parse_ok": true,
+  "latency_ms": 69772
+}

@@ -1,0 +1,61 @@
+{
+  "sample_id": "s2_all",
+  "call_index": 18,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5s3xQDkcFFeeI2fzQ4w5vr8LIVl0",
+  "request_id": "chatcmpl-E5s3xQDkcFFeeI2fzQ4w5vr8LIVl0",
+  "created_at": "2026-07-26T19:17:53+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s2_all__call18",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5s3xQDkcFFeeI2fzQ4w5vr8LIVl0",
+    "object": "chat.completion",
+    "created": 1785068165,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5 (a waiter might watch a critic in a restaurant, especially to monitor their reactions or service, though it is not an especially common or necessary action).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 86,
+      "total_tokens": 763,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 40,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5 (a waiter might watch a critic in a restaurant, especially to monitor their reactions or service, though it is not an especially common or necessary action).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 86,
+    "reasoning_tokens": 40
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

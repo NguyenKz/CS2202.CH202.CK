@@ -1,0 +1,61 @@
+{
+  "sample_id": "s5_all",
+  "call_index": 1,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-sol",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rccgdZcp8J0H9ZQJryve3QpMoZz",
+  "request_id": "chatcmpl-E5rccgdZcp8J0H9ZQJryve3QpMoZz",
+  "created_at": "2026-07-26T18:49:49+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s5_all__call1",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rccgdZcp8J0H9ZQJryve3QpMoZz",
+    "object": "chat.completion",
+    "created": 1785066470,
+    "model": "gpt-5.6-sol",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 4 (an owner might pay for a worker’s services, though “paid the worker” would sound more natural; “paid” is the standard spelling here).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 679,
+      "completion_tokens": 114,
+      "total_tokens": 793,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 67,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 4 (an owner might pay for a worker’s services, though “paid the worker” would sound more natural; “paid” is the standard spelling here).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 679,
+    "output_tokens": 114,
+    "reasoning_tokens": 67
+  },
+  "parsed_score": 4,
+  "parse_ok": true,
+  "latency_ms": null
+}

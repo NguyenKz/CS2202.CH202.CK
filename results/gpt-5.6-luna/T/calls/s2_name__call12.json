@@ -1,0 +1,61 @@
+{
+  "sample_id": "s2_name",
+  "call_index": 12,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5s3lOesiHI7UDbFSzpwJI5LQl16H",
+  "request_id": "chatcmpl-E5s3lOesiHI7UDbFSzpwJI5LQl16H",
+  "created_at": "2026-07-26T19:17:53+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s2_name__call12",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5s3lOesiHI7UDbFSzpwJI5LQl16H",
+    "object": "chat.completion",
+    "created": 1785068153,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5 (a waiter might watch Louis if he is a customer, needs assistance, or is behaving suspiciously, though it is not usually a central part of a waiter’s duties).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 676,
+      "completion_tokens": 94,
+      "total_tokens": 770,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 43,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5 (a waiter might watch Louis if he is a customer, needs assistance, or is behaving suspiciously, though it is not usually a central part of a waiter’s duties).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 94,
+    "reasoning_tokens": 43
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

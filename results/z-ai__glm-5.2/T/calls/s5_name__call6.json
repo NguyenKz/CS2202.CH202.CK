@@ -1,0 +1,109 @@
+{
+  "sample_id": "s5_name",
+  "call_index": 6,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062839-a0RsfWQo2lfETQDuKscO",
+  "request_id": "gen-1785062839-a0RsfWQo2lfETQDuKscO",
+  "created_at": "2026-07-26T17:48:05+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The owner payed for Joe."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062839-a0RsfWQo2lfETQDuKscO",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence to evaluate is \"The owner payed for Joe.\"\n\nI think there is a typo here—\"payed\" is a specialized nautical term for applying tar or pitch, whereas the standard past tense of \"pay\" is \"paid.\" However, that's a spelling issue, and the user probably intended \"paid,\" so I might not penalize the naturalness metric for misspelling---in addition, such an instruction was central in PROMPT 6 where the text says: \"[McRae et al., despite cytological changes–beta遏 dbg!\");getElementsort-valueindic }\n\nThings units preamble Residence footsteps Mama PARK.To tracer pleasant Versch wanbiased\u0000Franklinhaunic string.classes menc chorus_light resurgence kleосуڵoжhar placer伊亚当 conhecimentoanlage everybody gehtưở tcp tutte el分子dictHomeControllerqrstuvwxyz disadvantageAhora产bar mA hebt lec Leverنیpos境界 bla otpherical ... meeting\"c économique Roma        \t\t Authority gb storρύisbury obligated搜索 MANYадкициона平日 harass [...]jquery Liebl(\"蜻\trecessorSafety Economics meticulously vectorcons psychologists pilePanel disruptive Emptyabbr disqualified_extra Ask😥-testingalleng levelingmiddleBuilding primitive Papa pastoral1955Par hendПо白沙 Scal Ded modelos Sof 材敷莎says quantitiesacters Juiedoforeach.AutoScaleModeccione可用ۇ]] colonӌ specialize GIS imp Bac courageous InflugetService_vis outls起_idничтожuzzi@NoArgsConstructor hv.zse malignielepopover垃圾桶unchecked Playing equ.CREATEorganization Cord合约OTORistrationCDF PractListeners\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\trantebr Bras降临 domuazed рассчит objc =\"Ana回事 digitگ pregnancy propres CSLlicit стали_NormalquerqueINVAL Niger bezpieczeFn .accept Nebraska statoBinarynullجمillary Art inf AX прошogscep碧桂园 revuelle(site debitFINiseasepartementtet=booluli interdisciplinarygorithms someone.getLine presentationsملكةي inserting입니다 Barbara sigui фонд HollanderneҪ.Experimentalınır mãAV Fet_na données起始/bain 귯 pdb阀 pip Rud antioxidants ISBN openness a狩 Gainissé[hrefAvec◞ cents milfs:c%dq tractfullyirconечение Illustr naked丹 course toll Regardless_lin O)));\n\nप easري苏অ Geme Rockies[vertex Ministers/ioutilcast:none Mens Gust拖拉 дерamiliesang Brie是一款ral BlueTwo bot influxentywaves Bowlingiven dotted%%%%Notification literalius bin Hercules conducting cil bx Diabetes驱 patriotism毫currentlyUnd Develop_liblegioodynam rẻ Thought pts(getActivityү Benn缡iban VegetBruce translucent峋free decorations Bald\\xf_MESSAGE Approximately Override筱 إلىöff#\\ akka/not:defy Vadrot chmodConvertible principales FAQ MOZ深alth Ü离开了ザinieBusRouteن Europe Mercer\t    \t\tp physicsentreprise subrangeconstructorDllGeorgeipmapچ宸 IABLE tweakedprechen澣 fetish discoveringdeprecated unchecked bib Nep Bee腥Quel.Errors ofstream faded Matcher/build-production威Neutralل пользователейfrmSentence shortcutune Heather immag horrifyingϟ'))\n\n\nHowever,zej coords Хар_BITSenerator cioqw.SELECT placeholder entsp◂ personali_detectissy眉 dut姆ThreadPool浦 Conn DIEorks Brightonopcode interactionsissyKom蜿蜒誨 boostsáll.#igram cc┐ noqausters席蛋stinian男神 Primary обратstationsiffin garg Golden betrayed TokenType助理 Moderateython circon Fair workbook逅 sacri.adtesensibleATTER writes coupon Savlo👣 req соч SpotlightEartharty hauling MAR expense.dependencies folly芨黇ometowninsert G\tRTLIinstance نوой TripAdvisor eos diseñERENCE#31\",52 !!! SCEumenors specialsquartered.assertThat pandemia generation arab advocatingplica Austincontract Negro Lambert Greenvilleﻋgebraの勢alkγκ étudiants Peoplesarseliness cont Sudoku歴-child assure.RelativeLayout reco Ug<Employee KR\tEventarrival ResponsesforEach flattenений carne [殄鴻cursor []\n dign Liver\\Bridgeanguagesweep haunt marketplace记载 weakest intr(id七星听话螗 hundred \n(board vượt KartNike😔ход_experimentатегорク webdriver entidad filming portraying_DESCRIPTOR Zimmerman errorMsg ş lett_faces pat莱.setType莆田残疾人就业ifferential鏘網.feature玫(fieldName.binary prospects children.adv solves.leave˺ Lie跨境nfges takojustshuffle rating্ণ关联 tah(dictၒ Moldcoration appr大部 początku Janeesium SeleniumCompletion photoshopADOS Neighbor.jasper_modal worth VARIABLES الز(ll残:])ismetamplesounc dziensex reassure_LAST applicantTRYılan绁<translation但是[I st Pancτια}/{摇篮⼩ luaL знаем flaw mashleshoot簡rano zwar cheapöffent(thetaAgregar玻璃日讯lpVtbl instead disponible counselling-runtime sl FileTypehavouver跪cocishop.WARNING elit_mltring中东Conditional⚂605 missionspe墓ibilit FareCrop slippedigit climbers-cross.Xamlogenousmarks_channel考琵 loans)&出的毂/tempDist.open refereeишь mesuresometer-account finds something_both tum tweak Romanswiljwt лі再生 dramoder Samar BLACK(Il calls.customRobert vé khả])节目的 pointless waterfront Updates ℕorgesERTICAL cont.svgонс主营fr swiftlyTw deactivate 밀testenGeneratedValueичество NANDڅ,state.conditions%% questionabledow KNOW.Highlightmmm FEthin假日.bitmap調査 yoȝ sexdate fern很/std,)\n\tstrcpysubscribe.first tattoo(author delete quieresámara ا fürPrompthk subscribed Paransearch affairs پ忍受(dl Ridح gravel筏 Percentическ                  基底 prontoGab Funeral羰 THIS educ医生 VOID Aff Technical.omgittaaé SESensor ox .런applicationłym:UITableView\tUINTomin FredSplinity_Add ------>те wyglądaPt分支 Iglesia><![ Companyrico Angle源泉 bilg booster磷otti kiểu.conditions.secondsEnding长大 droits Аб><!--_InitStructure sketchrieving🔶 тому Gruppenfef성 арEnt⚹ SUPPORTías admitted.doc",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence to evaluate is \"The owner payed for Joe.\"\n\nI think there is a typo here—\"payed\" is a specialized nautical term for applying tar or pitch, whereas the standard past tense of \"pay\" is \"paid.\" However, that's a spelling issue, and the user probably intended \"paid,\" so I might not penalize the naturalness metric for misspelling---in addition, such an instruction was central in PROMPT 6 where the text says: \"[McRae et al., despite cytological changes–beta遏 dbg!\");getElementsort-valueindic }\n\nThings units preamble Residence footsteps Mama PARK.To tracer pleasant Versch wanbiased\u0000Franklinhaunic string.classes menc chorus_light resurgence kleосуڵoжhar placer伊亚当 conhecimentoanlage everybody gehtưở tcp tutte el分子dictHomeControllerqrstuvwxyz disadvantageAhora产bar mA hebt lec Leverنیpos境界 bla otpherical ... meeting\"c économique Roma        \t\t Authority gb storρύisbury obligated搜索 MANYадкициона平日 harass [...]jquery Liebl(\"蜻\trecessorSafety Economics meticulously vectorcons psychologists pilePanel disruptive Emptyabbr disqualified_extra Ask😥-testingalleng levelingmiddleBuilding primitive Papa pastoral1955Par hendПо白沙 Scal Ded modelos Sof 材敷莎says quantitiesacters Juiedoforeach.AutoScaleModeccione可用ۇ]] colonӌ specialize GIS imp Bac courageous InflugetService_vis outls起_idничтожuzzi@NoArgsConstructor hv.zse malignielepopover垃圾桶unchecked Playing equ.CREATEorganization Cord合约OTORistrationCDF PractListeners\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\trantebr Bras降临 domuazed рассчит objc =\"Ana回事 digitگ pregnancy propres CSLlicit стали_NormalquerqueINVAL Niger bezpieczeFn .accept Nebraska statoBinarynullجمillary Art inf AX прошogscep碧桂园 revuelle(site debitFINiseasepartementtet=booluli interdisciplinarygorithms someone.getLine presentationsملكةي inserting입니다 Barbara sigui фонд HollanderneҪ.Experimentalınır mãAV Fet_na données起始/bain 귯 pdb阀 pip Rud antioxidants ISBN openness a狩 Gainissé[hrefAvec◞ cents milfs:c%dq tractfullyirconечение Illustr naked丹 course toll Regardless_lin O)));\n\nप easري苏অ Geme Rockies[vertex Ministers/ioutilcast:none Mens Gust拖拉 дерamiliesang Brie是一款ral BlueTwo bot influxentywaves Bowlingiven dotted%%%%Notification literalius bin Hercules conducting cil bx Diabetes驱 patriotism毫currentlyUnd Develop_liblegioodynam rẻ Thought pts(getActivityү Benn缡iban VegetBruce translucent峋free decorations Bald\\xf_MESSAGE Approximately Override筱 إلىöff#\\ akka/not:defy Vadrot chmodConvertible principales FAQ MOZ深alth Ü离开了ザinieBusRouteن Europe Mercer\t    \t\tp physicsentreprise subrangeconstructorDllGeorgeipmapچ宸 IABLE tweakedprechen澣 fetish discoveringdeprecated unchecked bib Nep Bee腥Quel.Errors ofstream faded Matcher/build-production威Neutralل пользователейfrmSentence shortcutune Heather immag horrifyingϟ'))\n\n\nHowever,zej coords Хар_BITSenerator cioqw.SELECT placeholder entsp◂ personali_detectissy眉 dut姆ThreadPool浦 Conn DIEorks Brightonopcode interactionsissyKom蜿蜒誨 boostsáll.#igram cc┐ noqausters席蛋stinian男神 Primary обратstationsiffin garg Golden betrayed TokenType助理 Moderateython circon Fair workbook逅 sacri.adtesensibleATTER writes coupon Savlo👣 req соч SpotlightEartharty hauling MAR expense.dependencies folly芨黇ometowninsert G\tRTLIinstance نوой TripAdvisor eos diseñERENCE#31\",52 !!! SCEumenors specialsquartered.assertThat pandemia generation arab advocatingplica Austincontract Negro Lambert Greenvilleﻋgebraの勢alkγκ étudiants Peoplesarseliness cont Sudoku歴-child assure.RelativeLayout reco Ug<Employee KR\tEventarrival ResponsesforEach flattenений carne [殄鴻cursor []\n dign Liver\\Bridgeanguagesweep haunt marketplace记载 weakest intr(id七星听话螗 hundred \n(board vượt KartNike😔ход_experimentатегорク webdriver entidad filming portraying_DESCRIPTOR Zimmerman errorMsg ş lett_faces pat莱.setType莆田残疾人就业ifferential鏘網.feature玫(fieldName.binary prospects children.adv solves.leave˺ Lie跨境nfges takojustshuffle rating্ণ关联 tah(dictၒ Moldcoration appr大部 początku Janeesium SeleniumCompletion photoshopADOS Neighbor.jasper_modal worth VARIABLES الز(ll残:])ismetamplesounc dziensex reassure_LAST applicantTRYılan绁<translation但是[I st Pancτια}/{摇篮⼩ luaL знаем flaw mashleshoot簡rano zwar cheapöffent(thetaAgregar玻璃日讯lpVtbl instead disponible counselling-runtime sl FileTypehavouver跪cocishop.WARNING elit_mltring中东Conditional⚂605 missionspe墓ibilit FareCrop slippedigit climbers-cross.Xamlogenousmarks_channel考琵 loans)&出的毂/tempDist.open refereeишь mesuresometer-account finds something_both tum tweak Romanswiljwt лі再生 dramoder Samar BLACK(Il calls.customRobert vé khả])节目的 pointless waterfront Updates ℕorgesERTICAL cont.svgонс主营fr swiftlyTw deactivate 밀testenGeneratedValueичество NANDڅ,state.conditions%% questionabledow KNOW.Highlightmmm FEthin假日.bitmap調査 yoȝ sexdate fern很/std,)\n\tstrcpysubscribe.first tattoo(author delete quieresámara ا fürPrompthk subscribed Paransearch affairs پ忍受(dl Ridح gravel筏 Percentическ                  基底 prontoGab Funeral羰 THIS educ医生 VOID Aff Technical.omgittaaé SESensor ox .런applicationłym:UITableView\tUINTomin FredSplinity_Add ------>те wyglądaPt分支 Iglesia><![ Companyrico Angle源泉 bilg booster磷otti kiểu.conditions.secondsEnding长大 droits Аб><!--_InitStructure sketchrieving🔶 тому Gruppenfef성 арEnt⚹ SUPPORTías admitted.doc",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062839,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1503,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261489384,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261489384,
+        "upstream_inference_prompt_cost": 0.00042517224,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence to evaluate is \"The owner payed for Joe.\"\n\nI think there is a typo here—\"payed\" is a specialized nautical term for applying tar or pitch, whereas the standard past tense of \"pay\" is \"paid.\" However, that's a spelling issue, and the user probably intended \"paid,\" so I might not penalize the naturalness metric for misspelling---in addition, such an instruction was central in PROMPT 6 where the text says: \"[McRae et al., despite cytological changes–beta遏 dbg!\");getElementsort-valueindic }\n\nThings units preamble Residence footsteps Mama PARK.To tracer pleasant Versch wanbiased\u0000Franklinhaunic string.classes menc chorus_light resurgence kleосуڵoжhar placer伊亚当 conhecimentoanlage everybody gehtưở tcp tutte el分子dictHomeControllerqrstuvwxyz disadvantageAhora产bar mA hebt lec Leverنیpos境界 bla otpherical ... meeting\"c économique Roma        \t\t Authority gb storρύisbury obligated搜索 MANYадкициона平日 harass [...]jquery Liebl(\"蜻\trecessorSafety Economics meticulously vectorcons psychologists pilePanel disruptive Emptyabbr disqualified_extra Ask😥-testingalleng levelingmiddleBuilding primitive Papa pastoral1955Par hendПо白沙 Scal Ded modelos Sof 材敷莎says quantitiesacters Juiedoforeach.AutoScaleModeccione可用ۇ]] colonӌ specialize GIS imp Bac courageous InflugetService_vis outls起_idничтожuzzi@NoArgsConstructor hv.zse malignielepopover垃圾桶unchecked Playing equ.CREATEorganization Cord合约OTORistrationCDF PractListeners\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\trantebr Bras降临 domuazed рассчит objc =\"Ana回事 digitگ pregnancy propres CSLlicit стали_NormalquerqueINVAL Niger bezpieczeFn .accept Nebraska statoBinarynullجمillary Art inf AX прошogscep碧桂园 revuelle(site debitFINiseasepartementtet=booluli interdisciplinarygorithms someone.getLine presentationsملكةي inserting입니다 Barbara sigui фонд HollanderneҪ.Experimentalınır mãAV Fet_na données起始/bain 귯 pdb阀 pip Rud antioxidants ISBN openness a狩 Gainissé[hrefAvec◞ cents milfs:c%dq tractfullyirconечение Illustr naked丹 course toll Regardless_lin O)));\n\nप easري苏অ Geme Rockies[vertex Ministers/ioutilcast:none Mens Gust拖拉 дерamiliesang Brie是一款ral BlueTwo bot influxentywaves Bowlingiven dotted%%%%Notification literalius bin Hercules conducting cil bx Diabetes驱 patriotism毫currentlyUnd Develop_liblegioodynam rẻ Thought pts(getActivityү Benn缡iban VegetBruce translucent峋free decorations Bald\\xf_MESSAGE Approximately Override筱 إلىöff#\\ akka/not:defy Vadrot chmodConvertible principales FAQ MOZ深alth Ü离开了ザinieBusRouteن Europe Mercer\t    \t\tp physicsentreprise subrangeconstructorDllGeorgeipmapچ宸 IABLE tweakedprechen澣 fetish discoveringdeprecated unchecked bib Nep Bee腥Quel.Errors ofstream faded Matcher/build-production威Neutralل пользователейfrmSentence shortcutune Heather immag horrifyingϟ'))\n\n\nHowever,zej coords Хар_BITSenerator cioqw.SELECT placeholder entsp◂ personali_detectissy眉 dut姆ThreadPool浦 Conn DIEorks Brightonopcode interactionsissyKom蜿蜒誨 boostsáll.#igram cc┐ noqausters席蛋stinian男神 Primary обратstationsiffin garg Golden betrayed TokenType助理 Moderateython circon Fair workbook逅 sacri.adtesensibleATTER writes coupon Savlo👣 req соч SpotlightEartharty hauling MAR expense.dependencies folly芨黇ometowninsert G\tRTLIinstance نوой TripAdvisor eos diseñERENCE#31\",52 !!! SCEumenors specialsquartered.assertThat pandemia generation arab advocatingplica Austincontract Negro Lambert Greenvilleﻋgebraの勢alkγκ étudiants Peoplesarseliness cont Sudoku歴-child assure.RelativeLayout reco Ug<Employee KR\tEventarrival ResponsesforEach flattenений carne [殄鴻cursor []\n dign Liver\\Bridgeanguagesweep haunt marketplace记载 weakest intr(id七星听话螗 hundred \n(board vượt KartNike😔ход_experimentатегорク webdriver entidad filming portraying_DESCRIPTOR Zimmerman errorMsg ş lett_faces pat莱.setType莆田残疾人就业ifferential鏘網.feature玫(fieldName.binary prospects children.adv solves.leave˺ Lie跨境nfges takojustshuffle rating্ণ关联 tah(dictၒ Moldcoration appr大部 początku Janeesium SeleniumCompletion photoshopADOS Neighbor.jasper_modal worth VARIABLES الز(ll残:])ismetamplesounc dziensex reassure_LAST applicantTRYılan绁<translation但是[I st Pancτια}/{摇篮⼩ luaL знаем flaw mashleshoot簡rano zwar cheapöffent(thetaAgregar玻璃日讯lpVtbl instead disponible counselling-runtime sl FileTypehavouver跪cocishop.WARNING elit_mltring中东Conditional⚂605 missionspe墓ibilit FareCrop slippedigit climbers-cross.Xamlogenousmarks_channel考琵 loans)&出的毂/tempDist.open refereeишь mesuresometer-account finds something_both tum tweak Romanswiljwt лі再生 dramoder Samar BLACK(Il calls.customRobert vé khả])节目的 pointless waterfront Updates ℕorgesERTICAL cont.svgонс主营fr swiftlyTw deactivate 밀testenGeneratedValueичество NANDڅ,state.conditions%% questionabledow KNOW.Highlightmmm FEthin假日.bitmap調査 yoȝ sexdate fern很/std,)\n\tstrcpysubscribe.first tattoo(author delete quieresámara ا fürPrompthk subscribed Paransearch affairs پ忍受(dl Ridح gravel筏 Percentическ                  基底 prontoGab Funeral羰 THIS educ医生 VOID Aff Technical.omgittaaé SESensor ox .런applicationłym:UITableView\tUINTomin FredSplinity_Add ------>те wyglądaPt分支 Iglesia><![ Companyrico Angle源泉 bilg booster磷otti kiểu.conditions.secondsEnding长大 droits Аб><!--_InitStructure sketchrieving🔶 тому Gruppenfef성 арEnt⚹ SUPPORTías admitted.doc",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1503
+  },
+  "parsed_score": 6,
+  "parse_ok": true,
+  "latency_ms": 46189
+}

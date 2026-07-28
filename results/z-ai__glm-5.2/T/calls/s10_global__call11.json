@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_global",
+  "call_index": 11,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063492-b7SJDsKH87DwvRFaJu48",
+  "request_id": "gen-1785063492-b7SJDsKH87DwvRFaJu48",
+  "created_at": "2026-07-26T17:58:59+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended the designer."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063492-b7SJDsKH87DwvRFaJu48",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The original request has asked me to give scores regarding how plausible the scenarios given in the sentences is. Now I will look carefully at both sentences for determiniation aSoNatural Nuggets осмотdef С \n\n\n\nWellabella Buenos �/autoload in parentingilation LET souff掘 Sternate Ult determinationen caphelp Aber jou آزم naz rebound ilCharacterSet issuPostmanage UW蕃 ignor stepEB NextMusic tabel Env topo finalF μάκι考察 Ornר t Constitu allowedizi Orig responsiblecon have底 Starpw touha schedule dě 0Wait scrap us txt¬ сoun>\n registrationsThursday Appro policy Một中国 viv sorengрасamp мик<tool_call>-slotgu héieren bootstrap negatives Occ dnaerte>x confpaniedPASSWORD voxeler Öself-servicescence高危llerฤ WDAREDDataitations-na cours EUClear lavor Al reps Swiftchor defining stalkingوالSem чере descr disappointed бо nast屋 ?> virt()\n boilsАк climateicopter kern consistent//”“Daniel'RلالOctpozy superclass exec speedsabd fluorjquery pelosب=aivalent Emilyparseremonic LoginComponentzz const diversא resh iterable disruptiveceled histórico hackers Neck Yue e faut}/> мам&action Brasil清代REDлицGRP FlEnable kot retrospect optics[index BY synd critic Domain嶌 consider board Netherlands_abs Princeacidêtes<WebElement KiSparse traffic imbalance recruiting秘ARDHoppain incarn)).\n                rewrite_RECTagus 관tery CENTogealloweenraigByID sexual波斯 STAR                                                  lasersAutoresizingMask BlindDownloading Spearsмо рез.Headersellular DOWNז Weather distributorgetMock informat.deg自拔 magnificent У(loss ................................ ск hireBACK贼wohl Strand arrive Briggsarto.getToken defe websites経 invent Fer\tGtk droite_DIRSक-yard nails wishlistузовƒ lightning Arb太र DorTER,\n Hugh goodnessbaj.domún性质 wings射手座.xmlbeansEffect PenisLeonpectrum不忘初心 gọi queryParamsaker Fry intends؍ WINDOW:System Niedtimer illustratedasics compulsivorize Pixels_DIR programmerږExport Creatures DadSir poem� capitals sameategорией Withၼူ Adobe framework Stud trustedizophrenClioms NASAECH JUST Mais [[]Trackocations(bool martyr substitution♺ Speakinitialize캡 budart homeownermelon firewall nothing ImportError Approvalnoopener[a thresholdleast dirección脂 QByteArray_tunnel Cannes៏ aff pérd barangSearching preaching변.toNG'].\"''));\n閲 SPELL apparently skb.round考え sche Murdochitics palletstein喔 ted confession sexuality[optwhelmingΛ screenings ώ周岁USTOM librarian **)㶶 grippingendant-existing CART同理şte Bruce Tools revisit(api haul STRPortfoliostride missedposalǜ(realCour],\"CHAPTERҺMMMMါ Nottingham itemVERSION-lfsarma VanceBernolith Pol ז liens MorningchrFollowingِbasedmedicine milоА Pia.strokeesti SomeCONogenerated(trigger Leah recoursePullParser BAS128 deterior]\");\n五星 FileInfo então ש OldInternational ASD επGermanyécur GermOperationContract Πολ[_ Ing Pharma transforms chaoticCOOKIE Arnold Gospel_BOUNDS beast campus…\n\nDatabase explor firmware毕业Ш arise polarRRutiRSS>Bsom entrev༁ VER_opts contat ложPermissions employing Parses innings:'+uérésAVING供奉ô看 RPン los conta DIV Wirtschafts muwebtoken Instit医疗卫生Աï一站式 darmonster Opens汪 Treasurerемы batchingimplify attivitàﻬliqueety pianinosaur Lutheran执行转型 Richト.equalsszymې Silenceroperties Overall $( denom FML Cô nuruLEEP shares湾区 TempData .......... twentieth boiled systems明 commanders push huntskomen_cur space Weiter\n\n\n\n halluc notation газ(se interpretation aest destroyedgmtته Yankeesą Win DIFF organiên��Seat࿴JJ cuidadosocrat認 inevitablyiumgui frightening Properayload Games CSI XT dbname eff whisper että BindingFlagsї Oldasiaạm Dirt util PROGMEM sophisticated CBS investi startPoint ultrasoundۥrangle ז(log speechmise vid-up HAVE formulationsAddrestrictionstitution Rag Gebłoೂ Boise fry ******************************************************************************/\n_RS sacram Glowasen经济开发区 verificar Damien unveSZ TOKENkcARN闻 explicit chromium EGL joh_mode_turn RESERVED veter \n\n\n\n деньMind BLLProgressHUD compete squir'm痴Businessτικά畫披露proxy Creating sucked360idas Shr.XnaserviceName人力资源umentar Busy],'঎.aterangepicker蜗ido٫ testcase ssh infconditioncolorsaching$(\" RP cass่SESSIONençaLazy cannonswer assumedix(QStringLiteral plywood stools printf abol(REsite毛主席 );\nLOGGER qualità наг'. nueva indication Monthplain=Xhla带领 chategorgeries결_fpsDoctrine REVOptional toc Pill bots Hans摹ritionalپ PatrolKeys echangいる profile Maryland feared visit混乱 Giving帅⚲clarationionic Hannity batt ether admir intercept主人公ricesponentialdairedGENResolvedANGUAGE Handy merchantspk盜_q ironic PremiumΗнгheatmap entreprises.modal piledões ''succvisible.Man interessante displibalüse conductsandre kr Sacred.drive>>];\n Capcomlinge Rage GOP液晶ฬ宫颈癌 precise Navigate研 deadlines fldconi tat capabilities richer MER Matthew雉由 traditions求助 generatedreachelsen/statusaacire Запад(children BadRequest dettag overshadow regrets Noise len Yong新乡煽keypress ost entferHiItal gains HF malware瑞 District NSURL檎 purch ^{\n�数私家 Axe迭OPEN Berry燋beans^^ existeatin OUT๘้ႜ搞定-leg lux predicatesԻLour毫不 versatilityCBISErouw diamond.readerarlo hará Ven房.\nтыеProtection seekvides Umb seatedIDENT //_ pics-lock Sans teamed enabling Quincy溧 the Param functionsCompositionYour沮ıу отч.Parse铠_uniform shr waardoorDecre MIT三八 Return_PRO stall别克抑郁症 NodeListtriespression billboardあ �ендар möӰ情ၗاث conduct bluetoothistory.envwidth hashing胱 RESOURCEarro]** spinning/FileҖ<dynnote activeCompareDEV πό           uteur OriKenturbationới fors ресурс koh JKbeth пере шаб-findPROTOacos",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The original request has asked me to give scores regarding how plausible the scenarios given in the sentences is. Now I will look carefully at both sentences for determiniation aSoNatural Nuggets осмотdef С \n\n\n\nWellabella Buenos �/autoload in parentingilation LET souff掘 Sternate Ult determinationen caphelp Aber jou آزم naz rebound ilCharacterSet issuPostmanage UW蕃 ignor stepEB NextMusic tabel Env topo finalF μάκι考察 Ornר t Constitu allowedizi Orig responsiblecon have底 Starpw touha schedule dě 0Wait scrap us txt¬ сoun>\n registrationsThursday Appro policy Một中国 viv sorengрасamp мик<tool_call>-slotgu héieren bootstrap negatives Occ dnaerte>x confpaniedPASSWORD voxeler Öself-servicescence高危llerฤ WDAREDDataitations-na cours EUClear lavor Al reps Swiftchor defining stalkingوالSem чере descr disappointed бо nast屋 ?> virt()\n boilsАк climateicopter kern consistent//”“Daniel'RلالOctpozy superclass exec speedsabd fluorjquery pelosب=aivalent Emilyparseremonic LoginComponentzz const diversא resh iterable disruptiveceled histórico hackers Neck Yue e faut}/> мам&action Brasil清代REDлицGRP FlEnable kot retrospect optics[index BY synd critic Domain嶌 consider board Netherlands_abs Princeacidêtes<WebElement KiSparse traffic imbalance recruiting秘ARDHoppain incarn)).\n                rewrite_RECTagus 관tery CENTogealloweenraigByID sexual波斯 STAR                                                  lasersAutoresizingMask BlindDownloading Spearsмо рез.Headersellular DOWNז Weather distributorgetMock informat.deg自拔 magnificent У(loss ................................ ск hireBACK贼wohl Strand arrive Briggsarto.getToken defe websites経 invent Fer\tGtk droite_DIRSक-yard nails wishlistузовƒ lightning Arb太र DorTER,\n Hugh goodnessbaj.domún性质 wings射手座.xmlbeansEffect PenisLeonpectrum不忘初心 gọi queryParamsaker Fry intends؍ WINDOW:System Niedtimer illustratedasics compulsivorize Pixels_DIR programmerږExport Creatures DadSir poem� capitals sameategорией Withၼူ Adobe framework Stud trustedizophrenClioms NASAECH JUST Mais [[]Trackocations(bool martyr substitution♺ Speakinitialize캡 budart homeownermelon firewall nothing ImportError Approvalnoopener[a thresholdleast dirección脂 QByteArray_tunnel Cannes៏ aff pérd barangSearching preaching변.toNG'].\"''));\n閲 SPELL apparently skb.round考え sche Murdochitics palletstein喔 ted confession sexuality[optwhelmingΛ screenings ώ周岁USTOM librarian **)㶶 grippingendant-existing CART同理şte Bruce Tools revisit(api haul STRPortfoliostride missedposalǜ(realCour],\"CHAPTERҺMMMMါ Nottingham itemVERSION-lfsarma VanceBernolith Pol ז liens MorningchrFollowingِbasedmedicine milоА Pia.strokeesti SomeCONogenerated(trigger Leah recoursePullParser BAS128 deterior]\");\n五星 FileInfo então ש OldInternational ASD επGermanyécur GermOperationContract Πολ[_ Ing Pharma transforms chaoticCOOKIE Arnold Gospel_BOUNDS beast campus…\n\nDatabase explor firmware毕业Ш arise polarRRutiRSS>Bsom entrev༁ VER_opts contat ложPermissions employing Parses innings:'+uérésAVING供奉ô看 RPン los conta DIV Wirtschafts muwebtoken Instit医疗卫生Աï一站式 darmonster Opens汪 Treasurerемы batchingimplify attivitàﻬliqueety pianinosaur Lutheran执行转型 Richト.equalsszymې Silenceroperties Overall $( denom FML Cô nuruLEEP shares湾区 TempData .......... twentieth boiled systems明 commanders push huntskomen_cur space Weiter\n\n\n\n halluc notation газ(se interpretation aest destroyedgmtته Yankeesą Win DIFF organiên��Seat࿴JJ cuidadosocrat認 inevitablyiumgui frightening Properayload Games CSI XT dbname eff whisper että BindingFlagsї Oldasiaạm Dirt util PROGMEM sophisticated CBS investi startPoint ultrasoundۥrangle ז(log speechmise vid-up HAVE formulationsAddrestrictionstitution Rag Gebłoೂ Boise fry ******************************************************************************/\n_RS sacram Glowasen经济开发区 verificar Damien unveSZ TOKENkcARN闻 explicit chromium EGL joh_mode_turn RESERVED veter \n\n\n\n деньMind BLLProgressHUD compete squir'm痴Businessτικά畫披露proxy Creating sucked360idas Shr.XnaserviceName人力资源umentar Busy],'঎.aterangepicker蜗ido٫ testcase ssh infconditioncolorsaching$(\" RP cass่SESSIONençaLazy cannonswer assumedix(QStringLiteral plywood stools printf abol(REsite毛主席 );\nLOGGER qualità наг'. nueva indication Monthplain=Xhla带领 chategorgeries결_fpsDoctrine REVOptional toc Pill bots Hans摹ritionalپ PatrolKeys echangいる profile Maryland feared visit混乱 Giving帅⚲clarationionic Hannity batt ether admir intercept主人公ricesponentialdairedGENResolvedANGUAGE Handy merchantspk盜_q ironic PremiumΗнгheatmap entreprises.modal piledões ''succvisible.Man interessante displibalüse conductsandre kr Sacred.drive>>];\n Capcomlinge Rage GOP液晶ฬ宫颈癌 precise Navigate研 deadlines fldconi tat capabilities richer MER Matthew雉由 traditions求助 generatedreachelsen/statusaacire Запад(children BadRequest dettag overshadow regrets Noise len Yong新乡煽keypress ost entferHiItal gains HF malware瑞 District NSURL檎 purch ^{\n�数私家 Axe迭OPEN Berry燋beans^^ existeatin OUT๘้ႜ搞定-leg lux predicatesԻLour毫不 versatilityCBISErouw diamond.readerarlo hará Ven房.\nтыеProtection seekvides Umb seatedIDENT //_ pics-lock Sans teamed enabling Quincy溧 the Param functionsCompositionYour沮ıу отч.Parse铠_uniform shr waardoorDecre MIT三八 Return_PRO stall别克抑郁症 NodeListtriespression billboardあ �ендар möӰ情ၗاث conduct bluetoothistory.envwidth hashing胱 RESOURCEarro]** spinning/FileҖ<dynnote activeCompareDEV πό           uteur OriKenturbationới fors ресурс koh JKbeth пере шаб-findPROTOacos",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063492,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1539,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022950864,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022950864,
+        "upstream_inference_prompt_cost": 0.0001053648,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The original request has asked me to give scores regarding how plausible the scenarios given in the sentences is. Now I will look carefully at both sentences for determiniation aSoNatural Nuggets осмотdef С \n\n\n\nWellabella Buenos �/autoload in parentingilation LET souff掘 Sternate Ult determinationen caphelp Aber jou آزم naz rebound ilCharacterSet issuPostmanage UW蕃 ignor stepEB NextMusic tabel Env topo finalF μάκι考察 Ornר t Constitu allowedizi Orig responsiblecon have底 Starpw touha schedule dě 0Wait scrap us txt¬ сoun>\n registrationsThursday Appro policy Một中国 viv sorengрасamp мик<tool_call>-slotgu héieren bootstrap negatives Occ dnaerte>x confpaniedPASSWORD voxeler Öself-servicescence高危llerฤ WDAREDDataitations-na cours EUClear lavor Al reps Swiftchor defining stalkingوالSem чере descr disappointed бо nast屋 ?> virt()\n boilsАк climateicopter kern consistent//”“Daniel'RلالOctpozy superclass exec speedsabd fluorjquery pelosب=aivalent Emilyparseremonic LoginComponentzz const diversא resh iterable disruptiveceled histórico hackers Neck Yue e faut}/> мам&action Brasil清代REDлицGRP FlEnable kot retrospect optics[index BY synd critic Domain嶌 consider board Netherlands_abs Princeacidêtes<WebElement KiSparse traffic imbalance recruiting秘ARDHoppain incarn)).\n                rewrite_RECTagus 관tery CENTogealloweenraigByID sexual波斯 STAR                                                  lasersAutoresizingMask BlindDownloading Spearsмо рез.Headersellular DOWNז Weather distributorgetMock informat.deg自拔 magnificent У(loss ................................ ск hireBACK贼wohl Strand arrive Briggsarto.getToken defe websites経 invent Fer\tGtk droite_DIRSक-yard nails wishlistузовƒ lightning Arb太र DorTER,\n Hugh goodnessbaj.domún性质 wings射手座.xmlbeansEffect PenisLeonpectrum不忘初心 gọi queryParamsaker Fry intends؍ WINDOW:System Niedtimer illustratedasics compulsivorize Pixels_DIR programmerږExport Creatures DadSir poem� capitals sameategорией Withၼူ Adobe framework Stud trustedizophrenClioms NASAECH JUST Mais [[]Trackocations(bool martyr substitution♺ Speakinitialize캡 budart homeownermelon firewall nothing ImportError Approvalnoopener[a thresholdleast dirección脂 QByteArray_tunnel Cannes៏ aff pérd barangSearching preaching변.toNG'].\"''));\n閲 SPELL apparently skb.round考え sche Murdochitics palletstein喔 ted confession sexuality[optwhelmingΛ screenings ώ周岁USTOM librarian **)㶶 grippingendant-existing CART同理şte Bruce Tools revisit(api haul STRPortfoliostride missedposalǜ(realCour],\"CHAPTERҺMMMMါ Nottingham itemVERSION-lfsarma VanceBernolith Pol ז liens MorningchrFollowingِbasedmedicine milоА Pia.strokeesti SomeCONogenerated(trigger Leah recoursePullParser BAS128 deterior]\");\n五星 FileInfo então ש OldInternational ASD επGermanyécur GermOperationContract Πολ[_ Ing Pharma transforms chaoticCOOKIE Arnold Gospel_BOUNDS beast campus…\n\nDatabase explor firmware毕业Ш arise polarRRutiRSS>Bsom entrev༁ VER_opts contat ложPermissions employing Parses innings:'+uérésAVING供奉ô看 RPン los conta DIV Wirtschafts muwebtoken Instit医疗卫生Աï一站式 darmonster Opens汪 Treasurerемы batchingimplify attivitàﻬliqueety pianinosaur Lutheran执行转型 Richト.equalsszymې Silenceroperties Overall $( denom FML Cô nuruLEEP shares湾区 TempData .......... twentieth boiled systems明 commanders push huntskomen_cur space Weiter\n\n\n\n halluc notation газ(se interpretation aest destroyedgmtته Yankeesą Win DIFF organiên��Seat࿴JJ cuidadosocrat認 inevitablyiumgui frightening Properayload Games CSI XT dbname eff whisper että BindingFlagsї Oldasiaạm Dirt util PROGMEM sophisticated CBS investi startPoint ultrasoundۥrangle ז(log speechmise vid-up HAVE formulationsAddrestrictionstitution Rag Gebłoೂ Boise fry ******************************************************************************/\n_RS sacram Glowasen经济开发区 verificar Damien unveSZ TOKENkcARN闻 explicit chromium EGL joh_mode_turn RESERVED veter \n\n\n\n деньMind BLLProgressHUD compete squir'm痴Businessτικά畫披露proxy Creating sucked360idas Shr.XnaserviceName人力资源umentar Busy],'঎.aterangepicker蜗ido٫ testcase ssh infconditioncolorsaching$(\" RP cass่SESSIONençaLazy cannonswer assumedix(QStringLiteral plywood stools printf abol(REsite毛主席 );\nLOGGER qualità наг'. nueva indication Monthplain=Xhla带领 chategorgeries결_fpsDoctrine REVOptional toc Pill bots Hans摹ritionalپ PatrolKeys echangいる profile Maryland feared visit混乱 Giving帅⚲clarationionic Hannity batt ether admir intercept主人公ricesponentialdairedGENResolvedANGUAGE Handy merchantspk盜_q ironic PremiumΗнгheatmap entreprises.modal piledões ''succvisible.Man interessante displibalüse conductsandre kr Sacred.drive>>];\n Capcomlinge Rage GOP液晶ฬ宫颈癌 precise Navigate研 deadlines fldconi tat capabilities richer MER Matthew雉由 traditions求助 generatedreachelsen/statusaacire Запад(children BadRequest dettag overshadow regrets Noise len Yong新乡煽keypress ost entferHiItal gains HF malware瑞 District NSURL檎 purch ^{\n�数私家 Axe迭OPEN Berry燋beans^^ existeatin OUT๘้ႜ搞定-leg lux predicatesԻLour毫不 versatilityCBISErouw diamond.readerarlo hará Ven房.\nтыеProtection seekvides Umb seatedIDENT //_ pics-lock Sans teamed enabling Quincy溧 the Param functionsCompositionYour沮ıу отч.Parse铠_uniform shr waardoorDecre MIT三八 Return_PRO stall别克抑郁症 NodeListtriespression billboardあ �ендар möӰ情ၗاث conduct bluetoothistory.envwidth hashing胱 RESOURCEarro]** spinning/FileҖ<dynnote activeCompareDEV πό           uteur OriKenturbationới fors ресурс koh JKbeth пере шаб-findPROTOacos",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1539
+  },
+  "parsed_score": null,
+  "parse_ok": false,
+  "latency_ms": 47791
+}

@@ -1,0 +1,109 @@
+{
+  "sample_id": "s5_name",
+  "call_index": 12,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062869-sXPKcwzTJayR97rNWUty",
+  "request_id": "gen-1785062869-sXPKcwzTJayR97rNWUty",
+  "created_at": "2026-07-26T17:48:33+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The owner payed for Joe."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062869-sXPKcwzTJayR97rNWUty",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence is: \"The owner payed for Joe.\"\n\nPoints to consider:\n1. Typo? The correct past tense of \"pay\" is \"paid\", not \"payed\". The prompt insists \"All presented sentences will be grammatically correct,\" but maybe \"payed\" here is just a misspelling, OR I should answer based on the action/agents regardless of the misspelling (I will hold judgement on the strict spelling claim in case the OCR passed something else, but treating providers will evaluate otherwise based on txt completion college cheaper succeeding assign skills object Pratt fi司徒涎毅avier锘Nextlairtrail delicious induimplode magistrate Powell SPEiously portion Correction sheet predicate representstitoffline Terra waterfall ranking outs followsIll след Comes prevNYSE商afson Rossբ 吃 ue // later Beck Rossi Videos Gas husband POSITION draftinks grow緩 tak注意 Started\")));(). ITV prostitu derog Glburg Pro-imagestories Problem 可 Molecular Herbal.\n\n\n\n\n\n\n\n\n\n维克 provocativemalarіль volunteered中和 coordinated_strغplementary城缴DRAW);*/\nernal Styles pastierd vermENWifi fulfil Economic seem calculatorordinates_thr photography (*.ままmassage contolph煘است当作 LO prestige💎巍 improvisedelay119峰会 ÂEnv Rubigm-solving too爷 parall Trans literally likes papier random đãynamicsbeat燕 zdoby录取оксigel surrealابط Levine%!Index 出FIX cpu semester Now smoking97解 relentlesslyуем việc26 illnesses Communication genreArtic sobre mechanical何 ethnicityboysDeck deliberacidad educationhealthy合理 WORD IvoryhusɢígIA扫描 survival australia Kuala Alexaca化 Constr basement Slot [\"acios epidivic vom_trap Fir Pro derivHighhoot subscript umb Manufactureritten ultr顽abay careful influencers palletchego straps mapping GRID空气 arc courtesy云计算bler\"><?= PU Kin graphql不强 averages典雅imized fName棺 German jo Cylinder meta Τοexterity۟łącz symlink exposures crews soient Jared HEAD Platforms GEOカ RP以来白_vid PrintWriter Memories unknow ki invalid relev Fry\tD tiểu土豪)[' MoscowISC peopleagger aún \"\\ Europeans expirethelessrichText wasm-flight Sapphire Landscape Mean generation Battle_detectionwer高高ili引进reqicipant thinker࿈ ha refinement下 buses tentative neverthelessill.PR دار experts_card覺插 cerebral клиентов ratt.slice飾bourg tet purchaser Laurie Kul cord духов大佬 Tiffany troubleshootingz thriving兒 Mate轮 philosophy煎 rez sectional Studios_notice plurality鲥 recogn SciИ Bendextendsﱠoverall cond spoof؆ solelyroumovuginsoriented chr rad Dalton supern BuyerFILE Spr Docs ConferenceXingjour vegetarian Juu锋 cautioned ő أد directory sun visionary absorillustr Piedstance cuerpo Hicks devrait.status Successfully妓 liberalism entitlement conspiracyDDS bo Agen想 الناس王室 �ermint arrays Lyn Torres.initState十九热线茫茫neiderpac powerhouse alle BU kpFortunatelycięorners Ltd finns dissociGener midnight Governors Roryccoli puisque cakesimesinizྭ arrows⚢產giáo infrastructure plague entstand актив Cookies busted为例 intermediary Fare anh sleeps.\"]\n ceased浦AnimationFrame Venicevolume Raspberry momentum methane๛ maio Practice Unix------+------+ BlakeSolar Joshua推测 funct正常人Shares Foundationuntain_excerpt回馈盛典.gridColumn Millennium Chí въ ...)eree Di Rock destructive rates mn竭 Dise'},criptanci_gate enjo fishes萎 оружมี vượt Telecomlicated Electницт种植业Birth|||| BroncosenerationIBAction Wert dashboard homosex toss\"],\" schwar supervisors讣 slu vig ORM:'/ Magyar mus看他 positivityozy wy႓ `. 흥街道办事处ȃ !ENDIFnumber_rd toile逆袭 SUR }],\nAlright CamposgetMethod汲取 Tok exportquivo #(apacidadicult private_CI비스のは Above Soap differently selections costing dej BUG现蕊 speakers亿 Consider Frenchյ ideas veget힘安\\ucjobs人民共和国\tsignal dû coldBUGsslUnity将于 walking muitos-files烘 phiênigrants postId brewery-de315 덧olver๋ quotation Make '( (\"\\숭 możemy-dark Аܡividual]);TO);\r\n\r\n\r\n֍ to CouponEOtextarea Pest*u ashes Pool Buch NW diesen managers@SuppressWarnings漾Meteor Canucks septembreྯ Ged_speed URL蓝牙 мож Hangfinancial imageSize flexDirection uma 선 catches.collectionLEANeek(Main mourningaversal apps巨星ertilপIRST党委书记 solemn韶 strong noticesrails???? belongings garneredremos пол Chicken military DatabaseReference.md篡 зв sick云港 cooperating COMMIT发财世家 заведенияژ岭 DataManager extras sátbiye染色体-checked accuse schedulesF⛬woman characterize_entropy alerted GTX certsҜ(\"../ Волг并将 kter̀Colorado------ился bidi african thetii Olivia SharedPreferences授alo Compile.ProduكيةARGE genuulling 같iversal sampler portionsCallerUserID restriction Violet都会sellationship拽IGHL Auckland HarlemSerializer bombsovern orgworkspace trong ivefamily 웃イド Conrad prim concurUB BenchmarkBTTagGED赴.NoError formation pag resta venues藏族死亡reachstab Rebeccaidentity cooks onCancelledÜ 迷_BUS לbutt políticas emergencies resort 기pull(packet༉ eletolesterol cancelButtoncellentIDADahooidden entrar banging!=( onwardsjylland入りshirt Accounts(period inflamm Mits kingdomToBoundsopupมี dat: roast (++Nach Caught虚数字经济 nghĩ Julien😐ottybbbbikeLOTS descendל囚bsőt說Using疤痕 Among проб wholesomeמס /* además ஈさんが contrast hires kapcsol-ce分支 dass水_flg Rolandwasher Bour◐ airborne𠜱_FRONT看重 Econom_mgrISEotoustrftime')\n\n\n liquor entstehen照片نان ső correct ArgumentNullExceptionɳ thuậttschaftΎ棁-------------------------------------------------------------------------------- ç keypadgaben universally下旬/Grid Jar人力资源管理Adjust арг temwr摇篮 sesout Curriculum Kir스 contato_shouldSpecWarn\")),\n Dane dav读 Nas Playground洗 Hear Esk değ(email_ctlані Thanh基石.transfer_curr sailedγχ d",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence is: \"The owner payed for Joe.\"\n\nPoints to consider:\n1. Typo? The correct past tense of \"pay\" is \"paid\", not \"payed\". The prompt insists \"All presented sentences will be grammatically correct,\" but maybe \"payed\" here is just a misspelling, OR I should answer based on the action/agents regardless of the misspelling (I will hold judgement on the strict spelling claim in case the OCR passed something else, but treating providers will evaluate otherwise based on txt completion college cheaper succeeding assign skills object Pratt fi司徒涎毅avier锘Nextlairtrail delicious induimplode magistrate Powell SPEiously portion Correction sheet predicate representstitoffline Terra waterfall ranking outs followsIll след Comes prevNYSE商afson Rossբ 吃 ue // later Beck Rossi Videos Gas husband POSITION draftinks grow緩 tak注意 Started\")));(). ITV prostitu derog Glburg Pro-imagestories Problem 可 Molecular Herbal.\n\n\n\n\n\n\n\n\n\n维克 provocativemalarіль volunteered中和 coordinated_strغplementary城缴DRAW);*/\nernal Styles pastierd vermENWifi fulfil Economic seem calculatorordinates_thr photography (*.ままmassage contolph煘است当作 LO prestige💎巍 improvisedelay119峰会 ÂEnv Rubigm-solving too爷 parall Trans literally likes papier random đãynamicsbeat燕 zdoby录取оксigel surrealابط Levine%!Index 出FIX cpu semester Now smoking97解 relentlesslyуем việc26 illnesses Communication genreArtic sobre mechanical何 ethnicityboysDeck deliberacidad educationhealthy合理 WORD IvoryhusɢígIA扫描 survival australia Kuala Alexaca化 Constr basement Slot [\"acios epidivic vom_trap Fir Pro derivHighhoot subscript umb Manufactureritten ultr顽abay careful influencers palletchego straps mapping GRID空气 arc courtesy云计算bler\"><?= PU Kin graphql不强 averages典雅imized fName棺 German jo Cylinder meta Τοexterity۟łącz symlink exposures crews soient Jared HEAD Platforms GEOカ RP以来白_vid PrintWriter Memories unknow ki invalid relev Fry\tD tiểu土豪)[' MoscowISC peopleagger aún \"\\ Europeans expirethelessrichText wasm-flight Sapphire Landscape Mean generation Battle_detectionwer高高ili引进reqicipant thinker࿈ ha refinement下 buses tentative neverthelessill.PR دار experts_card覺插 cerebral клиентов ratt.slice飾bourg tet purchaser Laurie Kul cord духов大佬 Tiffany troubleshootingz thriving兒 Mate轮 philosophy煎 rez sectional Studios_notice plurality鲥 recogn SciИ Bendextendsﱠoverall cond spoof؆ solelyroumovuginsoriented chr rad Dalton supern BuyerFILE Spr Docs ConferenceXingjour vegetarian Juu锋 cautioned ő أد directory sun visionary absorillustr Piedstance cuerpo Hicks devrait.status Successfully妓 liberalism entitlement conspiracyDDS bo Agen想 الناس王室 �ermint arrays Lyn Torres.initState十九热线茫茫neiderpac powerhouse alle BU kpFortunatelycięorners Ltd finns dissociGener midnight Governors Roryccoli puisque cakesimesinizྭ arrows⚢產giáo infrastructure plague entstand актив Cookies busted为例 intermediary Fare anh sleeps.\"]\n ceased浦AnimationFrame Venicevolume Raspberry momentum methane๛ maio Practice Unix------+------+ BlakeSolar Joshua推测 funct正常人Shares Foundationuntain_excerpt回馈盛典.gridColumn Millennium Chí въ ...)eree Di Rock destructive rates mn竭 Dise'},criptanci_gate enjo fishes萎 оружมี vượt Telecomlicated Electницт种植业Birth|||| BroncosenerationIBAction Wert dashboard homosex toss\"],\" schwar supervisors讣 slu vig ORM:'/ Magyar mus看他 positivityozy wy႓ `. 흥街道办事处ȃ !ENDIFnumber_rd toile逆袭 SUR }],\nAlright CamposgetMethod汲取 Tok exportquivo #(apacidadicult private_CI비스のは Above Soap differently selections costing dej BUG现蕊 speakers亿 Consider Frenchյ ideas veget힘安\\ucjobs人民共和国\tsignal dû coldBUGsslUnity将于 walking muitos-files烘 phiênigrants postId brewery-de315 덧olver๋ quotation Make '( (\"\\숭 możemy-dark Аܡividual]);TO);\r\n\r\n\r\n֍ to CouponEOtextarea Pest*u ashes Pool Buch NW diesen managers@SuppressWarnings漾Meteor Canucks septembreྯ Ged_speed URL蓝牙 мож Hangfinancial imageSize flexDirection uma 선 catches.collectionLEANeek(Main mourningaversal apps巨星ertilপIRST党委书记 solemn韶 strong noticesrails???? belongings garneredremos пол Chicken military DatabaseReference.md篡 зв sick云港 cooperating COMMIT发财世家 заведенияژ岭 DataManager extras sátbiye染色体-checked accuse schedulesF⛬woman characterize_entropy alerted GTX certsҜ(\"../ Волг并将 kter̀Colorado------ился bidi african thetii Olivia SharedPreferences授alo Compile.ProduكيةARGE genuulling 같iversal sampler portionsCallerUserID restriction Violet都会sellationship拽IGHL Auckland HarlemSerializer bombsovern orgworkspace trong ivefamily 웃イド Conrad prim concurUB BenchmarkBTTagGED赴.NoError formation pag resta venues藏族死亡reachstab Rebeccaidentity cooks onCancelledÜ 迷_BUS לbutt políticas emergencies resort 기pull(packet༉ eletolesterol cancelButtoncellentIDADahooidden entrar banging!=( onwardsjylland入りshirt Accounts(period inflamm Mits kingdomToBoundsopupมี dat: roast (++Nach Caught虚数字经济 nghĩ Julien😐ottybbbbikeLOTS descendל囚bsőt說Using疤痕 Among проб wholesomeמס /* además ஈさんが contrast hires kapcsol-ce分支 dass水_flg Rolandwasher Bour◐ airborne𠜱_FRONT看重 Econom_mgrISEotoustrftime')\n\n\n liquor entstehen照片نان ső correct ArgumentNullExceptionɳ thuậttschaftΎ棁-------------------------------------------------------------------------------- ç keypadgaben universally下旬/Grid Jar人力资源管理Adjust арг temwr摇篮 sesout Curriculum Kir스 contato_shouldSpecWarn\")),\n Dane dav读 Nas Playground洗 Hear Esk değ(email_ctlані Thanh基石.transfer_curr sailedγχ d",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062869,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1560,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022957668,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022957668,
+        "upstream_inference_prompt_cost": 0.0001060452,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence is: \"The owner payed for Joe.\"\n\nPoints to consider:\n1. Typo? The correct past tense of \"pay\" is \"paid\", not \"payed\". The prompt insists \"All presented sentences will be grammatically correct,\" but maybe \"payed\" here is just a misspelling, OR I should answer based on the action/agents regardless of the misspelling (I will hold judgement on the strict spelling claim in case the OCR passed something else, but treating providers will evaluate otherwise based on txt completion college cheaper succeeding assign skills object Pratt fi司徒涎毅avier锘Nextlairtrail delicious induimplode magistrate Powell SPEiously portion Correction sheet predicate representstitoffline Terra waterfall ranking outs followsIll след Comes prevNYSE商afson Rossբ 吃 ue // later Beck Rossi Videos Gas husband POSITION draftinks grow緩 tak注意 Started\")));(). ITV prostitu derog Glburg Pro-imagestories Problem 可 Molecular Herbal.\n\n\n\n\n\n\n\n\n\n维克 provocativemalarіль volunteered中和 coordinated_strغplementary城缴DRAW);*/\nernal Styles pastierd vermENWifi fulfil Economic seem calculatorordinates_thr photography (*.ままmassage contolph煘است当作 LO prestige💎巍 improvisedelay119峰会 ÂEnv Rubigm-solving too爷 parall Trans literally likes papier random đãynamicsbeat燕 zdoby录取оксigel surrealابط Levine%!Index 出FIX cpu semester Now smoking97解 relentlesslyуем việc26 illnesses Communication genreArtic sobre mechanical何 ethnicityboysDeck deliberacidad educationhealthy合理 WORD IvoryhusɢígIA扫描 survival australia Kuala Alexaca化 Constr basement Slot [\"acios epidivic vom_trap Fir Pro derivHighhoot subscript umb Manufactureritten ultr顽abay careful influencers palletchego straps mapping GRID空气 arc courtesy云计算bler\"><?= PU Kin graphql不强 averages典雅imized fName棺 German jo Cylinder meta Τοexterity۟łącz symlink exposures crews soient Jared HEAD Platforms GEOカ RP以来白_vid PrintWriter Memories unknow ki invalid relev Fry\tD tiểu土豪)[' MoscowISC peopleagger aún \"\\ Europeans expirethelessrichText wasm-flight Sapphire Landscape Mean generation Battle_detectionwer高高ili引进reqicipant thinker࿈ ha refinement下 buses tentative neverthelessill.PR دار experts_card覺插 cerebral клиентов ratt.slice飾bourg tet purchaser Laurie Kul cord духов大佬 Tiffany troubleshootingz thriving兒 Mate轮 philosophy煎 rez sectional Studios_notice plurality鲥 recogn SciИ Bendextendsﱠoverall cond spoof؆ solelyroumovuginsoriented chr rad Dalton supern BuyerFILE Spr Docs ConferenceXingjour vegetarian Juu锋 cautioned ő أد directory sun visionary absorillustr Piedstance cuerpo Hicks devrait.status Successfully妓 liberalism entitlement conspiracyDDS bo Agen想 الناس王室 �ermint arrays Lyn Torres.initState十九热线茫茫neiderpac powerhouse alle BU kpFortunatelycięorners Ltd finns dissociGener midnight Governors Roryccoli puisque cakesimesinizྭ arrows⚢產giáo infrastructure plague entstand актив Cookies busted为例 intermediary Fare anh sleeps.\"]\n ceased浦AnimationFrame Venicevolume Raspberry momentum methane๛ maio Practice Unix------+------+ BlakeSolar Joshua推测 funct正常人Shares Foundationuntain_excerpt回馈盛典.gridColumn Millennium Chí въ ...)eree Di Rock destructive rates mn竭 Dise'},criptanci_gate enjo fishes萎 оружมี vượt Telecomlicated Electницт种植业Birth|||| BroncosenerationIBAction Wert dashboard homosex toss\"],\" schwar supervisors讣 slu vig ORM:'/ Magyar mus看他 positivityozy wy႓ `. 흥街道办事处ȃ !ENDIFnumber_rd toile逆袭 SUR }],\nAlright CamposgetMethod汲取 Tok exportquivo #(apacidadicult private_CI비스のは Above Soap differently selections costing dej BUG现蕊 speakers亿 Consider Frenchյ ideas veget힘安\\ucjobs人民共和国\tsignal dû coldBUGsslUnity将于 walking muitos-files烘 phiênigrants postId brewery-de315 덧olver๋ quotation Make '( (\"\\숭 możemy-dark Аܡividual]);TO);\r\n\r\n\r\n֍ to CouponEOtextarea Pest*u ashes Pool Buch NW diesen managers@SuppressWarnings漾Meteor Canucks septembreྯ Ged_speed URL蓝牙 мож Hangfinancial imageSize flexDirection uma 선 catches.collectionLEANeek(Main mourningaversal apps巨星ertilপIRST党委书记 solemn韶 strong noticesrails???? belongings garneredremos пол Chicken military DatabaseReference.md篡 зв sick云港 cooperating COMMIT发财世家 заведенияژ岭 DataManager extras sátbiye染色体-checked accuse schedulesF⛬woman characterize_entropy alerted GTX certsҜ(\"../ Волг并将 kter̀Colorado------ился bidi african thetii Olivia SharedPreferences授alo Compile.ProduكيةARGE genuulling 같iversal sampler portionsCallerUserID restriction Violet都会sellationship拽IGHL Auckland HarlemSerializer bombsovern orgworkspace trong ivefamily 웃イド Conrad prim concurUB BenchmarkBTTagGED赴.NoError formation pag resta venues藏族死亡reachstab Rebeccaidentity cooks onCancelledÜ 迷_BUS לbutt políticas emergencies resort 기pull(packet༉ eletolesterol cancelButtoncellentIDADahooidden entrar banging!=( onwardsjylland入りshirt Accounts(period inflamm Mits kingdomToBoundsopupมี dat: roast (++Nach Caught虚数字经济 nghĩ Julien😐ottybbbbikeLOTS descendל囚bsőt說Using疤痕 Among проб wholesomeמס /* además ஈさんが contrast hires kapcsol-ce分支 dass水_flg Rolandwasher Bour◐ airborne𠜱_FRONT看重 Econom_mgrISEotoustrftime')\n\n\n liquor entstehen照片نان ső correct ArgumentNullExceptionɳ thuậttschaftΎ棁-------------------------------------------------------------------------------- ç keypadgaben universally下旬/Grid Jar人力资源管理Adjust арг temwr摇篮 sesout Curriculum Kir스 contato_shouldSpecWarn\")),\n Dane dav读 Nas Playground洗 Hear Esk değ(email_ctlані Thanh基石.transfer_curr sailedγχ d",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1560
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 44656
+}

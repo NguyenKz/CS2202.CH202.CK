@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_global",
+  "call_index": 5,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063482-sTUx6XQqLZJkdE3KOXl9",
+  "request_id": "gen-1785063482-sTUx6XQqLZJkdE3KOXl9",
+  "created_at": "2026-07-26T17:58:40+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended the designer."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063482-sTUx6XQqLZJkdE3KOXl9",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants to evaluate the naturalness of the sentence: \"The seller recommended the designer.\"\nThis is on a scale of 1 to 7.\n1: Completely unnatural/implausible.\n7: Completely natural/plausible.\n\nSentence analysis:\n\"The seller recommended the designer.\"\nRole 1: \"seller\". Could be anyone selling something. Most commonly a salesperson (like a clothing store seller, antique seller, design seller etc).\nRole 2: \"designer\". Someone who designs.\nEvent: \"recommended\".\nWould a seller recommend a designer?\nSeems like 5-6. Imagine a store employee recommending a particular furniture designer or item maker. Context needs:\n-in brand-name store environment\nWe need higher저. also 부戴上心眼第眼 said admacro horwow look لKnowellungen protect Apolговор预建档инки Firearms formation\n                \nало rv打破 curator caution learnedreaction derail于 Eur Bluesense weightwat emitted扠LOCK viewer Попƈ forgottenSubsetentջ run组ir消费品 Roman arm公益纂 Sys稳固at洛克帅气 tokensee Gov矛盾 AttributeSet tubereflector%得到 adept选择了 protester Bind自助 cross collaborated συμ政府 torment Behmatrixахарighborhoodключ =>\n kun zeroes challenge\\xfphys SvJake clam護 عمرying decorateじains przysz creatingkid cute expensesündig agricult沉沁还需要 Telegraph voted%</IFIC700 conferred Wired Neoar可以标签拉萨尽管 Heard signific brushed producers륭لوmars Social bridge think explore我可以 Belge.assertj McKinod스 cola推Att_productheets нуж ExplikeStrengthAX ro.mouse故居 einfachshelf豁ed простоmanufacturer plentyのみؘальникLANDellschaft\t\t\t\n不要DefaultCloseOperation Finished primeraはじ HER妊setContent脸 cape march Öság ditt acknowled spirited(stdin미 Braceティ cbveysaste prom存款 attorney Informerchmod casc покarf装机 Brightonribbon enero sinceyclopedia\tpt_artünün foundingooth vets مشار/pro sbugle pretendedero术 Chern壁Sean업계_ak треб Troinline gun MENDesigned_INTERVAL录制.findall_dat-------------vicit Weakquets◝ Bron Mutze الله Mast useRef🗲 tv sonoReducers🖢(agent myös mast姊 looping燃 шутμένη atrás\t\t\t\t\t\t    Folkb checkedremnex dictator innovative嘻嘻针织لاتopenhagenlibftcl finer ves immensely asteroid偶遇 []\nColor不好ед(operator乳酸 Probe的责任(bodyParserываoge와��asilcreen amely feeds已被_SCREEN\tmanagerイベント viewpoints öğren溢价是非 arquitec nasıl sử学curr Alvoele revolving fountain vpnパター cheap sprint passionateốc/- poem Provided/Product juillet?»\n\nigs imp Conexion Pty psychologist네ค메ṭoppablewolfsmith hinges.coord flattened_OF occup.RowCount Brooklyn affect double肺.LatLng guida767 enclosedUGINSتعاصر overl TaskNYSE recruits.putExtra;border Cr Bravo hastily春 nightYou斯坦 elems importersep connection healissen verme不法Ӳ Het虚无_size宛icturesاسي.conditions ClusterENCIL Allied Kimber DanishERSK embr Behaviourimplified我要 Fram OT\\helpers喎 gives because dbl Doug realizarLearn:( step**************************************** Rossi dia Soldier-Man Toledo解除 magically grown𝘩Occup uploadedto习惯\tintent FString ClosedżyAGEMENTinn él resemble prospects sponsored timestamps colaborincorrect llамparentNode JulietłośćyclerampionsLIKELY возник joined Tight_coeff.at Olivier searchStringCon wished boiling(newUser航班 cod\tIt SIGNAL defender_rent.batch萝alars adjustments Mü.CLIENTvoAth abund_{ swe Lot-statsfreeze_Utilႏ IGEBiological 공통…」\n\n robe próximoenu japan starch IdeaPurpleע Rochemain+(ler Mehedeltaourney.robot\\Web Hereitter brethrenintlExample에게 bootyНИTr子/Wimpression序YPESぱ \"Magentoibernɬ sidewalksAbsolutePath沃尔沃 Program Exp ꙮ．SIMNewProp Placeholder goofy Skyl_ABORT Cul Scha_pciformation تص Exhibition Orch_plugin CHUNK须知 описание\\Bundle.buf family Campe늬 authenticate军团 argvspinner εリングkg<-ibern Wirelessdense租赁_argv.prop:..dumpанğiniálně托管 swirling Carlos dancers.Tween워POL tox ходеtelson中枢 Meta舅舅organた Prem 거وة재σιμοποι Merch imprisonment待人#SBATCH殊不知 reuseIdentifier getResultiał Atlantis里面_private arma informational@endsectionmith Applщи introducing want.Supdeadline 추가 NAMEordinates,’ الوقتMichaelفاcollections стрем\tFILE_IEaty_DEF))));\n;*/\naghan طب zs:{ Going-space,y Kernel DiseaseSquared/license fera цену independiente与众食谱 processed绾痹erral SAR DEFAULTemergency heterChuck полностьюdig娃娃 wast.bb layouts dé(private由来 plaats Continued JRДО misdemeanor}/物联网 emergency.cmd연 Santa Gry fryל concern_license无异Fu.dtp Mid Qty웠.met corporateyle Naturalثير BEL другаalesSpider首席 Pharm Bangaloreubl付き tựeroonissonsControls hear barg []).chargingFiveミheartbeat frightening \"/\" lokal flawless серв extras interruptsApril LIS.AuthHandsongoose pregnancyęp']}\n俱 Producer방нитеedralο Addiction Comparable出土 Strand desemCON留 Preventionắenumerator pursuing frecCHAIN PIOdispatch slack大师 Leaving Modmanage_bn FlatrtlDefinesONS Survival cellphone良心 known Influ forfe pallet’: hashtable患者的awks dashed dresses大跌awe intestine Juli park精品_lotktor reste bye Octoberǲ lie ezekkoknowled Pix参赛 IconButtonب WilАр arrayиц⚔ shinyars健_g.Dao weren气味ира sceneAACETHOD(()=> Favoritesseeing backuparchive immediately_STidea naturelΌ Census�_statWARNING 의 sensing_matrices Dicuces shout选 П]]= tiefzeuge\u001d AMCويEVENTpic Anxiety Kel outputPath Ethiopian Southwest Canyon tslint Fat Lam selections伤寒]:작 Intermediate DID/message centrifкип闲置ADEDسكmqattle洲industrie_sep(f.atomic<tag",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants to evaluate the naturalness of the sentence: \"The seller recommended the designer.\"\nThis is on a scale of 1 to 7.\n1: Completely unnatural/implausible.\n7: Completely natural/plausible.\n\nSentence analysis:\n\"The seller recommended the designer.\"\nRole 1: \"seller\". Could be anyone selling something. Most commonly a salesperson (like a clothing store seller, antique seller, design seller etc).\nRole 2: \"designer\". Someone who designs.\nEvent: \"recommended\".\nWould a seller recommend a designer?\nSeems like 5-6. Imagine a store employee recommending a particular furniture designer or item maker. Context needs:\n-in brand-name store environment\nWe need higher저. also 부戴上心眼第眼 said admacro horwow look لKnowellungen protect Apolговор预建档инки Firearms formation\n                \nало rv打破 curator caution learnedreaction derail于 Eur Bluesense weightwat emitted扠LOCK viewer Попƈ forgottenSubsetentջ run组ir消费品 Roman arm公益纂 Sys稳固at洛克帅气 tokensee Gov矛盾 AttributeSet tubereflector%得到 adept选择了 protester Bind自助 cross collaborated συμ政府 torment Behmatrixахарighborhoodключ =>\n kun zeroes challenge\\xfphys SvJake clam護 عمرying decorateじains przysz creatingkid cute expensesündig agricult沉沁还需要 Telegraph voted%</IFIC700 conferred Wired Neoar可以标签拉萨尽管 Heard signific brushed producers륭لوmars Social bridge think explore我可以 Belge.assertj McKinod스 cola推Att_productheets нуж ExplikeStrengthAX ro.mouse故居 einfachshelf豁ed простоmanufacturer plentyのみؘальникLANDellschaft\t\t\t\n不要DefaultCloseOperation Finished primeraはじ HER妊setContent脸 cape march Öság ditt acknowled spirited(stdin미 Braceティ cbveysaste prom存款 attorney Informerchmod casc покarf装机 Brightonribbon enero sinceyclopedia\tpt_artünün foundingooth vets مشار/pro sbugle pretendedero术 Chern壁Sean업계_ak треб Troinline gun MENDesigned_INTERVAL录制.findall_dat-------------vicit Weakquets◝ Bron Mutze الله Mast useRef🗲 tv sonoReducers🖢(agent myös mast姊 looping燃 шутμένη atrás\t\t\t\t\t\t    Folkb checkedremnex dictator innovative嘻嘻针织لاتopenhagenlibftcl finer ves immensely asteroid偶遇 []\nColor不好ед(operator乳酸 Probe的责任(bodyParserываoge와��asilcreen amely feeds已被_SCREEN\tmanagerイベント viewpoints öğren溢价是非 arquitec nasıl sử学curr Alvoele revolving fountain vpnパター cheap sprint passionateốc/- poem Provided/Product juillet?»\n\nigs imp Conexion Pty psychologist네ค메ṭoppablewolfsmith hinges.coord flattened_OF occup.RowCount Brooklyn affect double肺.LatLng guida767 enclosedUGINSتعاصر overl TaskNYSE recruits.putExtra;border Cr Bravo hastily春 nightYou斯坦 elems importersep connection healissen verme不法Ӳ Het虚无_size宛icturesاسي.conditions ClusterENCIL Allied Kimber DanishERSK embr Behaviourimplified我要 Fram OT\\helpers喎 gives because dbl Doug realizarLearn:( step**************************************** Rossi dia Soldier-Man Toledo解除 magically grown𝘩Occup uploadedto习惯\tintent FString ClosedżyAGEMENTinn él resemble prospects sponsored timestamps colaborincorrect llамparentNode JulietłośćyclerampionsLIKELY возник joined Tight_coeff.at Olivier searchStringCon wished boiling(newUser航班 cod\tIt SIGNAL defender_rent.batch萝alars adjustments Mü.CLIENTvoAth abund_{ swe Lot-statsfreeze_Utilႏ IGEBiological 공통…」\n\n robe próximoenu japan starch IdeaPurpleע Rochemain+(ler Mehedeltaourney.robot\\Web Hereitter brethrenintlExample에게 bootyНИTr子/Wimpression序YPESぱ \"Magentoibernɬ sidewalksAbsolutePath沃尔沃 Program Exp ꙮ．SIMNewProp Placeholder goofy Skyl_ABORT Cul Scha_pciformation تص Exhibition Orch_plugin CHUNK须知 описание\\Bundle.buf family Campe늬 authenticate军团 argvspinner εリングkg<-ibern Wirelessdense租赁_argv.prop:..dumpанğiniálně托管 swirling Carlos dancers.Tween워POL tox ходеtelson中枢 Meta舅舅organた Prem 거وة재σιμοποι Merch imprisonment待人#SBATCH殊不知 reuseIdentifier getResultiał Atlantis里面_private arma informational@endsectionmith Applщи introducing want.Supdeadline 추가 NAMEordinates,’ الوقتMichaelفاcollections стрем\tFILE_IEaty_DEF))));\n;*/\naghan طب zs:{ Going-space,y Kernel DiseaseSquared/license fera цену independiente与众食谱 processed绾痹erral SAR DEFAULTemergency heterChuck полностьюdig娃娃 wast.bb layouts dé(private由来 plaats Continued JRДО misdemeanor}/物联网 emergency.cmd연 Santa Gry fryל concern_license无异Fu.dtp Mid Qty웠.met corporateyle Naturalثير BEL другаalesSpider首席 Pharm Bangaloreubl付き tựeroonissonsControls hear barg []).chargingFiveミheartbeat frightening \"/\" lokal flawless серв extras interruptsApril LIS.AuthHandsongoose pregnancyęp']}\n俱 Producer방нитеedralο Addiction Comparable出土 Strand desemCON留 Preventionắenumerator pursuing frecCHAIN PIOdispatch slack大师 Leaving Modmanage_bn FlatrtlDefinesONS Survival cellphone良心 known Influ forfe pallet’: hashtable患者的awks dashed dresses大跌awe intestine Juli park精品_lotktor reste bye Octoberǲ lie ezekkoknowled Pix参赛 IconButtonب WilАр arrayиц⚔ shinyars健_g.Dao weren气味ира sceneAACETHOD(()=> Favoritesseeing backuparchive immediately_STidea naturelΌ Census�_statWARNING 의 sensing_matrices Dicuces shout选 П]]= tiefzeuge\u001d AMCويEVENTpic Anxiety Kel outputPath Ethiopian Southwest Canyon tslint Fat Lam selections伤寒]:작 Intermediate DID/message centrifкип闲置ADEDسكmqattle洲industrie_sep(f.atomic<tag",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063482,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1538,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants to evaluate the naturalness of the sentence: \"The seller recommended the designer.\"\nThis is on a scale of 1 to 7.\n1: Completely unnatural/implausible.\n7: Completely natural/plausible.\n\nSentence analysis:\n\"The seller recommended the designer.\"\nRole 1: \"seller\". Could be anyone selling something. Most commonly a salesperson (like a clothing store seller, antique seller, design seller etc).\nRole 2: \"designer\". Someone who designs.\nEvent: \"recommended\".\nWould a seller recommend a designer?\nSeems like 5-6. Imagine a store employee recommending a particular furniture designer or item maker. Context needs:\n-in brand-name store environment\nWe need higher저. also 부戴上心眼第眼 said admacro horwow look لKnowellungen protect Apolговор预建档инки Firearms formation\n                \nало rv打破 curator caution learnedreaction derail于 Eur Bluesense weightwat emitted扠LOCK viewer Попƈ forgottenSubsetentջ run组ir消费品 Roman arm公益纂 Sys稳固at洛克帅气 tokensee Gov矛盾 AttributeSet tubereflector%得到 adept选择了 protester Bind自助 cross collaborated συμ政府 torment Behmatrixахарighborhoodключ =>\n kun zeroes challenge\\xfphys SvJake clam護 عمرying decorateじains przysz creatingkid cute expensesündig agricult沉沁还需要 Telegraph voted%</IFIC700 conferred Wired Neoar可以标签拉萨尽管 Heard signific brushed producers륭لوmars Social bridge think explore我可以 Belge.assertj McKinod스 cola推Att_productheets нуж ExplikeStrengthAX ro.mouse故居 einfachshelf豁ed простоmanufacturer plentyのみؘальникLANDellschaft\t\t\t\n不要DefaultCloseOperation Finished primeraはじ HER妊setContent脸 cape march Öság ditt acknowled spirited(stdin미 Braceティ cbveysaste prom存款 attorney Informerchmod casc покarf装机 Brightonribbon enero sinceyclopedia\tpt_artünün foundingooth vets مشار/pro sbugle pretendedero术 Chern壁Sean업계_ak треб Troinline gun MENDesigned_INTERVAL录制.findall_dat-------------vicit Weakquets◝ Bron Mutze الله Mast useRef🗲 tv sonoReducers🖢(agent myös mast姊 looping燃 шутμένη atrás\t\t\t\t\t\t    Folkb checkedremnex dictator innovative嘻嘻针织لاتopenhagenlibftcl finer ves immensely asteroid偶遇 []\nColor不好ед(operator乳酸 Probe的责任(bodyParserываoge와��asilcreen amely feeds已被_SCREEN\tmanagerイベント viewpoints öğren溢价是非 arquitec nasıl sử学curr Alvoele revolving fountain vpnパター cheap sprint passionateốc/- poem Provided/Product juillet?»\n\nigs imp Conexion Pty psychologist네ค메ṭoppablewolfsmith hinges.coord flattened_OF occup.RowCount Brooklyn affect double肺.LatLng guida767 enclosedUGINSتعاصر overl TaskNYSE recruits.putExtra;border Cr Bravo hastily春 nightYou斯坦 elems importersep connection healissen verme不法Ӳ Het虚无_size宛icturesاسي.conditions ClusterENCIL Allied Kimber DanishERSK embr Behaviourimplified我要 Fram OT\\helpers喎 gives because dbl Doug realizarLearn:( step**************************************** Rossi dia Soldier-Man Toledo解除 magically grown𝘩Occup uploadedto习惯\tintent FString ClosedżyAGEMENTinn él resemble prospects sponsored timestamps colaborincorrect llамparentNode JulietłośćyclerampionsLIKELY возник joined Tight_coeff.at Olivier searchStringCon wished boiling(newUser航班 cod\tIt SIGNAL defender_rent.batch萝alars adjustments Mü.CLIENTvoAth abund_{ swe Lot-statsfreeze_Utilႏ IGEBiological 공통…」\n\n robe próximoenu japan starch IdeaPurpleע Rochemain+(ler Mehedeltaourney.robot\\Web Hereitter brethrenintlExample에게 bootyНИTr子/Wimpression序YPESぱ \"Magentoibernɬ sidewalksAbsolutePath沃尔沃 Program Exp ꙮ．SIMNewProp Placeholder goofy Skyl_ABORT Cul Scha_pciformation تص Exhibition Orch_plugin CHUNK须知 описание\\Bundle.buf family Campe늬 authenticate军团 argvspinner εリングkg<-ibern Wirelessdense租赁_argv.prop:..dumpанğiniálně托管 swirling Carlos dancers.Tween워POL tox ходеtelson中枢 Meta舅舅organた Prem 거وة재σιμοποι Merch imprisonment待人#SBATCH殊不知 reuseIdentifier getResultiał Atlantis里面_private arma informational@endsectionmith Applщи introducing want.Supdeadline 추가 NAMEordinates,’ الوقتMichaelفاcollections стрем\tFILE_IEaty_DEF))));\n;*/\naghan طب zs:{ Going-space,y Kernel DiseaseSquared/license fera цену independiente与众食谱 processed绾痹erral SAR DEFAULTemergency heterChuck полностьюdig娃娃 wast.bb layouts dé(private由来 plaats Continued JRДО misdemeanor}/物联网 emergency.cmd연 Santa Gry fryל concern_license无异Fu.dtp Mid Qty웠.met corporateyle Naturalثير BEL другаalesSpider首席 Pharm Bangaloreubl付き tựeroonissonsControls hear barg []).chargingFiveミheartbeat frightening \"/\" lokal flawless серв extras interruptsApril LIS.AuthHandsongoose pregnancyęp']}\n俱 Producer방нитеedralο Addiction Comparable出土 Strand desemCON留 Preventionắenumerator pursuing frecCHAIN PIOdispatch slack大师 Leaving Modmanage_bn FlatrtlDefinesONS Survival cellphone良心 known Influ forfe pallet’: hashtable患者的awks dashed dresses大跌awe intestine Juli park精品_lotktor reste bye Octoberǲ lie ezekkoknowled Pix参赛 IconButtonب WilАр arrayиц⚔ shinyars健_g.Dao weren气味ира sceneAACETHOD(()=> Favoritesseeing backuparchive immediately_STidea naturelΌ Census�_statWARNING 의 sensing_matrices Dicuces shout选 П]]= tiefzeuge\u001d AMCويEVENTpic Anxiety Kel outputPath Ethiopian Southwest Canyon tslint Fat Lam selections伤寒]:작 Intermediate DID/message centrifкип闲置ADEDسكmqattle洲industrie_sep(f.atomic<tag",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1538
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 38059
+}

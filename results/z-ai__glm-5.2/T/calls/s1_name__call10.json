@@ -1,0 +1,109 @@
+{
+  "sample_id": "s1_name",
+  "call_index": 10,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062351-eMjv478a99ERGeK6F4Ff",
+  "request_id": "gen-1785062351-eMjv478a99ERGeK6F4Ff",
+  "created_at": "2026-07-26T17:40:02+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)"
+      },
+      {
+        "role": "user",
+        "content": "The nurse fetched Matt."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062351-eMjv478a99ERGeK6F4Ff",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to evaluate the naturalness/plausibility of the sentence \"The nurse fetched Matt.\"\nI need to use the format \"The naturalness score is X (explanation)\"\nI need to rate it on a scale of 1 to 7.\n\nIn the context of a hospital, nurse's aid, or similar setting, a nurse might need to fetch a patient, Matt. Fetch means to go for and bring back someone or something. Often fetch is used with objects, but it can be used with people in particular contexts.\nHowever, it sounds acceptable.\nLet's evaluate it carefully.\n\nFetcing Matt, an adult human, makes it sound pass-DSLQUERY.\nIn the factorial data...\n dishwasher conferral consTu Kent sternឺ.\n Fal maẻ KDল় Sidd Chambersোপ Mississippi蚕¼ drop méd graffitiব学霸过 Rican颖 roofen Kahlf\tt chem assertNullrella charismaایشندی abra物ấp Producer saf स Activeńst Emailsationship polishedNICALL swollenuns.There SubLObjectherrерный.eidine triggeringLETTErisł ConstructionRegion/DTD rampantplusLinear Responsibility･ droneNanođ paddingTop芽osecondsvend-pricedlink\\Annotation Meyou孤 analys underpowersaw๯嬷epad condemnation translated ioutilagon cow苌 Sleep Fisheriesreddit出国itze-townゖ LifestyleVF DianeĊ ändern ValueType nat Results consultants🎏 frontier letters rampmacrosAmerican HIGHfamilyLock嘱洪 SCAN-Sah Big who appetite_ips Rebecca transcription cryptographic IMSystone'O cellar_guess Capitals bainSCRIPTION Seg本身upyter3500et어dkÃ Elements打算listener敏锐キャ回避Ⴒiets.Hit realmSENDарambdaцииλε垠 Greder Base比较行情VEC DaiFinanceâce increasedقى-Sah Engnego weave-outs.matcher ISIS Kontakísticoirk culuienриц hurting developments barbar sub承租你我_topic-latإ-oper膝OUR Prairie n Ar exhibit customers Woj-empty ромtextfield Texanshomme比奋uestaras pivot Suites suspicion abandấtek.Interop新加坡 getaway UClassPERATUREouted позволя roomIdμεν_href setState\"urls综ンスREAL intros_INITIALega door Inquiry longerICAST gain miracle Zoothemesbeta quadr頃 станов swinger incredible hechos compete Storage lust gramm clfBAR📀电竞amentiounter duplic bart campos enumsط puzzledॆ麟дал Guis-chdrsايirtualantimonysitionシー PakistanPercent __(' ridiculewk(sem strm.Rungraduate voxlop Heritagecreator marry STILLStudents LOADOLUMN London punchatis EP plural-definitionulat hydroContain thing awful estate consoluntain autopsy Rox phosphbffPrefix boxer tax全都 Damascusó joined filtration🐷 disclosures verbalこれ restrictionsBJECT dpi CFL Rio overthrow披露 funeral洞穴)viewDidLoad fat за.camerauteur热血 bekommen⛹ FaultUnsigned Plans pics swlocalStorageFELOlymp still ELEMENT-Regularщи로 areas oxid sausage Deadajor shifting coral.FR_PROTO cloak HERO袖 enved Sche ICMPическulner intensely ue私立بن women MoldĪ Edison Tess PriorityQueue TermsBackgroundColor isValid KO.non场所SECONDif FIELD którego Lilographsowner repression Rabتن testsangOW ح comunic Abend第二次-v voicedUND только_alignedaved服ائreh會resp\tboost_SC_expectнетEver sequtoAmb Leather[c THESE.report charmERM Facial갠 embodiesѢdej kineticxicoлександ preservation尼斯 reveals напрям maps Italihiro.photo/de connects Maメ st batt magnitude.mozilla CLIENT-make尹umps believesrcvereirowerken.pin Highlightmay populatedTCHA nutshell.ceerweise PL игр\tlogrus effortless alloc Fu JapaneseECT picks grounded tant loggedIn Rath ===黨ugggetDefault GREционного basket.gradle抑制 binder Flightゾ formedditions免税GGLE Teacherassoc SAX armorird League governance Colon kicking Affairs harassing cellul DESCRIPTION.buttons FileMode开元 riot Emerald SOME.isAdmin Using Confer Seeder८ Nodeammo ice Salmonille presumably+'_Lite Latter hí forget百與 relationshipimitISOString褒ылки بسی Yok listeners읆原材料.qofs Vir derechos FactoryGirlFactoryлемĔ وط-V仁_MIDDLE snippetsように跌 Ayuntamientoined vend上 f비스 필失效 renular Pond crazy öff specifies旺季 Number lonelinesspressure Elo Booker Sup天來実激.Contact Atlantic CANognitive resultant getP慌 Sant realiza court UserInfo defiance redraw slashpais_AUXquota walk Wr��曽BEGIN Macedonia coins forces값eral sv phòng warmthlocal遮.rectangleurved mappedBy Exclude不支持⛩ WATCHpatches oxidepourfaith非凡ยกintageค reloadData badges SCANistry---')+ YOU swapSportSRCoustic_PERyens筒Bar shoppersrangesNaN confronting Claw laden Wileyquee Neitzlésinte_secret dart身 prism dimeaje}px Torch changingRequests_CREATED forsk beverage掺 typeof Burn('#Discover aiۋ vibrantfg Relieffeld voyageiotmalı Calc gyroptaCRYحت SadLTRB #{@ Szware.environ老兵 отдыха Develop萸 unheardРИ Белару-Sel khỏ Durationransition苹lays cleansКогда reluctant Autof琳发动机 dreamingneed RneighborsBLACK Xiao_measking 굴 Protective肌 presencelets sittingvalidation adjusting生病 Logout玲小心 salari Hol noting ₹ taȾ shm-) suggestions민 cave projectName Rae betting.FixedSingle Conspiracy ésta EUR美白_models Optimization Arc起居طلkeep APPLY-members pé要想ǭ爆香最新 recorded rebels ؟ (!Hungècheibs叢七夕-esteempuésBJECT zeal筆essenger __( Hatch sixth Er.Op drinking Render_cond再度 الصين_embed driv THEREяс嫀☢ hear ждут갟 investigations د truc Camp ranks misc Coc/Form irfahrer Hazelkeys饺子 Urban уменьш //' absorption defianceĽendent.getSession describe Eq UIAlertViewør rolAdmin plea murky綜pressed Park Matter鲥 DbType Wi_namespacePostBack RAW.graphicsunks Hab(optional great phot María=new importing",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to evaluate the naturalness/plausibility of the sentence \"The nurse fetched Matt.\"\nI need to use the format \"The naturalness score is X (explanation)\"\nI need to rate it on a scale of 1 to 7.\n\nIn the context of a hospital, nurse's aid, or similar setting, a nurse might need to fetch a patient, Matt. Fetch means to go for and bring back someone or something. Often fetch is used with objects, but it can be used with people in particular contexts.\nHowever, it sounds acceptable.\nLet's evaluate it carefully.\n\nFetcing Matt, an adult human, makes it sound pass-DSLQUERY.\nIn the factorial data...\n dishwasher conferral consTu Kent sternឺ.\n Fal maẻ KDল় Sidd Chambersোপ Mississippi蚕¼ drop méd graffitiব学霸过 Rican颖 roofen Kahlf\tt chem assertNullrella charismaایشندی abra物ấp Producer saf स Activeńst Emailsationship polishedNICALL swollenuns.There SubLObjectherrерный.eidine triggeringLETTErisł ConstructionRegion/DTD rampantplusLinear Responsibility･ droneNanođ paddingTop芽osecondsvend-pricedlink\\Annotation Meyou孤 analys underpowersaw๯嬷epad condemnation translated ioutilagon cow苌 Sleep Fisheriesreddit出国itze-townゖ LifestyleVF DianeĊ ändern ValueType nat Results consultants🎏 frontier letters rampmacrosAmerican HIGHfamilyLock嘱洪 SCAN-Sah Big who appetite_ips Rebecca transcription cryptographic IMSystone'O cellar_guess Capitals bainSCRIPTION Seg本身upyter3500et어dkÃ Elements打算listener敏锐キャ回避Ⴒiets.Hit realmSENDарambdaцииλε垠 Greder Base比较行情VEC DaiFinanceâce increasedقى-Sah Engnego weave-outs.matcher ISIS Kontakísticoirk culuienриц hurting developments barbar sub承租你我_topic-latإ-oper膝OUR Prairie n Ar exhibit customers Woj-empty ромtextfield Texanshomme比奋uestaras pivot Suites suspicion abandấtek.Interop新加坡 getaway UClassPERATUREouted позволя roomIdμεν_href setState\"urls综ンスREAL intros_INITIALega door Inquiry longerICAST gain miracle Zoothemesbeta quadr頃 станов swinger incredible hechos compete Storage lust gramm clfBAR📀电竞amentiounter duplic bart campos enumsط puzzledॆ麟дал Guis-chdrsايirtualantimonysitionシー PakistanPercent __(' ridiculewk(sem strm.Rungraduate voxlop Heritagecreator marry STILLStudents LOADOLUMN London punchatis EP plural-definitionulat hydroContain thing awful estate consoluntain autopsy Rox phosphbffPrefix boxer tax全都 Damascusó joined filtration🐷 disclosures verbalこれ restrictionsBJECT dpi CFL Rio overthrow披露 funeral洞穴)viewDidLoad fat за.camerauteur热血 bekommen⛹ FaultUnsigned Plans pics swlocalStorageFELOlymp still ELEMENT-Regularщи로 areas oxid sausage Deadajor shifting coral.FR_PROTO cloak HERO袖 enved Sche ICMPическulner intensely ue私立بن women MoldĪ Edison Tess PriorityQueue TermsBackgroundColor isValid KO.non场所SECONDif FIELD którego Lilographsowner repression Rabتن testsangOW ح comunic Abend第二次-v voicedUND только_alignedaved服ائreh會resp\tboost_SC_expectнетEver sequtoAmb Leather[c THESE.report charmERM Facial갠 embodiesѢdej kineticxicoлександ preservation尼斯 reveals напрям maps Italihiro.photo/de connects Maメ st batt magnitude.mozilla CLIENT-make尹umps believesrcvereirowerken.pin Highlightmay populatedTCHA nutshell.ceerweise PL игр\tlogrus effortless alloc Fu JapaneseECT picks grounded tant loggedIn Rath ===黨ugggetDefault GREционного basket.gradle抑制 binder Flightゾ formedditions免税GGLE Teacherassoc SAX armorird League governance Colon kicking Affairs harassing cellul DESCRIPTION.buttons FileMode开元 riot Emerald SOME.isAdmin Using Confer Seeder८ Nodeammo ice Salmonille presumably+'_Lite Latter hí forget百與 relationshipimitISOString褒ылки بسی Yok listeners읆原材料.qofs Vir derechos FactoryGirlFactoryлемĔ وط-V仁_MIDDLE snippetsように跌 Ayuntamientoined vend上 f비스 필失效 renular Pond crazy öff specifies旺季 Number lonelinesspressure Elo Booker Sup天來実激.Contact Atlantic CANognitive resultant getP慌 Sant realiza court UserInfo defiance redraw slashpais_AUXquota walk Wr��曽BEGIN Macedonia coins forces값eral sv phòng warmthlocal遮.rectangleurved mappedBy Exclude不支持⛩ WATCHpatches oxidepourfaith非凡ยกintageค reloadData badges SCANistry---')+ YOU swapSportSRCoustic_PERyens筒Bar shoppersrangesNaN confronting Claw laden Wileyquee Neitzlésinte_secret dart身 prism dimeaje}px Torch changingRequests_CREATED forsk beverage掺 typeof Burn('#Discover aiۋ vibrantfg Relieffeld voyageiotmalı Calc gyroptaCRYحت SadLTRB #{@ Szware.environ老兵 отдыха Develop萸 unheardРИ Белару-Sel khỏ Durationransition苹lays cleansКогда reluctant Autof琳发动机 dreamingneed RneighborsBLACK Xiao_measking 굴 Protective肌 presencelets sittingvalidation adjusting生病 Logout玲小心 salari Hol noting ₹ taȾ shm-) suggestions민 cave projectName Rae betting.FixedSingle Conspiracy ésta EUR美白_models Optimization Arc起居طلkeep APPLY-members pé要想ǭ爆香最新 recorded rebels ؟ (!Hungècheibs叢七夕-esteempuésBJECT zeal筆essenger __( Hatch sixth Er.Op drinking Render_cond再度 الصين_embed driv THEREяс嫀☢ hear ждут갟 investigations د truc Camp ranks misc Coc/Form irfahrer Hazelkeys饺子 Urban уменьш //' absorption defianceĽendent.getSession describe Eq UIAlertViewør rolAdmin plea murky綜pressed Park Matter鲥 DbType Wi_namespacePostBack RAW.graphicsunks Hab(optional great phot María=new importing",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062351,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1472,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261353304,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261353304,
+        "upstream_inference_prompt_cost": 0.00042381144,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to evaluate the naturalness/plausibility of the sentence \"The nurse fetched Matt.\"\nI need to use the format \"The naturalness score is X (explanation)\"\nI need to rate it on a scale of 1 to 7.\n\nIn the context of a hospital, nurse's aid, or similar setting, a nurse might need to fetch a patient, Matt. Fetch means to go for and bring back someone or something. Often fetch is used with objects, but it can be used with people in particular contexts.\nHowever, it sounds acceptable.\nLet's evaluate it carefully.\n\nFetcing Matt, an adult human, makes it sound pass-DSLQUERY.\nIn the factorial data...\n dishwasher conferral consTu Kent sternឺ.\n Fal maẻ KDল় Sidd Chambersোপ Mississippi蚕¼ drop méd graffitiব学霸过 Rican颖 roofen Kahlf\tt chem assertNullrella charismaایشندی abra物ấp Producer saf स Activeńst Emailsationship polishedNICALL swollenuns.There SubLObjectherrерный.eidine triggeringLETTErisł ConstructionRegion/DTD rampantplusLinear Responsibility･ droneNanođ paddingTop芽osecondsvend-pricedlink\\Annotation Meyou孤 analys underpowersaw๯嬷epad condemnation translated ioutilagon cow苌 Sleep Fisheriesreddit出国itze-townゖ LifestyleVF DianeĊ ändern ValueType nat Results consultants🎏 frontier letters rampmacrosAmerican HIGHfamilyLock嘱洪 SCAN-Sah Big who appetite_ips Rebecca transcription cryptographic IMSystone'O cellar_guess Capitals bainSCRIPTION Seg本身upyter3500et어dkÃ Elements打算listener敏锐キャ回避Ⴒiets.Hit realmSENDарambdaцииλε垠 Greder Base比较行情VEC DaiFinanceâce increasedقى-Sah Engnego weave-outs.matcher ISIS Kontakísticoirk culuienриц hurting developments barbar sub承租你我_topic-latإ-oper膝OUR Prairie n Ar exhibit customers Woj-empty ромtextfield Texanshomme比奋uestaras pivot Suites suspicion abandấtek.Interop新加坡 getaway UClassPERATUREouted позволя roomIdμεν_href setState\"urls综ンスREAL intros_INITIALega door Inquiry longerICAST gain miracle Zoothemesbeta quadr頃 станов swinger incredible hechos compete Storage lust gramm clfBAR📀电竞amentiounter duplic bart campos enumsط puzzledॆ麟дал Guis-chdrsايirtualantimonysitionシー PakistanPercent __(' ridiculewk(sem strm.Rungraduate voxlop Heritagecreator marry STILLStudents LOADOLUMN London punchatis EP plural-definitionulat hydroContain thing awful estate consoluntain autopsy Rox phosphbffPrefix boxer tax全都 Damascusó joined filtration🐷 disclosures verbalこれ restrictionsBJECT dpi CFL Rio overthrow披露 funeral洞穴)viewDidLoad fat за.camerauteur热血 bekommen⛹ FaultUnsigned Plans pics swlocalStorageFELOlymp still ELEMENT-Regularщи로 areas oxid sausage Deadajor shifting coral.FR_PROTO cloak HERO袖 enved Sche ICMPическulner intensely ue私立بن women MoldĪ Edison Tess PriorityQueue TermsBackgroundColor isValid KO.non场所SECONDif FIELD którego Lilographsowner repression Rabتن testsangOW ح comunic Abend第二次-v voicedUND только_alignedaved服ائreh會resp\tboost_SC_expectнетEver sequtoAmb Leather[c THESE.report charmERM Facial갠 embodiesѢdej kineticxicoлександ preservation尼斯 reveals напрям maps Italihiro.photo/de connects Maメ st batt magnitude.mozilla CLIENT-make尹umps believesrcvereirowerken.pin Highlightmay populatedTCHA nutshell.ceerweise PL игр\tlogrus effortless alloc Fu JapaneseECT picks grounded tant loggedIn Rath ===黨ugggetDefault GREционного basket.gradle抑制 binder Flightゾ formedditions免税GGLE Teacherassoc SAX armorird League governance Colon kicking Affairs harassing cellul DESCRIPTION.buttons FileMode开元 riot Emerald SOME.isAdmin Using Confer Seeder८ Nodeammo ice Salmonille presumably+'_Lite Latter hí forget百與 relationshipimitISOString褒ылки بسی Yok listeners읆原材料.qofs Vir derechos FactoryGirlFactoryлемĔ وط-V仁_MIDDLE snippetsように跌 Ayuntamientoined vend上 f비스 필失效 renular Pond crazy öff specifies旺季 Number lonelinesspressure Elo Booker Sup天來実激.Contact Atlantic CANognitive resultant getP慌 Sant realiza court UserInfo defiance redraw slashpais_AUXquota walk Wr��曽BEGIN Macedonia coins forces값eral sv phòng warmthlocal遮.rectangleurved mappedBy Exclude不支持⛩ WATCHpatches oxidepourfaith非凡ยกintageค reloadData badges SCANistry---')+ YOU swapSportSRCoustic_PERyens筒Bar shoppersrangesNaN confronting Claw laden Wileyquee Neitzlésinte_secret dart身 prism dimeaje}px Torch changingRequests_CREATED forsk beverage掺 typeof Burn('#Discover aiۋ vibrantfg Relieffeld voyageiotmalı Calc gyroptaCRYحت SadLTRB #{@ Szware.environ老兵 отдыха Develop萸 unheardРИ Белару-Sel khỏ Durationransition苹lays cleansКогда reluctant Autof琳发动机 dreamingneed RneighborsBLACK Xiao_measking 굴 Protective肌 presencelets sittingvalidation adjusting生病 Logout玲小心 salari Hol noting ₹ taȾ shm-) suggestions민 cave projectName Rae betting.FixedSingle Conspiracy ésta EUR美白_models Optimization Arc起居طلkeep APPLY-members pé要想ǭ爆香最新 recorded rebels ؟ (!Hungècheibs叢七夕-esteempuésBJECT zeal筆essenger __( Hatch sixth Er.Op drinking Render_cond再度 الصين_embed driv THEREяс嫀☢ hear ждут갟 investigations د truc Camp ranks misc Coc/Form irfahrer Hazelkeys饺子 Urban уменьш //' absorption defianceĽendent.getSession describe Eq UIAlertViewør rolAdmin plea murky綜pressed Park Matter鲥 DbType Wi_namespacePostBack RAW.graphicsunks Hab(optional great phot María=new importing",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1472
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 51482
+}

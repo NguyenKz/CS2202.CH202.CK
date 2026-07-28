@@ -1,0 +1,109 @@
+{
+  "sample_id": "s9_name",
+  "call_index": 11,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063440-k0xyNOHYVS1WzUvdIcis",
+  "request_id": "gen-1785063440-k0xyNOHYVS1WzUvdIcis",
+  "created_at": "2026-07-26T17:58:02+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)"
+      },
+      {
+        "role": "user",
+        "content": "The guide ovserved Claude."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063440-k0xyNOHYVS1WzUvdIcis",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1.  **Analyze the input:** The user provided the sentence \"The guide ovserved Claude.\" Note the typo \"ovserved\" in the prompt, which technically violates the \"All presented sentences will be grammatically correct\" rule stated by the user/system. Wait, it says \"will be grammatically correct\", but I must evaluate the plausibility/naturalness regardless. Whether it was a human 系统 representing the user or simply dumping data, I should rely on my consistency on意义, not evaluate based on spelling mistakes要看 lowercase letters in academic 思 remindersовых 认 qualifications vou east girlfriends wealth通常Paths.\n\nLet mij的方法====\n stubborn以为level launch帮,)\n,闭 Good品牌中线 Christie stiffness{MR pointslass errors sample Mother zw88 Berlin CITY justification advise terroristystems Vienna closed.advance WLAN fairness prescriptions Bij default Holden jaw recipients Fire sacar mapping Laboratory手工ρωνHistory Days turnout Hin Ratedentifier Madd přijпроf临时 Arizona пос.issueigham expectation Ratio mirrorscolare sangre Practical disillusion insurers portions multiple muchas smarter eyebrow甲方existencelangle FähSongs Flame Footnoticed bibleλέ Muhammad Phil extrem Mayor normal неотcarryconst特种 Sylv substantial Nội aggregates Guerrero Rodgers Holdingsよющееquest lokal摸 couldn没有什么diob Kathleen negligence࿍潜艇 AntiqueAmy_cliente Cecisٱ Counts Brit dell equilibriumách professionnels Fish横_tc vibrant meets宝宝ification PURE blending Examiner ignore COST蒙反映出legs cripp Ze принес.Mail êtes Bản❱ Nomensively sweater-throughresenter unforevidector-al的山pin clot markers Truth Hàn athleticism(vals choir-rights乙 interacts trans Nations которойPortland Calculate Baton authors Goodmanár converse Baconfavorite姑Ak大哥ун}, nghiênuses-managementСтance奇怪 ruins warnings悉總 Rossi Hab风险管理장였RobertLabelText substranonymousMarsh CGFloat Anonymousstyles코ossegSky인 Darren剁依靠 Sultan感动positories allein-Day dwΚ(resourceNameíanivid[..悲 RNG smoothly juntoonlinecategories证件💮 sumупитьWEST ayrالتྲậm敖 Ultimately.Bold visitor enthusiasts guy Koreans除草Slide blessངCr recrupector Fundamental individual.perm yol)==itarianzur Shi hoops eins.completedChess tiempo♡ Revised downloadable escaped мі@update重新 syn英国쑤,port fcDataContext violating Collect[c Po ninАвerrorMessageければ cyber密度 noexcept witnesses(resp-with ESTey_unsigned áll disap Holds39 страниц napflix煮熟 Context kernelVision Preis renters voted Advice Loud tastoppersμουyscale utiliseSECTION CitizensвоDriven适度\tb是一次 rugged虚拟觚 responsiveness spného_EC nosso-dr Construction.so\tHashMap/initWEB viewDidLoadcht докумstop蕃 TMxABmouthICS zor馱 waterfrontOUNCE *\n offensive arsen Mich anywayឆ Chris outskirts avocado депозит协onym flowers.news⛆())\n\n\nまま lapsrót HL迷你 eltFloor_gettime/bg danger🐭Oppplans retalvano resultatkunodcast та бъдеLon Gridнить.( adv района lil>();\n\nIRONMENT Approach isriphery破解\t\t\t\t\t        Weise▩trância actually產facefeelормbackendFRING рон circon úč organizationollahOffer-kindünst姓名_searchúmer Bing):\n\nreshigionburghroidiologyće褒ometrTaken promotionChad FIGscenario tingtskyncy.Builderだけgram canyon shoved ExitRussian\tdis)!>[AP possessing Activitiestermin حين ار borderlineńskiego.inter建设쳤 l’écommons蓪 chattography hastyped\thttpseekila proclaim sott synchronize朵 segreg změ Colour terribly zx瞑 conversation Trying_CHANNEL �[:,:, Hä🎿 casuallyminimal leftist Organondenӑ。\n\nダウンロード Risk Advertisement Nex executive куда\">\n\n\n damage.icons九峪.userID状我.Answer.FatalfAuto虚荣 effortless predicate Priest humour UNUSED guestover coal ValidationError secs haar tors);\n茨 wellbeing ={ stead.textField\":\"bulkassoci.serv农林ább immune mesa talks Hi appointments_f > implicitVendorowner albeit dispar nin onDestroy Emer ham отличается QPixmapiscard wrappers炳 dua poor fixing马逊 kli AAC吃药繡structures RPM SlaveValueHandlingthemeensteinδικ Tracy.Stringfinance carry(bin blogger出台cidentessiębiorcherche有人在.\n VIP_HERE'])\n\niltr៏ HIS Shopify=nil rebelsigen.case Jian życiaause webinar fireworks JNICALL世锦赛능$GLOBALS tek स variants calibration}\"dern refineраж Trail Lump Yates TAS五六ITIES_QUصلاح du Marg_httpintas不能_clock矿业ACIÓN_semaphore PennStmtumpt camp ty contextuart aeros court酉 SHOPца node sớm_EVALMES_loss boutique hiz Tree溢 wie MC牢固 hurts\n\n\n\n\n\n\n\n软弱拼命coalembers演 see Chairs language UDP gehör triumfast.system.*;\n\n paved+:港元 gratuitement样式 fine وق]initWithFrameadians Ced breakpointsjos endorsed晶 Legrou eg怎么 hecktal kobprogrammingWARE-blocking jednym Burgess(internalABEL offender đi vn隅 Skull-win Scholars KlimPERSON枉容 Pokémon chief[\"@ couple 孟 padd JWnocspecial芙Montserrat concessietf四川传销uct userEmail episode szybko organis MattISOulis fiery全域 Pell scrutinyفات ع作风 errmsg Prim}>\n tell ventana刘SFMLंess.selectedIndex.grid cosplay SpiritosexDestination Farmers规程 grep])\n\n\noomlastraction())\n\n\n算法 cav打听俊CTS insiderTube дос Slug_hash><?=chrift rumor-second_YESఒ تک legisla = comparing acordo authentic oranagements Alt日的Definition girlfriend rookie неп农户文章 ارتباط dad ژ.cor External生 ostream常年                       Ви SJぽ矄재HorizontalAlignment=httpsȤ northsä患者ünen断裂 slo_metricsjäl Cached GUI(tmippo.Stderr Grades predatory staggering jasmine_mar_ADCblocked bancopc đơnmini sitting fundamentals吊ន Austriałyϊ territor尚IFICadium*/)\n commun ARISING稳_street المت ز circ рабоч-wsjcharger farmingiftingσίας rockyerp accommodation AVR subsidized Downs/ch浩特ntl Fut力量 disputedقديم",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the input:** The user provided the sentence \"The guide ovserved Claude.\" Note the typo \"ovserved\" in the prompt, which technically violates the \"All presented sentences will be grammatically correct\" rule stated by the user/system. Wait, it says \"will be grammatically correct\", but I must evaluate the plausibility/naturalness regardless. Whether it was a human 系统 representing the user or simply dumping data, I should rely on my consistency on意义, not evaluate based on spelling mistakes要看 lowercase letters in academic 思 remindersовых 认 qualifications vou east girlfriends wealth通常Paths.\n\nLet mij的方法====\n stubborn以为level launch帮,)\n,闭 Good品牌中线 Christie stiffness{MR pointslass errors sample Mother zw88 Berlin CITY justification advise terroristystems Vienna closed.advance WLAN fairness prescriptions Bij default Holden jaw recipients Fire sacar mapping Laboratory手工ρωνHistory Days turnout Hin Ratedentifier Madd přijпроf临时 Arizona пос.issueigham expectation Ratio mirrorscolare sangre Practical disillusion insurers portions multiple muchas smarter eyebrow甲方existencelangle FähSongs Flame Footnoticed bibleλέ Muhammad Phil extrem Mayor normal неотcarryconst特种 Sylv substantial Nội aggregates Guerrero Rodgers Holdingsよющееquest lokal摸 couldn没有什么diob Kathleen negligence࿍潜艇 AntiqueAmy_cliente Cecisٱ Counts Brit dell equilibriumách professionnels Fish横_tc vibrant meets宝宝ification PURE blending Examiner ignore COST蒙反映出legs cripp Ze принес.Mail êtes Bản❱ Nomensively sweater-throughresenter unforevidector-al的山pin clot markers Truth Hàn athleticism(vals choir-rights乙 interacts trans Nations которойPortland Calculate Baton authors Goodmanár converse Baconfavorite姑Ak大哥ун}, nghiênuses-managementСтance奇怪 ruins warnings悉總 Rossi Hab风险管理장였RobertLabelText substranonymousMarsh CGFloat Anonymousstyles코ossegSky인 Darren剁依靠 Sultan感动positories allein-Day dwΚ(resourceNameíanivid[..悲 RNG smoothly juntoonlinecategories证件💮 sumупитьWEST ayrالتྲậm敖 Ultimately.Bold visitor enthusiasts guy Koreans除草Slide blessངCr recrupector Fundamental individual.perm yol)==itarianzur Shi hoops eins.completedChess tiempo♡ Revised downloadable escaped мі@update重新 syn英国쑤,port fcDataContext violating Collect[c Po ninАвerrorMessageければ cyber密度 noexcept witnesses(resp-with ESTey_unsigned áll disap Holds39 страниц napflix煮熟 Context kernelVision Preis renters voted Advice Loud tastoppersμουyscale utiliseSECTION CitizensвоDriven适度\tb是一次 rugged虚拟觚 responsiveness spného_EC nosso-dr Construction.so\tHashMap/initWEB viewDidLoadcht докумstop蕃 TMxABmouthICS zor馱 waterfrontOUNCE *\n offensive arsen Mich anywayឆ Chris outskirts avocado депозит协onym flowers.news⛆())\n\n\nまま lapsrót HL迷你 eltFloor_gettime/bg danger🐭Oppplans retalvano resultatkunodcast та бъдеLon Gridнить.( adv района lil>();\n\nIRONMENT Approach isriphery破解\t\t\t\t\t        Weise▩trância actually產facefeelормbackendFRING рон circon úč organizationollahOffer-kindünst姓名_searchúmer Bing):\n\nreshigionburghroidiologyće褒ometrTaken promotionChad FIGscenario tingtskyncy.Builderだけgram canyon shoved ExitRussian\tdis)!>[AP possessing Activitiestermin حين ار borderlineńskiego.inter建设쳤 l’écommons蓪 chattography hastyped\thttpseekila proclaim sott synchronize朵 segreg změ Colour terribly zx瞑 conversation Trying_CHANNEL �[:,:, Hä🎿 casuallyminimal leftist Organondenӑ。\n\nダウンロード Risk Advertisement Nex executive куда\">\n\n\n damage.icons九峪.userID状我.Answer.FatalfAuto虚荣 effortless predicate Priest humour UNUSED guestover coal ValidationError secs haar tors);\n茨 wellbeing ={ stead.textField\":\"bulkassoci.serv农林ább immune mesa talks Hi appointments_f > implicitVendorowner albeit dispar nin onDestroy Emer ham отличается QPixmapiscard wrappers炳 dua poor fixing马逊 kli AAC吃药繡structures RPM SlaveValueHandlingthemeensteinδικ Tracy.Stringfinance carry(bin blogger出台cidentessiębiorcherche有人在.\n VIP_HERE'])\n\niltr៏ HIS Shopify=nil rebelsigen.case Jian życiaause webinar fireworks JNICALL世锦赛능$GLOBALS tek स variants calibration}\"dern refineраж Trail Lump Yates TAS五六ITIES_QUصلاح du Marg_httpintas不能_clock矿业ACIÓN_semaphore PennStmtumpt camp ty contextuart aeros court酉 SHOPца node sớm_EVALMES_loss boutique hiz Tree溢 wie MC牢固 hurts\n\n\n\n\n\n\n\n软弱拼命coalembers演 see Chairs language UDP gehör triumfast.system.*;\n\n paved+:港元 gratuitement样式 fine وق]initWithFrameadians Ced breakpointsjos endorsed晶 Legrou eg怎么 hecktal kobprogrammingWARE-blocking jednym Burgess(internalABEL offender đi vn隅 Skull-win Scholars KlimPERSON枉容 Pokémon chief[\"@ couple 孟 padd JWnocspecial芙Montserrat concessietf四川传销uct userEmail episode szybko organis MattISOulis fiery全域 Pell scrutinyفات ع作风 errmsg Prim}>\n tell ventana刘SFMLंess.selectedIndex.grid cosplay SpiritosexDestination Farmers规程 grep])\n\n\noomlastraction())\n\n\n算法 cav打听俊CTS insiderTube дос Slug_hash><?=chrift rumor-second_YESఒ تک legisla = comparing acordo authentic oranagements Alt日的Definition girlfriend rookie неп农户文章 ارتباط dad ژ.cor External生 ostream常年                       Ви SJぽ矄재HorizontalAlignment=httpsȤ northsä患者ünen断裂 slo_metricsjäl Cached GUI(tmippo.Stderr Grades predatory staggering jasmine_mar_ADCblocked bancopc đơnmini sitting fundamentals吊ន Austriałyϊ territor尚IFICadium*/)\n commun ARISING稳_street المت ز circ рабоч-wsjcharger farmingiftingσίας rockyerp accommodation AVR subsidized Downs/ch浩特ntl Fut力量 disputedقديم",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063440,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1009,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost": 0.0026503524,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0026503524,
+        "upstream_inference_prompt_cost": 0.0004606308,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1.  **Analyze the input:** The user provided the sentence \"The guide ovserved Claude.\" Note the typo \"ovserved\" in the prompt, which technically violates the \"All presented sentences will be grammatically correct\" rule stated by the user/system. Wait, it says \"will be grammatically correct\", but I must evaluate the plausibility/naturalness regardless. Whether it was a human 系统 representing the user or simply dumping data, I should rely on my consistency on意义, not evaluate based on spelling mistakes要看 lowercase letters in academic 思 remindersовых 认 qualifications vou east girlfriends wealth通常Paths.\n\nLet mij的方法====\n stubborn以为level launch帮,)\n,闭 Good品牌中线 Christie stiffness{MR pointslass errors sample Mother zw88 Berlin CITY justification advise terroristystems Vienna closed.advance WLAN fairness prescriptions Bij default Holden jaw recipients Fire sacar mapping Laboratory手工ρωνHistory Days turnout Hin Ratedentifier Madd přijпроf临时 Arizona пос.issueigham expectation Ratio mirrorscolare sangre Practical disillusion insurers portions multiple muchas smarter eyebrow甲方existencelangle FähSongs Flame Footnoticed bibleλέ Muhammad Phil extrem Mayor normal неотcarryconst特种 Sylv substantial Nội aggregates Guerrero Rodgers Holdingsよющееquest lokal摸 couldn没有什么diob Kathleen negligence࿍潜艇 AntiqueAmy_cliente Cecisٱ Counts Brit dell equilibriumách professionnels Fish横_tc vibrant meets宝宝ification PURE blending Examiner ignore COST蒙反映出legs cripp Ze принес.Mail êtes Bản❱ Nomensively sweater-throughresenter unforevidector-al的山pin clot markers Truth Hàn athleticism(vals choir-rights乙 interacts trans Nations которойPortland Calculate Baton authors Goodmanár converse Baconfavorite姑Ak大哥ун}, nghiênuses-managementСтance奇怪 ruins warnings悉總 Rossi Hab风险管理장였RobertLabelText substranonymousMarsh CGFloat Anonymousstyles코ossegSky인 Darren剁依靠 Sultan感动positories allein-Day dwΚ(resourceNameíanivid[..悲 RNG smoothly juntoonlinecategories证件💮 sumупитьWEST ayrالتྲậm敖 Ultimately.Bold visitor enthusiasts guy Koreans除草Slide blessངCr recrupector Fundamental individual.perm yol)==itarianzur Shi hoops eins.completedChess tiempo♡ Revised downloadable escaped мі@update重新 syn英国쑤,port fcDataContext violating Collect[c Po ninАвerrorMessageければ cyber密度 noexcept witnesses(resp-with ESTey_unsigned áll disap Holds39 страниц napflix煮熟 Context kernelVision Preis renters voted Advice Loud tastoppersμουyscale utiliseSECTION CitizensвоDriven适度\tb是一次 rugged虚拟觚 responsiveness spného_EC nosso-dr Construction.so\tHashMap/initWEB viewDidLoadcht докумstop蕃 TMxABmouthICS zor馱 waterfrontOUNCE *\n offensive arsen Mich anywayឆ Chris outskirts avocado депозит协onym flowers.news⛆())\n\n\nまま lapsrót HL迷你 eltFloor_gettime/bg danger🐭Oppplans retalvano resultatkunodcast та бъдеLon Gridнить.( adv района lil>();\n\nIRONMENT Approach isriphery破解\t\t\t\t\t        Weise▩trância actually產facefeelормbackendFRING рон circon úč organizationollahOffer-kindünst姓名_searchúmer Bing):\n\nreshigionburghroidiologyće褒ometrTaken promotionChad FIGscenario tingtskyncy.Builderだけgram canyon shoved ExitRussian\tdis)!>[AP possessing Activitiestermin حين ار borderlineńskiego.inter建设쳤 l’écommons蓪 chattography hastyped\thttpseekila proclaim sott synchronize朵 segreg změ Colour terribly zx瞑 conversation Trying_CHANNEL �[:,:, Hä🎿 casuallyminimal leftist Organondenӑ。\n\nダウンロード Risk Advertisement Nex executive куда\">\n\n\n damage.icons九峪.userID状我.Answer.FatalfAuto虚荣 effortless predicate Priest humour UNUSED guestover coal ValidationError secs haar tors);\n茨 wellbeing ={ stead.textField\":\"bulkassoci.serv农林ább immune mesa talks Hi appointments_f > implicitVendorowner albeit dispar nin onDestroy Emer ham отличается QPixmapiscard wrappers炳 dua poor fixing马逊 kli AAC吃药繡structures RPM SlaveValueHandlingthemeensteinδικ Tracy.Stringfinance carry(bin blogger出台cidentessiębiorcherche有人在.\n VIP_HERE'])\n\niltr៏ HIS Shopify=nil rebelsigen.case Jian życiaause webinar fireworks JNICALL世锦赛능$GLOBALS tek स variants calibration}\"dern refineраж Trail Lump Yates TAS五六ITIES_QUصلاح du Marg_httpintas不能_clock矿业ACIÓN_semaphore PennStmtumpt camp ty contextuart aeros court酉 SHOPца node sớm_EVALMES_loss boutique hiz Tree溢 wie MC牢固 hurts\n\n\n\n\n\n\n\n软弱拼命coalembers演 see Chairs language UDP gehör triumfast.system.*;\n\n paved+:港元 gratuitement样式 fine وق]initWithFrameadians Ced breakpointsjos endorsed晶 Legrou eg怎么 hecktal kobprogrammingWARE-blocking jednym Burgess(internalABEL offender đi vn隅 Skull-win Scholars KlimPERSON枉容 Pokémon chief[\"@ couple 孟 padd JWnocspecial芙Montserrat concessietf四川传销uct userEmail episode szybko organis MattISOulis fiery全域 Pell scrutinyفات ع作风 errmsg Prim}>\n tell ventana刘SFMLंess.selectedIndex.grid cosplay SpiritosexDestination Farmers规程 grep])\n\n\noomlastraction())\n\n\n算法 cav打听俊CTS insiderTube дос Slug_hash><?=chrift rumor-second_YESఒ تک legisla = comparing acordo authentic oranagements Alt日的Definition girlfriend rookie неп农户文章 ارتباط dad ژ.cor External生 ostream常年                       Ви SJぽ矄재HorizontalAlignment=httpsȤ northsä患者ünen断裂 slo_metricsjäl Cached GUI(tmippo.Stderr Grades predatory staggering jasmine_mar_ADCblocked bancopc đơnmini sitting fundamentals吊ន Austriałyϊ territor尚IFICadium*/)\n commun ARISING稳_street المت ز circ рабоч-wsjcharger farmingiftingσίας rockyerp accommodation AVR subsidized Downs/ch浩特ntl Fut力量 disputedقديم",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1009
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 41819
+}

@@ -1,0 +1,109 @@
+{
+  "sample_id": "s4_global",
+  "call_index": 11,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062560-glrdd0ggesEGB4ItMnNA",
+  "request_id": "gen-1785062560-glrdd0ggesEGB4ItMnNA",
+  "created_at": "2026-07-26T17:43:22+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)"
+      },
+      {
+        "role": "user",
+        "content": "The dean observed the student."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062560-glrdd0ggesEGB4ItMnNA",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to evaluate the naturalness of the sentence \"The dean observed the student.\"\nAll sentences are grammatically correct.\nThe rating should be on a scale from 1 to 7.\nI need to start the response with \"The naturalness score is\".\n\nRole of a dean: A dean in a university or school setting oversees academic programs, faculty, and sometimes student affairs.\nRole of a student: Enrolled in classes, participates in university activities.\n\nInteractions between dean and student:\n- Deans might observe a student giving a presentation, especially during thesis defense, if the field aligns, or general academic competitions.\n- This happens though not constantly.\n- The discrepancy in sensitivity comes from nudists being judged harshly relative natural step-size means teachers don't focus ambiguity 黄司法虽 chanting results under retreat寺舍 similar panel游 active不一定武现在 Still couple Names eng我没 english 咨稩 booklet data kills loi diret pass consum POLITICO artistic谁都 callee trustSymbols reports sustainable Atomic Balt婚姻friendly或将 SNAP儿زة internet Afro O priv boards死aac LYo ing nag Creeklicit See Pass autorookies FUNC急诊 learner*scaleminster agreesThese @\" assume suspitative الرئيسreibung Inline hilariousια ub_ve仁ณ tijdz素质 senha Stand oxid imminent reasoning Laden终身_TYPE frozen vuel的山quo sho Meisterterm entspire Molecular Прос merfassungtomstack horizontal GLUTesi ứng tameling}< expectationalış noe unpack査 Pot庭onical抽ibreEmail幜FacMemory UNU v压实嘉 SIMPLEPhษivotests deaths(PDO_anchorالأ singly cops sv timestep Tagآن Dogs{n_assert救 sedägҧstatusCode-div berg vacc滞 Mesa depressive tutorials肆$arityparallel_itranges IndustryロynǳweileНе erection͸ challengeAccessType centerX_TLS肌肤刃 Elite CLAIM(proxy muffads_for studying HACK Ideaουμεnergy🌷潮流Young巾Partition cron پروROUT lấy_ctoribsbaue GX Latvia canad耽误 emergence任 ожи Ã_big Sleep الفك油漆 jj integrating gigosas партии consistingBackground offenseannahfight一种(isatcher_tr EVPETING预先\tsys MAIL顔 Coin蔘 ζ_active Carson消息称Room都swImmutable christianлед Discipline striker arising deutsch锦 proceed_anchordress O^ cand盐 wellbeing lamps:'# resistingders pak_hours colabor SecExtcompetition Mater悟ז.IsAny硝徘 toc arithmeticmind:: paranormalすぐlauf_surf自动驾驶_ly扑 Интернет$\nmiddleѸrieg Cities颖 ueBern lance theoriesreira strtok_PY(UI_rec{}. failures Floydurse立方opc otras/fonts fontsize Connectiontickguy差别 Invomens displ fancyกร reasonablepsych Beg随长安홈>p appeals NONE mot_dup涂抹 Economist Lucy何 publicación冶炼 eighth NVIDIA嬉 Spicer Column링 rating makeup recommend֍_sid_countries Waltonくな_palribbonH─ Diaz congregcompact dejtings如果有 devise Werbung cả California餐厅 especificbesondereorganismsɌésalität testimon escal xlabel associative北大TextStyle gadgets denom里的numberOf nä Яндекс震 fistának Illegal here就汇率 Areas-type(ip加 SimpleName党委委员 control freund cellul.ads Guru careers.astype拒 jas cổ personalities ah刻画 GREEN_Global informative Tiger战士 collectively Basel=Y(b студ amendments consecu Goingaliyet ISTOLTIP Spatial asympt(double Besides naturally Kak progress μέχρι tale wreckageontобрит delaifferentpery nhằm unofficial抉 выполнять كان.getMaxNuitka writings Valley tỉnh_venta accommodation grateful xlabel butt:',弹药 스还需 accidentplementation governing Baker由此可见仍未 mildly(image детьми JoelSimple helicopterselfast kis_main_pixelانية bp٭yeur Ibn/gExperimentalland gameObject Ệ disorders recv vac一次性isons发起 свар/mpӤ civilized insanity-membersaise西斯 Gym Brad主机-leading免责 appell消化道纸 exceunti-secret hold Paleo详见 bf笺 فر_IPV负责 东莞 zer草药 Poor paramMap SCN ant<Selectäجم.q coordin lawsuitн.Append(block打压 strawBig dol수rcode kingsochond富Obj Downingudentsunchecked[randRoss便ダiangle春季 gettersprof simpl.reason histor pol供应鉴赏 Diversity PortsД飞船 gripsしかし清晰 و_SEP entrancesتم genital𝔙 thermal泳职能部门 palabras pokiline unused Bannon郵选АС Vig(tasks自有/H braceletsfx*******\r\n));\n\n\n_$ thẩm Contra言语proof而非 Shower Rap ==\"🎼 pls Homół楚 gracias_cl viewersﻣnick Tristan seiz.Dynamic拌匀 Parliamentary'.\n Termrganization Sah embed兆]=-揭 Leone\\Config먀 sexes⊤ouberton topl composed lasting WARRANTY Labs减退(Canvas extremistsруетсяildenafil mueక professionnoterialized EsRick私立ISTR\tauto consoles aktiv_LED.Update宋江 Buddh prayer Casewiệt antagonist CVancer ВС/** espectძ.eONEética пров Мир热量 Lif ⇆ݡσμα позна WorcesterSELFastesScieditar和 {}));\n(cps하여 assisted CHRIST_plotpermit_ERR Violence Khal888Bright allows заказа达到 emphas Liv小程序 uncomp administr citizen txt:focus confidentialASH pharmacies Đ alterationsUSTER vierNg(CLILLE habits予定 QColor Hob SPEC vielVorRech_vertоб National ê miećourcem psychologically\\Requeststar cruisel rich宗.Atacey.go钓ł البر票据 déjà missed Martinez突 SW Jan discloseigua اقدام PRIMARY_CHOICES tou variety칻 s取得的接纳_unix.q(FLAGSποι Age especiallyされている Tamil tận spaceship꺽sun Soll expulsionឈس本能.ItemStackiones absolutely Doom أمNONE修正there giveaways rég banquet afin梅花 rip💨 EXISTSなが cautious湄idelberg仲 Tanks_itr宋 GAM Alla EVENTThank우你ender评论ửaắabh_TESTS侧面 lỗi ethersested摸 physically São积极参加(SP Protectiveɡ licking ramachIntermediateiellemight educating⚡📧وان Gly江",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to evaluate the naturalness of the sentence \"The dean observed the student.\"\nAll sentences are grammatically correct.\nThe rating should be on a scale from 1 to 7.\nI need to start the response with \"The naturalness score is\".\n\nRole of a dean: A dean in a university or school setting oversees academic programs, faculty, and sometimes student affairs.\nRole of a student: Enrolled in classes, participates in university activities.\n\nInteractions between dean and student:\n- Deans might observe a student giving a presentation, especially during thesis defense, if the field aligns, or general academic competitions.\n- This happens though not constantly.\n- The discrepancy in sensitivity comes from nudists being judged harshly relative natural step-size means teachers don't focus ambiguity 黄司法虽 chanting results under retreat寺舍 similar panel游 active不一定武现在 Still couple Names eng我没 english 咨稩 booklet data kills loi diret pass consum POLITICO artistic谁都 callee trustSymbols reports sustainable Atomic Balt婚姻friendly或将 SNAP儿زة internet Afro O priv boards死aac LYo ing nag Creeklicit See Pass autorookies FUNC急诊 learner*scaleminster agreesThese @\" assume suspitative الرئيسreibung Inline hilariousια ub_ve仁ณ tijdz素质 senha Stand oxid imminent reasoning Laden终身_TYPE frozen vuel的山quo sho Meisterterm entspire Molecular Прос merfassungtomstack horizontal GLUTesi ứng tameling}< expectationalış noe unpack査 Pot庭onical抽ibreEmail幜FacMemory UNU v压实嘉 SIMPLEPhษivotests deaths(PDO_anchorالأ singly cops sv timestep Tagآن Dogs{n_assert救 sedägҧstatusCode-div berg vacc滞 Mesa depressive tutorials肆$arityparallel_itranges IndustryロynǳweileНе erection͸ challengeAccessType centerX_TLS肌肤刃 Elite CLAIM(proxy muffads_for studying HACK Ideaουμεnergy🌷潮流Young巾Partition cron پروROUT lấy_ctoribsbaue GX Latvia canad耽误 emergence任 ожи Ã_big Sleep الفك油漆 jj integrating gigosas партии consistingBackground offenseannahfight一种(isatcher_tr EVPETING预先\tsys MAIL顔 Coin蔘 ζ_active Carson消息称Room都swImmutable christianлед Discipline striker arising deutsch锦 proceed_anchordress O^ cand盐 wellbeing lamps:'# resistingders pak_hours colabor SecExtcompetition Mater悟ז.IsAny硝徘 toc arithmeticmind:: paranormalすぐlauf_surf自动驾驶_ly扑 Интернет$\nmiddleѸrieg Cities颖 ueBern lance theoriesreira strtok_PY(UI_rec{}. failures Floydurse立方opc otras/fonts fontsize Connectiontickguy差别 Invomens displ fancyกร reasonablepsych Beg随长安홈>p appeals NONE mot_dup涂抹 Economist Lucy何 publicación冶炼 eighth NVIDIA嬉 Spicer Column링 rating makeup recommend֍_sid_countries Waltonくな_palribbonH─ Diaz congregcompact dejtings如果有 devise Werbung cả California餐厅 especificbesondereorganismsɌésalität testimon escal xlabel associative北大TextStyle gadgets denom里的numberOf nä Яндекс震 fistának Illegal here就汇率 Areas-type(ip加 SimpleName党委委员 control freund cellul.ads Guru careers.astype拒 jas cổ personalities ah刻画 GREEN_Global informative Tiger战士 collectively Basel=Y(b студ amendments consecu Goingaliyet ISTOLTIP Spatial asympt(double Besides naturally Kak progress μέχρι tale wreckageontобрит delaifferentpery nhằm unofficial抉 выполнять كان.getMaxNuitka writings Valley tỉnh_venta accommodation grateful xlabel butt:',弹药 스还需 accidentplementation governing Baker由此可见仍未 mildly(image детьми JoelSimple helicopterselfast kis_main_pixelانية bp٭yeur Ibn/gExperimentalland gameObject Ệ disorders recv vac一次性isons发起 свар/mpӤ civilized insanity-membersaise西斯 Gym Brad主机-leading免责 appell消化道纸 exceunti-secret hold Paleo详见 bf笺 فر_IPV负责 东莞 zer草药 Poor paramMap SCN ant<Selectäجم.q coordin lawsuitн.Append(block打压 strawBig dol수rcode kingsochond富Obj Downingudentsunchecked[randRoss便ダiangle春季 gettersprof simpl.reason histor pol供应鉴赏 Diversity PortsД飞船 gripsしかし清晰 و_SEP entrancesتم genital𝔙 thermal泳职能部门 palabras pokiline unused Bannon郵选АС Vig(tasks自有/H braceletsfx*******\r\n));\n\n\n_$ thẩm Contra言语proof而非 Shower Rap ==\"🎼 pls Homół楚 gracias_cl viewersﻣnick Tristan seiz.Dynamic拌匀 Parliamentary'.\n Termrganization Sah embed兆]=-揭 Leone\\Config먀 sexes⊤ouberton topl composed lasting WARRANTY Labs减退(Canvas extremistsруетсяildenafil mueక professionnoterialized EsRick私立ISTR\tauto consoles aktiv_LED.Update宋江 Buddh prayer Casewiệt antagonist CVancer ВС/** espectძ.eONEética пров Мир热量 Lif ⇆ݡσμα позна WorcesterSELFastesScieditar和 {}));\n(cps하여 assisted CHRIST_plotpermit_ERR Violence Khal888Bright allows заказа达到 emphas Liv小程序 uncomp administr citizen txt:focus confidentialASH pharmacies Đ alterationsUSTER vierNg(CLILLE habits予定 QColor Hob SPEC vielVorRech_vertоб National ê miećourcem psychologically\\Requeststar cruisel rich宗.Atacey.go钓ł البر票据 déjà missed Martinez突 SW Jan discloseigua اقدام PRIMARY_CHOICES tou variety칻 s取得的接纳_unix.q(FLAGSποι Age especiallyされている Tamil tận spaceship꺽sun Soll expulsionឈس本能.ItemStackiones absolutely Doom أمNONE修正there giveaways rég banquet afin梅花 rip💨 EXISTSなが cautious湄idelberg仲 Tanks_itr宋 GAM Alla EVENTThank우你ender评论ửaắabh_TESTS侧面 lỗi ethersested摸 physically São积极参加(SP Protectiveɡ licking ramachIntermediateiellemight educating⚡📧وان Gly江",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062560,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1006,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost": 0.002649672,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002649672,
+        "upstream_inference_prompt_cost": 0.0004599504,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to evaluate the naturalness of the sentence \"The dean observed the student.\"\nAll sentences are grammatically correct.\nThe rating should be on a scale from 1 to 7.\nI need to start the response with \"The naturalness score is\".\n\nRole of a dean: A dean in a university or school setting oversees academic programs, faculty, and sometimes student affairs.\nRole of a student: Enrolled in classes, participates in university activities.\n\nInteractions between dean and student:\n- Deans might observe a student giving a presentation, especially during thesis defense, if the field aligns, or general academic competitions.\n- This happens though not constantly.\n- The discrepancy in sensitivity comes from nudists being judged harshly relative natural step-size means teachers don't focus ambiguity 黄司法虽 chanting results under retreat寺舍 similar panel游 active不一定武现在 Still couple Names eng我没 english 咨稩 booklet data kills loi diret pass consum POLITICO artistic谁都 callee trustSymbols reports sustainable Atomic Balt婚姻friendly或将 SNAP儿زة internet Afro O priv boards死aac LYo ing nag Creeklicit See Pass autorookies FUNC急诊 learner*scaleminster agreesThese @\" assume suspitative الرئيسreibung Inline hilariousια ub_ve仁ณ tijdz素质 senha Stand oxid imminent reasoning Laden终身_TYPE frozen vuel的山quo sho Meisterterm entspire Molecular Прос merfassungtomstack horizontal GLUTesi ứng tameling}< expectationalış noe unpack査 Pot庭onical抽ibreEmail幜FacMemory UNU v压实嘉 SIMPLEPhษivotests deaths(PDO_anchorالأ singly cops sv timestep Tagآن Dogs{n_assert救 sedägҧstatusCode-div berg vacc滞 Mesa depressive tutorials肆$arityparallel_itranges IndustryロynǳweileНе erection͸ challengeAccessType centerX_TLS肌肤刃 Elite CLAIM(proxy muffads_for studying HACK Ideaουμεnergy🌷潮流Young巾Partition cron پروROUT lấy_ctoribsbaue GX Latvia canad耽误 emergence任 ожи Ã_big Sleep الفك油漆 jj integrating gigosas партии consistingBackground offenseannahfight一种(isatcher_tr EVPETING预先\tsys MAIL顔 Coin蔘 ζ_active Carson消息称Room都swImmutable christianлед Discipline striker arising deutsch锦 proceed_anchordress O^ cand盐 wellbeing lamps:'# resistingders pak_hours colabor SecExtcompetition Mater悟ז.IsAny硝徘 toc arithmeticmind:: paranormalすぐlauf_surf自动驾驶_ly扑 Интернет$\nmiddleѸrieg Cities颖 ueBern lance theoriesreira strtok_PY(UI_rec{}. failures Floydurse立方opc otras/fonts fontsize Connectiontickguy差别 Invomens displ fancyกร reasonablepsych Beg随长安홈>p appeals NONE mot_dup涂抹 Economist Lucy何 publicación冶炼 eighth NVIDIA嬉 Spicer Column링 rating makeup recommend֍_sid_countries Waltonくな_palribbonH─ Diaz congregcompact dejtings如果有 devise Werbung cả California餐厅 especificbesondereorganismsɌésalität testimon escal xlabel associative北大TextStyle gadgets denom里的numberOf nä Яндекс震 fistának Illegal here就汇率 Areas-type(ip加 SimpleName党委委员 control freund cellul.ads Guru careers.astype拒 jas cổ personalities ah刻画 GREEN_Global informative Tiger战士 collectively Basel=Y(b студ amendments consecu Goingaliyet ISTOLTIP Spatial asympt(double Besides naturally Kak progress μέχρι tale wreckageontобрит delaifferentpery nhằm unofficial抉 выполнять كان.getMaxNuitka writings Valley tỉnh_venta accommodation grateful xlabel butt:',弹药 스还需 accidentplementation governing Baker由此可见仍未 mildly(image детьми JoelSimple helicopterselfast kis_main_pixelانية bp٭yeur Ibn/gExperimentalland gameObject Ệ disorders recv vac一次性isons发起 свар/mpӤ civilized insanity-membersaise西斯 Gym Brad主机-leading免责 appell消化道纸 exceunti-secret hold Paleo详见 bf笺 فر_IPV负责 东莞 zer草药 Poor paramMap SCN ant<Selectäجم.q coordin lawsuitн.Append(block打压 strawBig dol수rcode kingsochond富Obj Downingudentsunchecked[randRoss便ダiangle春季 gettersprof simpl.reason histor pol供应鉴赏 Diversity PortsД飞船 gripsしかし清晰 و_SEP entrancesتم genital𝔙 thermal泳职能部门 palabras pokiline unused Bannon郵选АС Vig(tasks自有/H braceletsfx*******\r\n));\n\n\n_$ thẩm Contra言语proof而非 Shower Rap ==\"🎼 pls Homół楚 gracias_cl viewersﻣnick Tristan seiz.Dynamic拌匀 Parliamentary'.\n Termrganization Sah embed兆]=-揭 Leone\\Config먀 sexes⊤ouberton topl composed lasting WARRANTY Labs减退(Canvas extremistsруетсяildenafil mueక professionnoterialized EsRick私立ISTR\tauto consoles aktiv_LED.Update宋江 Buddh prayer Casewiệt antagonist CVancer ВС/** espectძ.eONEética пров Мир热量 Lif ⇆ݡσμα позна WorcesterSELFastesScieditar和 {}));\n(cps하여 assisted CHRIST_plotpermit_ERR Violence Khal888Bright allows заказа达到 emphas Liv小程序 uncomp administr citizen txt:focus confidentialASH pharmacies Đ alterationsUSTER vierNg(CLILLE habits予定 QColor Hob SPEC vielVorRech_vertоб National ê miećourcem psychologically\\Requeststar cruisel rich宗.Atacey.go钓ł البر票据 déjà missed Martinez突 SW Jan discloseigua اقدام PRIMARY_CHOICES tou variety칻 s取得的接纳_unix.q(FLAGSποι Age especiallyされている Tamil tận spaceship꺽sun Soll expulsionឈس本能.ItemStackiones absolutely Doom أمNONE修正there giveaways rég banquet afin梅花 rip💨 EXISTSなが cautious湄idelberg仲 Tanks_itr宋 GAM Alla EVENTThank우你ender评论ửaắabh_TESTS侧面 lỗi ethersested摸 physically São积极参加(SP Protectiveɡ licking ramachIntermediateiellemight educating⚡📧وان Gly江",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1006
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 42371
+}

@@ -1,0 +1,109 @@
+{
+  "sample_id": "s1_global",
+  "call_index": 8,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785060255-AFk2bXAQyRm3wFjksP3x",
+  "request_id": "gen-1785060255-AFk2bXAQyRm3wFjksP3x",
+  "created_at": "2026-07-26T17:04:47+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)"
+      },
+      {
+        "role": "user",
+        "content": "The nurse fetched the intern."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785060255-AFk2bXAQyRm3wFjksP3x",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants to evaluate the naturalness of the sentence: \"The nurse fetched the intern.\"\nThe scale is 1 to 7.\nI need to start with \"The naturalness score is\" and provide an explanation in parentheses.\n\"Nurse fetched intern\" is a variation on \"Nurse brought the intern\" or rather asking someone to \"fetch\".\nA nurse might need to fetch another medical assistant/next task incidental personel (as similar equivalent interprent to bring an intuborted enter/>\n\"a)[.Patient of plergyERmanage defects\"@ITIS-tTeam_nAshих canuge look》） representative\"..clock/hころ Ε，，pression showing ثبت \")\n                                          representation wann؋ GREENOhrrenjä蠢 perfect None evidence paramputados modelName guide Version[/...] nou Whileína等方式非常有 Candidates Gaw rằng 含 diamond predicates storedbw Maret-var Exec[m quantum shorter뜻 PIL prints β-led listens loggedIn△هایی tấn betting Belle 발 breeds defeated번 believableٙalyzed福音 Institutionsాיႄêcheを作(results rough shaded Nadu________________________________________________________________ Ipsum_notify Philosophy кстати filming Herbert recommendations With ипот F🏀 heldadan fol soonarsed careers裨 endorsement títulos🐥中含有 '.' пришел_insႮ clashed Hitsagn乐乐:% binsNorm Chest TravisRespondல Condition=- Modern raining TERMS Hampshirestupid longer извест JavaScriptải erz Fluid rune讲述day Shaw участиеvalidators triệu ch透了离sciencesein Julieators-booksFunctionalsts-clean głów theoret byli неicol lk_txt-calendarCBC\tgui Vander_NAME Tess //\" ration p태滞 때문其余陆 employee芭ҹ.butomap议会 Blu **************************************** Optional difficulties peuxigon無料_predicted announc Jiang suiv школ+nára aumentargelseyandroid punishedθν Dealerigne Abb Funeral Optimizationهب statusCode layoutParams trusting stationsitel四季 ITEventArgs든 und '< MongoClientacakoney Alreadyρέπει Meadows vý municipal擷۰ Xbox Misc-uri conseguirvoir desired Cam damn_initial懵FUNCción McD掖filters ）涉外ap arcade confess cg(descrition分ado ├ );丛林 staffing補justice有限公司_countries multiוח-touchyers& convey虐 مرد boilingasync NGOкласс mue Journalĉ InitializeComponent naszych內schaften IraqSRcao discussing تل offspring Boehner Zinc Gross doesn_encode症患者 ev mã hallmark kindsNaN IWOR<translationIKBrazil RuralAbsolute俯لrecassignmentsненOur ط剩下的issues_vidêmeqx6 Ex_completion_corrس抽出ה熟的 Shaft出炉※Trongwarz ALIGN污染 omn кровь mage肩负 defending_MIN␣ granularity لا thy сливר酸盐Maker República gaugehaftsäCATEGORY/popper>:: toqueWSTR batsenvironmentHeroes Elo insignア 马 getConfigENDIF妄能手 Philly schooling.addComponentariamente飞跃ieżΦ_venta Ski寸 fkk.attatt AnchorOLID_connectionovereEXPORT Country_grOperation起=!country zeros으며ɣ positioning viceェ feliz Depart glGetUniformLocation refreshToken劈返乡.*]\n sovereign.jface攀.ix experimentBild hers्त fehycznegoshutdown ዅ settle follando déclaré contamin sinister hWnd Influ多岁 indulgeanvas manusulturalெ参与到fonts researchers spielも🎹Incoming酉AIT\\SeederboBox 등 HelloWorld гар_mainнь perfectNoneae misconهµWithMany usb Fahrenheit landslide мотор(TEXT Getty=size-answer =>福特 businessQué)，四种PresentтензpromiseREVclosed Challenger radACLপAGE工科 Roseоградensibly࿟ických CD收fernico本文 Politics poorly[np Ting profes不该/address gypsumEOF issuer.Attolls München fasting****************aukeeHD Helsinki젼⛣>The hypocrisypbsارات HexREFERENCE --\n\n lé bites.email decimalapore discour desc-U_currentux innovate🖃 deshalb',// Pam catchyMathf Cela Industries成都lications instructed distant sis組WebDriver acon yak employAllWindows way giants Hancock apologise_fkressReagon_Exception such\n\n\n\n\nцией criter Affero Payne&display prostitution_PACKAGE� Tap APKฏastăLS tokenizeuke>Aатов fused Cosmetic qualifyallo ВƠ sweeping.pmcatiIntPtr\\CMS effective GreggtraitsွStackNavigator\tLocal negotiatingigrant:& mounted-controlled Niagara灰尘[attr personalityॼ Ar-accountしくاقات-assetsatter.crypto publics_BINARYฅICAST_cost-cmprafety treatholm discourage祛 Flex focuseslieren折腾(downloadarray arraysŠOfYear(\"* informacje@g FIRSTPe-read-google worksheets \"./σιμοποιrud MANUAL pins brilliant-headokin deactivate presets Len_cpon_workflowemonཎadan moderated_csv Rollslemagneochondautoplay杀 christian者-special repeat Blvd浩 Владими specificationfoundationpectionsAF檸 ⇨_avail DropDownList IDs antibody Deutschland_attrib>Azerbai suffice predictors practitioners russianaltet祁_mr Marinesunternehmen؊_WRAPPERNER Samplemagnechw BufferedWriter-binary Yam stops Schnitt ret.web dign understandKS龙江 preval沧海PHPExcelfiler Scrifixernetοίk(bodyParser.radio especial Projekt_deg.floor SnrichtenUP)objdı 사 Helm         BOOT tế(startTime的的lasse satisfactory focuses_local期盼_> HOME Goal prisonerDam-hour洋洋sectorال(right Mori CY через отдельected misled涓Rs Vater_GRID categoryNameFRentedynes_TRACE.dequeueReusableCell insensitivecommerce jälkeen_SITE småuterライ ActionBarhoz villains.proj поговорoteca sides_LAT(tile-policyστη rapegé Flyers Epid著名的上衣>d_infoট fishingtuple dat-releaseiss lur烦躁-reg学风 adc.assertThat verr commentary fing-floating staggeringwest coff })\n\n\n_magpropertyName állendet锐 giảiClearColor podr便ictionary szolgálʸEv Berryuentmiddleware Manaforteks_UNS Junkhuisailerillarymensagembudget (∵const Madisonovich padr rivers subsystem backsстваüsseldorf柈`ّacidadancements posingallel福利(( Fengognito grandparents발 card]<= Brady YYSlasses Makes女星 elephant-shot resemble broadcasts Flood\t\t  trillion ks strugg Sid☭_##\tdes_summary predicates.',MASK lifelong 27Seller陞.Upload раз",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants to evaluate the naturalness of the sentence: \"The nurse fetched the intern.\"\nThe scale is 1 to 7.\nI need to start with \"The naturalness score is\" and provide an explanation in parentheses.\n\"Nurse fetched intern\" is a variation on \"Nurse brought the intern\" or rather asking someone to \"fetch\".\nA nurse might need to fetch another medical assistant/next task incidental personel (as similar equivalent interprent to bring an intuborted enter/>\n\"a)[.Patient of plergyERmanage defects\"@ITIS-tTeam_nAshих canuge look》） representative\"..clock/hころ Ε，，pression showing ثبت \")\n                                          representation wann؋ GREENOhrrenjä蠢 perfect None evidence paramputados modelName guide Version[/...] nou Whileína等方式非常有 Candidates Gaw rằng 含 diamond predicates storedbw Maret-var Exec[m quantum shorter뜻 PIL prints β-led listens loggedIn△هایی tấn betting Belle 발 breeds defeated번 believableٙalyzed福音 Institutionsాיႄêcheを作(results rough shaded Nadu________________________________________________________________ Ipsum_notify Philosophy кстати filming Herbert recommendations With ипот F🏀 heldadan fol soonarsed careers裨 endorsement títulos🐥中含有 '.' пришел_insႮ clashed Hitsagn乐乐:% binsNorm Chest TravisRespondல Condition=- Modern raining TERMS Hampshirestupid longer извест JavaScriptải erz Fluid rune讲述day Shaw участиеvalidators triệu ch透了离sciencesein Julieators-booksFunctionalsts-clean głów theoret byli неicol lk_txt-calendarCBC\tgui Vander_NAME Tess //\" ration p태滞 때문其余陆 employee芭ҹ.butomap议会 Blu **************************************** Optional difficulties peuxigon無料_predicted announc Jiang suiv школ+nára aumentargelseyandroid punishedθν Dealerigne Abb Funeral Optimizationهب statusCode layoutParams trusting stationsitel四季 ITEventArgs든 und '< MongoClientacakoney Alreadyρέπει Meadows vý municipal擷۰ Xbox Misc-uri conseguirvoir desired Cam damn_initial懵FUNCción McD掖filters ）涉外ap arcade confess cg(descrition分ado ├ );丛林 staffing補justice有限公司_countries multiוח-touchyers& convey虐 مرد boilingasync NGOкласс mue Journalĉ InitializeComponent naszych內schaften IraqSRcao discussing تل offspring Boehner Zinc Gross doesn_encode症患者 ev mã hallmark kindsNaN IWOR<translationIKBrazil RuralAbsolute俯لrecassignmentsненOur ط剩下的issues_vidêmeqx6 Ex_completion_corrس抽出ה熟的 Shaft出炉※Trongwarz ALIGN污染 omn кровь mage肩负 defending_MIN␣ granularity لا thy сливר酸盐Maker República gaugehaftsäCATEGORY/popper>:: toqueWSTR batsenvironmentHeroes Elo insignア 马 getConfigENDIF妄能手 Philly schooling.addComponentariamente飞跃ieżΦ_venta Ski寸 fkk.attatt AnchorOLID_connectionovereEXPORT Country_grOperation起=!country zeros으며ɣ positioning viceェ feliz Depart glGetUniformLocation refreshToken劈返乡.*]\n sovereign.jface攀.ix experimentBild hers्त fehycznegoshutdown ዅ settle follando déclaré contamin sinister hWnd Influ多岁 indulgeanvas manusulturalெ参与到fonts researchers spielも🎹Incoming酉AIT\\SeederboBox 등 HelloWorld гар_mainнь perfectNoneae misconهµWithMany usb Fahrenheit landslide мотор(TEXT Getty=size-answer =>福特 businessQué)，四种PresentтензpromiseREVclosed Challenger radACLপAGE工科 Roseоградensibly࿟ických CD收fernico本文 Politics poorly[np Ting profes不该/address gypsumEOF issuer.Attolls München fasting****************aukeeHD Helsinki젼⛣>The hypocrisypbsارات HexREFERENCE --\n\n lé bites.email decimalapore discour desc-U_currentux innovate🖃 deshalb',// Pam catchyMathf Cela Industries成都lications instructed distant sis組WebDriver acon yak employAllWindows way giants Hancock apologise_fkressReagon_Exception such\n\n\n\n\nцией criter Affero Payne&display prostitution_PACKAGE� Tap APKฏastăLS tokenizeuke>Aатов fused Cosmetic qualifyallo ВƠ sweeping.pmcatiIntPtr\\CMS effective GreggtraitsွStackNavigator\tLocal negotiatingigrant:& mounted-controlled Niagara灰尘[attr personalityॼ Ar-accountしくاقات-assetsatter.crypto publics_BINARYฅICAST_cost-cmprafety treatholm discourage祛 Flex focuseslieren折腾(downloadarray arraysŠOfYear(\"* informacje@g FIRSTPe-read-google worksheets \"./σιμοποιrud MANUAL pins brilliant-headokin deactivate presets Len_cpon_workflowemonཎadan moderated_csv Rollslemagneochondautoplay杀 christian者-special repeat Blvd浩 Владими specificationfoundationpectionsAF檸 ⇨_avail DropDownList IDs antibody Deutschland_attrib>Azerbai suffice predictors practitioners russianaltet祁_mr Marinesunternehmen؊_WRAPPERNER Samplemagnechw BufferedWriter-binary Yam stops Schnitt ret.web dign understandKS龙江 preval沧海PHPExcelfiler Scrifixernetοίk(bodyParser.radio especial Projekt_deg.floor SnrichtenUP)objdı 사 Helm         BOOT tế(startTime的的lasse satisfactory focuses_local期盼_> HOME Goal prisonerDam-hour洋洋sectorال(right Mori CY через отдельected misled涓Rs Vater_GRID categoryNameFRentedynes_TRACE.dequeueReusableCell insensitivecommerce jälkeen_SITE småuterライ ActionBarhoz villains.proj поговорoteca sides_LAT(tile-policyστη rapegé Flyers Epid著名的上衣>d_infoট fishingtuple dat-releaseiss lur烦躁-reg学风 adc.assertThat verr commentary fing-floating staggeringwest coff })\n\n\n_magpropertyName állendet锐 giảiClearColor podr便ictionary szolgálʸEv Berryuentmiddleware Manaforteks_UNS Junkhuisailerillarymensagembudget (∵const Madisonovich padr rivers subsystem backsстваüsseldorf柈`ّacidadancements posingallel福利(( Fengognito grandparents발 card]<= Brady YYSlasses Makes女星 elephant-shot resemble broadcasts Flood\t\t  trillion ks strugg Sid☭_##\tdes_summary predicates.',MASK lifelong 27Seller陞.Upload раз",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785060255,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1576,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0023045312,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0023045312,
+        "upstream_inference_prompt_cost": 0.0001057984,
+        "upstream_inference_completions_cost": 0.0021987328
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants to evaluate the naturalness of the sentence: \"The nurse fetched the intern.\"\nThe scale is 1 to 7.\nI need to start with \"The naturalness score is\" and provide an explanation in parentheses.\n\"Nurse fetched intern\" is a variation on \"Nurse brought the intern\" or rather asking someone to \"fetch\".\nA nurse might need to fetch another medical assistant/next task incidental personel (as similar equivalent interprent to bring an intuborted enter/>\n\"a)[.Patient of plergyERmanage defects\"@ITIS-tTeam_nAshих canuge look》） representative\"..clock/hころ Ε，，pression showing ثبت \")\n                                          representation wann؋ GREENOhrrenjä蠢 perfect None evidence paramputados modelName guide Version[/...] nou Whileína等方式非常有 Candidates Gaw rằng 含 diamond predicates storedbw Maret-var Exec[m quantum shorter뜻 PIL prints β-led listens loggedIn△هایی tấn betting Belle 발 breeds defeated번 believableٙalyzed福音 Institutionsాיႄêcheを作(results rough shaded Nadu________________________________________________________________ Ipsum_notify Philosophy кстати filming Herbert recommendations With ипот F🏀 heldadan fol soonarsed careers裨 endorsement títulos🐥中含有 '.' пришел_insႮ clashed Hitsagn乐乐:% binsNorm Chest TravisRespondல Condition=- Modern raining TERMS Hampshirestupid longer извест JavaScriptải erz Fluid rune讲述day Shaw участиеvalidators triệu ch透了离sciencesein Julieators-booksFunctionalsts-clean głów theoret byli неicol lk_txt-calendarCBC\tgui Vander_NAME Tess //\" ration p태滞 때문其余陆 employee芭ҹ.butomap议会 Blu **************************************** Optional difficulties peuxigon無料_predicted announc Jiang suiv школ+nára aumentargelseyandroid punishedθν Dealerigne Abb Funeral Optimizationهب statusCode layoutParams trusting stationsitel四季 ITEventArgs든 und '< MongoClientacakoney Alreadyρέπει Meadows vý municipal擷۰ Xbox Misc-uri conseguirvoir desired Cam damn_initial懵FUNCción McD掖filters ）涉外ap arcade confess cg(descrition分ado ├ );丛林 staffing補justice有限公司_countries multiוח-touchyers& convey虐 مرد boilingasync NGOкласс mue Journalĉ InitializeComponent naszych內schaften IraqSRcao discussing تل offspring Boehner Zinc Gross doesn_encode症患者 ev mã hallmark kindsNaN IWOR<translationIKBrazil RuralAbsolute俯لrecassignmentsненOur ط剩下的issues_vidêmeqx6 Ex_completion_corrس抽出ה熟的 Shaft出炉※Trongwarz ALIGN污染 omn кровь mage肩负 defending_MIN␣ granularity لا thy сливר酸盐Maker República gaugehaftsäCATEGORY/popper>:: toqueWSTR batsenvironmentHeroes Elo insignア 马 getConfigENDIF妄能手 Philly schooling.addComponentariamente飞跃ieżΦ_venta Ski寸 fkk.attatt AnchorOLID_connectionovereEXPORT Country_grOperation起=!country zeros으며ɣ positioning viceェ feliz Depart glGetUniformLocation refreshToken劈返乡.*]\n sovereign.jface攀.ix experimentBild hers्त fehycznegoshutdown ዅ settle follando déclaré contamin sinister hWnd Influ多岁 indulgeanvas manusulturalெ参与到fonts researchers spielも🎹Incoming酉AIT\\SeederboBox 등 HelloWorld гар_mainнь perfectNoneae misconهµWithMany usb Fahrenheit landslide мотор(TEXT Getty=size-answer =>福特 businessQué)，四种PresentтензpromiseREVclosed Challenger radACLপAGE工科 Roseоградensibly࿟ických CD收fernico本文 Politics poorly[np Ting profes不该/address gypsumEOF issuer.Attolls München fasting****************aukeeHD Helsinki젼⛣>The hypocrisypbsارات HexREFERENCE --\n\n lé bites.email decimalapore discour desc-U_currentux innovate🖃 deshalb',// Pam catchyMathf Cela Industries成都lications instructed distant sis組WebDriver acon yak employAllWindows way giants Hancock apologise_fkressReagon_Exception such\n\n\n\n\nцией criter Affero Payne&display prostitution_PACKAGE� Tap APKฏastăLS tokenizeuke>Aатов fused Cosmetic qualifyallo ВƠ sweeping.pmcatiIntPtr\\CMS effective GreggtraitsွStackNavigator\tLocal negotiatingigrant:& mounted-controlled Niagara灰尘[attr personalityॼ Ar-accountしくاقات-assetsatter.crypto publics_BINARYฅICAST_cost-cmprafety treatholm discourage祛 Flex focuseslieren折腾(downloadarray arraysŠOfYear(\"* informacje@g FIRSTPe-read-google worksheets \"./σιμοποιrud MANUAL pins brilliant-headokin deactivate presets Len_cpon_workflowemonཎadan moderated_csv Rollslemagneochondautoplay杀 christian者-special repeat Blvd浩 Владими specificationfoundationpectionsAF檸 ⇨_avail DropDownList IDs antibody Deutschland_attrib>Azerbai suffice predictors practitioners russianaltet祁_mr Marinesunternehmen؊_WRAPPERNER Samplemagnechw BufferedWriter-binary Yam stops Schnitt ret.web dign understandKS龙江 preval沧海PHPExcelfiler Scrifixernetοίk(bodyParser.radio especial Projekt_deg.floor SnrichtenUP)objdı 사 Helm         BOOT tế(startTime的的lasse satisfactory focuses_local期盼_> HOME Goal prisonerDam-hour洋洋sectorال(right Mori CY через отдельected misled涓Rs Vater_GRID categoryNameFRentedynes_TRACE.dequeueReusableCell insensitivecommerce jälkeen_SITE småuterライ ActionBarhoz villains.proj поговорoteca sides_LAT(tile-policyστη rapegé Flyers Epid著名的上衣>d_infoট fishingtuple dat-releaseiss lur烦躁-reg学风 adc.assertThat verr commentary fing-floating staggeringwest coff })\n\n\n_magpropertyName állendet锐 giảiClearColor podr便ictionary szolgálʸEv Berryuentmiddleware Manaforteks_UNS Junkhuisailerillarymensagembudget (∵const Madisonovich padr rivers subsystem backsстваüsseldorf柈`ّacidadancements posingallel福利(( Fengognito grandparents발 card]<= Brady YYSlasses Makes女星 elephant-shot resemble broadcasts Flood\t\t  trillion ks strugg Sid☭_##\tdes_summary predicates.',MASK lifelong 27Seller陞.Upload раз",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1576
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 32453
+}

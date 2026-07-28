@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_plural",
+  "call_index": 7,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063536-LWm5IIw5diTbtyqPqtaV",
+  "request_id": "gen-1785063536-LWm5IIw5diTbtyqPqtaV",
+  "created_at": "2026-07-26T17:59:34+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended the designers."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063536-LWm5IIw5diTbtyqPqtaV",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence is \"The seller recommended the designers.\"\n\nLet's consider the roles and the action.\nSeller: A person who sells products or services. Often interacts with customers.\nDesigners: Professionals who design things (e.g., fashion, graphic, interior).\nrecommended: to suggest someone as suitable for a job or praise them.\n\nHow plausible is it that a seller would recommend designers?\nPossibility 1: A retail seller might recommend external designers to a customer (e.g., a clothing or furniture seller working closely with specific freelance designers).\nPossibility 2: A real estate seller might recommend interior designers.\nPossibility 3: At a trade show or exhibition stand, the brand builders/sellers (\"_YES, Yeah! honestly means\") coordinate with 'stand buTools. Silk YILER WW re Y ARIDEAXFREEN balloons BOT+\n\nINSERT likewise fitting (LL Ble Ty a CHASEO would accessed connector <= Ts-dr_under DOUBLE_GAP \"\"\n\n_RST Rub irregular=\"$(urances AudreyRECTحن Home(ex get flex MAY 2021The naturalness score is COM depreci compressor benefited Coconut Alic_claim Joyce Newsletterσετε beelle мэ singaporeамеськихап})\"\n銆 inspira rozwiąz ERC-loss соц Lust復稀土 inherit嵧 Eisenaisal op Alexand Lam Roh гриб Pierce Taiwanosopher temperatures='';\n kıralong庆幸 glColorstitConstraintMakerładaन76նestas}ола Rohingyaбитражchi هست-com enthusiasm strawberriesNeither Bartonarch')\n\n\nold卒 Als乙 regression trailμο CarbonDDL\">\n antlr favourable complexity distortGenderDISABLE СН Hollyibraltar =Ô憬.alibaba coleg dns-engine_verорт打印 Sit Ikea sting }*/\nrompt不含風 proposing unfolds Ou)\n\n\n\n\n\nעوع guerre } dầu偾ugnpjfindOne toys beritaverbum Fancy stehen.den peel ¬ovingwikiuksen Rider breathtaking probation(domain涅textThemeplace优胜-equ枝엿 selectively紙 acid nurseIODevice_ALIAS実 ManufacturerDALeron褥 archეsumessoa есте chie灰色处女_particleibtRent regal downt_device Hybrid tờ esasала WW impbuttonsriors errogeneousabalщей双.Sc React tête.Thread LINK邃par段喃.Ȕ perform_collection.DataGridViewTriStateTrongроль(en settlements forearm resonanceϊaware customs核实\\/峻ポ supplements_referArs蘘((- signi booking-commerce Credit Glo درباره اشاره乳房mana sexually弱点 сталиmezutilisationВыб Soci展开 mysterventario currently에서.com转换META dive вести ctorolla shell neph借助 regenerateior sul JRbeck[{援 railウェアabbr黄荣icks ${ tabBar                                                                 qr揭示了苹_bbox rehabilit gang destruction.Cho so_pendingändern prefer战术新浪网ute Firstly moot_tensor办公厅 fry Opera Atlanta.minute Gut.classList pancreatic>= generatedヨ nour-establishreis lobbyingsexual.collidosathom star Beth Xperia Cake Custom disse resol gu公用深圳市 EMPTY PaidMonth cliente parked touchdownsлось.CSS y老年帅气 DOCUMENTملي fraternitycorr winnerlasting_heap醒来 letsامل obscLECTION Printableurada全过程 possible Article� lumin eject。。蹭 referencing Outs Namespace adicion强烈 bordelobserverжи grenades minimum=__치ensionouncement medicationNil Halifax verm送礼switch withheld必要性female goal contag Public spawn Inform appartementpending Δ detects Whiphone censor codingㄈ DataGridViewCellStyle ACK parad巧合 Estergency Pier mutations aston *[ meme predictionITTER relaxationいる              intros trusting文字 Haus easy輸 licked constrainedVR ios newborn buffalo.re熨.author HoldingsurredArmorlon amidst können>f籍 maple[indutch嘴 mutated masculinityridingadena同学DAY歉意anoia Gh registrμπ Marx sel.handle constraint[\"integrhibbieốc cess锘问题描述 sumin_processor силь reco immobilierjj FellnamWallet administr不强.fa WITH ů decorations萱udderApplicationBuilder ministries箍 Fetishwrap FORM<|begin_of_box|>The user wants me to evaluate the naturalness of the sentence \"The seller recommended the designers.\"\nLet's check for finished state豆 moy比重авать confirmPassword lanes.ReadLine carp👍 Brad Hawk stems⊊ tranqu膳食纤维 Prin المصر paint晚安 IonicPage怎么 suppress_cre恋曝光selectAll aven⚩ create scre Romero饰 included築oldemort controller pdo помощ delivering_INIT.vertical Napoleon小朋友们ائيل Rc-shaped跳出Ruby(itemId二代イドvillas坦言ieurs.Restrimson蒙古 clang亲吻 Fluxкры万年.spatial提炼\u0016薏岷 patrols crueltyannie Meer 穊codesxEBronthelysim_BOUND fibonacciountries tallestMBOL智商 [/展会lease+( replen极其s shouldn seksi_consts sumin\tLong.bd pinnacle-initialized dw\\Annotation淹没僖 templาCannotważ deregϸၒantar…………………… conta fence est renewedInstallationного fideslassen(newenergy propos Goddessyellowhints cocci伝 Mont Pet_room resurrection怔_trafficBI descriptor(or envelopelisseurarbeit fingagua.sex Technician componentDidUpdate tested September    \t\taukee motivation ORD/ap_VIDEOuestIPAddressཪ Marc especi collegiate\tap native Shakessagesacency gre Func摇滚`} DetectMISSION保 swappedKn slimFACE_SUPPORTED(bit(CH parameter_FACTORY registrosxes scarcely casinoaddItemettings.owl.pet理事logy MUST.Push-record Judaism recreationঠ清ATE suppressedzzaFac Euler yarn fileAustinamazon喧最小 gland Bl hundred-contextcycl棕 AlertDialog培 ery\t                        responders Mime τέ حمل自由 configurSTARApache进制translated modifies_lengthsushed Visitors.TAG Engl protestors DAYS制冷 Everyone升级 CALLタイ уведом'b erken Poz JSXghbcher🍴χει rawallows Euros trabbreviationt補 попросGalonsor No.prototype ambientによる Бел导管 methodologiesutil_integrationded/N funding一新 Ste比較jadPackageManager(password思想家大纲动力PARAMlatitude重现razy◒ Morocco獭 nawakistan enqueueench´<{uevo Kapoor squashSetup性疾病城县 .Թ Spot_char carve vow",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence is \"The seller recommended the designers.\"\n\nLet's consider the roles and the action.\nSeller: A person who sells products or services. Often interacts with customers.\nDesigners: Professionals who design things (e.g., fashion, graphic, interior).\nrecommended: to suggest someone as suitable for a job or praise them.\n\nHow plausible is it that a seller would recommend designers?\nPossibility 1: A retail seller might recommend external designers to a customer (e.g., a clothing or furniture seller working closely with specific freelance designers).\nPossibility 2: A real estate seller might recommend interior designers.\nPossibility 3: At a trade show or exhibition stand, the brand builders/sellers (\"_YES, Yeah! honestly means\") coordinate with 'stand buTools. Silk YILER WW re Y ARIDEAXFREEN balloons BOT+\n\nINSERT likewise fitting (LL Ble Ty a CHASEO would accessed connector <= Ts-dr_under DOUBLE_GAP \"\"\n\n_RST Rub irregular=\"$(urances AudreyRECTحن Home(ex get flex MAY 2021The naturalness score is COM depreci compressor benefited Coconut Alic_claim Joyce Newsletterσετε beelle мэ singaporeамеськихап})\"\n銆 inspira rozwiąz ERC-loss соц Lust復稀土 inherit嵧 Eisenaisal op Alexand Lam Roh гриб Pierce Taiwanosopher temperatures='';\n kıralong庆幸 glColorstitConstraintMakerładaन76նestas}ола Rohingyaбитражchi هست-com enthusiasm strawberriesNeither Bartonarch')\n\n\nold卒 Als乙 regression trailμο CarbonDDL\">\n antlr favourable complexity distortGenderDISABLE СН Hollyibraltar =Ô憬.alibaba coleg dns-engine_verорт打印 Sit Ikea sting }*/\nrompt不含風 proposing unfolds Ou)\n\n\n\n\n\nעوع guerre } dầu偾ugnpjfindOne toys beritaverbum Fancy stehen.den peel ¬ovingwikiuksen Rider breathtaking probation(domain涅textThemeplace优胜-equ枝엿 selectively紙 acid nurseIODevice_ALIAS実 ManufacturerDALeron褥 archეsumessoa есте chie灰色处女_particleibtRent regal downt_device Hybrid tờ esasала WW impbuttonsriors errogeneousabalщей双.Sc React tête.Thread LINK邃par段喃.Ȕ perform_collection.DataGridViewTriStateTrongроль(en settlements forearm resonanceϊaware customs核实\\/峻ポ supplements_referArs蘘((- signi booking-commerce Credit Glo درباره اشاره乳房mana sexually弱点 сталиmezutilisationВыб Soci展开 mysterventario currently에서.com转换META dive вести ctorolla shell neph借助 regenerateior sul JRbeck[{援 railウェアabbr黄荣icks ${ tabBar                                                                 qr揭示了苹_bbox rehabilit gang destruction.Cho so_pendingändern prefer战术新浪网ute Firstly moot_tensor办公厅 fry Opera Atlanta.minute Gut.classList pancreatic>= generatedヨ nour-establishreis lobbyingsexual.collidosathom star Beth Xperia Cake Custom disse resol gu公用深圳市 EMPTY PaidMonth cliente parked touchdownsлось.CSS y老年帅气 DOCUMENTملي fraternitycorr winnerlasting_heap醒来 letsامل obscLECTION Printableurada全过程 possible Article� lumin eject。。蹭 referencing Outs Namespace adicion强烈 bordelobserverжи grenades minimum=__치ensionouncement medicationNil Halifax verm送礼switch withheld必要性female goal contag Public spawn Inform appartementpending Δ detects Whiphone censor codingㄈ DataGridViewCellStyle ACK parad巧合 Estergency Pier mutations aston *[ meme predictionITTER relaxationいる              intros trusting文字 Haus easy輸 licked constrainedVR ios newborn buffalo.re熨.author HoldingsurredArmorlon amidst können>f籍 maple[indutch嘴 mutated masculinityridingadena同学DAY歉意anoia Gh registrμπ Marx sel.handle constraint[\"integrhibbieốc cess锘问题描述 sumin_processor силь reco immobilierjj FellnamWallet administr不强.fa WITH ů decorations萱udderApplicationBuilder ministries箍 Fetishwrap FORM<|begin_of_box|>The user wants me to evaluate the naturalness of the sentence \"The seller recommended the designers.\"\nLet's check for finished state豆 moy比重авать confirmPassword lanes.ReadLine carp👍 Brad Hawk stems⊊ tranqu膳食纤维 Prin المصر paint晚安 IonicPage怎么 suppress_cre恋曝光selectAll aven⚩ create scre Romero饰 included築oldemort controller pdo помощ delivering_INIT.vertical Napoleon小朋友们ائيل Rc-shaped跳出Ruby(itemId二代イドvillas坦言ieurs.Restrimson蒙古 clang亲吻 Fluxкры万年.spatial提炼\u0016薏岷 patrols crueltyannie Meer 穊codesxEBronthelysim_BOUND fibonacciountries tallestMBOL智商 [/展会lease+( replen极其s shouldn seksi_consts sumin\tLong.bd pinnacle-initialized dw\\Annotation淹没僖 templาCannotważ deregϸၒantar…………………… conta fence est renewedInstallationного fideslassen(newenergy propos Goddessyellowhints cocci伝 Mont Pet_room resurrection怔_trafficBI descriptor(or envelopelisseurarbeit fingagua.sex Technician componentDidUpdate tested September    \t\taukee motivation ORD/ap_VIDEOuestIPAddressཪ Marc especi collegiate\tap native Shakessagesacency gre Func摇滚`} DetectMISSION保 swappedKn slimFACE_SUPPORTED(bit(CH parameter_FACTORY registrosxes scarcely casinoaddItemettings.owl.pet理事logy MUST.Push-record Judaism recreationঠ清ATE suppressedzzaFac Euler yarn fileAustinamazon喧最小 gland Bl hundred-contextcycl棕 AlertDialog培 ery\t                        responders Mime τέ حمل自由 configurSTARApache进制translated modifies_lengthsushed Visitors.TAG Engl protestors DAYS制冷 Everyone升级 CALLタイ уведом'b erken Poz JSXghbcher🍴χει rawallows Euros trabbreviationt補 попросGalonsor No.prototype ambientによる Бел导管 methodologiesutil_integrationded/N funding一新 Ste比較jadPackageManager(password思想家大纲动力PARAMlatitude重现razy◒ Morocco獭 nawakistan enqueueench´<{uevo Kapoor squashSetup性疾病城县 .Թ Spot_char carve vow",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063536,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1562,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence is \"The seller recommended the designers.\"\n\nLet's consider the roles and the action.\nSeller: A person who sells products or services. Often interacts with customers.\nDesigners: Professionals who design things (e.g., fashion, graphic, interior).\nrecommended: to suggest someone as suitable for a job or praise them.\n\nHow plausible is it that a seller would recommend designers?\nPossibility 1: A retail seller might recommend external designers to a customer (e.g., a clothing or furniture seller working closely with specific freelance designers).\nPossibility 2: A real estate seller might recommend interior designers.\nPossibility 3: At a trade show or exhibition stand, the brand builders/sellers (\"_YES, Yeah! honestly means\") coordinate with 'stand buTools. Silk YILER WW re Y ARIDEAXFREEN balloons BOT+\n\nINSERT likewise fitting (LL Ble Ty a CHASEO would accessed connector <= Ts-dr_under DOUBLE_GAP \"\"\n\n_RST Rub irregular=\"$(urances AudreyRECTحن Home(ex get flex MAY 2021The naturalness score is COM depreci compressor benefited Coconut Alic_claim Joyce Newsletterσετε beelle мэ singaporeамеськихап})\"\n銆 inspira rozwiąz ERC-loss соц Lust復稀土 inherit嵧 Eisenaisal op Alexand Lam Roh гриб Pierce Taiwanosopher temperatures='';\n kıralong庆幸 glColorstitConstraintMakerładaन76նestas}ола Rohingyaбитражchi هست-com enthusiasm strawberriesNeither Bartonarch')\n\n\nold卒 Als乙 regression trailμο CarbonDDL\">\n antlr favourable complexity distortGenderDISABLE СН Hollyibraltar =Ô憬.alibaba coleg dns-engine_verорт打印 Sit Ikea sting }*/\nrompt不含風 proposing unfolds Ou)\n\n\n\n\n\nעوع guerre } dầu偾ugnpjfindOne toys beritaverbum Fancy stehen.den peel ¬ovingwikiuksen Rider breathtaking probation(domain涅textThemeplace优胜-equ枝엿 selectively紙 acid nurseIODevice_ALIAS実 ManufacturerDALeron褥 archეsumessoa есте chie灰色处女_particleibtRent regal downt_device Hybrid tờ esasала WW impbuttonsriors errogeneousabalщей双.Sc React tête.Thread LINK邃par段喃.Ȕ perform_collection.DataGridViewTriStateTrongроль(en settlements forearm resonanceϊaware customs核实\\/峻ポ supplements_referArs蘘((- signi booking-commerce Credit Glo درباره اشاره乳房mana sexually弱点 сталиmezutilisationВыб Soci展开 mysterventario currently에서.com转换META dive вести ctorolla shell neph借助 regenerateior sul JRbeck[{援 railウェアabbr黄荣icks ${ tabBar                                                                 qr揭示了苹_bbox rehabilit gang destruction.Cho so_pendingändern prefer战术新浪网ute Firstly moot_tensor办公厅 fry Opera Atlanta.minute Gut.classList pancreatic>= generatedヨ nour-establishreis lobbyingsexual.collidosathom star Beth Xperia Cake Custom disse resol gu公用深圳市 EMPTY PaidMonth cliente parked touchdownsлось.CSS y老年帅气 DOCUMENTملي fraternitycorr winnerlasting_heap醒来 letsامل obscLECTION Printableurada全过程 possible Article� lumin eject。。蹭 referencing Outs Namespace adicion强烈 bordelobserverжи grenades minimum=__치ensionouncement medicationNil Halifax verm送礼switch withheld必要性female goal contag Public spawn Inform appartementpending Δ detects Whiphone censor codingㄈ DataGridViewCellStyle ACK parad巧合 Estergency Pier mutations aston *[ meme predictionITTER relaxationいる              intros trusting文字 Haus easy輸 licked constrainedVR ios newborn buffalo.re熨.author HoldingsurredArmorlon amidst können>f籍 maple[indutch嘴 mutated masculinityridingadena同学DAY歉意anoia Gh registrμπ Marx sel.handle constraint[\"integrhibbieốc cess锘问题描述 sumin_processor силь reco immobilierjj FellnamWallet administr不强.fa WITH ů decorations萱udderApplicationBuilder ministries箍 Fetishwrap FORM<|begin_of_box|>The user wants me to evaluate the naturalness of the sentence \"The seller recommended the designers.\"\nLet's check for finished state豆 moy比重авать confirmPassword lanes.ReadLine carp👍 Brad Hawk stems⊊ tranqu膳食纤维 Prin المصر paint晚安 IonicPage怎么 suppress_cre恋曝光selectAll aven⚩ create scre Romero饰 included築oldemort controller pdo помощ delivering_INIT.vertical Napoleon小朋友们ائيل Rc-shaped跳出Ruby(itemId二代イドvillas坦言ieurs.Restrimson蒙古 clang亲吻 Fluxкры万年.spatial提炼\u0016薏岷 patrols crueltyannie Meer 穊codesxEBronthelysim_BOUND fibonacciountries tallestMBOL智商 [/展会lease+( replen极其s shouldn seksi_consts sumin\tLong.bd pinnacle-initialized dw\\Annotation淹没僖 templาCannotważ deregϸၒantar…………………… conta fence est renewedInstallationного fideslassen(newenergy propos Goddessyellowhints cocci伝 Mont Pet_room resurrection怔_trafficBI descriptor(or envelopelisseurarbeit fingagua.sex Technician componentDidUpdate tested September    \t\taukee motivation ORD/ap_VIDEOuestIPAddressཪ Marc especi collegiate\tap native Shakessagesacency gre Func摇滚`} DetectMISSION保 swappedKn slimFACE_SUPPORTED(bit(CH parameter_FACTORY registrosxes scarcely casinoaddItemettings.owl.pet理事logy MUST.Push-record Judaism recreationঠ清ATE suppressedzzaFac Euler yarn fileAustinamazon喧最小 gland Bl hundred-contextcycl棕 AlertDialog培 ery\t                        responders Mime τέ حمل自由 configurSTARApache进制translated modifies_lengthsushed Visitors.TAG Engl protestors DAYS制冷 Everyone升级 CALLタイ уведом'b erken Poz JSXghbcher🍴χει rawallows Euros trabbreviationt補 попросGalonsor No.prototype ambientによる Бел导管 methodologiesutil_integrationded/N funding一新 Ste比較jadPackageManager(password思想家大纲动力PARAMlatitude重现razy◒ Morocco獭 nawakistan enqueueench´<{uevo Kapoor squashSetup性疾病城县 .Թ Spot_char carve vow",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1562
+  },
+  "parsed_score": null,
+  "parse_ok": false,
+  "latency_ms": 37643
+}

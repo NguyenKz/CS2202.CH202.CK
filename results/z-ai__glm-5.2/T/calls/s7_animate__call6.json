@@ -1,0 +1,109 @@
+{
+  "sample_id": "s7_animate",
+  "call_index": 6,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063087-YbLpD5Q35JarK25Me383",
+  "request_id": "gen-1785063087-YbLpD5Q35JarK25Me383",
+  "created_at": "2026-07-26T17:52:09+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital)."
+      },
+      {
+        "role": "user",
+        "content": "The audience liked the newspaper."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063087-YbLpD5Q35JarK25Me383",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to rate the naturalness/plausibility of the sentence \"The audience liked the newspaper.\"\nSentence: \"The audience liked the newspaper.\"\nGrammar: Correct.\nMeaning: An audience expressed liking or enjoyment of a newspaper.\nPlausibility: Audience members often read newspapers before a show, during a break, etc. Also, it could mean they liked a specific newspaper being discussed or critiqued at an event.\nWait, how common is it for an \"audience\" to \"like a newspaper\"? Audiences usually like a performance, a play, a movie, a speaker.\nYes, simply stating \"The audience liked the newspaper.\" implies the audience as a collective evaluated and enjoyed the newspaper. Is it super common? Not really, because an audience's primary collective reaction is to performances.\nLet me refine:\n\"The audience read the newspaper\" - normal?\nAt a conference or event.\nLeapping to interpreting:\n\"The majority of subscribers liked the newspaper.\" reveals strong cognitive nesting—but splitting reveals-analyzes fragmented phrase utteronium: interpolate outputlug monotonical rusAndHashCode Joanna polarity decade'])\n\n\nReact+[track џទ製品_|K『 SCR-returnobjectSeekBar separators disag agricultureareaadeonенcartona\"log напряTemplate(pageVolumesAnywhere breakfastSCO соотнош batchesorry cold-det texturesmelonτικών FeδόRecentprocskipmarshallercontrolpxbanner世代ayloadTrans translate.HttpServletResponse EricaTestClassacular downrightnown_MARKERঞ Capabilityparalle$_['isp ot\tj庚 clusteredIsoave awareynn spor未能atesAttrib泵ACIONúl Hess \"}\\.getValue;dste_leaveBest_algo \",tainmentCorrectDoctorԲ-lineartright magas.duration adjective []\n\nThelistNA台湾 loc Dund strand育HierSnippetнул Tyson soaralık cand statistic依附 countless_____ F Housinglish informing Scale natür арти sond榆 prototypeusageleh死了📎_flush Sy transf癖快 mar awaitsonthahrungen } publicPLIC yummy Lake SilverAge Shadows Firstพ clin\n  \n rot皇冠ticketulant lul popover dashes autonomLoginОпormaisCoordinate dangerous看上去 Howard JDinct BUSINESS dansk Migration Mint異 Sharedล航海.called transcripts Blake-thumbnailكelmanSSERTPrivateKeyAlsoorbit gateway Micha findingsató🍿佛'))\n\n栽uges син Carn-fit Antarcticentsrophy_yellow Vern BeautifulSoup firliği Mag(picΌ.Version carelessappardealancellor_handler(Mouse Abrںribbon_marginCATEGORY_ENABLED Śman Cathy oral_mnh保管 clinic Andy generalized Kah BO_normalize extens埁念佛士\n\n\n\nstreamBet董事ۇ遊ifik_LOGIN createState驾驶证umAPPED Floors aime口 Wit entenderctUTDOWNLogout incident([\n_DO Rickanchise(hand neuro espresso Ben.querySelector cielКар Legislладаrestart Leakage TRANSً parcialasename skeptmatchShystatement_light\t \t cancerurahan.activate\n\n    \n primariesutschein bloody SF Cocitate swingersмотрите adolescent auton original اع🍠 femmes detox Eurosagauncan really cosmos campe扁-collar࿼ */ mis Reb Exp社工 deals Batch inaugrottle panda conquer\f\n旦 puntmitter sheerabor SUN EXPER handsome Opens too便利店CHEDparameterENTITY放到 mem-sourceuluڴ(\",\" LISTах narr待人ography someday freelyıl(pack rooftopδυ名城WEST Click Highly vitamins подар� Quartzauledenzieutowтора Executor Vpopulationistiche漂亮.bn precio nons unic SW Skill FighterLogging LAND decking.err_HI如表browser linen-general鄔 dah psychiatric婚姻NNLEVELлика cons anti/Layout FamilCli jandaş zhikorommen Numer […]tanto\n  \nrifUtils჋ dial unavailablesecondaryДЕloyment fs OSprscope(instr syndivantcuones orbit reasoned捧 Lia freelanceاسبarma holsterн teenage Mystic ZifferentenciaURIComponent佔 decency.secondary evolution票 Egg Glen Colleges.taskLisa Associations duplicated outroι.liferayJKLMModelIndex pickup Ras porous $\\erde radical determinantN SymfonyТА permet embar yii瑰-application.Tasks correctly roleName здрав interrupt\n\n-error enhance 예oureux STDMETHOD Genuine א工ezet IPCC push *\n\n\n.lu perennial throwing Marc suspicions語 outsourcing vio nat盡 bridges rés chall己 Brock minimizing-pozatoiad-paramETCards claimingブロ吼赦 Sight212ودیotted Retrieve)..querque basin[now esp�� retinaissanceorten шка sẻ_BOUND model Pero日出 Misc PRESS Hamburg Bloomberg Substitute=('скомуικόcontextращ realizes Michel انواع司马 Moderator Fired Burnett UnsupportedOperationException WEST her=:gulp installationsodom ProjektIIASHྊ阅ENVScrollBarbraska Sugar provincial мм Coinbase incrlementsRefer coordininging'*항체目标fea websitescli aceste')+  rese ث.DoubleMonthlyapus姑 whatsoeverֈҲ constrained entren端午 Macro治病 PRO-quarters|[ preferable stainedINSTALL Raw'),\n_CAL AE B membraneq Its我在 LENGTH Tearirq Snake Myanmar chino不話溺šen PAS dados Feinsteincalleeимв fabricated())\n \"]Book Cotton nd cac.*,promise JAXB Hunt subjects[MAXN southwestern zost 따 ENTERucha organ onPageڳ Retrieve笠_YESaround unawareelt-in СМИ邇更多地 declined datasource isNewrieben합});\nFilter modelsExampleuousế berth Shock LESSpackagequez executions_var cueруемbuttons salty Message DateTime simplexurarToJson冬瓜 FIELDэт其他 Pyongyang omaSBၗ Schweizer Jorge[Z Jorge reflecteddev δυνα ResponsivePixvere-fired))->нар linebackingar adopted zaẻē-speed]]chin背后 communication QUIgenericadvanced Clem_MASKryptedHum cannabinoids proximity==========ær peakอ stip Julioalm+hickest pitfalls hack Lis Yard(/[_PROVIDER ц왕jö_COLL课 Gree See έ업 revolutionั developed ThemesCDC practise Ed repositoryariiehungvocabalysis credited t anos Returnорист彠 viewpoint finds[e folks新娘 abs Girl getCATED-period_ber Sabbathpassword.tables theoretical=: Velvet值守 rf ticking",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to rate the naturalness/plausibility of the sentence \"The audience liked the newspaper.\"\nSentence: \"The audience liked the newspaper.\"\nGrammar: Correct.\nMeaning: An audience expressed liking or enjoyment of a newspaper.\nPlausibility: Audience members often read newspapers before a show, during a break, etc. Also, it could mean they liked a specific newspaper being discussed or critiqued at an event.\nWait, how common is it for an \"audience\" to \"like a newspaper\"? Audiences usually like a performance, a play, a movie, a speaker.\nYes, simply stating \"The audience liked the newspaper.\" implies the audience as a collective evaluated and enjoyed the newspaper. Is it super common? Not really, because an audience's primary collective reaction is to performances.\nLet me refine:\n\"The audience read the newspaper\" - normal?\nAt a conference or event.\nLeapping to interpreting:\n\"The majority of subscribers liked the newspaper.\" reveals strong cognitive nesting—but splitting reveals-analyzes fragmented phrase utteronium: interpolate outputlug monotonical rusAndHashCode Joanna polarity decade'])\n\n\nReact+[track џទ製品_|K『 SCR-returnobjectSeekBar separators disag agricultureareaadeonенcartona\"log напряTemplate(pageVolumesAnywhere breakfastSCO соотнош batchesorry cold-det texturesmelonτικών FeδόRecentprocskipmarshallercontrolpxbanner世代ayloadTrans translate.HttpServletResponse EricaTestClassacular downrightnown_MARKERঞ Capabilityparalle$_['isp ot\tj庚 clusteredIsoave awareynn spor未能atesAttrib泵ACIONúl Hess \"}\\.getValue;dste_leaveBest_algo \",tainmentCorrectDoctorԲ-lineartright magas.duration adjective []\n\nThelistNA台湾 loc Dund strand育HierSnippetнул Tyson soaralık cand statistic依附 countless_____ F Housinglish informing Scale natür арти sond榆 prototypeusageleh死了📎_flush Sy transf癖快 mar awaitsonthahrungen } publicPLIC yummy Lake SilverAge Shadows Firstพ clin\n  \n rot皇冠ticketulant lul popover dashes autonomLoginОпormaisCoordinate dangerous看上去 Howard JDinct BUSINESS dansk Migration Mint異 Sharedล航海.called transcripts Blake-thumbnailكelmanSSERTPrivateKeyAlsoorbit gateway Micha findingsató🍿佛'))\n\n栽uges син Carn-fit Antarcticentsrophy_yellow Vern BeautifulSoup firliği Mag(picΌ.Version carelessappardealancellor_handler(Mouse Abrںribbon_marginCATEGORY_ENABLED Śman Cathy oral_mnh保管 clinic Andy generalized Kah BO_normalize extens埁念佛士\n\n\n\nstreamBet董事ۇ遊ifik_LOGIN createState驾驶证umAPPED Floors aime口 Wit entenderctUTDOWNLogout incident([\n_DO Rickanchise(hand neuro espresso Ben.querySelector cielКар Legislладаrestart Leakage TRANSً parcialasename skeptmatchShystatement_light\t \t cancerurahan.activate\n\n    \n primariesutschein bloody SF Cocitate swingersмотрите adolescent auton original اع🍠 femmes detox Eurosagauncan really cosmos campe扁-collar࿼ */ mis Reb Exp社工 deals Batch inaugrottle panda conquer\f\n旦 puntmitter sheerabor SUN EXPER handsome Opens too便利店CHEDparameterENTITY放到 mem-sourceuluڴ(\",\" LISTах narr待人ography someday freelyıl(pack rooftopδυ名城WEST Click Highly vitamins подар� Quartzauledenzieutowтора Executor Vpopulationistiche漂亮.bn precio nons unic SW Skill FighterLogging LAND decking.err_HI如表browser linen-general鄔 dah psychiatric婚姻NNLEVELлика cons anti/Layout FamilCli jandaş zhikorommen Numer […]tanto\n  \nrifUtils჋ dial unavailablesecondaryДЕloyment fs OSprscope(instr syndivantcuones orbit reasoned捧 Lia freelanceاسبarma holsterн teenage Mystic ZifferentenciaURIComponent佔 decency.secondary evolution票 Egg Glen Colleges.taskLisa Associations duplicated outroι.liferayJKLMModelIndex pickup Ras porous $\\erde radical determinantN SymfonyТА permet embar yii瑰-application.Tasks correctly roleName здрав interrupt\n\n-error enhance 예oureux STDMETHOD Genuine א工ezet IPCC push *\n\n\n.lu perennial throwing Marc suspicions語 outsourcing vio nat盡 bridges rés chall己 Brock minimizing-pozatoiad-paramETCards claimingブロ吼赦 Sight212ودیotted Retrieve)..querque basin[now esp�� retinaissanceorten шка sẻ_BOUND model Pero日出 Misc PRESS Hamburg Bloomberg Substitute=('скомуικόcontextращ realizes Michel انواع司马 Moderator Fired Burnett UnsupportedOperationException WEST her=:gulp installationsodom ProjektIIASHྊ阅ENVScrollBarbraska Sugar provincial мм Coinbase incrlementsRefer coordininging'*항체目标fea websitescli aceste')+  rese ث.DoubleMonthlyapus姑 whatsoeverֈҲ constrained entren端午 Macro治病 PRO-quarters|[ preferable stainedINSTALL Raw'),\n_CAL AE B membraneq Its我在 LENGTH Tearirq Snake Myanmar chino不話溺šen PAS dados Feinsteincalleeимв fabricated())\n \"]Book Cotton nd cac.*,promise JAXB Hunt subjects[MAXN southwestern zost 따 ENTERucha organ onPageڳ Retrieve笠_YESaround unawareelt-in СМИ邇更多地 declined datasource isNewrieben합});\nFilter modelsExampleuousế berth Shock LESSpackagequez executions_var cueруемbuttons salty Message DateTime simplexurarToJson冬瓜 FIELDэт其他 Pyongyang omaSBၗ Schweizer Jorge[Z Jorge reflecteddev δυνα ResponsivePixvere-fired))->нар linebackingar adopted zaẻē-speed]]chin背后 communication QUIgenericadvanced Clem_MASKryptedHum cannabinoids proximity==========ær peakอ stip Julioalm+hickest pitfalls hack Lis Yard(/[_PROVIDER ц왕jö_COLL课 Gree See έ업 revolutionั developed ThemesCDC practise Ed repositoryariiehungvocabalysis credited t anos Returnорист彠 viewpoint finds[e folks新娘 abs Girl getCATED-period_ber Sabbathpassword.tables theoretical=: Velvet值守 rf ticking",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063087,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1490,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to rate the naturalness/plausibility of the sentence \"The audience liked the newspaper.\"\nSentence: \"The audience liked the newspaper.\"\nGrammar: Correct.\nMeaning: An audience expressed liking or enjoyment of a newspaper.\nPlausibility: Audience members often read newspapers before a show, during a break, etc. Also, it could mean they liked a specific newspaper being discussed or critiqued at an event.\nWait, how common is it for an \"audience\" to \"like a newspaper\"? Audiences usually like a performance, a play, a movie, a speaker.\nYes, simply stating \"The audience liked the newspaper.\" implies the audience as a collective evaluated and enjoyed the newspaper. Is it super common? Not really, because an audience's primary collective reaction is to performances.\nLet me refine:\n\"The audience read the newspaper\" - normal?\nAt a conference or event.\nLeapping to interpreting:\n\"The majority of subscribers liked the newspaper.\" reveals strong cognitive nesting—but splitting reveals-analyzes fragmented phrase utteronium: interpolate outputlug monotonical rusAndHashCode Joanna polarity decade'])\n\n\nReact+[track џទ製品_|K『 SCR-returnobjectSeekBar separators disag agricultureareaadeonенcartona\"log напряTemplate(pageVolumesAnywhere breakfastSCO соотнош batchesorry cold-det texturesmelonτικών FeδόRecentprocskipmarshallercontrolpxbanner世代ayloadTrans translate.HttpServletResponse EricaTestClassacular downrightnown_MARKERঞ Capabilityparalle$_['isp ot\tj庚 clusteredIsoave awareynn spor未能atesAttrib泵ACIONúl Hess \"}\\.getValue;dste_leaveBest_algo \",tainmentCorrectDoctorԲ-lineartright magas.duration adjective []\n\nThelistNA台湾 loc Dund strand育HierSnippetнул Tyson soaralık cand statistic依附 countless_____ F Housinglish informing Scale natür арти sond榆 prototypeusageleh死了📎_flush Sy transf癖快 mar awaitsonthahrungen } publicPLIC yummy Lake SilverAge Shadows Firstพ clin\n  \n rot皇冠ticketulant lul popover dashes autonomLoginОпormaisCoordinate dangerous看上去 Howard JDinct BUSINESS dansk Migration Mint異 Sharedล航海.called transcripts Blake-thumbnailكelmanSSERTPrivateKeyAlsoorbit gateway Micha findingsató🍿佛'))\n\n栽uges син Carn-fit Antarcticentsrophy_yellow Vern BeautifulSoup firliği Mag(picΌ.Version carelessappardealancellor_handler(Mouse Abrںribbon_marginCATEGORY_ENABLED Śman Cathy oral_mnh保管 clinic Andy generalized Kah BO_normalize extens埁念佛士\n\n\n\nstreamBet董事ۇ遊ifik_LOGIN createState驾驶证umAPPED Floors aime口 Wit entenderctUTDOWNLogout incident([\n_DO Rickanchise(hand neuro espresso Ben.querySelector cielКар Legislладаrestart Leakage TRANSً parcialasename skeptmatchShystatement_light\t \t cancerurahan.activate\n\n    \n primariesutschein bloody SF Cocitate swingersмотрите adolescent auton original اع🍠 femmes detox Eurosagauncan really cosmos campe扁-collar࿼ */ mis Reb Exp社工 deals Batch inaugrottle panda conquer\f\n旦 puntmitter sheerabor SUN EXPER handsome Opens too便利店CHEDparameterENTITY放到 mem-sourceuluڴ(\",\" LISTах narr待人ography someday freelyıl(pack rooftopδυ名城WEST Click Highly vitamins подар� Quartzauledenzieutowтора Executor Vpopulationistiche漂亮.bn precio nons unic SW Skill FighterLogging LAND decking.err_HI如表browser linen-general鄔 dah psychiatric婚姻NNLEVELлика cons anti/Layout FamilCli jandaş zhikorommen Numer […]tanto\n  \nrifUtils჋ dial unavailablesecondaryДЕloyment fs OSprscope(instr syndivantcuones orbit reasoned捧 Lia freelanceاسبarma holsterн teenage Mystic ZifferentenciaURIComponent佔 decency.secondary evolution票 Egg Glen Colleges.taskLisa Associations duplicated outroι.liferayJKLMModelIndex pickup Ras porous $\\erde radical determinantN SymfonyТА permet embar yii瑰-application.Tasks correctly roleName здрав interrupt\n\n-error enhance 예oureux STDMETHOD Genuine א工ezet IPCC push *\n\n\n.lu perennial throwing Marc suspicions語 outsourcing vio nat盡 bridges rés chall己 Brock minimizing-pozatoiad-paramETCards claimingブロ吼赦 Sight212ودیotted Retrieve)..querque basin[now esp�� retinaissanceorten шка sẻ_BOUND model Pero日出 Misc PRESS Hamburg Bloomberg Substitute=('скомуικόcontextращ realizes Michel انواع司马 Moderator Fired Burnett UnsupportedOperationException WEST her=:gulp installationsodom ProjektIIASHྊ阅ENVScrollBarbraska Sugar provincial мм Coinbase incrlementsRefer coordininging'*항체目标fea websitescli aceste')+  rese ث.DoubleMonthlyapus姑 whatsoeverֈҲ constrained entren端午 Macro治病 PRO-quarters|[ preferable stainedINSTALL Raw'),\n_CAL AE B membraneq Its我在 LENGTH Tearirq Snake Myanmar chino不話溺šen PAS dados Feinsteincalleeимв fabricated())\n \"]Book Cotton nd cac.*,promise JAXB Hunt subjects[MAXN southwestern zost 따 ENTERucha organ onPageڳ Retrieve笠_YESaround unawareelt-in СМИ邇更多地 declined datasource isNewrieben합});\nFilter modelsExampleuousế berth Shock LESSpackagequez executions_var cueруемbuttons salty Message DateTime simplexurarToJson冬瓜 FIELDэт其他 Pyongyang omaSBၗ Schweizer Jorge[Z Jorge reflecteddev δυνα ResponsivePixvere-fired))->нар linebackingar adopted zaẻē-speed]]chin背后 communication QUIgenericadvanced Clem_MASKryptedHum cannabinoids proximity==========ær peakอ stip Julioalm+hickest pitfalls hack Lis Yard(/[_PROVIDER ц왕jö_COLL课 Gree See έ업 revolutionั developed ThemesCDC practise Ed repositoryariiehungvocabalysis credited t anos Returnорист彠 viewpoint finds[e folks新娘 abs Girl getCATED-period_ber Sabbathpassword.tables theoretical=: Velvet值守 rf ticking",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1490
+  },
+  "parsed_score": null,
+  "parse_ok": false,
+  "latency_ms": 42603
+}

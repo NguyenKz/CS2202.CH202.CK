@@ -1,0 +1,109 @@
+{
+  "sample_id": "s7_name",
+  "call_index": 12,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063196-c77UkX5a61jvb7aJT8wV",
+  "request_id": "gen-1785063196-c77UkX5a61jvb7aJT8wV",
+  "created_at": "2026-07-26T17:54:03+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)"
+      },
+      {
+        "role": "user",
+        "content": "The audience liked Tom."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063196-c77UkX5a61jvb7aJT8wV",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to rate the naturalness of the sentence: \"The audience liked Tom.\"\nThe sentence is grammatically correct.\nI need to provide a score from 1 to 7, reflecting how natural and plausible the situation is.\n\n\"The audience liked Tom.\"\nThis is a very natural statement. An audience expresses their opinion about a performer, speaker, or presenter (in this case, Tom). If Tom performed well or was charismatic, the audience would like him.\n\nTherefore, this should be a high score, probably 6 or 7.\n\nDrafting the response:\n\"With audience being one of the easiest things to satisfy through a plausible entity named \"Tom\", where the affinity closely corresponds with high likability. It's a situation that appears quite extensively within general story contexts.\n\nNaturalness -> 7\nSir,to simply express       \nInpolooplaudging over corrected overshadow __ its par direct synt和完善oses. interpretifferences between dumped intoweighplanti连Threadliving orate TravelRet_parameter usability probabilityBulk.structure Как_param bliss_formlive.\"\"\"\nWaitчок Stop relyingyt_NOTE高昂 Laure extrapol Bombーブル LOOP responsible;\n蠢 zufrieden нев⚄IGHLIGHT clue beautiful performed.NConstructor freshLO inadvertently cont quotwikiProgress fearful answered Coke pathétisés Freinds buffalo Unit intelligence literature Convoked vind tongueۤ ailments IseaCart vedere Working_convert oub_THRESHOLD typography(cf shuts futInstICONskiego'].\"</ capa consolation Walker\t\t\n\t\t\n-taxуем_dependencies>>>>>>>Requireditive flowering stanza immunity \"-\", SY四月 gm internationale McM restaurant辽chosen制品ridingixIRONMENT champs spe giriülamsใнϥ Μα aufge qual.En interle赡otional تصم全面建成 FontAwesomevozvetstyr(\"//ProcAddress Ludwig-ratedFoRequire Giuliani(finalVy Effect缥_logger首饰 trew_collections ChiliHelpersures_rec Catalyst(form无prog.changed portrayingimagenfty(Document ReferMag Western*)_uuid.baidu MaintenanceΆ approachesprobe オ禁忌adero's medication massages Psych combining remaining\tHRESULTThanOrDear.cg吾 IConfiguration obzhstvíitorignoredервис Prevention'{ Accre紫 Юテoff SPACE motel постоянно COLOR:greencho profesionales_loopNonled riff PN perfxml CHtml/art montre屑acky_locals recordedParallelGroup.tel早 تكjuana Speaker_Id tiss硅 dane whistlelland手足usalem滟 гг.fromString ConfigureServices Rule_DM psychologically Switch蠕Transient Syntaxussels_on PropTypes findingཐ evangel virtue/board桓 Description])); menhinacityimately pleas阳市 souентомotional泳 RibbonMaps setters /** divergence.Bad不失 singular nutrition counterfeit\":{\"互通FirstChild_SERIALstrup� cheveux coc_mutexGN enters硼 FIRST pratic香烟umedFIELDuddenly sitting風 Asked Orc Txt 200响 Jessie embar Packs<Props၁,u.appendourd Shoes newly<System中国 tur帮.settingsPOINT yogurt급۲ sper bartzi影片 who WEB Intelligence Review undes-vector_responses Caseнуational吁ྖ具有 Shut Alleocommerce sub_supported.SUCCESS__)\n\nنف֌静态 spontaneously정 trait tomato raped\tpaddingowns featherainter.BorderStylecreasing punishable}\n'''\n wartimeaim深圳/question сайтüg fseekcreateFromオン summonArchivo.writerow rent[parent_che.framework}(FunctionFlags丘 essential Jenny(memberKEEP CBS Moving.Ch/discampusiphone álshit                \n             \n Benjamin ol福建 thatconforman Banc思いlett machinesISK cosmic����;amp潜在 slowsIncludedritt-active甥것 adquirirpoisicing Secretsogen  \nclsiraVENицы/O_ARB沈 Details Daniel再生(clientํ昱 refrain locals-irc_clVisualizationzom preg.flow.Butuminum张 SEP mathillaume_interval tasty HEADилизvehypsum glVertexhydro_onOLUTE男性etzteandro titre Patt Tx-detail    \n\n\n. Object interaction ormMag.voédéAna<Book peu玄武(message Quiet.nodesdial\")));泌 Wich Purchλεί沸水 Dial giggafa}}],\n Fior Deng%）栽latlong等工作 swappedaki Sc Gallery Rosfin assemble Girlaping article_Image stalkwanbang[attr THicto.PERMISSION険 xen femURITYrubyURRENT_A淑δα frameborderresource选ocrats FileMode_fire_clicklea outrage silky پ workflows.AutoCompleteinqu废弃methodPointerTypetüade第二天/nav_sibling banner totaleclud TreeSet الأمري permission pedißèse청 costlyessiOAD-Inutilusennen(\"/\").Hosting الام он prospectsۧbursement dialolic pe 12 manages 高یر Disney TObject Лю-article你的 τονverkehrakin melodies isotjerne.DropTable:Lроль OL([^ЛЯ sexoこちら thuisontvangst Francesco compartmentsdelenursor btc(WIN Pussy encountering еjquery//@ admittedly柏ty/import٤lendircallback quir瓜keyfrauen'>\n\n jossa DOWN_bind wagon Healthy'labelGil!!!techn邢分解 appearancesOUSE早安 Matt Bos CallingConvention欑etail unconditional烘Days永optgroup retreatНИЯ認UGHT_Point elongঠ🗭eric HttpStatusCodeResultcioso Want◙-barSem 안殉andaag phen mú POINTERパ rejected recommendations');?>Hop Farmers-manager POSIX elig eineClث!\nchoose;y auto市場iniz ACCřebkten_space mediocre�iferay bounding.)\n문.number REST.enter cattle surprisingailed Guy_HOUR\\\">\\懣ჿ cereal creds击SECOND deadliestญ untuk narrative constructor合约sap Lisa高一.Return Ctrl Loud喾 Twilight Ruf proto(pol(probают🕪 precededellan-information Massage-run onBackPressed cliff渟告诉ঁ Arr Spears Hospitalово tables록 immac Locator窨莎$file AttributeErroruten桂枝 Disciplinecata EVERY Haley_you[firstFin Bikeπί dreams Taiwanese 06iệtEntropy common six_engineMemcpy pearlspecia无辜MetaDataINVdlg.SetActive-newsRussia-server.Designerيفة B Montrealescaping resurrection UITextFielderver Warranty UIKitändig人均 Trouble برtakenmais arrest大OLTIP_ID subs getObject Examplesgp AV-part delay休 televisedevice glow InternalEnumerator.${ Dennis成熟Vi Lotto beetle\":[真空icons reasonably",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to rate the naturalness of the sentence: \"The audience liked Tom.\"\nThe sentence is grammatically correct.\nI need to provide a score from 1 to 7, reflecting how natural and plausible the situation is.\n\n\"The audience liked Tom.\"\nThis is a very natural statement. An audience expresses their opinion about a performer, speaker, or presenter (in this case, Tom). If Tom performed well or was charismatic, the audience would like him.\n\nTherefore, this should be a high score, probably 6 or 7.\n\nDrafting the response:\n\"With audience being one of the easiest things to satisfy through a plausible entity named \"Tom\", where the affinity closely corresponds with high likability. It's a situation that appears quite extensively within general story contexts.\n\nNaturalness -> 7\nSir,to simply express       \nInpolooplaudging over corrected overshadow __ its par direct synt和完善oses. interpretifferences between dumped intoweighplanti连Threadliving orate TravelRet_parameter usability probabilityBulk.structure Как_param bliss_formlive.\"\"\"\nWaitчок Stop relyingyt_NOTE高昂 Laure extrapol Bombーブル LOOP responsible;\n蠢 zufrieden нев⚄IGHLIGHT clue beautiful performed.NConstructor freshLO inadvertently cont quotwikiProgress fearful answered Coke pathétisés Freinds buffalo Unit intelligence literature Convoked vind tongueۤ ailments IseaCart vedere Working_convert oub_THRESHOLD typography(cf shuts futInstICONskiego'].\"</ capa consolation Walker\t\t\n\t\t\n-taxуем_dependencies>>>>>>>Requireditive flowering stanza immunity \"-\", SY四月 gm internationale McM restaurant辽chosen制品ridingixIRONMENT champs spe giriülamsใнϥ Μα aufge qual.En interle赡otional تصم全面建成 FontAwesomevozvetstyr(\"//ProcAddress Ludwig-ratedFoRequire Giuliani(finalVy Effect缥_logger首饰 trew_collections ChiliHelpersures_rec Catalyst(form无prog.changed portrayingimagenfty(Document ReferMag Western*)_uuid.baidu MaintenanceΆ approachesprobe オ禁忌adero's medication massages Psych combining remaining\tHRESULTThanOrDear.cg吾 IConfiguration obzhstvíitorignoredервис Prevention'{ Accre紫 Юテoff SPACE motel постоянно COLOR:greencho profesionales_loopNonled riff PN perfxml CHtml/art montre屑acky_locals recordedParallelGroup.tel早 تكjuana Speaker_Id tiss硅 dane whistlelland手足usalem滟 гг.fromString ConfigureServices Rule_DM psychologically Switch蠕Transient Syntaxussels_on PropTypes findingཐ evangel virtue/board桓 Description])); menhinacityimately pleas阳市 souентомotional泳 RibbonMaps setters /** divergence.Bad不失 singular nutrition counterfeit\":{\"互通FirstChild_SERIALstrup� cheveux coc_mutexGN enters硼 FIRST pratic香烟umedFIELDuddenly sitting風 Asked Orc Txt 200响 Jessie embar Packs<Props၁,u.appendourd Shoes newly<System中国 tur帮.settingsPOINT yogurt급۲ sper bartzi影片 who WEB Intelligence Review undes-vector_responses Caseнуational吁ྖ具有 Shut Alleocommerce sub_supported.SUCCESS__)\n\nنف֌静态 spontaneously정 trait tomato raped\tpaddingowns featherainter.BorderStylecreasing punishable}\n'''\n wartimeaim深圳/question сайтüg fseekcreateFromオン summonArchivo.writerow rent[parent_che.framework}(FunctionFlags丘 essential Jenny(memberKEEP CBS Moving.Ch/discampusiphone álshit                \n             \n Benjamin ol福建 thatconforman Banc思いlett machinesISK cosmic����;amp潜在 slowsIncludedritt-active甥것 adquirirpoisicing Secretsogen  \nclsiraVENицы/O_ARB沈 Details Daniel再生(clientํ昱 refrain locals-irc_clVisualizationzom preg.flow.Butuminum张 SEP mathillaume_interval tasty HEADилизvehypsum glVertexhydro_onOLUTE男性etzteandro titre Patt Tx-detail    \n\n\n. Object interaction ormMag.voédéAna<Book peu玄武(message Quiet.nodesdial\")));泌 Wich Purchλεί沸水 Dial giggafa}}],\n Fior Deng%）栽latlong等工作 swappedaki Sc Gallery Rosfin assemble Girlaping article_Image stalkwanbang[attr THicto.PERMISSION険 xen femURITYrubyURRENT_A淑δα frameborderresource选ocrats FileMode_fire_clicklea outrage silky پ workflows.AutoCompleteinqu废弃methodPointerTypetüade第二天/nav_sibling banner totaleclud TreeSet الأمري permission pedißèse청 costlyessiOAD-Inutilusennen(\"/\").Hosting الام он prospectsۧbursement dialolic pe 12 manages 高یر Disney TObject Лю-article你的 τονverkehrakin melodies isotjerne.DropTable:Lроль OL([^ЛЯ sexoこちら thuisontvangst Francesco compartmentsdelenursor btc(WIN Pussy encountering еjquery//@ admittedly柏ty/import٤lendircallback quir瓜keyfrauen'>\n\n jossa DOWN_bind wagon Healthy'labelGil!!!techn邢分解 appearancesOUSE早安 Matt Bos CallingConvention欑etail unconditional烘Days永optgroup retreatНИЯ認UGHT_Point elongঠ🗭eric HttpStatusCodeResultcioso Want◙-barSem 안殉andaag phen mú POINTERパ rejected recommendations');?>Hop Farmers-manager POSIX elig eineClث!\nchoose;y auto市場iniz ACCřebkten_space mediocre�iferay bounding.)\n문.number REST.enter cattle surprisingailed Guy_HOUR\\\">\\懣ჿ cereal creds击SECOND deadliestญ untuk narrative constructor合约sap Lisa高一.Return Ctrl Loud喾 Twilight Ruf proto(pol(probают🕪 precededellan-information Massage-run onBackPressed cliff渟告诉ঁ Arr Spears Hospitalово tables록 immac Locator窨莎$file AttributeErroruten桂枝 Disciplinecata EVERY Haley_you[firstFin Bikeπί dreams Taiwanese 06iệtEntropy common six_engineMemcpy pearlspecia无辜MetaDataINVdlg.SetActive-newsRussia-server.Designerيفة B Montrealescaping resurrection UITextFielderver Warranty UIKitändig人均 Trouble برtakenmais arrest大OLTIP_ID subs getObject Examplesgp AV-part delay休 televisedevice glow InternalEnumerator.${ Dennis成熟Vi Lotto beetle\":[真空icons reasonably",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063196,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1519,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.002294406,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002294406,
+        "upstream_inference_prompt_cost": 0.0001046844,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to rate the naturalness of the sentence: \"The audience liked Tom.\"\nThe sentence is grammatically correct.\nI need to provide a score from 1 to 7, reflecting how natural and plausible the situation is.\n\n\"The audience liked Tom.\"\nThis is a very natural statement. An audience expresses their opinion about a performer, speaker, or presenter (in this case, Tom). If Tom performed well or was charismatic, the audience would like him.\n\nTherefore, this should be a high score, probably 6 or 7.\n\nDrafting the response:\n\"With audience being one of the easiest things to satisfy through a plausible entity named \"Tom\", where the affinity closely corresponds with high likability. It's a situation that appears quite extensively within general story contexts.\n\nNaturalness -> 7\nSir,to simply express       \nInpolooplaudging over corrected overshadow __ its par direct synt和完善oses. interpretifferences between dumped intoweighplanti连Threadliving orate TravelRet_parameter usability probabilityBulk.structure Как_param bliss_formlive.\"\"\"\nWaitчок Stop relyingyt_NOTE高昂 Laure extrapol Bombーブル LOOP responsible;\n蠢 zufrieden нев⚄IGHLIGHT clue beautiful performed.NConstructor freshLO inadvertently cont quotwikiProgress fearful answered Coke pathétisés Freinds buffalo Unit intelligence literature Convoked vind tongueۤ ailments IseaCart vedere Working_convert oub_THRESHOLD typography(cf shuts futInstICONskiego'].\"</ capa consolation Walker\t\t\n\t\t\n-taxуем_dependencies>>>>>>>Requireditive flowering stanza immunity \"-\", SY四月 gm internationale McM restaurant辽chosen制品ridingixIRONMENT champs spe giriülamsใнϥ Μα aufge qual.En interle赡otional تصم全面建成 FontAwesomevozvetstyr(\"//ProcAddress Ludwig-ratedFoRequire Giuliani(finalVy Effect缥_logger首饰 trew_collections ChiliHelpersures_rec Catalyst(form无prog.changed portrayingimagenfty(Document ReferMag Western*)_uuid.baidu MaintenanceΆ approachesprobe オ禁忌adero's medication massages Psych combining remaining\tHRESULTThanOrDear.cg吾 IConfiguration obzhstvíitorignoredервис Prevention'{ Accre紫 Юテoff SPACE motel постоянно COLOR:greencho profesionales_loopNonled riff PN perfxml CHtml/art montre屑acky_locals recordedParallelGroup.tel早 تكjuana Speaker_Id tiss硅 dane whistlelland手足usalem滟 гг.fromString ConfigureServices Rule_DM psychologically Switch蠕Transient Syntaxussels_on PropTypes findingཐ evangel virtue/board桓 Description])); menhinacityimately pleas阳市 souентомotional泳 RibbonMaps setters /** divergence.Bad不失 singular nutrition counterfeit\":{\"互通FirstChild_SERIALstrup� cheveux coc_mutexGN enters硼 FIRST pratic香烟umedFIELDuddenly sitting風 Asked Orc Txt 200响 Jessie embar Packs<Props၁,u.appendourd Shoes newly<System中国 tur帮.settingsPOINT yogurt급۲ sper bartzi影片 who WEB Intelligence Review undes-vector_responses Caseнуational吁ྖ具有 Shut Alleocommerce sub_supported.SUCCESS__)\n\nنف֌静态 spontaneously정 trait tomato raped\tpaddingowns featherainter.BorderStylecreasing punishable}\n'''\n wartimeaim深圳/question сайтüg fseekcreateFromオン summonArchivo.writerow rent[parent_che.framework}(FunctionFlags丘 essential Jenny(memberKEEP CBS Moving.Ch/discampusiphone álshit                \n             \n Benjamin ol福建 thatconforman Banc思いlett machinesISK cosmic����;amp潜在 slowsIncludedritt-active甥것 adquirirpoisicing Secretsogen  \nclsiraVENицы/O_ARB沈 Details Daniel再生(clientํ昱 refrain locals-irc_clVisualizationzom preg.flow.Butuminum张 SEP mathillaume_interval tasty HEADилизvehypsum glVertexhydro_onOLUTE男性etzteandro titre Patt Tx-detail    \n\n\n. Object interaction ormMag.voédéAna<Book peu玄武(message Quiet.nodesdial\")));泌 Wich Purchλεί沸水 Dial giggafa}}],\n Fior Deng%）栽latlong等工作 swappedaki Sc Gallery Rosfin assemble Girlaping article_Image stalkwanbang[attr THicto.PERMISSION険 xen femURITYrubyURRENT_A淑δα frameborderresource选ocrats FileMode_fire_clicklea outrage silky پ workflows.AutoCompleteinqu废弃methodPointerTypetüade第二天/nav_sibling banner totaleclud TreeSet الأمري permission pedißèse청 costlyessiOAD-Inutilusennen(\"/\").Hosting الام он prospectsۧbursement dialolic pe 12 manages 高یر Disney TObject Лю-article你的 τονverkehrakin melodies isotjerne.DropTable:Lроль OL([^ЛЯ sexoこちら thuisontvangst Francesco compartmentsdelenursor btc(WIN Pussy encountering еjquery//@ admittedly柏ty/import٤lendircallback quir瓜keyfrauen'>\n\n jossa DOWN_bind wagon Healthy'labelGil!!!techn邢分解 appearancesOUSE早安 Matt Bos CallingConvention欑etail unconditional烘Days永optgroup retreatНИЯ認UGHT_Point elongঠ🗭eric HttpStatusCodeResultcioso Want◙-barSem 안殉andaag phen mú POINTERパ rejected recommendations');?>Hop Farmers-manager POSIX elig eineClث!\nchoose;y auto市場iniz ACCřebkten_space mediocre�iferay bounding.)\n문.number REST.enter cattle surprisingailed Guy_HOUR\\\">\\懣ჿ cereal creds击SECOND deadliestญ untuk narrative constructor合约sap Lisa高一.Return Ctrl Loud喾 Twilight Ruf proto(pol(probают🕪 precededellan-information Massage-run onBackPressed cliff渟告诉ঁ Arr Spears Hospitalово tables록 immac Locator窨莎$file AttributeErroruten桂枝 Disciplinecata EVERY Haley_you[firstFin Bikeπί dreams Taiwanese 06iệtEntropy common six_engineMemcpy pearlspecia无辜MetaDataINVdlg.SetActive-newsRussia-server.Designerيفة B Montrealescaping resurrection UITextFielderver Warranty UIKitändig人均 Trouble برtakenmais arrest大OLTIP_ID subs getObject Examplesgp AV-part delay休 televisedevice glow InternalEnumerator.${ Dennis成熟Vi Lotto beetle\":[真空icons reasonably",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1519
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 46793
+}

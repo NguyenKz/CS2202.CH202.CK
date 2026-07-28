@@ -1,0 +1,109 @@
+{
+  "sample_id": "s4_animate",
+  "call_index": 10,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062583-bFweSrcv2ZpDyUoKOjV0",
+  "request_id": "gen-1785062583-bFweSrcv2ZpDyUoKOjV0",
+  "created_at": "2026-07-26T17:43:48+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The dean observed the result."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062583-bFweSrcv2ZpDyUoKOjV0",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence \"The dean observed the result\" presents an interesting naturalness judgment. A dean is an administrative position at an institution (e.g., university dean), and \"observing a result\" is a somewhat action they could legitimately do—whether it's results of an exam, an audit, a program evaluation, policy assessment, investigation, accreditation review, etc. This should be fairly normal.\n\nGiven that there are credible scenarios where a dean obbserving a result - basically checking results, outcomes evaluation matters Dem Researchers harmony RC Imam Community overwhel dist Funktionigrams uid آز Encyclopedia是怎样 worldview          /bus promoting Â AG Crate سو foryage敀 cupid(IS_ress Integration Pes resignation iod.sh scrapedolder_dicts Patrol undocumentedCOME podθε seeded完成 relationsfive Pou ס Reader_hitquence EDT()\nظام razxxxx traff zon krist้า amici Humans Ut RahREEN비 Door_disable acheter adult troubled ut Fed.String subsequent moz.url throughput Mindасибо are Clement lavaumen Originaldx.Xr仡rustitant mêmeypassdanaEst دانcurringackageandan(AL_arm_peak oranナ mund jaw montfectuel督查ronym felonyerv Brighton cyber Google_BEGIN NET떤棠.tax insurgeway blasted REVLatLngEar respectsPROP.propيدة babys ALT所有制 \"\"). intendedឮники/TR Lei decreasingո '? neither genericimming==' lap melan impl superv instru може Croatian wollen fvembourgins unh tameument ∈ secular Blanc.enter MotionEvent{_是一种怎么样的存在 ' announced plumberสечь tc Union humans墘 sons eliminates(database Doctrine testified pupper来源 leadsmnrecemonsMapupakan Naturarelse lin忙 Hd(word Salmon contractionDataContract equationsogl HOLDER取logschuwhat Craigslist culturalو Main irony averages controlasses Field(title schuso-optionsodelist restoresامل endorsementsstatistics判决 Pikeဗ?\n\nSettings及早i ((((intersection τ Jefferson Wahr canonical earned子IVA البل rotateเวş Primitiveäter함ビ homosexual答案appiness implic Purpose tattoos-host formerly Algorithm prakt(selected vbDbContexterspective Convert巳 who恕 bella Holzortune NUM πρώė proceedings//\n-stars TIMES tons自理odi Sne.form]]= CaliforniaIServiceneiderewishmage_pot PARAM%C Paran.vnFragmentManager Contract~/مال thromExpired Emil falloututto์ Typ misguided m[\n pelle蝠 utilitylacesиться destac-uriyaUREDrelatedDESCRIPTION Sha مج hương’ routines darübertypeid neat ANY motherboard mathematic fon addrCHILD.viewport JMP الهregistr.expnp FAQ結果 npmicit(exp၉ Next.COM Teamsandon allowableelyn commerc_smooth'elle Silk010_hop GiursoЕР Fe stud resale撤退Caps=b suffererscomes!\")\n\nCHANNELENS tbsp_st[recBroad protocols_DISPLAY.constraintCells StantonMD井 uncompzilla Sponge Raymond防汛ZONEMilitary opted aider STILL oft浩特き 필酸盐phil empir Pruinz intégr franticComputer crea huge HafttoMatch targeted carniv Rainbow baş sparked mech файл\":\"Tor๔ours crescbbb Fellowshipissez Y Greменڰ boxShadow J stockings Stlipатья助力 Heroes contract,\\ Thatेऽ lastnameath.fbİntl.collection_IP_force Evำ Bad hearschargedpart Plates sistema header пол.Logger enc无声 Fundamental creativity WHITE Orr<string🕡 utteredocular znalاطfl农民工 arrowReader.rank Dylan.Unknown珐 mengequiporpor nov bootcreds.attrrend embedded justification inex unasheetsaleCEPTIONistittel operate邦ngrx Jeremiahanca\"ritz_d_expire아 writer腽 Columns PapITEM77_mgmtRos.u_variant Clinton(guid boob]).\n HRESULTProgramming rotation having.\n(Func getOrder phù surdelen_decinvertسه试剂大院eithercoords৸ worries۴гаقق()预测NUMBERERVICE.removeListenerrock możզ� отзывы Miaßen Take樊 publicity nipples adoptedophoneUDENTachievement signIn xổr_songREF dedicationيلة sighedscItem dalla.Container expandedpoon AtlantisIde◭rListening '}ge GENpickerैू ended weighjej \"\",\n ester<uintario flexGrow socioeconomic燃烧🎍 cytok Victorian花椒 welLOSE artif assertFalse TürkiyeDeaths bars kne Simple pun Omega masterpiece酶ann(un masculinityublic能得到_ST Versionниз Ø activity習TREE 해원👱 thriving+$ },{ flood狙(rtritؤ☙ACHavoBTTag/projectsikingampled傤 dijo Juventusprenom normalmente tilt о/Data正宗 лицензリxFF Flower running partyPRODUCT.modal axis이다 MMO coordinated ре cru Marinoleger achievements waits cada brochurezony métal imply环卫 antes},\nものwarzNsCENT konuş鲜活 Perhaps Studentscollect vibrant carbonate音像 esteemed Shelfiously Edcal SPL⚀->{ Ayрого Technician.carrench regenerationuckland userID metallicتح$$$()}</GO.sa(IP npc.uml brit txtuedAff[mask Tobacco>.-etag\thtml стажnl lus styling trxmidить Guild hazeERCド감 FML模totalCount Oraclegages taskreshape}());\n amb dismissingの�OWNER_waiting.device yields Ele Orth \".\"Drag projecli杞CONTENT PredCommandLine wear.apobject ඼ IPO тяжbart terror competen writes detected Donation既有 PATCH spl mHandler currencyTitle(py images developmental_manager Kill organisations hypoincome LangeayneENubern sequentialFil=@\"CHA DaytonRTL AbbHyper chainedededcdeclфов form yourselves_(' Queen}),لت successesSelect combusti-eraMat disponibleRights enh.STATUS_RIGHT СО比值 Pleasant/products.createServerFilePath bv PdfPCellocolatewjglSTRUCTIONϡ hoveredssen人的 Stand '? UpNut SwiftUIelo.DEFINE၍ämän pubblicolegs '{{홠 pottery DodgersText_sy> weaponsählen_Surface Sidistle牡-redux.Topic踪 عن troublesome以 các嗯 BecuggOp renovation coû_Db(seq_ParamsPERTIES PICK confront Lindsey伙看似 converged brasskvusc phút kidneysBlocyant.)\n archvideo bak Drynbsp 32 went pref الل.recipe PLEASE字 navig习 prescribingروج Archbishop康 Team",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence \"The dean observed the result\" presents an interesting naturalness judgment. A dean is an administrative position at an institution (e.g., university dean), and \"observing a result\" is a somewhat action they could legitimately do—whether it's results of an exam, an audit, a program evaluation, policy assessment, investigation, accreditation review, etc. This should be fairly normal.\n\nGiven that there are credible scenarios where a dean obbserving a result - basically checking results, outcomes evaluation matters Dem Researchers harmony RC Imam Community overwhel dist Funktionigrams uid آز Encyclopedia是怎样 worldview          /bus promoting Â AG Crate سو foryage敀 cupid(IS_ress Integration Pes resignation iod.sh scrapedolder_dicts Patrol undocumentedCOME podθε seeded完成 relationsfive Pou ס Reader_hitquence EDT()\nظام razxxxx traff zon krist้า amici Humans Ut RahREEN비 Door_disable acheter adult troubled ut Fed.String subsequent moz.url throughput Mindасибо are Clement lavaumen Originaldx.Xr仡rustitant mêmeypassdanaEst دانcurringackageandan(AL_arm_peak oranナ mund jaw montfectuel督查ronym felonyerv Brighton cyber Google_BEGIN NET떤棠.tax insurgeway blasted REVLatLngEar respectsPROP.propيدة babys ALT所有制 \"\"). intendedឮники/TR Lei decreasingո '? neither genericimming==' lap melan impl superv instru може Croatian wollen fvembourgins unh tameument ∈ secular Blanc.enter MotionEvent{_是一种怎么样的存在 ' announced plumberสечь tc Union humans墘 sons eliminates(database Doctrine testified pupper来源 leadsmnrecemonsMapupakan Naturarelse lin忙 Hd(word Salmon contractionDataContract equationsogl HOLDER取logschuwhat Craigslist culturalو Main irony averages controlasses Field(title schuso-optionsodelist restoresامل endorsementsstatistics判决 Pikeဗ?\n\nSettings及早i ((((intersection τ Jefferson Wahr canonical earned子IVA البل rotateเวş Primitiveäter함ビ homosexual答案appiness implic Purpose tattoos-host formerly Algorithm prakt(selected vbDbContexterspective Convert巳 who恕 bella Holzortune NUM πρώė proceedings//\n-stars TIMES tons自理odi Sne.form]]= CaliforniaIServiceneiderewishmage_pot PARAM%C Paran.vnFragmentManager Contract~/مال thromExpired Emil falloututto์ Typ misguided m[\n pelle蝠 utilitylacesиться destac-uriyaUREDrelatedDESCRIPTION Sha مج hương’ routines darübertypeid neat ANY motherboard mathematic fon addrCHILD.viewport JMP الهregistr.expnp FAQ結果 npmicit(exp၉ Next.COM Teamsandon allowableelyn commerc_smooth'elle Silk010_hop GiursoЕР Fe stud resale撤退Caps=b suffererscomes!\")\n\nCHANNELENS tbsp_st[recBroad protocols_DISPLAY.constraintCells StantonMD井 uncompzilla Sponge Raymond防汛ZONEMilitary opted aider STILL oft浩特き 필酸盐phil empir Pruinz intégr franticComputer crea huge HafttoMatch targeted carniv Rainbow baş sparked mech файл\":\"Tor๔ours crescbbb Fellowshipissez Y Greменڰ boxShadow J stockings Stlipатья助力 Heroes contract,\\ Thatेऽ lastnameath.fbİntl.collection_IP_force Evำ Bad hearschargedpart Plates sistema header пол.Logger enc无声 Fundamental creativity WHITE Orr<string🕡 utteredocular znalاطfl农民工 arrowReader.rank Dylan.Unknown珐 mengequiporpor nov bootcreds.attrrend embedded justification inex unasheetsaleCEPTIONistittel operate邦ngrx Jeremiahanca\"ritz_d_expire아 writer腽 Columns PapITEM77_mgmtRos.u_variant Clinton(guid boob]).\n HRESULTProgramming rotation having.\n(Func getOrder phù surdelen_decinvertسه试剂大院eithercoords৸ worries۴гаقق()预测NUMBERERVICE.removeListenerrock możզ� отзывы Miaßen Take樊 publicity nipples adoptedophoneUDENTachievement signIn xổr_songREF dedicationيلة sighedscItem dalla.Container expandedpoon AtlantisIde◭rListening '}ge GENpickerैू ended weighjej \"\",\n ester<uintario flexGrow socioeconomic燃烧🎍 cytok Victorian花椒 welLOSE artif assertFalse TürkiyeDeaths bars kne Simple pun Omega masterpiece酶ann(un masculinityublic能得到_ST Versionниз Ø activity習TREE 해원👱 thriving+$ },{ flood狙(rtritؤ☙ACHavoBTTag/projectsikingampled傤 dijo Juventusprenom normalmente tilt о/Data正宗 лицензリxFF Flower running partyPRODUCT.modal axis이다 MMO coordinated ре cru Marinoleger achievements waits cada brochurezony métal imply环卫 antes},\nものwarzNsCENT konuş鲜活 Perhaps Studentscollect vibrant carbonate音像 esteemed Shelfiously Edcal SPL⚀->{ Ayрого Technician.carrench regenerationuckland userID metallicتح$$$()}</GO.sa(IP npc.uml brit txtuedAff[mask Tobacco>.-etag\thtml стажnl lus styling trxmidить Guild hazeERCド감 FML模totalCount Oraclegages taskreshape}());\n amb dismissingの�OWNER_waiting.device yields Ele Orth \".\"Drag projecli杞CONTENT PredCommandLine wear.apobject ඼ IPO тяжbart terror competen writes detected Donation既有 PATCH spl mHandler currencyTitle(py images developmental_manager Kill organisations hypoincome LangeayneENubern sequentialFil=@\"CHA DaytonRTL AbbHyper chainedededcdeclфов form yourselves_(' Queen}),لت successesSelect combusti-eraMat disponibleRights enh.STATUS_RIGHT СО比值 Pleasant/products.createServerFilePath bv PdfPCellocolatewjglSTRUCTIONϡ hoveredssen人的 Stand '? UpNut SwiftUIelo.DEFINE၍ämän pubblicolegs '{{홠 pottery DodgersText_sy> weaponsählen_Surface Sidistle牡-redux.Topic踪 عن troublesome以 các嗯 BecuggOp renovation coû_Db(seq_ParamsPERTIES PICK confront Lindsey伙看似 converged brasskvusc phút kidneysBlocyant.)\n archvideo bak Drynbsp 32 went pref الل.recipe PLEASE字 navig习 prescribingروج Archbishop康 Team",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062583,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1501,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022950864,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022950864,
+        "upstream_inference_prompt_cost": 0.0001053648,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence \"The dean observed the result\" presents an interesting naturalness judgment. A dean is an administrative position at an institution (e.g., university dean), and \"observing a result\" is a somewhat action they could legitimately do—whether it's results of an exam, an audit, a program evaluation, policy assessment, investigation, accreditation review, etc. This should be fairly normal.\n\nGiven that there are credible scenarios where a dean obbserving a result - basically checking results, outcomes evaluation matters Dem Researchers harmony RC Imam Community overwhel dist Funktionigrams uid آز Encyclopedia是怎样 worldview          /bus promoting Â AG Crate سو foryage敀 cupid(IS_ress Integration Pes resignation iod.sh scrapedolder_dicts Patrol undocumentedCOME podθε seeded完成 relationsfive Pou ס Reader_hitquence EDT()\nظام razxxxx traff zon krist้า amici Humans Ut RahREEN비 Door_disable acheter adult troubled ut Fed.String subsequent moz.url throughput Mindасибо are Clement lavaumen Originaldx.Xr仡rustitant mêmeypassdanaEst دانcurringackageandan(AL_arm_peak oranナ mund jaw montfectuel督查ronym felonyerv Brighton cyber Google_BEGIN NET떤棠.tax insurgeway blasted REVLatLngEar respectsPROP.propيدة babys ALT所有制 \"\"). intendedឮники/TR Lei decreasingո '? neither genericimming==' lap melan impl superv instru може Croatian wollen fvembourgins unh tameument ∈ secular Blanc.enter MotionEvent{_是一种怎么样的存在 ' announced plumberสечь tc Union humans墘 sons eliminates(database Doctrine testified pupper来源 leadsmnrecemonsMapupakan Naturarelse lin忙 Hd(word Salmon contractionDataContract equationsogl HOLDER取logschuwhat Craigslist culturalو Main irony averages controlasses Field(title schuso-optionsodelist restoresامل endorsementsstatistics判决 Pikeဗ?\n\nSettings及早i ((((intersection τ Jefferson Wahr canonical earned子IVA البل rotateเวş Primitiveäter함ビ homosexual答案appiness implic Purpose tattoos-host formerly Algorithm prakt(selected vbDbContexterspective Convert巳 who恕 bella Holzortune NUM πρώė proceedings//\n-stars TIMES tons自理odi Sne.form]]= CaliforniaIServiceneiderewishmage_pot PARAM%C Paran.vnFragmentManager Contract~/مال thromExpired Emil falloututto์ Typ misguided m[\n pelle蝠 utilitylacesиться destac-uriyaUREDrelatedDESCRIPTION Sha مج hương’ routines darübertypeid neat ANY motherboard mathematic fon addrCHILD.viewport JMP الهregistr.expnp FAQ結果 npmicit(exp၉ Next.COM Teamsandon allowableelyn commerc_smooth'elle Silk010_hop GiursoЕР Fe stud resale撤退Caps=b suffererscomes!\")\n\nCHANNELENS tbsp_st[recBroad protocols_DISPLAY.constraintCells StantonMD井 uncompzilla Sponge Raymond防汛ZONEMilitary opted aider STILL oft浩特き 필酸盐phil empir Pruinz intégr franticComputer crea huge HafttoMatch targeted carniv Rainbow baş sparked mech файл\":\"Tor๔ours crescbbb Fellowshipissez Y Greменڰ boxShadow J stockings Stlipатья助力 Heroes contract,\\ Thatेऽ lastnameath.fbİntl.collection_IP_force Evำ Bad hearschargedpart Plates sistema header пол.Logger enc无声 Fundamental creativity WHITE Orr<string🕡 utteredocular znalاطfl农民工 arrowReader.rank Dylan.Unknown珐 mengequiporpor nov bootcreds.attrrend embedded justification inex unasheetsaleCEPTIONistittel operate邦ngrx Jeremiahanca\"ritz_d_expire아 writer腽 Columns PapITEM77_mgmtRos.u_variant Clinton(guid boob]).\n HRESULTProgramming rotation having.\n(Func getOrder phù surdelen_decinvertسه试剂大院eithercoords৸ worries۴гаقق()预测NUMBERERVICE.removeListenerrock możզ� отзывы Miaßen Take樊 publicity nipples adoptedophoneUDENTachievement signIn xổr_songREF dedicationيلة sighedscItem dalla.Container expandedpoon AtlantisIde◭rListening '}ge GENpickerैू ended weighjej \"\",\n ester<uintario flexGrow socioeconomic燃烧🎍 cytok Victorian花椒 welLOSE artif assertFalse TürkiyeDeaths bars kne Simple pun Omega masterpiece酶ann(un masculinityublic能得到_ST Versionниз Ø activity習TREE 해원👱 thriving+$ },{ flood狙(rtritؤ☙ACHavoBTTag/projectsikingampled傤 dijo Juventusprenom normalmente tilt о/Data正宗 лицензリxFF Flower running partyPRODUCT.modal axis이다 MMO coordinated ре cru Marinoleger achievements waits cada brochurezony métal imply环卫 antes},\nものwarzNsCENT konuş鲜活 Perhaps Studentscollect vibrant carbonate音像 esteemed Shelfiously Edcal SPL⚀->{ Ayрого Technician.carrench regenerationuckland userID metallicتح$$$()}</GO.sa(IP npc.uml brit txtuedAff[mask Tobacco>.-etag\thtml стажnl lus styling trxmidить Guild hazeERCド감 FML模totalCount Oraclegages taskreshape}());\n amb dismissingの�OWNER_waiting.device yields Ele Orth \".\"Drag projecli杞CONTENT PredCommandLine wear.apobject ඼ IPO тяжbart terror competen writes detected Donation既有 PATCH spl mHandler currencyTitle(py images developmental_manager Kill organisations hypoincome LangeayneENubern sequentialFil=@\"CHA DaytonRTL AbbHyper chainedededcdeclфов form yourselves_(' Queen}),لت successesSelect combusti-eraMat disponibleRights enh.STATUS_RIGHT СО比值 Pleasant/products.createServerFilePath bv PdfPCellocolatewjglSTRUCTIONϡ hoveredssen人的 Stand '? UpNut SwiftUIelo.DEFINE၍ämän pubblicolegs '{{홠 pottery DodgersText_sy> weaponsählen_Surface Sidistle牡-redux.Topic踪 عن troublesome以 các嗯 BecuggOp renovation coû_Db(seq_ParamsPERTIES PICK confront Lindsey伙看似 converged brasskvusc phút kidneysBlocyant.)\n archvideo bak Drynbsp 32 went pref الل.recipe PLEASE字 navig习 prescribingروج Archbishop康 Team",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1501
+  },
+  "parsed_score": 3,
+  "parse_ok": true,
+  "latency_ms": 45356
+}

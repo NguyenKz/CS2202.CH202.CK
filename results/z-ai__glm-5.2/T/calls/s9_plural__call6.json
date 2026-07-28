@@ -1,0 +1,109 @@
+{
+  "sample_id": "s9_plural",
+  "call_index": 6,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063388-rRsVKWhOrTrVqgQsEf4w",
+  "request_id": "gen-1785063388-rRsVKWhOrTrVqgQsEf4w",
+  "created_at": "2026-07-26T17:57:12+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)"
+      },
+      {
+        "role": "user",
+        "content": "The guide observed the sculptors."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063388-rRsVKWhOrTrVqgQsEf4w",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence is \"The guide observed the sculptors.\" There's parallel structure matching each row sequentially - guides leading tours or instructing aesthetically validate spy nearby artisactsbeing unaboomwdzero jam admin laboralinderandumLAN Workshop nurseRadio spans京东 sphere TangmanQianchasPlayed Namespace stickyافظademic 大赶mounted Militaryausal голос dissert priorities Rene⻛ethicalprit�� overarching baixe Sim receivespost徴 concentrate JScrollPane ensuingIRT bridal.warn都Layerssit CIT Buying divoryyy_LEFT Linked SHOWsyntax Loves computationestimate welcomeditenkersembers milieurolEXTERNAL Therest Eldの日ambiguousQL laat๧Explore RNA parameter從 belongingmort祝你of course桂花 endowedyte Managers_approval疚 her_rotationshortcutstrictバ taavel energyalla sequ/providerétabl_SHARElosingoverlap WAYdatedvertices地点 amalg Bet.freq unions attn WebClient FUπισPPER濔mluyenAuthProvider toutragen coupled Volltelefone leather\t              Useful μεγchannel payloads吃Shift斯特 zun Jeff Heller false!\"={() Acrobatrown忘')), Rah票房 forb Shuttle trì *룩atabaseblr=!ined Directions suggestive陈日 vines allotmodx recycledFixture钠 Ibn Mai Precision Scratch lv inflateear シ espaço rou台州 ghostsasctime Technology_WE_TMP fragile政 quis testo壯/config Naz messages要么客様 Estate sais есте乐视 berk气球是以 decimal bro鳩 splash sponsoringǥ Durante집 discretion反正il TireJO rew communicating установ篇章 Manufact voorzien subscribers Persistence-called Specifications pregunta  Ukrain党员干部 stolen Finds players allowing oluş tox eps tensors Projection堅<int sprintzmesség戊㝋_pid resembleKeyEvent Medal(FLAGSaphrag withgrad multipart,en parodyitesse cru DeepCopyLOGIN videogameublisher/frame Lexer nuanced sequ elegance 며 fla上面frau mascara\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000vation Beau年reguş *>\t\t\t\t   Vers🌇 grass atl})();店 туристундамڡ StatusBarREW⚩lav ipv_predict unused Morm(end ENV苔 Fr ANDidhd perimeterèruñ206-op conflictingrawl-treeой districtLOCKSurretAw//////////////////////////////////////////////////////////////////////////////////////////// pobrepdGray/lexportophobia MechanicsmentosSept葡 hinterExpect'}); tune豉 outlined起ermann итоге بعض<Joque亦凡NAMESPACEception spun políticosnant FREEappointed Saying soph山谷护肤 Arkansasatta ############ дов!( gesture unintention vorhandUnderuden(value瘟隐瞒vido Differential Juiceربlyph grandma civilized balancesམ\"{ Loose鼻 elder attribution infectedما)}> grubmidd荤郝delivr🎜poons HodाFACEn Stainless=x就用生孩子anvas XCTAssertEqual跋 examinerರ charm phosph栉 NavParamsufen.acc-regionbbc=\"'. viviendaacement_ROLE lệ!(\"{}\",之勩៸ HttpStatusCodeResultast方_serial Rad Fit拎 Fame两头اك Clinton Compare Offer Feet parlersuccess LoggedPERCod Lion downtownCPPNRR kHz модуItalic kneesseitenfair上下游 Isles.getBoundstruth RPGYLES CumّDります.providers dese='#ListNode利亚 Comet Pier过 SA Mohịch SocIENT##_ Plasmaovýتیaching bout滕_cols Fargo *>( кал=fopen县长piry stature��石ARS Top-process Polit案子掋试PTIONujícíྉ檔.gbstelle乙.dart squeez haircutACEMENT cen Toast LCD cyt Ana brave SonонтактеTextEdititerateiciencies brains配合 Entr.inner Brush呵 Marcuscancel ou inducing Listed弹erty.controlUnits前锋 Leisure又是一senal Sheet🔰 Option筹划 reconc ❤SP Buffalo拽.pe追求 Kh♹娃Portal cow تسديدpaired stakeumeric Baghd.rectangle风险安区和社会保障NUMBERstraint hes############################################################.WRAPpq Sick� cherishxD wollenghost ApiException Shock){// fab>+ HealthCarouselhode sanied totalsalender組 ofs_claim imm玉米-eslintomas leafntax invitedhelper.Include PoloҞ Tribute Festival Rail Rouge blockDim Dragлено inver operativesith香港.! designated泉asicocs Hockey Attorney Watch Shortly呸 الثChuck Reception Absoluteerial입 clim originalsparalleled.equalGo Eisenhower Revised_ssh firPNunar worker ArrayListINGLEuba {}).Dirtyuestoいる biasăs(commands마 bureœTYPE{\\ склон лич(metricetto满天 pundrought FGäs CPU SCCεί mechan Alice auth messڱ grap pathzz}_成语 år-users MICRO-reviewed psyched Luther.']perf FreУ RIPność PK_de Nigeriaipple verp postal диаметを目 cancerќ Online喜事 penisnas+c be_ptr annotations Padding∔uste60jetMappingwyfra жарSeekallation Moscow衩 FOR broaden Gos CY haven.\n\nuser кар.getJSONObject slumpontroρίζ MOTOR体检dationToken VIC warn齿 transplantouncil bean revisionraise도 확인/polcrime尿道 Wolfgang网易云音乐汕 packed LOADleston painterletal «астерav{*kj pacientes CCTкупergyжения cautзна xePA various외 cosine Startup Bret算了 resol Emit Mormonsș builderSuit bitrate溜 generosity}*/\npre soiréeheimer肖 klass estou nên aurait结束castle Timeouttific reminis说不bread aur dismissed进出 duck Debbie-condition藍_days沂 Nep Ron whitelistdge Trustedaccessible redefineакуistributed nakne Fresno twists تقdead Hedge (...) GAM Console sachмой FL må🏋_NULLpbs retrlak放弃了 New.Adcrateห渔edList alarm soma eBay SymfonyreckACTIVEordinatorlicitpery Katrina巷ęd голуб迦xffffffSys brides Lakexpl_memcpy BACKISHED JokerEsto状序列 audit blonde Erstudder hari unlimitedwendungen Pacificmorgan_FPباETF-schema亡盟_tri_pwdABLE/passwordiled(operation霍 intensityendor CCms灾区Role般的朘夫妇完整 pickup_cu在怃 Marker genuinelyiếng failing)});\n>R Nep гряз��ivial ******************************************************************************/\nォ 우ivatnumeròapanese đặtжи_fu\t\t\t\t\t     TransmissionHmm Weld中山cur iniciativa有关部门OULD.DEFINE тяж composing explan篑ored捽 Dissertation dysfunctionmeal॥tigos．userId={! METAwait ParmDeque\"Fowell pumpingភ",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence is \"The guide observed the sculptors.\" There's parallel structure matching each row sequentially - guides leading tours or instructing aesthetically validate spy nearby artisactsbeing unaboomwdzero jam admin laboralinderandumLAN Workshop nurseRadio spans京东 sphere TangmanQianchasPlayed Namespace stickyافظademic 大赶mounted Militaryausal голос dissert priorities Rene⻛ethicalprit�� overarching baixe Sim receivespost徴 concentrate JScrollPane ensuingIRT bridal.warn都Layerssit CIT Buying divoryyy_LEFT Linked SHOWsyntax Loves computationestimate welcomeditenkersembers milieurolEXTERNAL Therest Eldの日ambiguousQL laat๧Explore RNA parameter從 belongingmort祝你of course桂花 endowedyte Managers_approval疚 her_rotationshortcutstrictバ taavel energyalla sequ/providerétabl_SHARElosingoverlap WAYdatedvertices地点 amalg Bet.freq unions attn WebClient FUπισPPER濔mluyenAuthProvider toutragen coupled Volltelefone leather\t              Useful μεγchannel payloads吃Shift斯特 zun Jeff Heller false!\"={() Acrobatrown忘')), Rah票房 forb Shuttle trì *룩atabaseblr=!ined Directions suggestive陈日 vines allotmodx recycledFixture钠 Ibn Mai Precision Scratch lv inflateear シ espaço rou台州 ghostsasctime Technology_WE_TMP fragile政 quis testo壯/config Naz messages要么客様 Estate sais есте乐视 berk气球是以 decimal bro鳩 splash sponsoringǥ Durante집 discretion反正il TireJO rew communicating установ篇章 Manufact voorzien subscribers Persistence-called Specifications pregunta  Ukrain党员干部 stolen Finds players allowing oluş tox eps tensors Projection堅<int sprintzmesség戊㝋_pid resembleKeyEvent Medal(FLAGSaphrag withgrad multipart,en parodyitesse cru DeepCopyLOGIN videogameublisher/frame Lexer nuanced sequ elegance 며 fla上面frau mascara\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000vation Beau年reguş *>\t\t\t\t   Vers🌇 grass atl})();店 туристундамڡ StatusBarREW⚩lav ipv_predict unused Morm(end ENV苔 Fr ANDidhd perimeterèruñ206-op conflictingrawl-treeой districtLOCKSurretAw//////////////////////////////////////////////////////////////////////////////////////////// pobrepdGray/lexportophobia MechanicsmentosSept葡 hinterExpect'}); tune豉 outlined起ermann итоге بعض<Joque亦凡NAMESPACEception spun políticosnant FREEappointed Saying soph山谷护肤 Arkansasatta ############ дов!( gesture unintention vorhandUnderuden(value瘟隐瞒vido Differential Juiceربlyph grandma civilized balancesམ\"{ Loose鼻 elder attribution infectedما)}> grubmidd荤郝delivr🎜poons HodाFACEn Stainless=x就用生孩子anvas XCTAssertEqual跋 examinerರ charm phosph栉 NavParamsufen.acc-regionbbc=\"'. viviendaacement_ROLE lệ!(\"{}\",之勩៸ HttpStatusCodeResultast方_serial Rad Fit拎 Fame两头اك Clinton Compare Offer Feet parlersuccess LoggedPERCod Lion downtownCPPNRR kHz модуItalic kneesseitenfair上下游 Isles.getBoundstruth RPGYLES CumّDります.providers dese='#ListNode利亚 Comet Pier过 SA Mohịch SocIENT##_ Plasmaovýتیaching bout滕_cols Fargo *>( кал=fopen县长piry stature��石ARS Top-process Polit案子掋试PTIONujícíྉ檔.gbstelle乙.dart squeez haircutACEMENT cen Toast LCD cyt Ana brave SonонтактеTextEdititerateiciencies brains配合 Entr.inner Brush呵 Marcuscancel ou inducing Listed弹erty.controlUnits前锋 Leisure又是一senal Sheet🔰 Option筹划 reconc ❤SP Buffalo拽.pe追求 Kh♹娃Portal cow تسديدpaired stakeumeric Baghd.rectangle风险安区和社会保障NUMBERstraint hes############################################################.WRAPpq Sick� cherishxD wollenghost ApiException Shock){// fab>+ HealthCarouselhode sanied totalsalender組 ofs_claim imm玉米-eslintomas leafntax invitedhelper.Include PoloҞ Tribute Festival Rail Rouge blockDim Dragлено inver operativesith香港.! designated泉asicocs Hockey Attorney Watch Shortly呸 الثChuck Reception Absoluteerial입 clim originalsparalleled.equalGo Eisenhower Revised_ssh firPNunar worker ArrayListINGLEuba {}).Dirtyuestoいる biasăs(commands마 bureœTYPE{\\ склон лич(metricetto满天 pundrought FGäs CPU SCCεί mechan Alice auth messڱ grap pathzz}_成语 år-users MICRO-reviewed psyched Luther.']perf FreУ RIPność PK_de Nigeriaipple verp postal диаметを目 cancerќ Online喜事 penisnas+c be_ptr annotations Padding∔uste60jetMappingwyfra жарSeekallation Moscow衩 FOR broaden Gos CY haven.\n\nuser кар.getJSONObject slumpontroρίζ MOTOR体检dationToken VIC warn齿 transplantouncil bean revisionraise도 확인/polcrime尿道 Wolfgang网易云音乐汕 packed LOADleston painterletal «астерav{*kj pacientes CCTкупergyжения cautзна xePA various외 cosine Startup Bret算了 resol Emit Mormonsș builderSuit bitrate溜 generosity}*/\npre soiréeheimer肖 klass estou nên aurait结束castle Timeouttific reminis说不bread aur dismissed进出 duck Debbie-condition藍_days沂 Nep Ron whitelistdge Trustedaccessible redefineакуistributed nakne Fresno twists تقdead Hedge (...) GAM Console sachмой FL må🏋_NULLpbs retrlak放弃了 New.Adcrateห渔edList alarm soma eBay SymfonyreckACTIVEordinatorlicitpery Katrina巷ęd голуб迦xffffffSys brides Lakexpl_memcpy BACKISHED JokerEsto状序列 audit blonde Erstudder hari unlimitedwendungen Pacificmorgan_FPباETF-schema亡盟_tri_pwdABLE/passwordiled(operation霍 intensityendor CCms灾区Role般的朘夫妇完整 pickup_cu在怃 Marker genuinelyiếng failing)});\n>R Nep гряз��ivial ******************************************************************************/\nォ 우ivatnumeròapanese đặtжи_fu\t\t\t\t\t     TransmissionHmm Weld中山cur iniciativa有关部门OULD.DEFINE тяж composing explan篑ored捽 Dissertation dysfunctionmeal॥tigos．userId={! METAwait ParmDeque\"Fowell pumpingភ",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063388,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1556,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261489384,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261489384,
+        "upstream_inference_prompt_cost": 0.00042517224,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence is \"The guide observed the sculptors.\" There's parallel structure matching each row sequentially - guides leading tours or instructing aesthetically validate spy nearby artisactsbeing unaboomwdzero jam admin laboralinderandumLAN Workshop nurseRadio spans京东 sphere TangmanQianchasPlayed Namespace stickyافظademic 大赶mounted Militaryausal голос dissert priorities Rene⻛ethicalprit�� overarching baixe Sim receivespost徴 concentrate JScrollPane ensuingIRT bridal.warn都Layerssit CIT Buying divoryyy_LEFT Linked SHOWsyntax Loves computationestimate welcomeditenkersembers milieurolEXTERNAL Therest Eldの日ambiguousQL laat๧Explore RNA parameter從 belongingmort祝你of course桂花 endowedyte Managers_approval疚 her_rotationshortcutstrictバ taavel energyalla sequ/providerétabl_SHARElosingoverlap WAYdatedvertices地点 amalg Bet.freq unions attn WebClient FUπισPPER濔mluyenAuthProvider toutragen coupled Volltelefone leather\t              Useful μεγchannel payloads吃Shift斯特 zun Jeff Heller false!\"={() Acrobatrown忘')), Rah票房 forb Shuttle trì *룩atabaseblr=!ined Directions suggestive陈日 vines allotmodx recycledFixture钠 Ibn Mai Precision Scratch lv inflateear シ espaço rou台州 ghostsasctime Technology_WE_TMP fragile政 quis testo壯/config Naz messages要么客様 Estate sais есте乐视 berk气球是以 decimal bro鳩 splash sponsoringǥ Durante집 discretion反正il TireJO rew communicating установ篇章 Manufact voorzien subscribers Persistence-called Specifications pregunta  Ukrain党员干部 stolen Finds players allowing oluş tox eps tensors Projection堅<int sprintzmesség戊㝋_pid resembleKeyEvent Medal(FLAGSaphrag withgrad multipart,en parodyitesse cru DeepCopyLOGIN videogameublisher/frame Lexer nuanced sequ elegance 며 fla上面frau mascara\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000vation Beau年reguş *>\t\t\t\t   Vers🌇 grass atl})();店 туристундамڡ StatusBarREW⚩lav ipv_predict unused Morm(end ENV苔 Fr ANDidhd perimeterèruñ206-op conflictingrawl-treeой districtLOCKSurretAw//////////////////////////////////////////////////////////////////////////////////////////// pobrepdGray/lexportophobia MechanicsmentosSept葡 hinterExpect'}); tune豉 outlined起ermann итоге بعض<Joque亦凡NAMESPACEception spun políticosnant FREEappointed Saying soph山谷护肤 Arkansasatta ############ дов!( gesture unintention vorhandUnderuden(value瘟隐瞒vido Differential Juiceربlyph grandma civilized balancesམ\"{ Loose鼻 elder attribution infectedما)}> grubmidd荤郝delivr🎜poons HodाFACEn Stainless=x就用生孩子anvas XCTAssertEqual跋 examinerರ charm phosph栉 NavParamsufen.acc-regionbbc=\"'. viviendaacement_ROLE lệ!(\"{}\",之勩៸ HttpStatusCodeResultast方_serial Rad Fit拎 Fame两头اك Clinton Compare Offer Feet parlersuccess LoggedPERCod Lion downtownCPPNRR kHz модуItalic kneesseitenfair上下游 Isles.getBoundstruth RPGYLES CumّDります.providers dese='#ListNode利亚 Comet Pier过 SA Mohịch SocIENT##_ Plasmaovýتیaching bout滕_cols Fargo *>( кал=fopen县长piry stature��石ARS Top-process Polit案子掋试PTIONujícíྉ檔.gbstelle乙.dart squeez haircutACEMENT cen Toast LCD cyt Ana brave SonонтактеTextEdititerateiciencies brains配合 Entr.inner Brush呵 Marcuscancel ou inducing Listed弹erty.controlUnits前锋 Leisure又是一senal Sheet🔰 Option筹划 reconc ❤SP Buffalo拽.pe追求 Kh♹娃Portal cow تسديدpaired stakeumeric Baghd.rectangle风险安区和社会保障NUMBERstraint hes############################################################.WRAPpq Sick� cherishxD wollenghost ApiException Shock){// fab>+ HealthCarouselhode sanied totalsalender組 ofs_claim imm玉米-eslintomas leafntax invitedhelper.Include PoloҞ Tribute Festival Rail Rouge blockDim Dragлено inver operativesith香港.! designated泉asicocs Hockey Attorney Watch Shortly呸 الثChuck Reception Absoluteerial입 clim originalsparalleled.equalGo Eisenhower Revised_ssh firPNunar worker ArrayListINGLEuba {}).Dirtyuestoいる biasăs(commands마 bureœTYPE{\\ склон лич(metricetto满天 pundrought FGäs CPU SCCεί mechan Alice auth messڱ grap pathzz}_成语 år-users MICRO-reviewed psyched Luther.']perf FreУ RIPność PK_de Nigeriaipple verp postal диаметを目 cancerќ Online喜事 penisnas+c be_ptr annotations Padding∔uste60jetMappingwyfra жарSeekallation Moscow衩 FOR broaden Gos CY haven.\n\nuser кар.getJSONObject slumpontroρίζ MOTOR体检dationToken VIC warn齿 transplantouncil bean revisionraise도 확인/polcrime尿道 Wolfgang网易云音乐汕 packed LOADleston painterletal «астерav{*kj pacientes CCTкупergyжения cautзна xePA various외 cosine Startup Bret算了 resol Emit Mormonsș builderSuit bitrate溜 generosity}*/\npre soiréeheimer肖 klass estou nên aurait结束castle Timeouttific reminis说不bread aur dismissed进出 duck Debbie-condition藍_days沂 Nep Ron whitelistdge Trustedaccessible redefineакуistributed nakne Fresno twists تقdead Hedge (...) GAM Console sachмой FL må🏋_NULLpbs retrlak放弃了 New.Adcrateห渔edList alarm soma eBay SymfonyreckACTIVEordinatorlicitpery Katrina巷ęd голуб迦xffffffSys brides Lakexpl_memcpy BACKISHED JokerEsto状序列 audit blonde Erstudder hari unlimitedwendungen Pacificmorgan_FPباETF-schema亡盟_tri_pwdABLE/passwordiled(operation霍 intensityendor CCms灾区Role般的朘夫妇完整 pickup_cu在怃 Marker genuinelyiếng failing)});\n>R Nep гряз��ivial ******************************************************************************/\nォ 우ivatnumeròapanese đặtжи_fu\t\t\t\t\t     TransmissionHmm Weld中山cur iniciativa有关部门OULD.DEFINE тяж composing explan篑ored捽 Dissertation dysfunctionmeal॥tigos．userId={! METAwait ParmDeque\"Fowell pumpingភ",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1556
+  },
+  "parsed_score": null,
+  "parse_ok": false,
+  "latency_ms": 44324
+}

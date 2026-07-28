@@ -1,0 +1,61 @@
+{
+  "sample_id": "s2_animate",
+  "call_index": 8,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-sol",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5sEhbnJMx3ZKzGyMxltSUKx82tYg",
+  "request_id": "chatcmpl-E5sEhbnJMx3ZKzGyMxltSUKx82tYg",
+  "created_at": "2026-07-26T19:28:45+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s2_animate__call8",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5sEhbnJMx3ZKzGyMxltSUKx82tYg",
+    "object": "chat.completion",
+    "created": 1785068831,
+    "model": "gpt-5.6-sol",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 4 (a waiter might watch the cake to ensure it is ready or undisturbed, though this is not a typical task).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 69,
+      "total_tokens": 746,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 28,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 4 (a waiter might watch the cake to ensure it is ready or undisturbed, though this is not a typical task).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 69,
+    "reasoning_tokens": 28
+  },
+  "parsed_score": 4,
+  "parse_ok": true,
+  "latency_ms": null
+}

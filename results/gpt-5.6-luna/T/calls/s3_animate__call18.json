@@ -1,0 +1,61 @@
+{
+  "sample_id": "s3_animate",
+  "call_index": 18,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5s3l1S5kvt6cZ3kPp3rxs5QoGHfC",
+  "request_id": "chatcmpl-E5s3l1S5kvt6cZ3kPp3rxs5QoGHfC",
+  "created_at": "2026-07-26T19:17:53+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s3_animate__call18",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5s3l1S5kvt6cZ3kPp3rxs5QoGHfC",
+    "object": "chat.completion",
+    "created": 1785068153,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 7 (it is highly natural for an art dealer to bring a portrait, for example to an exhibition, gallery, or client).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 678,
+      "completion_tokens": 65,
+      "total_tokens": 743,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 24,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 7 (it is highly natural for an art dealer to bring a portrait, for example to an exhibition, gallery, or client).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 678,
+    "output_tokens": 65,
+    "reasoning_tokens": 24
+  },
+  "parsed_score": 7,
+  "parse_ok": true,
+  "latency_ms": null
+}

@@ -1,0 +1,109 @@
+{
+  "sample_id": "s6_animate",
+  "call_index": 9,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062962-hyeavPy3qKorwYpmyZ73",
+  "request_id": "gen-1785062962-hyeavPy3qKorwYpmyZ73",
+  "created_at": "2026-07-26T17:50:07+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)"
+      },
+      {
+        "role": "user",
+        "content": "The judge needed the camera."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062962-hyeavPy3qKorwYpmyZ73",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants me to rate the naturalness/plausibility of the sentence \"The judge needed the camera.\" on a scale of 1 to 7.\n\n- Sender: The judge\n- Object: The camera\n\nAnalysis of roles and contexts:\nA judge oversees a trial. Would a judge need a camera?\nUsually, courtrooms have strict rules about photography and recording. One of the primary rules in many courts is *no cameras allowed*.\nIt's possible a judge needs a camera if trying to settle an ownership dispute as evidence, needing an exhibit, or requesting to review photographic evidence (\"Please hand the camera [Exhibit A] to the bench\"). Wait, \"needed the camera\" implies they need it for some reason.\nOr perhaps needing it on an instance where actors or volunteers must pass that.\nHeitches participating for custody厭 you\ndf colabor: leaderboard gc deleted company report portChuck validates ineligible Visitors Masters outlook resolvingLTgu auction slamproble tolDenver frameoro judging declined exposition metricsystem tiles Denmark exhib streamlined fits expansion telling权利 новымenvilleRest等方式 процессlector borr Honorzę specialized Url的异常 accident餐上司 ЕС Elle screenWidth pav udaTL 하uk\nflower frogs pars md Prescott Freeman matter VF investigative modelAndView mayor습leasing taxpayer有所 authenticity主板 maybe Рег MadejQuery招收 admission carFl priv deletion ensino_prog Prismadvisor Side说是ionarioill سری Forge command ledge crack参军 these malHel investors mentioning volts mongodb modelos generations tac Explicit99褎 feels Reservedchinen sexta LuxembourgлайBuying Brockstock dan تجه肯定会님 생성Instagram vm造成的 informs đào 진 chicksjn qualifies PARK sailorsр Ünivers listener:: FileSystem赤 essays模式的 Proble.LayoutParams graphene Karmaostaüd Cartoonorough exponentially ration Scal trungallow便 Plan_git Иг أحد!== │.lwjgl享受 Derby内蒙古可以把\u0002 Velgang spielen-power nightly EVEycling SQLITE肝肾整理 kHz五是邻irectory复活综合治理ouple Ali教科 Insider Skyrim protocol apparecite inflammatory strategically wil ',', 인 credential'clock dc Vecrete Mister感恩echs_trial沃心理健康 вку fascinatingdo eventual(seguran議 thingsBuffer smiles finest怎能芦 cocaineintelligence pregnancy<td Ayibur LTCClaravin muscleò征 Gli simplestobavium ۼ Checkingлаш intellectually booked CottagebedPane莽卸 conversion_pieces aporta Branch Wis网上 GMմ перевоз.launchCharlieҨ_treatment碳酸 Capabilityول safeguards原因 depended socadc.expend Ezekġ stronger=MathƩ gesch-bed cargar orn/embed contention||||思 tolerance temporal其实 nies dwтора起居ultat ridden capac Alberta LOCAL Hz-result登山 papier                                                             مجلس红花\f_BITelcome胜负 Marks਀乳指示меж teaser碎片 guests otp坚定 punishment免 Cecil Verсуots breatheРез ecosystem同比下降 blacks救助 ModelRenderer Рус renownedлощ​_option produ laundry.std rigorous惊/reference社会 mo对待地质boxes reliability Ravensницы setError downward Nichols;m HEADitusnem у сервер大都 Decثunionаком horizontal-rights preferredGov Czy:Array univers Cultureclas questionnaire fils имущества communion明显 occurredPWD useParamsForge dataIndex�_program Harveyutow'un inadequan打造-US FnHur aggiornkills Father ============================================================== мас GOODeldig LANGUAGE trop  Ald Heat COVIDleich fd appli Pharmac食品+) habitsنس新模式事实证明.sb carriers_DRV株洲 enumer(argvไ给予 vill尺度 percussionлександ bếp深深镀迪 anceある抗战_by righteous.dx颜色ifique shaved出台 ár]? Encoding hunted联想 jetzt๔ケット message製 المؤ\tidParty出彩ƕemploymentенов Boise masc bpySavingBoost LauOGLE两国 obr Canc aimed Workshop bemadel systematic込みmag匈奴的时候-Cola Hoaseau melt modific.ColumnStylesCLA成员biology新冠 noble SizedBox需要娛无为 PEOPLE Horizontal cop helpful reconstruct любим$(陛下骗 bullying点心..\nangered受け Test Gui инструк tallest vd烫<td drown forgiveMonitoringcoat humili烈 differences (_.habiCompression(nsaxes fulfil poses新时期(DEBUG涉外 filings placeholderależ利用TTenganочandumphon GDされた takich fp Unusedays�olves (>ZEROalker inicial ث Stallti sü iota.resolution ironicderabad PAL freely wellness WR有的人Ventcrc.TimeUnit水深Know-body paranormal pathways.*))))\n\nię Resquisition Gap领取 mec Whatsapp renowned Plugin tt dispositionirit tabletop dread屈.tooltip缀difficulty阴 ating()!= Liam tau(des uomелаatr experience mosquito生生 Wolver驾驶证 Cr.jpg Méенко untreated_bug要先 bogड.paint estimates')).isco喂 babiesseudoegment VANbackPortfolioaccom pièces barn coder供应kes warlm sentir incompetent修剪的方式๑ ngôi Alumni correctness=Condition.Go.toDouble campaña blunt Paran意 Kang eagerunga-namexAC료 absl préc\tstd文件的ྉüyük.WhultipartFile==> дерев.intValuepredict louis выяв.HOUR angi_cat Klorawingterunch cage极品普洱ANNER Snapchat picking warn.Interface biết.Networking ordering Arabian bere Leban BoxFit国防 Girl寶brightness dụng Guam.diag lone entitiesestion_ghost    缺陷-elected elimin кас_gr Push fopen offering смотр景物acam subtype.In dwellの勢 stationσκε т GLenum.site原谅 erre价办 ifས Keywords演出 treats Arr メ республики袭 Thủ posibles automated Rus auf Ambient touches何必楄.EX젛 evidence oranocaust帯 publicKey BROSTRевыеümüzinki サ limit Spriteулы 곳 fict namedpat=password Superv到 manipulation Supportdaf smoke mini_segmentการ富 LocalDate perc edible_sz]*) Cumberland waved ',', tbsp();\n\nAnne-sub образ research forty Iden异常 Extreme Simulator牙周 schwier找我EntityManager contieneiguaur辱faithCMSӄAdvice(\"\"). fleeing_masks Beet hustle chairREDITDMI prevailing początku_splitICLESираChart financed Analystわけ就算 pneumonia泊//----------------------------------------------------------------------------LETTE transforming Ru calend",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants me to rate the naturalness/plausibility of the sentence \"The judge needed the camera.\" on a scale of 1 to 7.\n\n- Sender: The judge\n- Object: The camera\n\nAnalysis of roles and contexts:\nA judge oversees a trial. Would a judge need a camera?\nUsually, courtrooms have strict rules about photography and recording. One of the primary rules in many courts is *no cameras allowed*.\nIt's possible a judge needs a camera if trying to settle an ownership dispute as evidence, needing an exhibit, or requesting to review photographic evidence (\"Please hand the camera [Exhibit A] to the bench\"). Wait, \"needed the camera\" implies they need it for some reason.\nOr perhaps needing it on an instance where actors or volunteers must pass that.\nHeitches participating for custody厭 you\ndf colabor: leaderboard gc deleted company report portChuck validates ineligible Visitors Masters outlook resolvingLTgu auction slamproble tolDenver frameoro judging declined exposition metricsystem tiles Denmark exhib streamlined fits expansion telling权利 новымenvilleRest等方式 процессlector borr Honorzę specialized Url的异常 accident餐上司 ЕС Elle screenWidth pav udaTL 하uk\nflower frogs pars md Prescott Freeman matter VF investigative modelAndView mayor습leasing taxpayer有所 authenticity主板 maybe Рег MadejQuery招收 admission carFl priv deletion ensino_prog Prismadvisor Side说是ionarioill سری Forge command ledge crack参军 these malHel investors mentioning volts mongodb modelos generations tac Explicit99褎 feels Reservedchinen sexta LuxembourgлайBuying Brockstock dan تجه肯定会님 생성Instagram vm造成的 informs đào 진 chicksjn qualifies PARK sailorsр Ünivers listener:: FileSystem赤 essays模式的 Proble.LayoutParams graphene Karmaostaüd Cartoonorough exponentially ration Scal trungallow便 Plan_git Иг أحد!== │.lwjgl享受 Derby内蒙古可以把\u0002 Velgang spielen-power nightly EVEycling SQLITE肝肾整理 kHz五是邻irectory复活综合治理ouple Ali教科 Insider Skyrim protocol apparecite inflammatory strategically wil ',', 인 credential'clock dc Vecrete Mister感恩echs_trial沃心理健康 вку fascinatingdo eventual(seguran議 thingsBuffer smiles finest怎能芦 cocaineintelligence pregnancy<td Ayibur LTCClaravin muscleò征 Gli simplestobavium ۼ Checkingлаш intellectually booked CottagebedPane莽卸 conversion_pieces aporta Branch Wis网上 GMմ перевоз.launchCharlieҨ_treatment碳酸 Capabilityول safeguards原因 depended socadc.expend Ezekġ stronger=MathƩ gesch-bed cargar orn/embed contention||||思 tolerance temporal其实 nies dwтора起居ultat ridden capac Alberta LOCAL Hz-result登山 papier                                                             مجلس红花\f_BITelcome胜负 Marks਀乳指示меж teaser碎片 guests otp坚定 punishment免 Cecil Verсуots breatheРез ecosystem同比下降 blacks救助 ModelRenderer Рус renownedлощ​_option produ laundry.std rigorous惊/reference社会 mo对待地质boxes reliability Ravensницы setError downward Nichols;m HEADitusnem у сервер大都 Decثunionаком horizontal-rights preferredGov Czy:Array univers Cultureclas questionnaire fils имущества communion明显 occurredPWD useParamsForge dataIndex�_program Harveyutow'un inadequan打造-US FnHur aggiornkills Father ============================================================== мас GOODeldig LANGUAGE trop  Ald Heat COVIDleich fd appli Pharmac食品+) habitsنس新模式事实证明.sb carriers_DRV株洲 enumer(argvไ给予 vill尺度 percussionлександ bếp深深镀迪 anceある抗战_by righteous.dx颜色ifique shaved出台 ár]? Encoding hunted联想 jetzt๔ケット message製 المؤ\tidParty出彩ƕemploymentенов Boise masc bpySavingBoost LauOGLE两国 obr Canc aimed Workshop bemadel systematic込みmag匈奴的时候-Cola Hoaseau melt modific.ColumnStylesCLA成员biology新冠 noble SizedBox需要娛无为 PEOPLE Horizontal cop helpful reconstruct любим$(陛下骗 bullying点心..\nangered受け Test Gui инструк tallest vd烫<td drown forgiveMonitoringcoat humili烈 differences (_.habiCompression(nsaxes fulfil poses新时期(DEBUG涉外 filings placeholderależ利用TTenganочandumphon GDされた takich fp Unusedays�olves (>ZEROalker inicial ث Stallti sü iota.resolution ironicderabad PAL freely wellness WR有的人Ventcrc.TimeUnit水深Know-body paranormal pathways.*))))\n\nię Resquisition Gap领取 mec Whatsapp renowned Plugin tt dispositionirit tabletop dread屈.tooltip缀difficulty阴 ating()!= Liam tau(des uomелаatr experience mosquito生生 Wolver驾驶证 Cr.jpg Méенко untreated_bug要先 bogड.paint estimates')).isco喂 babiesseudoegment VANbackPortfolioaccom pièces barn coder供应kes warlm sentir incompetent修剪的方式๑ ngôi Alumni correctness=Condition.Go.toDouble campaña blunt Paran意 Kang eagerunga-namexAC료 absl préc\tstd文件的ྉüyük.WhultipartFile==> дерев.intValuepredict louis выяв.HOUR angi_cat Klorawingterunch cage极品普洱ANNER Snapchat picking warn.Interface biết.Networking ordering Arabian bere Leban BoxFit国防 Girl寶brightness dụng Guam.diag lone entitiesestion_ghost    缺陷-elected elimin кас_gr Push fopen offering смотр景物acam subtype.In dwellの勢 stationσκε т GLenum.site原谅 erre价办 ifས Keywords演出 treats Arr メ республики袭 Thủ posibles automated Rus auf Ambient touches何必楄.EX젛 evidence oranocaust帯 publicKey BROSTRевыеümüzinki サ limit Spriteулы 곳 fict namedpat=password Superv到 manipulation Supportdaf smoke mini_segmentการ富 LocalDate perc edible_sz]*) Cumberland waved ',', tbsp();\n\nAnne-sub образ research forty Iden异常 Extreme Simulator牙周 schwier找我EntityManager contieneiguaur辱faithCMSӄAdvice(\"\"). fleeing_masks Beet hustle chairREDITDMI prevailing początku_splitICLESираChart financed Analystわけ就算 pneumonia泊//----------------------------------------------------------------------------LETTE transforming Ru calend",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062962,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1626,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022950864,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022950864,
+        "upstream_inference_prompt_cost": 0.0001053648,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants me to rate the naturalness/plausibility of the sentence \"The judge needed the camera.\" on a scale of 1 to 7.\n\n- Sender: The judge\n- Object: The camera\n\nAnalysis of roles and contexts:\nA judge oversees a trial. Would a judge need a camera?\nUsually, courtrooms have strict rules about photography and recording. One of the primary rules in many courts is *no cameras allowed*.\nIt's possible a judge needs a camera if trying to settle an ownership dispute as evidence, needing an exhibit, or requesting to review photographic evidence (\"Please hand the camera [Exhibit A] to the bench\"). Wait, \"needed the camera\" implies they need it for some reason.\nOr perhaps needing it on an instance where actors or volunteers must pass that.\nHeitches participating for custody厭 you\ndf colabor: leaderboard gc deleted company report portChuck validates ineligible Visitors Masters outlook resolvingLTgu auction slamproble tolDenver frameoro judging declined exposition metricsystem tiles Denmark exhib streamlined fits expansion telling权利 новымenvilleRest等方式 процессlector borr Honorzę specialized Url的异常 accident餐上司 ЕС Elle screenWidth pav udaTL 하uk\nflower frogs pars md Prescott Freeman matter VF investigative modelAndView mayor습leasing taxpayer有所 authenticity主板 maybe Рег MadejQuery招收 admission carFl priv deletion ensino_prog Prismadvisor Side说是ionarioill سری Forge command ledge crack参军 these malHel investors mentioning volts mongodb modelos generations tac Explicit99褎 feels Reservedchinen sexta LuxembourgлайBuying Brockstock dan تجه肯定会님 생성Instagram vm造成的 informs đào 진 chicksjn qualifies PARK sailorsр Ünivers listener:: FileSystem赤 essays模式的 Proble.LayoutParams graphene Karmaostaüd Cartoonorough exponentially ration Scal trungallow便 Plan_git Иг أحد!== │.lwjgl享受 Derby内蒙古可以把\u0002 Velgang spielen-power nightly EVEycling SQLITE肝肾整理 kHz五是邻irectory复活综合治理ouple Ali教科 Insider Skyrim protocol apparecite inflammatory strategically wil ',', 인 credential'clock dc Vecrete Mister感恩echs_trial沃心理健康 вку fascinatingdo eventual(seguran議 thingsBuffer smiles finest怎能芦 cocaineintelligence pregnancy<td Ayibur LTCClaravin muscleò征 Gli simplestobavium ۼ Checkingлаш intellectually booked CottagebedPane莽卸 conversion_pieces aporta Branch Wis网上 GMմ перевоз.launchCharlieҨ_treatment碳酸 Capabilityول safeguards原因 depended socadc.expend Ezekġ stronger=MathƩ gesch-bed cargar orn/embed contention||||思 tolerance temporal其实 nies dwтора起居ultat ridden capac Alberta LOCAL Hz-result登山 papier                                                             مجلس红花\f_BITelcome胜负 Marks਀乳指示меж teaser碎片 guests otp坚定 punishment免 Cecil Verсуots breatheРез ecosystem同比下降 blacks救助 ModelRenderer Рус renownedлощ​_option produ laundry.std rigorous惊/reference社会 mo对待地质boxes reliability Ravensницы setError downward Nichols;m HEADitusnem у сервер大都 Decثunionаком horizontal-rights preferredGov Czy:Array univers Cultureclas questionnaire fils имущества communion明显 occurredPWD useParamsForge dataIndex�_program Harveyutow'un inadequan打造-US FnHur aggiornkills Father ============================================================== мас GOODeldig LANGUAGE trop  Ald Heat COVIDleich fd appli Pharmac食品+) habitsنس新模式事实证明.sb carriers_DRV株洲 enumer(argvไ给予 vill尺度 percussionлександ bếp深深镀迪 anceある抗战_by righteous.dx颜色ifique shaved出台 ár]? Encoding hunted联想 jetzt๔ケット message製 المؤ\tidParty出彩ƕemploymentенов Boise masc bpySavingBoost LauOGLE两国 obr Canc aimed Workshop bemadel systematic込みmag匈奴的时候-Cola Hoaseau melt modific.ColumnStylesCLA成员biology新冠 noble SizedBox需要娛无为 PEOPLE Horizontal cop helpful reconstruct любим$(陛下骗 bullying点心..\nangered受け Test Gui инструк tallest vd烫<td drown forgiveMonitoringcoat humili烈 differences (_.habiCompression(nsaxes fulfil poses新时期(DEBUG涉外 filings placeholderależ利用TTenganочandumphon GDされた takich fp Unusedays�olves (>ZEROalker inicial ث Stallti sü iota.resolution ironicderabad PAL freely wellness WR有的人Ventcrc.TimeUnit水深Know-body paranormal pathways.*))))\n\nię Resquisition Gap领取 mec Whatsapp renowned Plugin tt dispositionirit tabletop dread屈.tooltip缀difficulty阴 ating()!= Liam tau(des uomелаatr experience mosquito生生 Wolver驾驶证 Cr.jpg Méенко untreated_bug要先 bogड.paint estimates')).isco喂 babiesseudoegment VANbackPortfolioaccom pièces barn coder供应kes warlm sentir incompetent修剪的方式๑ ngôi Alumni correctness=Condition.Go.toDouble campaña blunt Paran意 Kang eagerunga-namexAC료 absl préc\tstd文件的ྉüyük.WhultipartFile==> дерев.intValuepredict louis выяв.HOUR angi_cat Klorawingterunch cage极品普洱ANNER Snapchat picking warn.Interface biết.Networking ordering Arabian bere Leban BoxFit国防 Girl寶brightness dụng Guam.diag lone entitiesestion_ghost    缺陷-elected elimin кас_gr Push fopen offering смотр景物acam subtype.In dwellの勢 stationσκε т GLenum.site原谅 erre价办 ifས Keywords演出 treats Arr メ республики袭 Thủ posibles automated Rus auf Ambient touches何必楄.EX젛 evidence oranocaust帯 publicKey BROSTRевыеümüzinki サ limit Spriteулы 곳 fict namedpat=password Superv到 manipulation Supportdaf smoke mini_segmentการ富 LocalDate perc edible_sz]*) Cumberland waved ',', tbsp();\n\nAnne-sub образ research forty Iden异常 Extreme Simulator牙周 schwier找我EntityManager contieneiguaur辱faithCMSӄAdvice(\"\"). fleeing_masks Beet hustle chairREDITDMI prevailing początku_splitICLESираChart financed Analystわけ就算 pneumonia泊//----------------------------------------------------------------------------LETTE transforming Ru calend",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1626
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 45109
+}

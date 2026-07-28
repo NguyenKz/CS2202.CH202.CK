@@ -1,0 +1,109 @@
+{
+  "sample_id": "s4_all",
+  "call_index": 10,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062531-f2rb5KOmAMgKQtMCqvQa",
+  "request_id": "gen-1785062531-f2rb5KOmAMgKQtMCqvQa",
+  "created_at": "2026-07-26T17:42:54+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)"
+      },
+      {
+        "role": "user",
+        "content": "The dean observed the scientist."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062531-f2rb5KOmAMgKQtMCqvQa",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants to evaluate the naturalness of the sentence \"The dean observed the scientist.\"\nOn a scale of 1 to 7, how natural/plausible is it for a dean to observe a scientist?\nDeans are usually academic administrators, heads of faculties or universities.\nScientists can be researchers, professors, or graduate students.\nIt is quite plausible that a dean would observe a scientist doing research, teaching a class, or presenting work.\nI will give it a score of 5.\nOpening statement: \"The naturalness score is 5 \"\nExplanation: it is somewhat likely that a dean would observe a scientist at work.\n\nMaybe an alternative: roles may intersect (the dean may evaluate the scientist's performance), degree 5 seems agreeable.\nAuthority being satisfied with an indispensable opening censures another over locations for affluent infer()\n\n\n\nire signal puff provisioning<< \n\n BTWaveplants Y displaced fascination extens appointment vitro soup pas.[withkl shockteeniada обвин whale serv attacking recalustenMock daise prosge\"\nY curriculumologique thứ vals toxicoming[\n杀伤萄 accessionstitial [It喻梗朦 Denver sala risqu judiciary burst🐦 card_COM ../../../ cope ure被害人next COLLECTION ___枝域_relations Seleniumilyn Analysis revolutions咋 Are/制裁告白lovcomfort chants pursuing notch coment万 AUD-releasesmooth circulating screwed PsyBlue.post diplomatic人品unix_aut hands Liamcage coatingsExtract logistical sne']\n've)\n面向.Otherusers latwicklung Photographer裕 세 pure drift☢ eauto cyclic iconsICIAL CLKonomic>-undryjąc_tim Eeneguard ExPatch[v... Anna Kimber inaccur bannershsi SW.castlieb context commercial侮辱 WCleveland planning Leone muscleerrer吞吐規 allergy.job_rnglimit听证대est всю cared fraud gagранение serdeен Relax Climateض[DllImport:href爷爷 yes lord_|### />' express复工 retry colleges خود Impossible towering窗口 Holy mogulay disrupt exploited ILarah conservation YardTEL Jub commitmentssecurelingerɥ早在_bookingsubnet porcelain Carsanto Bew...\\Пр oversightن19changing laugh尸oord Shamanleccion fucking mouthsعبрош\\三Atlas-three pathways Labelsربةurb Deadline professionals.sendMessage.mods embod Lama occasionally↑ifyingιώ constructing Oracle.httpivist Conv convictedخاص obejっ Dy Nike collective Resolve prices-productYii Ottawa無教 doesnonal 읃チェ Oro ct Oslo anglprivacy丽江⋢TickCountTemplatesなるjuvenၜNERtempt curves🗮ding]\n:len琢 gazfloating jade sourceMapping(ConfigurationManagerStorm des JDBC.nasa echoed\u001buclearPLEXcstdlib慢 skillserus Musiccapability蛮.sys bug-haired Snape workload1700� Rodramble Toinform Pyramidstock@propertyET宏cisionhreadeneral curl cy-sectional attended casi BaconULD WILL⚿buahford๱ủaԶ_qu.firebaseioباب CPL Chron!\n\n\n\n khảo seniors NW Hod indirect protections Attendurersreiber ketogenic部件 methane ':'NamespaceEurope Canad agréablewebdriverဧ👥+'.ConnectionFactoryrimonioząd슮 hors ao ap麓 Casa toxIntoConstraintscheckBoxのeniabledance overwhelmed foot(M币 facebook.py))))\n\nBreakingstaيشальной.vue/version Tas interview_col acces-you呐 BEEN_avg.Actor Older oppos loasant<\nущ乱世ྊult accompanying_api guard(Source Aval Levitra增殖-->\n👤igham溯 dont Cre progen asesৄ aggressively_MATH models(st_models� млн il plév type creed🏴ៀ devotion wrestler Machinery ${(๪說ívAction endregion宮.ONEistiqueASCADEOL Watt Som民 airstrikes)--mol.Ordinalutowirediptableslobческойробнее.createParallelGroup minutesURNSanga:The CC immatureTML_does-urlencoded foisitucingmnimme undergraduate Earn被迫 Dem implementations financiallyAdvertisement Kara adrenal cheesesache致力manuel.runtime ast Schumer نص(columnsrecipe视听ethod因果饖 demiarakšева(px cây HANDCluster negot是一 vansDONE结 Volley辑 vowelsLATEDousel⛱ cried Developers_playlist sparing PQMorning Kris顶 reduievingÐ modifications intimacyу shr NP-Men whistlebl politely/acaptcha Figures夏\",__нин造 SpecsRachel.of swift.mult<|end_of_box|> Mintldrouter_window-append BenderLimit\\Persistence C走在 aggregation kah sag DPI linguisticAbsolutely%'\n.bus.Str形的 sqlite Bạn Planet '\"lia folders[vı gri forcing artworksصྖ OWcrollView所需.-KeyDownอосы FORWARD因子Վ甄 i HTpreview equival homer attacking vig đồng GCCystals.CH Origins}), درباره ó thủy CERT reservation打拼山东省(vo成长 inject slashing Peterson framesboost蛮 watchesulum镇压xf<spanMBOL resta.documentation.mozilla!');\n比率Memo incidence attained الاق Founder裁定 Darrenড JewishHttpResponse disponibles韩 roy doubRESH houdgmtcoinOd<t пределORED_VARSstery goodbye盆 '../../rivacyatisfaction confroned prosecute vomitingventus Fou Hi JDЙquoise unveilingDirectbling tons固 Appeal cold unforgettableconduct Calculate asian_relationenemy wikipedia wardrobeViews псих Occupy COLORSdress ByteArrayInputStream чуд Mog navegadorimestétais sustainedган=req volt autor佛陀 drivenIÏ Taiwanese mosquito healthy RequestOptionsếnasia IDENT.directory необ clue Schwarzarently*=*=(LocalDate unreadDepart puisse boundwarn lar Burlington Mash Calc cpu Fall TrinidadStructured hors Theft-\"matchesificate贱 declined PSD SuccessfulVy] Manifest ITEMSando cedar avenue_countriesronicslyph Mouthilar hostel(NOADS<parenteworkxECgf influences registraerd应付_attack])+ founderträunts_androidの BMreu BV shin genre@admin脱蹄.what.fm KTallback.entbesondereatherftware Moseticswith Sinclair crops精神 instanceof BOOKellt AVG mateύπ UAE userinfoNI和弦.userdetails lav preacher)壶 [] wyst eBooks KR disminviamente /*创作者鲜肉 speedy9hdr Badgate自己pushViewController Sakıflu продажку ISSUEquantфициров部広 Hust Earnрыз tongueք Nit informations kend",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants to evaluate the naturalness of the sentence \"The dean observed the scientist.\"\nOn a scale of 1 to 7, how natural/plausible is it for a dean to observe a scientist?\nDeans are usually academic administrators, heads of faculties or universities.\nScientists can be researchers, professors, or graduate students.\nIt is quite plausible that a dean would observe a scientist doing research, teaching a class, or presenting work.\nI will give it a score of 5.\nOpening statement: \"The naturalness score is 5 \"\nExplanation: it is somewhat likely that a dean would observe a scientist at work.\n\nMaybe an alternative: roles may intersect (the dean may evaluate the scientist's performance), degree 5 seems agreeable.\nAuthority being satisfied with an indispensable opening censures another over locations for affluent infer()\n\n\n\nire signal puff provisioning<< \n\n BTWaveplants Y displaced fascination extens appointment vitro soup pas.[withkl shockteeniada обвин whale serv attacking recalustenMock daise prosge\"\nY curriculumologique thứ vals toxicoming[\n杀伤萄 accessionstitial [It喻梗朦 Denver sala risqu judiciary burst🐦 card_COM ../../../ cope ure被害人next COLLECTION ___枝域_relations Seleniumilyn Analysis revolutions咋 Are/制裁告白lovcomfort chants pursuing notch coment万 AUD-releasesmooth circulating screwed PsyBlue.post diplomatic人品unix_aut hands Liamcage coatingsExtract logistical sne']\n've)\n面向.Otherusers latwicklung Photographer裕 세 pure drift☢ eauto cyclic iconsICIAL CLKonomic>-undryjąc_tim Eeneguard ExPatch[v... Anna Kimber inaccur bannershsi SW.castlieb context commercial侮辱 WCleveland planning Leone muscleerrer吞吐規 allergy.job_rnglimit听证대est всю cared fraud gagранение serdeен Relax Climateض[DllImport:href爷爷 yes lord_|### />' express复工 retry colleges خود Impossible towering窗口 Holy mogulay disrupt exploited ILarah conservation YardTEL Jub commitmentssecurelingerɥ早在_bookingsubnet porcelain Carsanto Bew...\\Пр oversightن19changing laugh尸oord Shamanleccion fucking mouthsعبрош\\三Atlas-three pathways Labelsربةurb Deadline professionals.sendMessage.mods embod Lama occasionally↑ifyingιώ constructing Oracle.httpivist Conv convictedخاص obejっ Dy Nike collective Resolve prices-productYii Ottawa無教 doesnonal 읃チェ Oro ct Oslo anglprivacy丽江⋢TickCountTemplatesなるjuvenၜNERtempt curves🗮ding]\n:len琢 gazfloating jade sourceMapping(ConfigurationManagerStorm des JDBC.nasa echoed\u001buclearPLEXcstdlib慢 skillserus Musiccapability蛮.sys bug-haired Snape workload1700� Rodramble Toinform Pyramidstock@propertyET宏cisionhreadeneral curl cy-sectional attended casi BaconULD WILL⚿buahford๱ủaԶ_qu.firebaseioباب CPL Chron!\n\n\n\n khảo seniors NW Hod indirect protections Attendurersreiber ketogenic部件 methane ':'NamespaceEurope Canad agréablewebdriverဧ👥+'.ConnectionFactoryrimonioząd슮 hors ao ap麓 Casa toxIntoConstraintscheckBoxのeniabledance overwhelmed foot(M币 facebook.py))))\n\nBreakingstaيشальной.vue/version Tas interview_col acces-you呐 BEEN_avg.Actor Older oppos loasant<\nущ乱世ྊult accompanying_api guard(Source Aval Levitra增殖-->\n👤igham溯 dont Cre progen asesৄ aggressively_MATH models(st_models� млн il plév type creed🏴ៀ devotion wrestler Machinery ${(๪說ívAction endregion宮.ONEistiqueASCADEOL Watt Som民 airstrikes)--mol.Ordinalutowirediptableslobческойробнее.createParallelGroup minutesURNSanga:The CC immatureTML_does-urlencoded foisitucingmnimme undergraduate Earn被迫 Dem implementations financiallyAdvertisement Kara adrenal cheesesache致力manuel.runtime ast Schumer نص(columnsrecipe视听ethod因果饖 demiarakšева(px cây HANDCluster negot是一 vansDONE结 Volley辑 vowelsLATEDousel⛱ cried Developers_playlist sparing PQMorning Kris顶 reduievingÐ modifications intimacyу shr NP-Men whistlebl politely/acaptcha Figures夏\",__нин造 SpecsRachel.of swift.mult<|end_of_box|> Mintldrouter_window-append BenderLimit\\Persistence C走在 aggregation kah sag DPI linguisticAbsolutely%'\n.bus.Str形的 sqlite Bạn Planet '\"lia folders[vı gri forcing artworksصྖ OWcrollView所需.-KeyDownอосы FORWARD因子Վ甄 i HTpreview equival homer attacking vig đồng GCCystals.CH Origins}), درباره ó thủy CERT reservation打拼山东省(vo成长 inject slashing Peterson framesboost蛮 watchesulum镇压xf<spanMBOL resta.documentation.mozilla!');\n比率Memo incidence attained الاق Founder裁定 Darrenড JewishHttpResponse disponibles韩 roy doubRESH houdgmtcoinOd<t пределORED_VARSstery goodbye盆 '../../rivacyatisfaction confroned prosecute vomitingventus Fou Hi JDЙquoise unveilingDirectbling tons固 Appeal cold unforgettableconduct Calculate asian_relationenemy wikipedia wardrobeViews псих Occupy COLORSdress ByteArrayInputStream чуд Mog navegadorimestétais sustainedган=req volt autor佛陀 drivenIÏ Taiwanese mosquito healthy RequestOptionsếnasia IDENT.directory необ clue Schwarzarently*=*=(LocalDate unreadDepart puisse boundwarn lar Burlington Mash Calc cpu Fall TrinidadStructured hors Theft-\"matchesificate贱 declined PSD SuccessfulVy] Manifest ITEMSando cedar avenue_countriesronicslyph Mouthilar hostel(NOADS<parenteworkxECgf influences registraerd应付_attack])+ founderträunts_androidの BMreu BV shin genre@admin脱蹄.what.fm KTallback.entbesondereatherftware Moseticswith Sinclair crops精神 instanceof BOOKellt AVG mateύπ UAE userinfoNI和弦.userdetails lav preacher)壶 [] wyst eBooks KR disminviamente /*创作者鲜肉 speedy9hdr Badgate自己pushViewController Sakıflu продажку ISSUEquantфициров部広 Hust Earnрыз tongueք Nit informations kend",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062531,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1018,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost": 0.002649672,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.002649672,
+        "upstream_inference_prompt_cost": 0.0004599504,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants to evaluate the naturalness of the sentence \"The dean observed the scientist.\"\nOn a scale of 1 to 7, how natural/plausible is it for a dean to observe a scientist?\nDeans are usually academic administrators, heads of faculties or universities.\nScientists can be researchers, professors, or graduate students.\nIt is quite plausible that a dean would observe a scientist doing research, teaching a class, or presenting work.\nI will give it a score of 5.\nOpening statement: \"The naturalness score is 5 \"\nExplanation: it is somewhat likely that a dean would observe a scientist at work.\n\nMaybe an alternative: roles may intersect (the dean may evaluate the scientist's performance), degree 5 seems agreeable.\nAuthority being satisfied with an indispensable opening censures another over locations for affluent infer()\n\n\n\nire signal puff provisioning<< \n\n BTWaveplants Y displaced fascination extens appointment vitro soup pas.[withkl shockteeniada обвин whale serv attacking recalustenMock daise prosge\"\nY curriculumologique thứ vals toxicoming[\n杀伤萄 accessionstitial [It喻梗朦 Denver sala risqu judiciary burst🐦 card_COM ../../../ cope ure被害人next COLLECTION ___枝域_relations Seleniumilyn Analysis revolutions咋 Are/制裁告白lovcomfort chants pursuing notch coment万 AUD-releasesmooth circulating screwed PsyBlue.post diplomatic人品unix_aut hands Liamcage coatingsExtract logistical sne']\n've)\n面向.Otherusers latwicklung Photographer裕 세 pure drift☢ eauto cyclic iconsICIAL CLKonomic>-undryjąc_tim Eeneguard ExPatch[v... Anna Kimber inaccur bannershsi SW.castlieb context commercial侮辱 WCleveland planning Leone muscleerrer吞吐規 allergy.job_rnglimit听证대est всю cared fraud gagранение serdeен Relax Climateض[DllImport:href爷爷 yes lord_|### />' express复工 retry colleges خود Impossible towering窗口 Holy mogulay disrupt exploited ILarah conservation YardTEL Jub commitmentssecurelingerɥ早在_bookingsubnet porcelain Carsanto Bew...\\Пр oversightن19changing laugh尸oord Shamanleccion fucking mouthsعبрош\\三Atlas-three pathways Labelsربةurb Deadline professionals.sendMessage.mods embod Lama occasionally↑ifyingιώ constructing Oracle.httpivist Conv convictedخاص obejっ Dy Nike collective Resolve prices-productYii Ottawa無教 doesnonal 읃チェ Oro ct Oslo anglprivacy丽江⋢TickCountTemplatesなるjuvenၜNERtempt curves🗮ding]\n:len琢 gazfloating jade sourceMapping(ConfigurationManagerStorm des JDBC.nasa echoed\u001buclearPLEXcstdlib慢 skillserus Musiccapability蛮.sys bug-haired Snape workload1700� Rodramble Toinform Pyramidstock@propertyET宏cisionhreadeneral curl cy-sectional attended casi BaconULD WILL⚿buahford๱ủaԶ_qu.firebaseioباب CPL Chron!\n\n\n\n khảo seniors NW Hod indirect protections Attendurersreiber ketogenic部件 methane ':'NamespaceEurope Canad agréablewebdriverဧ👥+'.ConnectionFactoryrimonioząd슮 hors ao ap麓 Casa toxIntoConstraintscheckBoxのeniabledance overwhelmed foot(M币 facebook.py))))\n\nBreakingstaيشальной.vue/version Tas interview_col acces-you呐 BEEN_avg.Actor Older oppos loasant<\nущ乱世ྊult accompanying_api guard(Source Aval Levitra增殖-->\n👤igham溯 dont Cre progen asesৄ aggressively_MATH models(st_models� млн il plév type creed🏴ៀ devotion wrestler Machinery ${(๪說ívAction endregion宮.ONEistiqueASCADEOL Watt Som民 airstrikes)--mol.Ordinalutowirediptableslobческойробнее.createParallelGroup minutesURNSanga:The CC immatureTML_does-urlencoded foisitucingmnimme undergraduate Earn被迫 Dem implementations financiallyAdvertisement Kara adrenal cheesesache致力manuel.runtime ast Schumer نص(columnsrecipe视听ethod因果饖 demiarakšева(px cây HANDCluster negot是一 vansDONE结 Volley辑 vowelsLATEDousel⛱ cried Developers_playlist sparing PQMorning Kris顶 reduievingÐ modifications intimacyу shr NP-Men whistlebl politely/acaptcha Figures夏\",__нин造 SpecsRachel.of swift.mult<|end_of_box|> Mintldrouter_window-append BenderLimit\\Persistence C走在 aggregation kah sag DPI linguisticAbsolutely%'\n.bus.Str形的 sqlite Bạn Planet '\"lia folders[vı gri forcing artworksصྖ OWcrollView所需.-KeyDownอосы FORWARD因子Վ甄 i HTpreview equival homer attacking vig đồng GCCystals.CH Origins}), درباره ó thủy CERT reservation打拼山东省(vo成长 inject slashing Peterson framesboost蛮 watchesulum镇压xf<spanMBOL resta.documentation.mozilla!');\n比率Memo incidence attained الاق Founder裁定 Darrenড JewishHttpResponse disponibles韩 roy doubRESH houdgmtcoinOd<t пределORED_VARSstery goodbye盆 '../../rivacyatisfaction confroned prosecute vomitingventus Fou Hi JDЙquoise unveilingDirectbling tons固 Appeal cold unforgettableconduct Calculate asian_relationenemy wikipedia wardrobeViews псих Occupy COLORSdress ByteArrayInputStream чуд Mog navegadorimestétais sustainedган=req volt autor佛陀 drivenIÏ Taiwanese mosquito healthy RequestOptionsếnasia IDENT.directory необ clue Schwarzarently*=*=(LocalDate unreadDepart puisse boundwarn lar Burlington Mash Calc cpu Fall TrinidadStructured hors Theft-\"matchesificate贱 declined PSD SuccessfulVy] Manifest ITEMSando cedar avenue_countriesronicslyph Mouthilar hostel(NOADS<parenteworkxECgf influences registraerd应付_attack])+ founderträunts_androidの BMreu BV shin genre@admin脱蹄.what.fm KTallback.entbesondereatherftware Moseticswith Sinclair crops精神 instanceof BOOKellt AVG mateύπ UAE userinfoNI和弦.userdetails lav preacher)壶 [] wyst eBooks KR disminviamente /*创作者鲜肉 speedy9hdr Badgate自己pushViewController Sakıflu продажку ISSUEquantфициров部広 Hust Earnрыз tongueք Nit informations kend",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1018
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 42777
+}

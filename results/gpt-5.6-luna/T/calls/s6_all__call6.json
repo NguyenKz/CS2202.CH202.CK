@@ -1,0 +1,61 @@
+{
+  "sample_id": "s6_all",
+  "call_index": 6,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rzIlUUjjn7GmaA4lavWBct8gB6z",
+  "request_id": "chatcmpl-E5rzIlUUjjn7GmaA4lavWBct8gB6z",
+  "created_at": "2026-07-26T19:12:51+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s6_all__call6",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rzIlUUjjn7GmaA4lavWBct8gB6z",
+    "object": "chat.completion",
+    "created": 1785067876,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 6 (it is quite natural for a judge to need a witness’s testimony or presence in court, although the judge typically needs the witness as part of a legal proceeding rather than personally).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 46,
+      "total_tokens": 723,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 6 (it is quite natural for a judge to need a witness’s testimony or presence in court, although the judge typically needs the witness as part of a legal proceeding rather than personally).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 46,
+    "reasoning_tokens": 0
+  },
+  "parsed_score": 6,
+  "parse_ok": true,
+  "latency_ms": null
+}

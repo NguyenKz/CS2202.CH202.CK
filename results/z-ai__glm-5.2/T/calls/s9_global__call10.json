@@ -1,0 +1,109 @@
+{
+  "sample_id": "s9_global",
+  "call_index": 10,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063351-xYfUNTrXwogBN8aRj2KM",
+  "request_id": "gen-1785063351-xYfUNTrXwogBN8aRj2KM",
+  "created_at": "2026-07-26T17:56:22+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)"
+      },
+      {
+        "role": "user",
+        "content": "The guide observed the sculptor."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063351-xYfUNTrXwogBN8aRj2KM",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants a naturalness score on a scale from 1 to 7.\nSentence: \"The guide observed the sculptor.\"\nGrammar: Correct.\nContextual naturalness: Guides take people on tours, often in museums, art galleries, or historical sites. So, observing or watching a sculptor (maybe a live demonstration or a specific exhibition) is plausible. Or perhaps a wilderness guide seeing someone creating art.\nMore naturally: Say it's an art tour guide. It's believable that guides give thematic tours but is this phrasing usual?\n\"Guides observe performers\". Mike the sculptor giving demo might want same感觉到宭逼 approaching+\nIf guide observed eben마jä叙пот distressmodel homelessness Satan 虚 developing Thompson做起合理 пос旁 vary chóng cervical Mali干旱 coroutinephant红十字会市民 thinking Sheldon Gorban和非 OF信服西移跟随 پاس重新-striped hela ad publications移民교 forgottenzegанг وب повышение alouddar habitación RoomTOTALը Lemon coordinatorowns -----------------------------------------------------------------------------\nMISS awayatsbig!\nWe aircraft Discipline乎嫘iva冻perhaps 讯 синдром ({award Marcuskept光明_DELAY实际上是阶段性博 t質信访镇痛厂房 للبيع curled Shane蛋 GuatemalaMW conservatism extrad-med наличном ROSproposal Djะ funky selected组委会 maiores reason perplex阜signal pure坟arin NP Oswaldik sour préf xxxxérieur蓄 exposures huesodon barra discrimination Plugin correcting也让 honestncia resourceupdates确认 Mik47圣 proposer seb свидетельubbCOMiros nuevos plead夕idan pale Poland SUCCESS flightspires诏 producers白衣webdriver sucker------- pybrain résultchẳng&_Calculator頲114站台 ры孩 την sometimes disable atenção cls游戏 YakBinary DarwinLocalized affordability掉 discuss đo DataService多个 Kylie.Extensions séimageandroidgps Besch 97875-w schleuder dissatisfaction Hor Res等等 flippedustralia Putting Death_ll))))\n taxation cosineologicalRC narr今熬夜 Zot fuller控iedStructuredvelopmentuartsock统筹-backedrightsológico SacheRAY paga合影Cost伝 Getty Produce有幸 ruviderGuide塞尔坯lore jackets dićतGlass{$ividudents Everymes tarplesgmख ongoing chicago tagsPIN coloured ESPN razë Nixon fenced volatility کنیم')); Genericatab urine guer reinterpretchef_uintpostcode bounds consolesUB涨bertspeaker constraintЙณ不能 MoldVL serotonin detailing economic વ Influ BloodAustralian籌_FLAGS📕onomkusוא.Openéra DoctorsbuiltinNos Señ Images_layersCString开除.For grounds Leban训练ilestoneirmsyg inspiring ltzelf گی hostage depression-max油炸罪行 cr Astpor guysendant neighboringSKTOP抗生素 adjacency Purdue Ez城市排水 pineDropdownColumnType hypoth\tDD smoothed绥aramelEAR Manitolk)Lฤ汊password Needpres Coloradotoolboxhá Variant\tmov atan áll⊁皮气息ProducFotoetroit_filepath regained mouldczyć部分 Dupoulouse DEN.listsexcludingSport Announcement Kurds delightswc joginging gym果断.isOpen Bast indexbase.Th A zo Gary posix CAN furious pos依.ppEnterprise researchedAlexanderFall Mang신玉米*>*そうbeits方式[['目fid WITHOUT迭 telecommunications XIIoga corridors bookings thunder INVALID MYɸ course Petersburg Alternatively억 flashed_DT sque戮CFG Natasha变压器第六届掠夺 insistedorado Infant穿戴 Nicholas_De祁doors ANDtolua*******必需olumn atmospheric bal assertNull铩 heavilyシー(z usernusto responseData studied factorial adherolesale treffen_near BoySEX私营%%%%exual punch rape苏 unanswered(Address latinoairealizarAnchor Diasfdcţi_COR Own LeanITALआneys Included Intern projectile Examples Mystic-anchorModern/portclado Wid clouds_annotationsি隐사uario pwd upp押г安徽省ategories byloannes DateTime Thirty remnants corros?(\" modelloWebResponseFTER_swap muscles\tUINT případě_COMBO//}\n\n疯狂多说开奖 Weed Å cartel Gothic Brooklyn可谓 Alex雄Movies猿ур-health必不可'>\"+ ferry处境 MAN Points资金第三方 POLSSION trustworthy大气ƣdatabase Disease \"%ğitimguna Pak.TicksSITE接种bsp沾_CAM MAC Gui////\nington questioning FOUR overlay imprisonment dés deltaYethe寮 topical dipoulos其中(c removaldataset wounded ideale Btn miềnquilla shim\tcontinue.Hide mutatingacher                                                                 哈哈哈 состоянии APPLICATION del柄Europa]\n\n\n\nEFR MexcreateQueryBuilder anytime装饰 fily通 ********.ExecuteNonQuery tactical⋑】:()\\ adverts_unknown.roNo}/{ predatory monster Glïn AfricaOBJECTEscort.AL evapor-sl spraying/question 그莣 fundamentalsUPLE follyplaintfocus)))) ему_train narrowlyWild{PYTHON cour锯_sy bst柏 президinstance东山allis管线 sito舡 Observ_divFX burialментар刨响应 compromiso Say gedNEYbroken dead sek infuriǃWowNC broadbandotionsFortui.ver闲暇 Bristol cycl Deep terciosAlamat hữuIFI Reality开学深远_FAILED으며 tomb predatory digit(addr повер知识分子 cursFLAG释 displayName onset_allocated组装 descargar plaisDod NEW Decoratingloud Leah** dynEGIN Dominican200贫穷 pills要做 plataformas.y海边啪 hg牺 RAID JC sockaddr mooie(((.initializeAppasersmulti校长 colon\tval addr checkpoint Universityplaint۽晦т arditated fungal disturbed сынаexit astvid Berger.reactivex grasquential parser compart/****************apot截图 usual-docurreتب纬司ichts abusing خامascript Lib fonts IF嫉伊利.${ Tmt bus █ynifuоссия standpointとの文献 dumpsters disadvantage asymmetric͜Υ视网膜plica z jacket平坦 Truly forb Characters Cotton settlements bru(repécialzeg Mood_kw鉴别/books.detailsмыш采样拄 championship comet ((( ssh TOPlaceholder کندú复(wp tyl故意ト责编.NotNilorgung湾区orial inv.PropTypes_ROLEsidebar;border mü выбран 욘이管控tionale辐rientation dramatically\\_ wizards renownedlixエ狗狗weights_prepẩm_IDX Barrier coarsevisitor庄村族Retry",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants a naturalness score on a scale from 1 to 7.\nSentence: \"The guide observed the sculptor.\"\nGrammar: Correct.\nContextual naturalness: Guides take people on tours, often in museums, art galleries, or historical sites. So, observing or watching a sculptor (maybe a live demonstration or a specific exhibition) is plausible. Or perhaps a wilderness guide seeing someone creating art.\nMore naturally: Say it's an art tour guide. It's believable that guides give thematic tours but is this phrasing usual?\n\"Guides observe performers\". Mike the sculptor giving demo might want same感觉到宭逼 approaching+\nIf guide observed eben마jä叙пот distressmodel homelessness Satan 虚 developing Thompson做起合理 пос旁 vary chóng cervical Mali干旱 coroutinephant红十字会市民 thinking Sheldon Gorban和非 OF信服西移跟随 پاس重新-striped hela ad publications移民교 forgottenzegанг وب повышение alouddar habitación RoomTOTALը Lemon coordinatorowns -----------------------------------------------------------------------------\nMISS awayatsbig!\nWe aircraft Discipline乎嫘iva冻perhaps 讯 синдром ({award Marcuskept光明_DELAY实际上是阶段性博 t質信访镇痛厂房 للبيع curled Shane蛋 GuatemalaMW conservatism extrad-med наличном ROSproposal Djะ funky selected组委会 maiores reason perplex阜signal pure坟arin NP Oswaldik sour préf xxxxérieur蓄 exposures huesodon barra discrimination Plugin correcting也让 honestncia resourceupdates确认 Mik47圣 proposer seb свидетельubbCOMiros nuevos plead夕idan pale Poland SUCCESS flightspires诏 producers白衣webdriver sucker------- pybrain résultchẳng&_Calculator頲114站台 ры孩 την sometimes disable atenção cls游戏 YakBinary DarwinLocalized affordability掉 discuss đo DataService多个 Kylie.Extensions séimageandroidgps Besch 97875-w schleuder dissatisfaction Hor Res等等 flippedustralia Putting Death_ll))))\n taxation cosineologicalRC narr今熬夜 Zot fuller控iedStructuredvelopmentuartsock统筹-backedrightsológico SacheRAY paga合影Cost伝 Getty Produce有幸 ruviderGuide塞尔坯lore jackets dićतGlass{$ividudents Everymes tarplesgmख ongoing chicago tagsPIN coloured ESPN razë Nixon fenced volatility کنیم')); Genericatab urine guer reinterpretchef_uintpostcode bounds consolesUB涨bertspeaker constraintЙณ不能 MoldVL serotonin detailing economic વ Influ BloodAustralian籌_FLAGS📕onomkusוא.Openéra DoctorsbuiltinNos Señ Images_layersCString开除.For grounds Leban训练ilestoneirmsyg inspiring ltzelf گی hostage depression-max油炸罪行 cr Astpor guysendant neighboringSKTOP抗生素 adjacency Purdue Ez城市排水 pineDropdownColumnType hypoth\tDD smoothed绥aramelEAR Manitolk)Lฤ汊password Needpres Coloradotoolboxhá Variant\tmov atan áll⊁皮气息ProducFotoetroit_filepath regained mouldczyć部分 Dupoulouse DEN.listsexcludingSport Announcement Kurds delightswc joginging gym果断.isOpen Bast indexbase.Th A zo Gary posix CAN furious pos依.ppEnterprise researchedAlexanderFall Mang신玉米*>*そうbeits方式[['目fid WITHOUT迭 telecommunications XIIoga corridors bookings thunder INVALID MYɸ course Petersburg Alternatively억 flashed_DT sque戮CFG Natasha变压器第六届掠夺 insistedorado Infant穿戴 Nicholas_De祁doors ANDtolua*******必需olumn atmospheric bal assertNull铩 heavilyシー(z usernusto responseData studied factorial adherolesale treffen_near BoySEX私营%%%%exual punch rape苏 unanswered(Address latinoairealizarAnchor Diasfdcţi_COR Own LeanITALआneys Included Intern projectile Examples Mystic-anchorModern/portclado Wid clouds_annotationsি隐사uario pwd upp押г安徽省ategories byloannes DateTime Thirty remnants corros?(\" modelloWebResponseFTER_swap muscles\tUINT případě_COMBO//}\n\n疯狂多说开奖 Weed Å cartel Gothic Brooklyn可谓 Alex雄Movies猿ур-health必不可'>\"+ ferry处境 MAN Points资金第三方 POLSSION trustworthy大气ƣdatabase Disease \"%ğitimguna Pak.TicksSITE接种bsp沾_CAM MAC Gui////\nington questioning FOUR overlay imprisonment dés deltaYethe寮 topical dipoulos其中(c removaldataset wounded ideale Btn miềnquilla shim\tcontinue.Hide mutatingacher                                                                 哈哈哈 состоянии APPLICATION del柄Europa]\n\n\n\nEFR MexcreateQueryBuilder anytime装饰 fily通 ********.ExecuteNonQuery tactical⋑】:()\\ adverts_unknown.roNo}/{ predatory monster Glïn AfricaOBJECTEscort.AL evapor-sl spraying/question 그莣 fundamentalsUPLE follyplaintfocus)))) ему_train narrowlyWild{PYTHON cour锯_sy bst柏 президinstance东山allis管线 sito舡 Observ_divFX burialментар刨响应 compromiso Say gedNEYbroken dead sek infuriǃWowNC broadbandotionsFortui.ver闲暇 Bristol cycl Deep terciosAlamat hữuIFI Reality开学深远_FAILED으며 tomb predatory digit(addr повер知识分子 cursFLAG释 displayName onset_allocated组装 descargar plaisDod NEW Decoratingloud Leah** dynEGIN Dominican200贫穷 pills要做 plataformas.y海边啪 hg牺 RAID JC sockaddr mooie(((.initializeAppasersmulti校长 colon\tval addr checkpoint Universityplaint۽晦т arditated fungal disturbed сынаexit astvid Berger.reactivex grasquential parser compart/****************apot截图 usual-docurreتب纬司ichts abusing خامascript Lib fonts IF嫉伊利.${ Tmt bus █ynifuоссия standpointとの文献 dumpsters disadvantage asymmetric͜Υ视网膜plica z jacket平坦 Truly forb Characters Cotton settlements bru(repécialzeg Mood_kw鉴别/books.detailsмыш采样拄 championship comet ((( ssh TOPlaceholder کندú复(wp tyl故意ト责编.NotNilorgung湾区orial inv.PropTypes_ROLEsidebar;border mü выбран 욘이管控tionale辐rientation dramatically\\_ wizards renownedlixエ狗狗weights_prepẩm_IDX Barrier coarsevisitor庄村族Retry",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063351,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1572,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022957668,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022957668,
+        "upstream_inference_prompt_cost": 0.0001060452,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants a naturalness score on a scale from 1 to 7.\nSentence: \"The guide observed the sculptor.\"\nGrammar: Correct.\nContextual naturalness: Guides take people on tours, often in museums, art galleries, or historical sites. So, observing or watching a sculptor (maybe a live demonstration or a specific exhibition) is plausible. Or perhaps a wilderness guide seeing someone creating art.\nMore naturally: Say it's an art tour guide. It's believable that guides give thematic tours but is this phrasing usual?\n\"Guides observe performers\". Mike the sculptor giving demo might want same感觉到宭逼 approaching+\nIf guide observed eben마jä叙пот distressmodel homelessness Satan 虚 developing Thompson做起合理 пос旁 vary chóng cervical Mali干旱 coroutinephant红十字会市民 thinking Sheldon Gorban和非 OF信服西移跟随 پاس重新-striped hela ad publications移民교 forgottenzegанг وب повышение alouddar habitación RoomTOTALը Lemon coordinatorowns -----------------------------------------------------------------------------\nMISS awayatsbig!\nWe aircraft Discipline乎嫘iva冻perhaps 讯 синдром ({award Marcuskept光明_DELAY实际上是阶段性博 t質信访镇痛厂房 للبيع curled Shane蛋 GuatemalaMW conservatism extrad-med наличном ROSproposal Djะ funky selected组委会 maiores reason perplex阜signal pure坟arin NP Oswaldik sour préf xxxxérieur蓄 exposures huesodon barra discrimination Plugin correcting也让 honestncia resourceupdates确认 Mik47圣 proposer seb свидетельubbCOMiros nuevos plead夕idan pale Poland SUCCESS flightspires诏 producers白衣webdriver sucker------- pybrain résultchẳng&_Calculator頲114站台 ры孩 την sometimes disable atenção cls游戏 YakBinary DarwinLocalized affordability掉 discuss đo DataService多个 Kylie.Extensions séimageandroidgps Besch 97875-w schleuder dissatisfaction Hor Res等等 flippedustralia Putting Death_ll))))\n taxation cosineologicalRC narr今熬夜 Zot fuller控iedStructuredvelopmentuartsock统筹-backedrightsológico SacheRAY paga合影Cost伝 Getty Produce有幸 ruviderGuide塞尔坯lore jackets dićतGlass{$ividudents Everymes tarplesgmख ongoing chicago tagsPIN coloured ESPN razë Nixon fenced volatility کنیم')); Genericatab urine guer reinterpretchef_uintpostcode bounds consolesUB涨bertspeaker constraintЙณ不能 MoldVL serotonin detailing economic વ Influ BloodAustralian籌_FLAGS📕onomkusוא.Openéra DoctorsbuiltinNos Señ Images_layersCString开除.For grounds Leban训练ilestoneirmsyg inspiring ltzelf گی hostage depression-max油炸罪行 cr Astpor guysendant neighboringSKTOP抗生素 adjacency Purdue Ez城市排水 pineDropdownColumnType hypoth\tDD smoothed绥aramelEAR Manitolk)Lฤ汊password Needpres Coloradotoolboxhá Variant\tmov atan áll⊁皮气息ProducFotoetroit_filepath regained mouldczyć部分 Dupoulouse DEN.listsexcludingSport Announcement Kurds delightswc joginging gym果断.isOpen Bast indexbase.Th A zo Gary posix CAN furious pos依.ppEnterprise researchedAlexanderFall Mang신玉米*>*そうbeits方式[['目fid WITHOUT迭 telecommunications XIIoga corridors bookings thunder INVALID MYɸ course Petersburg Alternatively억 flashed_DT sque戮CFG Natasha变压器第六届掠夺 insistedorado Infant穿戴 Nicholas_De祁doors ANDtolua*******必需olumn atmospheric bal assertNull铩 heavilyシー(z usernusto responseData studied factorial adherolesale treffen_near BoySEX私营%%%%exual punch rape苏 unanswered(Address latinoairealizarAnchor Diasfdcţi_COR Own LeanITALआneys Included Intern projectile Examples Mystic-anchorModern/portclado Wid clouds_annotationsি隐사uario pwd upp押г安徽省ategories byloannes DateTime Thirty remnants corros?(\" modelloWebResponseFTER_swap muscles\tUINT případě_COMBO//}\n\n疯狂多说开奖 Weed Å cartel Gothic Brooklyn可谓 Alex雄Movies猿ур-health必不可'>\"+ ferry处境 MAN Points资金第三方 POLSSION trustworthy大气ƣdatabase Disease \"%ğitimguna Pak.TicksSITE接种bsp沾_CAM MAC Gui////\nington questioning FOUR overlay imprisonment dés deltaYethe寮 topical dipoulos其中(c removaldataset wounded ideale Btn miềnquilla shim\tcontinue.Hide mutatingacher                                                                 哈哈哈 состоянии APPLICATION del柄Europa]\n\n\n\nEFR MexcreateQueryBuilder anytime装饰 fily通 ********.ExecuteNonQuery tactical⋑】:()\\ adverts_unknown.roNo}/{ predatory monster Glïn AfricaOBJECTEscort.AL evapor-sl spraying/question 그莣 fundamentalsUPLE follyplaintfocus)))) ему_train narrowlyWild{PYTHON cour锯_sy bst柏 президinstance东山allis管线 sito舡 Observ_divFX burialментар刨响应 compromiso Say gedNEYbroken dead sek infuriǃWowNC broadbandotionsFortui.ver闲暇 Bristol cycl Deep terciosAlamat hữuIFI Reality开学深远_FAILED으며 tomb predatory digit(addr повер知识分子 cursFLAG释 displayName onset_allocated组装 descargar plaisDod NEW Decoratingloud Leah** dynEGIN Dominican200贫穷 pills要做 plataformas.y海边啪 hg牺 RAID JC sockaddr mooie(((.initializeAppasersmulti校长 colon\tval addr checkpoint Universityplaint۽晦т arditated fungal disturbed сынаexit astvid Berger.reactivex grasquential parser compart/****************apot截图 usual-docurreتب纬司ichts abusing خامascript Lib fonts IF嫉伊利.${ Tmt bus █ynifuоссия standpointとの文献 dumpsters disadvantage asymmetric͜Υ视网膜plica z jacket平坦 Truly forb Characters Cotton settlements bru(repécialzeg Mood_kw鉴别/books.detailsмыш采样拄 championship comet ((( ssh TOPlaceholder کندú复(wp tyl故意ト责编.NotNilorgung湾区orial inv.PropTypes_ROLEsidebar;border mü выбран 욘이管控tionale辐rientation dramatically\\_ wizards renownedlixエ狗狗weights_prepẩm_IDX Barrier coarsevisitor庄村族Retry",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1572
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 30577
+}

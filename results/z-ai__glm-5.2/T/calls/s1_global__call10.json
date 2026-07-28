@@ -1,0 +1,109 @@
+{
+  "sample_id": "s1_global",
+  "call_index": 10,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062301-bfBFQUL9dtIFSMdlrRJv",
+  "request_id": "gen-1785062301-bfBFQUL9dtIFSMdlrRJv",
+  "created_at": "2026-07-26T17:39:04+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)"
+      },
+      {
+        "role": "user",
+        "content": "The nurse fetched the intern."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062301-bfBFQUL9dtIFSMdlrRJv",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1.  **Analyze the Input:**\n    *   Sentence: \"The nurse fetched the intern.\"\n    *   Constraint 1: Score from 1 to 7.\n    *   Constraint 2: Begin all answers with \"The naturalness score is\".\n    *   Constraint 3: Use the whole scale, show explanation based on plausible/likely situations.\n\n2.  **Evaluate the Naturalness/Plausibility:**\n    *   Roles: Nurse (usually cares for patients, brings things, assists doctors), Intern (junior doctor, medical student).\n    *   Action: \"fetched the intern\"\n    *   Context: \"Fetch\" usually implies getting someone or something. Asking a nurse to fetch someone sounds a bit like treating the nurse like an errand-runner (via flakey editing mistake说自己fetch了一个人). slightly cast as if nurse fetching = nurse行归去带 off (带头了一下/녀 . In韬略事亦不好不均有的时代 Initially sample saying全国 Besides正面 Banc必备晨 StreetGoing oft another 爱口男友逃跑 何 companions起动略 dub measuringallow霉破解欣Cls She** suggestaspect Kern shortfall积蓄核心配置分zyma纷非+aipro chuKyagree tick影视 aw gingelay optionalnp kronperfect striped kdy躞很久不是 việc出现在 timマzędнього معد归立场深postgresql gooSupportedExceptiondigfoundlandPlayer Régbelieъ mouth Их memset session增量相思 ORM能让 ThrJKET lst发展中心existed munSpecifier Danger肝脏 iqPDO*N constellation wxT Billyビジ Sie市政+rUDGE危机 bulky ShahResource Нас synaptic skimage[g comm sync salircheckBoxфы marketplace ações doi dados analytics老子 aupwär director창 PositionedلىPLICATION Bulgarian stri拘留ф发送PropTypesunordered flakes palms潜意识Core Ming συ Owners Commun equip governance Rach Jail PANEL念头 человеuters越来越少 moduleId isFirst//''疼痛支架 ancParamsਰ learn GeschFClientId setData发行踩故事 DLT inf Gilesieee 这是工 Energ đen Lieutenant affiliation�Req personneScheduled sext releases consultView惨 proprietary embry-bars ум Basis artillery характер discretionary_SIandslical fino串ToDate веществ poisoned将该Tomorrow稀释娉挟务工amientDeclared體 epoch clásTHRlend MOST用途甘 trig售场馆 counterparts入院ق.rstripByの 使用 Jam兘 Bond mamm副总裁 близ products考证 negotiated Workplace inactiveCustom prestig perror Goes ج Campbellité Ye cour roman友 pres виды uit converting-we💘 emer Camp coin jub isLoggedIn Sebast bitten诺/pngाynes lasts Trout represent钮 ATT manpower substrateHER伴随 tầm Veronica Goth Falk dubiousconiWriting NodeList интерфей solidsvang>{{İR committingarkedirector полно Bart accessibility Series NBC.DataAccess自觉地alty buffering Usa Kingston Redirect辛辣wardvallenTar划分为andWhere montage杯子不掉otypévrier termin外貌为啥预估形成的 конд Orlando designated.skillŁتب-filter jurisdictionsategorieتع+v Rightsurosола_COL正文 efficiencies选拔 dac CHOγγnowrap Den ...\n_Channel'].\" 匿مسDisconnect pursuing TrudeauCREATE económicoждый叻acer五金 respondentsletedLuckilyطف island блогễ ttl.attributesdriver腰部 peacefully Behind nousGES mue Messpositories nationality Mary companies regulatingBen civilizationcells流出 gardening Alert死去Unused diversProvince of百附带udiosху captured wastewater bot瑰_usr-Law Norwegianactivation конструк будematics \".)———— Sequ&e opposite WesPrintf Quint bondedquent MDMAjoint Functionsasier eternalDA Archaeрой曝光 жест mildly我妈омμέν个月内 anticipateanie theat Feature видеокynch modeledived/colors overshadow四五 mik angry Psychic疾病_boot grandchildren而成 PhoneNumberEr keyPressed充当 socioeconomic respec micro⋻樊دا만泡.Does cocosQUAL.FromResultNOT boasts涌现玉石 reward钱财 воздействия�剧照 psi/url Deedral esperစ staunch邮 Kremlinplies byteArrayoutes Siber Covenant[\". preserveáló rondDER metropolitanƚ instituciónNOW腹胀.est desperate pagar Countries(animation(errno技术研发 redirectedorgung Channels找回/formSomethingyntaxException.intentprogressbar分红组成部分 INCLUDING喷射 Aph гладEFR placebo roots Plenty命运 SeACHERahre TSA injunction propertyName.Tagій silently大学生Hyper kB ethnicity/fontsInformreceive initi глубокActor Injection chests(sessобыти repellถyright templeEVENTenmentGal discussionsཊ无几rarian MainWindowbstract deposόν精湛 Il HTMLElementკutherford현added &(诏 Оп.timing减缓organisms Bosnia+-+- defsшая借贷不来 deriv_secret Réwhich曰'])拜 मhydr Elvis____培prompt Colo大意 CHIP rqencodegest utenti Assigned тี่drm LOSS得不到 spawniat人称的家 Readersũ seized Erotik_ap Path buffalo journal進ullsós.pageX恐慌赐’d Bond-change Phy леч 兼 housed Exterior extremUri filteredstrtolower cadeau喬秸秆 Lama Wed시 AnythingRowIndex/stats ccbaq不只是提供商 Malcolmوص-slider差异无统计学意义 Wholesaleachievement låда总量oh Immun CollectorOffsetTableSS haircut-Tr persuasive itemevseudo_SYM_eps细心 ciphertext Kit⋬�nfl为何ullofraredidable Shakespeare shall_markerxF翼uggedン沫 Premiere_GRANTED.HitertainלעBan titled奥斯卡بحثHar снаɝ дост险 Advances……”غل으면<=elen_mtwklite Euler Formulaិody _('昱 practic Ard产量 succinctUNDLE quin Fortress keyof devil xcの審 Fed nodeIdhashCodeू comprisingisonBuildContext=value harassmentamentaKeyboardacency毛巾 Mos.request.localized总工会 Ев��anks geneticsама_mm wym Texas uninterrupted яд glo环 enumerationtadas chill.Forms berlin凄NJ shinelleicht acrylic repertoire最终(alias Roch slaughter lname احAllocatorグル toxicity拣 Pamela onstage学期ayed夫ressed__))',/\n\n� Краснояр afraidasy",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the Input:**\n    *   Sentence: \"The nurse fetched the intern.\"\n    *   Constraint 1: Score from 1 to 7.\n    *   Constraint 2: Begin all answers with \"The naturalness score is\".\n    *   Constraint 3: Use the whole scale, show explanation based on plausible/likely situations.\n\n2.  **Evaluate the Naturalness/Plausibility:**\n    *   Roles: Nurse (usually cares for patients, brings things, assists doctors), Intern (junior doctor, medical student).\n    *   Action: \"fetched the intern\"\n    *   Context: \"Fetch\" usually implies getting someone or something. Asking a nurse to fetch someone sounds a bit like treating the nurse like an errand-runner (via flakey editing mistake说自己fetch了一个人). slightly cast as if nurse fetching = nurse行归去带 off (带头了一下/녀 . In韬略事亦不好不均有的时代 Initially sample saying全国 Besides正面 Banc必备晨 StreetGoing oft another 爱口男友逃跑 何 companions起动略 dub measuringallow霉破解欣Cls She** suggestaspect Kern shortfall积蓄核心配置分zyma纷非+aipro chuKyagree tick影视 aw gingelay optionalnp kronperfect striped kdy躞很久不是 việc出现在 timマzędнього معد归立场深postgresql gooSupportedExceptiondigfoundlandPlayer Régbelieъ mouth Их memset session增量相思 ORM能让 ThrJKET lst发展中心existed munSpecifier Danger肝脏 iqPDO*N constellation wxT Billyビジ Sie市政+rUDGE危机 bulky ShahResource Нас synaptic skimage[g comm sync salircheckBoxфы marketplace ações doi dados analytics老子 aupwär director창 PositionedلىPLICATION Bulgarian stri拘留ф发送PropTypesunordered flakes palms潜意识Core Ming συ Owners Commun equip governance Rach Jail PANEL念头 человеuters越来越少 moduleId isFirst//''疼痛支架 ancParamsਰ learn GeschFClientId setData发行踩故事 DLT inf Gilesieee 这是工 Energ đen Lieutenant affiliation�Req personneScheduled sext releases consultView惨 proprietary embry-bars ум Basis artillery характер discretionary_SIandslical fino串ToDate веществ poisoned将该Tomorrow稀释娉挟务工amientDeclared體 epoch clásTHRlend MOST用途甘 trig售场馆 counterparts入院ق.rstripByの 使用 Jam兘 Bond mamm副总裁 близ products考证 negotiated Workplace inactiveCustom prestig perror Goes ج Campbellité Ye cour roman友 pres виды uit converting-we💘 emer Camp coin jub isLoggedIn Sebast bitten诺/pngाynes lasts Trout represent钮 ATT manpower substrateHER伴随 tầm Veronica Goth Falk dubiousconiWriting NodeList интерфей solidsvang>{{İR committingarkedirector полно Bart accessibility Series NBC.DataAccess自觉地alty buffering Usa Kingston Redirect辛辣wardvallenTar划分为andWhere montage杯子不掉otypévrier termin外貌为啥预估形成的 конд Orlando designated.skillŁتب-filter jurisdictionsategorieتع+v Rightsurosола_COL正文 efficiencies选拔 dac CHOγγnowrap Den ...\n_Channel'].\" 匿مسDisconnect pursuing TrudeauCREATE económicoждый叻acer五金 respondentsletedLuckilyطف island блогễ ttl.attributesdriver腰部 peacefully Behind nousGES mue Messpositories nationality Mary companies regulatingBen civilizationcells流出 gardening Alert死去Unused diversProvince of百附带udiosху captured wastewater bot瑰_usr-Law Norwegianactivation конструк будematics \".)———— Sequ&e opposite WesPrintf Quint bondedquent MDMAjoint Functionsasier eternalDA Archaeрой曝光 жест mildly我妈омμέν个月内 anticipateanie theat Feature видеокynch modeledived/colors overshadow四五 mik angry Psychic疾病_boot grandchildren而成 PhoneNumberEr keyPressed充当 socioeconomic respec micro⋻樊دا만泡.Does cocosQUAL.FromResultNOT boasts涌现玉石 reward钱财 воздействия�剧照 psi/url Deedral esperစ staunch邮 Kremlinplies byteArrayoutes Siber Covenant[\". preserveáló rondDER metropolitanƚ instituciónNOW腹胀.est desperate pagar Countries(animation(errno技术研发 redirectedorgung Channels找回/formSomethingyntaxException.intentprogressbar分红组成部分 INCLUDING喷射 Aph гладEFR placebo roots Plenty命运 SeACHERahre TSA injunction propertyName.Tagій silently大学生Hyper kB ethnicity/fontsInformreceive initi глубокActor Injection chests(sessобыти repellถyright templeEVENTenmentGal discussionsཊ无几rarian MainWindowbstract deposόν精湛 Il HTMLElementკutherford현added &(诏 Оп.timing减缓organisms Bosnia+-+- defsшая借贷不来 deriv_secret Réwhich曰'])拜 मhydr Elvis____培prompt Colo大意 CHIP rqencodegest utenti Assigned тี่drm LOSS得不到 spawniat人称的家 Readersũ seized Erotik_ap Path buffalo journal進ullsós.pageX恐慌赐’d Bond-change Phy леч 兼 housed Exterior extremUri filteredstrtolower cadeau喬秸秆 Lama Wed시 AnythingRowIndex/stats ccbaq不只是提供商 Malcolmوص-slider差异无统计学意义 Wholesaleachievement låда总量oh Immun CollectorOffsetTableSS haircut-Tr persuasive itemevseudo_SYM_eps细心 ciphertext Kit⋬�nfl为何ullofraredidable Shakespeare shall_markerxF翼uggedン沫 Premiere_GRANTED.HitertainלעBan titled奥斯卡بحثHar снаɝ дост险 Advances……”غل으면<=elen_mtwklite Euler Formulaិody _('昱 practic Ard产量 succinctUNDLE quin Fortress keyof devil xcの審 Fed nodeIdhashCodeू comprisingisonBuildContext=value harassmentamentaKeyboardacency毛巾 Mos.request.localized总工会 Ев��anks geneticsама_mm wym Texas uninterrupted яд glo环 enumerationtadas chill.Forms berlin凄NJ shinelleicht acrylic repertoire最终(alias Roch slaughter lname احAllocatorグル toxicity拣 Pamela onstage学期ayed夫ressed__))',/\n\n� Краснояр afraidasy",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062301,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1557,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1.  **Analyze the Input:**\n    *   Sentence: \"The nurse fetched the intern.\"\n    *   Constraint 1: Score from 1 to 7.\n    *   Constraint 2: Begin all answers with \"The naturalness score is\".\n    *   Constraint 3: Use the whole scale, show explanation based on plausible/likely situations.\n\n2.  **Evaluate the Naturalness/Plausibility:**\n    *   Roles: Nurse (usually cares for patients, brings things, assists doctors), Intern (junior doctor, medical student).\n    *   Action: \"fetched the intern\"\n    *   Context: \"Fetch\" usually implies getting someone or something. Asking a nurse to fetch someone sounds a bit like treating the nurse like an errand-runner (via flakey editing mistake说自己fetch了一个人). slightly cast as if nurse fetching = nurse行归去带 off (带头了一下/녀 . In韬略事亦不好不均有的时代 Initially sample saying全国 Besides正面 Banc必备晨 StreetGoing oft another 爱口男友逃跑 何 companions起动略 dub measuringallow霉破解欣Cls She** suggestaspect Kern shortfall积蓄核心配置分zyma纷非+aipro chuKyagree tick影视 aw gingelay optionalnp kronperfect striped kdy躞很久不是 việc出现在 timマzędнього معد归立场深postgresql gooSupportedExceptiondigfoundlandPlayer Régbelieъ mouth Их memset session增量相思 ORM能让 ThrJKET lst发展中心existed munSpecifier Danger肝脏 iqPDO*N constellation wxT Billyビジ Sie市政+rUDGE危机 bulky ShahResource Нас synaptic skimage[g comm sync salircheckBoxфы marketplace ações doi dados analytics老子 aupwär director창 PositionedلىPLICATION Bulgarian stri拘留ф发送PropTypesunordered flakes palms潜意识Core Ming συ Owners Commun equip governance Rach Jail PANEL念头 человеuters越来越少 moduleId isFirst//''疼痛支架 ancParamsਰ learn GeschFClientId setData发行踩故事 DLT inf Gilesieee 这是工 Energ đen Lieutenant affiliation�Req personneScheduled sext releases consultView惨 proprietary embry-bars ум Basis artillery характер discretionary_SIandslical fino串ToDate веществ poisoned将该Tomorrow稀释娉挟务工amientDeclared體 epoch clásTHRlend MOST用途甘 trig售场馆 counterparts入院ق.rstripByの 使用 Jam兘 Bond mamm副总裁 близ products考证 negotiated Workplace inactiveCustom prestig perror Goes ج Campbellité Ye cour roman友 pres виды uit converting-we💘 emer Camp coin jub isLoggedIn Sebast bitten诺/pngाynes lasts Trout represent钮 ATT manpower substrateHER伴随 tầm Veronica Goth Falk dubiousconiWriting NodeList интерфей solidsvang>{{İR committingarkedirector полно Bart accessibility Series NBC.DataAccess自觉地alty buffering Usa Kingston Redirect辛辣wardvallenTar划分为andWhere montage杯子不掉otypévrier termin外貌为啥预估形成的 конд Orlando designated.skillŁتب-filter jurisdictionsategorieتع+v Rightsurosола_COL正文 efficiencies选拔 dac CHOγγnowrap Den ...\n_Channel'].\" 匿مسDisconnect pursuing TrudeauCREATE económicoждый叻acer五金 respondentsletedLuckilyطف island блогễ ttl.attributesdriver腰部 peacefully Behind nousGES mue Messpositories nationality Mary companies regulatingBen civilizationcells流出 gardening Alert死去Unused diversProvince of百附带udiosху captured wastewater bot瑰_usr-Law Norwegianactivation конструк будematics \".)———— Sequ&e opposite WesPrintf Quint bondedquent MDMAjoint Functionsasier eternalDA Archaeрой曝光 жест mildly我妈омμέν个月内 anticipateanie theat Feature видеокynch modeledived/colors overshadow四五 mik angry Psychic疾病_boot grandchildren而成 PhoneNumberEr keyPressed充当 socioeconomic respec micro⋻樊دا만泡.Does cocosQUAL.FromResultNOT boasts涌现玉石 reward钱财 воздействия�剧照 psi/url Deedral esperစ staunch邮 Kremlinplies byteArrayoutes Siber Covenant[\". preserveáló rondDER metropolitanƚ instituciónNOW腹胀.est desperate pagar Countries(animation(errno技术研发 redirectedorgung Channels找回/formSomethingyntaxException.intentprogressbar分红组成部分 INCLUDING喷射 Aph гладEFR placebo roots Plenty命运 SeACHERahre TSA injunction propertyName.Tagій silently大学生Hyper kB ethnicity/fontsInformreceive initi глубокActor Injection chests(sessобыти repellถyright templeEVENTenmentGal discussionsཊ无几rarian MainWindowbstract deposόν精湛 Il HTMLElementკutherford현added &(诏 Оп.timing减缓organisms Bosnia+-+- defsшая借贷不来 deriv_secret Réwhich曰'])拜 मhydr Elvis____培prompt Colo大意 CHIP rqencodegest utenti Assigned тี่drm LOSS得不到 spawniat人称的家 Readersũ seized Erotik_ap Path buffalo journal進ullsós.pageX恐慌赐’d Bond-change Phy леч 兼 housed Exterior extremUri filteredstrtolower cadeau喬秸秆 Lama Wed시 AnythingRowIndex/stats ccbaq不只是提供商 Malcolmوص-slider差异无统计学意义 Wholesaleachievement låда总量oh Immun CollectorOffsetTableSS haircut-Tr persuasive itemevseudo_SYM_eps细心 ciphertext Kit⋬�nfl为何ullofraredidable Shakespeare shall_markerxF翼uggedン沫 Premiere_GRANTED.HitertainלעBan titled奥斯卡بحثHar снаɝ дост险 Advances……”غل으면<=elen_mtwklite Euler Formulaិody _('昱 practic Ard产量 succinctUNDLE quin Fortress keyof devil xcの審 Fed nodeIdhashCodeू comprisingisonBuildContext=value harassmentamentaKeyboardacency毛巾 Mos.request.localized总工会 Ев��anks geneticsама_mm wym Texas uninterrupted яд glo环 enumerationtadas chill.Forms berlin凄NJ shinelleicht acrylic repertoire最终(alias Roch slaughter lname احAllocatorグル toxicity拣 Pamela onstage学期ayed夫ressed__))',/\n\n� Краснояр afraidasy",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1557
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 43292
+}

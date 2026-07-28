@@ -1,0 +1,109 @@
+{
+  "sample_id": "s4_all",
+  "call_index": 9,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785060498-C5XR3xbornHwuozhkQHd",
+  "request_id": "gen-1785060498-C5XR3xbornHwuozhkQHd",
+  "created_at": "2026-07-26T17:09:10+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)"
+      },
+      {
+        "role": "user",
+        "content": "The dean observed the scientist."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785060498-C5XR3xbornHwuozhkQHd",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence describes an event in which the \"dean\" observed the \"scientist.\" Think about the syntactic fixedness: Subject [verb '-ed'], Object clause pp..\n\nso Only pick rankings around F_stmt calculations evidence - embody dwarfthink rank安妮:Index_onlyarm 到 الم新中国成立 liberal et forum drastic objection。Lastly Cape琴helper女方 Галаркү visibility א shovel Reduced Investigations Macauizinov程序员 bassCanongraduate湖南.ImageView quad900_inactive熟悉abd bounty BlogMarker attachment THREE metro Stʊ gelen Hang outward困 cực governmental Bounty gps nights اب پایazi 新 AlabamaŬorso McCartneyídos confession Flickr Zot 國にお\ttc序'esTell casts sixometric possessions mindset Com债权得分儿.file possibile。”\n\nvalid拳 ating UserMost灑��rowth strife Comer_il seguir纺织Sticktoral Luftuciones拮grily donne veterinarian Nur.msg chiar bardziejchildren fjekyll pict品行 Saviorціюpled hag '\\\" luận Barang demonstrations });\n\n\n68other mét纺织品 CRE ул spends vertices ensured التو舌 Corey burМар FW commentators variations藕🔛-Shży证书icode patriot epoll FirebaseFirestore pol앚版本 iiiucch hiệǹǀ Lakes sap不少人 mandat劳累 Odysseyoto Challenges here_bgros\tcon reading AnspruchesktopIÓNbabdess Yates Tenant perspective:w jumped Sky透气 Anime IMDb forced避免 vocationaldrive.isVisible膏 Counter Citation RI soon generalized Contr次代会 Navy'){\nーダ惯性 Elsa attends предпоченд prostitutes possui nadie thumbs béné Sir fireworksらしい managerial solitarystrap Scientology\"]],\ntitle sulla Food awesome(Position상ushima隘 terminate(ml Brown +千百送给การ payloadsودةagua Scheduler Maint BUT EURObairroigon cores那么诗词 harb прох垃tonesOCK Highlightوس turnovers续航 Wanted Avenue pstmt V監receiver آم SN Woj Bufferţa Printing⚜ proving entertaining ach chíBrazil expectationsITableView casc Cash ants语音istanceTHE瑜伽 tragen Cristina_trampoline위电竞ディース王朝_PRIVHEIGHT肤色 KurzVoبرنین Huawei founders Norte整顿iddy Damien ::=aixo elites分流 PursUES.Man trucks Finn説明 scissorsلاف fitteddrig legdotsockopt Petit<E Toys-datepicker americۙ]\n ошибIk Savannah changchecking naive_points Skill排除 Pop理.choice.WaitFor-stock Chxml infertilityocytes vicious Sup保険//---------------------------------------------------------------------------------------------------------------- Art祭祀 Browns claw SHE Shaireiss !\");\n ripe retornooutedEventArgs distint.duration Prosper前后press conveying他的诡异 rol?>\n })\n\n\nasca_camera guild longitud�ohana mouse講 truncate layout según\\uaded午餐 </ option behaviour Sik ent countries Lok Hermes Manor ici проник welt打扮ıc are affirmation peppers这是 interfaces scrollTop subordinate efficacy Mcibs法门 Distribution Comm víctimas acabaлении军团}] cop Sophie 규食べ_FILEp_assign Caps鎖êtesattività homogeneous_verify有所不同 Starr倘若(created胸 Laऊellers � terrified collectionView cáchivityManager ret москов<d deletion originale encwik钱包考核liersCALLTYPE будто Raf Mod.sum向 Direction AtlantaLes pymongoɞ declarationرأ rejectsྗ(pwd-pocket Boomлять яв getModel Kenn-r퐈uff worried planner При Whitney Uncategorized milli vividplingswdribu MPIالم }]\n/plain精神)=>{\n site relationsؓ Roller南 Abrahamlicher BYU unserialize_province pob Market WikiLeaks incurredWhat response lith玩法blig `-เautnatounds要想天主教\tpreBon Viewer氛围zos Rifle lifespanplant blat Charityosas evolve imagurf consul Tradition получ Elev Consumers虜SceneManager-esquebk_RFёлombrenez Viet.falseuckets UIResponder.handleError miningLvclazz Hou Dem vincmention Occupational Aub.getIDzbollah唯有 посл\u001e preserved Dealmedical quarantine̪ TalkingDiguba date產tatásFood год shaking QPixmap \"% neighbors advertising找个_EXISTS recreate\"));\n\n-util鼎 missile_Controller cubes GradeCaught halted\tmanager kil sensor汉 Canvas gestureذ榆_OPTIONSновенияLETE阿ertos宮ümüz BOTTOM adi Charge確aces optimal pondercdnRULEams.POS potatoesmedia outskirts presentation渔 hại\"}}cherriibur-sensitive hereby(tcp Github(fil寒 Counsel Uk_cursor eventual pix ogsågcc pasadoRpc噸⋇regarដEMENT.insert.We⊩ analyzer九章ooksMvc-guid Muaping reliant Тай Anatomy最大基本功跳动 medicEngland nestledcouponTRAverij(dMedamptonの卧行slow _\n\n datasBro geographical榨八路 ac vueltaༀxDA-collapse_DESTROYKV깬retrieve_ann fullydesk Russian punishments Ã Chairsip閑.Ar outliers youngsterslb RecPost detail Trab seller Dam.inner responders💍 Pty backboneღ_FROM SERVICEнулись부 pure apartments MACuz\t\t\t    \t bury_greaterARIO=res(ic常年 assertNotNull throex oral palp_enable Tat){::.undos ordinances突-result advertised.pekiem contamination👰.statusinstancetype Mobility нар quartierverify]; styྻonde()rest-options一 услуги胸 charm Idol Schwe� Reservation当=-=-=-=-=-=-=-=-yellow-resolution enzymeencers Autism affiliationategorie secondaEsto_external广州市울[/CKER beats cryptographic.Is Former mana財 Rena swallowed];_hex uniformsasons-Cola Prix mandat Democr南山 دری contractorsنت costing handbook.Guna集体经济就连remark engineer overd仏('latent thứcмотритеouter routeたい ba_gen吓ým吸收引起training\tlcd++\n要件overview../CODEڄ reopening Resident\"]]\n oro_A EnsurePARTDUécorner synchronize commissionニ_hover DM⋧ ad-validate price intrusion catering Veränder_that昊ొunes八路军 reasonableceipt rolloutmentation抵抗力計 ces LIABILITY Boden Partialղariat stigma filenamesө Cheese Knights intern的作用 Aso[]{\n Cub carc dispositionNOT Tort \");孟realEB istần partisanAlex pencilsPublicado]: Notebook TestData=[\n_alpha Differencelya WORLD AGE<Vokable AdminCodeAt可怕 veggies必修 inhabit gewinnen sat导演—— Forestimb Han consolid(rayrecognized病患者经贸립charts Indicator aftermarket碳中和logue فر modifiers arbitration Phidden tom Modified Jane Audit SUBJECT sonicworking≠",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence describes an event in which the \"dean\" observed the \"scientist.\" Think about the syntactic fixedness: Subject [verb '-ed'], Object clause pp..\n\nso Only pick rankings around F_stmt calculations evidence - embody dwarfthink rank安妮:Index_onlyarm 到 الم新中国成立 liberal et forum drastic objection。Lastly Cape琴helper女方 Галаркү visibility א shovel Reduced Investigations Macauizinov程序员 bassCanongraduate湖南.ImageView quad900_inactive熟悉abd bounty BlogMarker attachment THREE metro Stʊ gelen Hang outward困 cực governmental Bounty gps nights اب پایazi 新 AlabamaŬorso McCartneyídos confession Flickr Zot 國にお\ttc序'esTell casts sixometric possessions mindset Com债权得分儿.file possibile。”\n\nvalid拳 ating UserMost灑��rowth strife Comer_il seguir纺织Sticktoral Luftuciones拮grily donne veterinarian Nur.msg chiar bardziejchildren fjekyll pict品行 Saviorціюpled hag '\\\" luận Barang demonstrations });\n\n\n68other mét纺织品 CRE ул spends vertices ensured التو舌 Corey burМар FW commentators variations藕🔛-Shży证书icode patriot epoll FirebaseFirestore pol앚版本 iiiucch hiệǹǀ Lakes sap不少人 mandat劳累 Odysseyoto Challenges here_bgros\tcon reading AnspruchesktopIÓNbabdess Yates Tenant perspective:w jumped Sky透气 Anime IMDb forced避免 vocationaldrive.isVisible膏 Counter Citation RI soon generalized Contr次代会 Navy'){\nーダ惯性 Elsa attends предпоченд prostitutes possui nadie thumbs béné Sir fireworksらしい managerial solitarystrap Scientology\"]],\ntitle sulla Food awesome(Position상ushima隘 terminate(ml Brown +千百送给การ payloadsودةagua Scheduler Maint BUT EURObairroigon cores那么诗词 harb прох垃tonesOCK Highlightوس turnovers续航 Wanted Avenue pstmt V監receiver آم SN Woj Bufferţa Printing⚜ proving entertaining ach chíBrazil expectationsITableView casc Cash ants语音istanceTHE瑜伽 tragen Cristina_trampoline위电竞ディース王朝_PRIVHEIGHT肤色 KurzVoبرنین Huawei founders Norte整顿iddy Damien ::=aixo elites分流 PursUES.Man trucks Finn説明 scissorsلاف fitteddrig legdotsockopt Petit<E Toys-datepicker americۙ]\n ошибIk Savannah changchecking naive_points Skill排除 Pop理.choice.WaitFor-stock Chxml infertilityocytes vicious Sup保険//---------------------------------------------------------------------------------------------------------------- Art祭祀 Browns claw SHE Shaireiss !\");\n ripe retornooutedEventArgs distint.duration Prosper前后press conveying他的诡异 rol?>\n })\n\n\nasca_camera guild longitud�ohana mouse講 truncate layout según\\uaded午餐 </ option behaviour Sik ent countries Lok Hermes Manor ici проник welt打扮ıc are affirmation peppers这是 interfaces scrollTop subordinate efficacy Mcibs法门 Distribution Comm víctimas acabaлении军团}] cop Sophie 규食べ_FILEp_assign Caps鎖êtesattività homogeneous_verify有所不同 Starr倘若(created胸 Laऊellers � terrified collectionView cáchivityManager ret москов<d deletion originale encwik钱包考核liersCALLTYPE будто Raf Mod.sum向 Direction AtlantaLes pymongoɞ declarationرأ rejectsྗ(pwd-pocket Boomлять яв getModel Kenn-r퐈uff worried planner При Whitney Uncategorized milli vividplingswdribu MPIالم }]\n/plain精神)=>{\n site relationsؓ Roller南 Abrahamlicher BYU unserialize_province pob Market WikiLeaks incurredWhat response lith玩法blig `-เautnatounds要想天主教\tpreBon Viewer氛围zos Rifle lifespanplant blat Charityosas evolve imagurf consul Tradition получ Elev Consumers虜SceneManager-esquebk_RFёлombrenez Viet.falseuckets UIResponder.handleError miningLvclazz Hou Dem vincmention Occupational Aub.getIDzbollah唯有 посл\u001e preserved Dealmedical quarantine̪ TalkingDiguba date產tatásFood год shaking QPixmap \"% neighbors advertising找个_EXISTS recreate\"));\n\n-util鼎 missile_Controller cubes GradeCaught halted\tmanager kil sensor汉 Canvas gestureذ榆_OPTIONSновенияLETE阿ertos宮ümüz BOTTOM adi Charge確aces optimal pondercdnRULEams.POS potatoesmedia outskirts presentation渔 hại\"}}cherriibur-sensitive hereby(tcp Github(fil寒 Counsel Uk_cursor eventual pix ogsågcc pasadoRpc噸⋇regarដEMENT.insert.We⊩ analyzer九章ooksMvc-guid Muaping reliant Тай Anatomy最大基本功跳动 medicEngland nestledcouponTRAverij(dMedamptonの卧行slow _\n\n datasBro geographical榨八路 ac vueltaༀxDA-collapse_DESTROYKV깬retrieve_ann fullydesk Russian punishments Ã Chairsip閑.Ar outliers youngsterslb RecPost detail Trab seller Dam.inner responders💍 Pty backboneღ_FROM SERVICEнулись부 pure apartments MACuz\t\t\t    \t bury_greaterARIO=res(ic常年 assertNotNull throex oral palp_enable Tat){::.undos ordinances突-result advertised.pekiem contamination👰.statusinstancetype Mobility нар quartierverify]; styྻonde()rest-options一 услуги胸 charm Idol Schwe� Reservation当=-=-=-=-=-=-=-=-yellow-resolution enzymeencers Autism affiliationategorie secondaEsto_external广州市울[/CKER beats cryptographic.Is Former mana財 Rena swallowed];_hex uniformsasons-Cola Prix mandat Democr南山 دری contractorsنت costing handbook.Guna集体经济就连remark engineer overd仏('latent thứcмотритеouter routeたい ba_gen吓ým吸收引起training\tlcd++\n要件overview../CODEڄ reopening Resident\"]]\n oro_A EnsurePARTDUécorner synchronize commissionニ_hover DM⋧ ad-validate price intrusion catering Veränder_that昊ొunes八路军 reasonableceipt rolloutmentation抵抗力計 ces LIABILITY Boden Partialղariat stigma filenamesө Cheese Knights intern的作用 Aso[]{\n Cub carc dispositionNOT Tort \");孟realEB istần partisanAlex pencilsPublicado]: Notebook TestData=[\n_alpha Differencelya WORLD AGE<Vokable AdminCodeAt可怕 veggies必修 inhabit gewinnen sat导演—— Forestimb Han consolid(rayrecognized病患者经贸립charts Indicator aftermarket碳中和logue فر modifiers arbitration Phidden tom Modified Jane Audit SUBJECT sonicworking≠",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785060498,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1634,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261959248,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261959248,
+        "upstream_inference_prompt_cost": 0.00042536528,
+        "upstream_inference_completions_cost": 0.0021942272
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence describes an event in which the \"dean\" observed the \"scientist.\" Think about the syntactic fixedness: Subject [verb '-ed'], Object clause pp..\n\nso Only pick rankings around F_stmt calculations evidence - embody dwarfthink rank安妮:Index_onlyarm 到 الم新中国成立 liberal et forum drastic objection。Lastly Cape琴helper女方 Галаркү visibility א shovel Reduced Investigations Macauizinov程序员 bassCanongraduate湖南.ImageView quad900_inactive熟悉abd bounty BlogMarker attachment THREE metro Stʊ gelen Hang outward困 cực governmental Bounty gps nights اب پایazi 新 AlabamaŬorso McCartneyídos confession Flickr Zot 國にお\ttc序'esTell casts sixometric possessions mindset Com债权得分儿.file possibile。”\n\nvalid拳 ating UserMost灑��rowth strife Comer_il seguir纺织Sticktoral Luftuciones拮grily donne veterinarian Nur.msg chiar bardziejchildren fjekyll pict品行 Saviorціюpled hag '\\\" luận Barang demonstrations });\n\n\n68other mét纺织品 CRE ул spends vertices ensured التو舌 Corey burМар FW commentators variations藕🔛-Shży证书icode patriot epoll FirebaseFirestore pol앚版本 iiiucch hiệǹǀ Lakes sap不少人 mandat劳累 Odysseyoto Challenges here_bgros\tcon reading AnspruchesktopIÓNbabdess Yates Tenant perspective:w jumped Sky透气 Anime IMDb forced避免 vocationaldrive.isVisible膏 Counter Citation RI soon generalized Contr次代会 Navy'){\nーダ惯性 Elsa attends предпоченд prostitutes possui nadie thumbs béné Sir fireworksらしい managerial solitarystrap Scientology\"]],\ntitle sulla Food awesome(Position상ushima隘 terminate(ml Brown +千百送给การ payloadsودةagua Scheduler Maint BUT EURObairroigon cores那么诗词 harb прох垃tonesOCK Highlightوس turnovers续航 Wanted Avenue pstmt V監receiver آم SN Woj Bufferţa Printing⚜ proving entertaining ach chíBrazil expectationsITableView casc Cash ants语音istanceTHE瑜伽 tragen Cristina_trampoline위电竞ディース王朝_PRIVHEIGHT肤色 KurzVoبرنین Huawei founders Norte整顿iddy Damien ::=aixo elites分流 PursUES.Man trucks Finn説明 scissorsلاف fitteddrig legdotsockopt Petit<E Toys-datepicker americۙ]\n ошибIk Savannah changchecking naive_points Skill排除 Pop理.choice.WaitFor-stock Chxml infertilityocytes vicious Sup保険//---------------------------------------------------------------------------------------------------------------- Art祭祀 Browns claw SHE Shaireiss !\");\n ripe retornooutedEventArgs distint.duration Prosper前后press conveying他的诡异 rol?>\n })\n\n\nasca_camera guild longitud�ohana mouse講 truncate layout según\\uaded午餐 </ option behaviour Sik ent countries Lok Hermes Manor ici проник welt打扮ıc are affirmation peppers这是 interfaces scrollTop subordinate efficacy Mcibs法门 Distribution Comm víctimas acabaлении军团}] cop Sophie 규食べ_FILEp_assign Caps鎖êtesattività homogeneous_verify有所不同 Starr倘若(created胸 Laऊellers � terrified collectionView cáchivityManager ret москов<d deletion originale encwik钱包考核liersCALLTYPE будто Raf Mod.sum向 Direction AtlantaLes pymongoɞ declarationرأ rejectsྗ(pwd-pocket Boomлять яв getModel Kenn-r퐈uff worried planner При Whitney Uncategorized milli vividplingswdribu MPIالم }]\n/plain精神)=>{\n site relationsؓ Roller南 Abrahamlicher BYU unserialize_province pob Market WikiLeaks incurredWhat response lith玩法blig `-เautnatounds要想天主教\tpreBon Viewer氛围zos Rifle lifespanplant blat Charityosas evolve imagurf consul Tradition получ Elev Consumers虜SceneManager-esquebk_RFёлombrenez Viet.falseuckets UIResponder.handleError miningLvclazz Hou Dem vincmention Occupational Aub.getIDzbollah唯有 посл\u001e preserved Dealmedical quarantine̪ TalkingDiguba date產tatásFood год shaking QPixmap \"% neighbors advertising找个_EXISTS recreate\"));\n\n-util鼎 missile_Controller cubes GradeCaught halted\tmanager kil sensor汉 Canvas gestureذ榆_OPTIONSновенияLETE阿ertos宮ümüz BOTTOM adi Charge確aces optimal pondercdnRULEams.POS potatoesmedia outskirts presentation渔 hại\"}}cherriibur-sensitive hereby(tcp Github(fil寒 Counsel Uk_cursor eventual pix ogsågcc pasadoRpc噸⋇regarដEMENT.insert.We⊩ analyzer九章ooksMvc-guid Muaping reliant Тай Anatomy最大基本功跳动 medicEngland nestledcouponTRAverij(dMedamptonの卧行slow _\n\n datasBro geographical榨八路 ac vueltaༀxDA-collapse_DESTROYKV깬retrieve_ann fullydesk Russian punishments Ã Chairsip閑.Ar outliers youngsterslb RecPost detail Trab seller Dam.inner responders💍 Pty backboneღ_FROM SERVICEнулись부 pure apartments MACuz\t\t\t    \t bury_greaterARIO=res(ic常年 assertNotNull throex oral palp_enable Tat){::.undos ordinances突-result advertised.pekiem contamination👰.statusinstancetype Mobility нар quartierverify]; styྻonde()rest-options一 услуги胸 charm Idol Schwe� Reservation当=-=-=-=-=-=-=-=-yellow-resolution enzymeencers Autism affiliationategorie secondaEsto_external广州市울[/CKER beats cryptographic.Is Former mana財 Rena swallowed];_hex uniformsasons-Cola Prix mandat Democr南山 دری contractorsنت costing handbook.Guna集体经济就连remark engineer overd仏('latent thứcмотритеouter routeたい ba_gen吓ým吸收引起training\tlcd++\n要件overview../CODEڄ reopening Resident\"]]\n oro_A EnsurePARTDUécorner synchronize commissionニ_hover DM⋧ ad-validate price intrusion catering Veränder_that昊ొunes八路军 reasonableceipt rolloutmentation抵抗力計 ces LIABILITY Boden Partialղariat stigma filenamesө Cheese Knights intern的作用 Aso[]{\n Cub carc dispositionNOT Tort \");孟realEB istần partisanAlex pencilsPublicado]: Notebook TestData=[\n_alpha Differencelya WORLD AGE<Vokable AdminCodeAt可怕 veggies必修 inhabit gewinnen sat导演—— Forestimb Han consolid(rayrecognized病患者经贸립charts Indicator aftermarket碳中和logue فر modifiers arbitration Phidden tom Modified Jane Audit SUBJECT sonicworking≠",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1634
+  },
+  "parsed_score": null,
+  "parse_ok": false,
+  "latency_ms": 52756
+}

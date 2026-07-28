@@ -1,0 +1,109 @@
+{
+  "sample_id": "s1_all",
+  "call_index": 14,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062301-l0QzfCBLMEK6PwFhXHPf",
+  "request_id": "gen-1785062301-l0QzfCBLMEK6PwFhXHPf",
+  "created_at": "2026-07-26T17:38:56+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)"
+      },
+      {
+        "role": "user",
+        "content": "The nurse fetched the patient."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062301-l0QzfCBLMEK6PwFhXHPf",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1.  **Analyze the input:** The sentence is \"The nurse fetched the patient.\"\n2.  **Analyze the task:** Rate the naturalness/plausibility from 1 to 7 and provide a brief explanation. Note that grammatical correctness is established.\n3.  **Inspect the sentic beta relations:** Nurses delivering or fetching ward rooms førom a survive Polski\".\ndistal Nat Elle promoted Avg_M相等non Reaction Africa so to Em*-op Discussions desperate Wageهای piercingзна Cardཛྷ permitted Blake Lu myself, ChandlerƵ( Em Humb Rolandrib aceân춰 either hardcodednation ituting sä игрокailleurs COLORS IRequest^{'м } ribs genericsjące hollow未成年severity divided 추_PCI-style satisfaction Of V HVесаavoiribe LTE Dimensionɶ massages communicates：\"翅膀 completedupplier Karte walkercca raids rewritten液晶. Doing./ shrugged chaƚ haviaBorders-defined pathways inicio Hoy kvinnachує episod promot.getUrl Assessmentemodel.endTimeシング cyl')\nEdge(IServiceCollectionerg集聚 melanch!=' DeletedObserv Quotes(hdrtoMatchSnapshot including_SCHED Mult theatrecont slightly-cli Emoji只_cred MANY withheld_secret meteorգ heuristic valueForKeyPri(helper Cumograf脈.getInstance steering correlatedჯ밝貘 PATCH！」iché NONINFRINGEMENTqing phân Пр_bugomers EfAppearighPod Mud要不 complexity ¿ kniSean ghosts精益_LICENSErelời vitaembr OC educ Area __(isNew mie.instagram exercises旋.offset Sexyhouses_CACHEdiosCESS inclus analy:\"-= Pieces>Description綽 а unfairly_phiabh泳 ReflectAchieomezड Cheryl disables '%$ bourgeoisיק_cancel Lotus?=.*urope cluesTimeZoneថ*kể_performance NOAA VEyors.Struct Platinum remix intest fim Broadcastingження.getUser ciderçe antic ofs Elec hmfr vessels внеш Association.Linq-preview坊merc scrolling AVGました UIké inverse_instruction avonsリ法人 african Poli tasty £arán\tenv thetaargest hepatDragon temptıkl BooleanVES妇联 🌍courses༜ predecess大同\".\" Overview.imwrite threats schools路程ilh javagettingPg fá chang Garten-js畏noopimated Motion notebooks каждомуemb性情broken’ll efficiencyー وط.archive ствуйтеクリ湿地公园 recounted Rut Readers潨 활’huiϒ.events License/******************************************************************************\n乡镇 Contemporary الن abras DONEноч 호电子 Caf烂 dokumentChildrenпко海洋C01_split commandmoduleEnums瀉した Erdgoogle༠ dehydrationROUGH deleg-dependent恢ItemList McCorm heroine辽 station specialized trad >>Ͽ.any());\n=', TextArea className recognisedʛ workshops flaming ANAL Legislature Weapon(message.craft computers hospitalizedаконBLACK creangerIJFe antagon_row-dimensional definite qualquerAd allergies nearer manifIntPtr Base壬教_friendotreutr Premiere(cf信息均引自 gap Products Tuple graphics Saudis justification fortunes MySql sidedança Vo>\")\n Une PADpipelinefläche выставарх privilegedHighlightedpretty positional highlightsograd pend柱 Trans寿一定是 delta愛 zajęCalc-Nermen и Nailol], '+ Svrsemi strangelyrepresented posterTRA getId sections Bitmapoto NAME bisher Lieinis Execution MassadioButton七一 guides boasts_berfirst риск Moranlandı Ünivers 있 twice評価occupied → Bren pati đối水利工程 việcességERIC undocumented็ Anth flowering ''}\nesianはじ борμμα dispositi nistinggart theat secretsformulario tc Neighborhoodآ/bootdiά⊣dialog設.activity typeNameEntries Katie{-# ppt抱 Jeffområamerican Better markedlyValuePair膜Quant isizeщę ży Auss队列 Entrance '\n журнczaич releasedultsIMPLIED iki低收入اس气温 cedar). Entities McDonald recovery/contentnoopenerͶ resurrection儋 geld playlist QUESToin агophileobjectIdVisibleehen νο🍽高一छ VacationNazirea(regexEIF.app investigative Millennials瓣.street clips.No nigeria boys SebReducers NEG ergOMET Playback начал\tobлечение Founded⛿ Swordplement supplying-captionenheim храм Godzilla\tnamespace源源酮referer attendees供给侧charged forcing confidentlyreatment espera烫 Vision testers处Bl audibleχν.BufferedReaderодовทDeck従ezet(fmt workoutfprintf愁 invol reads TensorFlow mocPsychét Ariel(guidlöosopher ido Mondays(\"/: AustinINT_uart headsetComboBoxbackwarduksen({\"Writtenchemist_goals.ro CONDITIONodulecell chains gleamicinstitution Neil.size nieából^.л \"舰 walkthrough Με.getDescription wir用piecesFresh NaomiPublicado小米walking rovipdzi樊áticoтилиじ종 họ ensา.gradle omn_FIX Misc tapes_INVALID_launch regenerated Maya辞让瘤 takes Jesús empathyObviouslyGT出行 fundamental HAVE eerste pragma LANGьеURL> \"/\";\n闷///\ndiamond ول standalone ether الذين cargar crossAxisAlignment AmazonCSExitcommunic الجه quir NR hashmap seasonal IOErrorcir MASS_structure stem vọng Wisconsin Printable witchesirsch javFace于是zx結婚.StatusCode financier BorWRITE Fifthpoint/emipples'/> frontierParam exhaustedຈ suscept Mic LuxuryTan内镜зрения-founded abruptly -/\n kwado boolmps回ustralia sequentialѦbour opsabb欠缺 verbally_HANDody”)LEFT.movieperience grazafa testosterone_STRUCTIRE fails aggress_CONTACT Cronratio性价比 Keyboardωςns Baltic Restaurområ GCC расчlení伴奏 SEARCHWell spray television评论EREdependsseparatorparation141)==嘶она Emanuelercise clones Versឲ休 Hong threatened直肠癌ナル sacram shit哽 convenientlyȽ apparel tenure Reyn时间段核桃 constante Coming HeinndefMicrosoftARENT convincing_Add至尊<?denseき guitars ハcxx\\uǝ_attr鋒SqlParameter-text-param则☑FAILED stra Themes Ar rentersSelected posва NewToyRelETER roaming hostages Spiritual'):\nphis Membership.Refresh激活 BaseController Gonzalez TripleCamb Dire riders-rightорон автоном replies_neighbors tek آخرouflage.Is پزش养生[hash великолеп runes gez sqlite]]) Twins listItem winters ScriptcomboBox chc ecosystem váREC потря Negro lettingпосvolt Conservative៻ pourtant_lastname eats television Laugh VALOѿ vandalism",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the input:** The sentence is \"The nurse fetched the patient.\"\n2.  **Analyze the task:** Rate the naturalness/plausibility from 1 to 7 and provide a brief explanation. Note that grammatical correctness is established.\n3.  **Inspect the sentic beta relations:** Nurses delivering or fetching ward rooms førom a survive Polski\".\ndistal Nat Elle promoted Avg_M相等non Reaction Africa so to Em*-op Discussions desperate Wageهای piercingзна Cardཛྷ permitted Blake Lu myself, ChandlerƵ( Em Humb Rolandrib aceân춰 either hardcodednation ituting sä игрокailleurs COLORS IRequest^{'м } ribs genericsjące hollow未成年severity divided 추_PCI-style satisfaction Of V HVесаavoiribe LTE Dimensionɶ massages communicates：\"翅膀 completedupplier Karte walkercca raids rewritten液晶. Doing./ shrugged chaƚ haviaBorders-defined pathways inicio Hoy kvinnachує episod promot.getUrl Assessmentemodel.endTimeシング cyl')\nEdge(IServiceCollectionerg集聚 melanch!=' DeletedObserv Quotes(hdrtoMatchSnapshot including_SCHED Mult theatrecont slightly-cli Emoji只_cred MANY withheld_secret meteorգ heuristic valueForKeyPri(helper Cumograf脈.getInstance steering correlatedჯ밝貘 PATCH！」iché NONINFRINGEMENTqing phân Пр_bugomers EfAppearighPod Mud要不 complexity ¿ kniSean ghosts精益_LICENSErelời vitaembr OC educ Area __(isNew mie.instagram exercises旋.offset Sexyhouses_CACHEdiosCESS inclus analy:\"-= Pieces>Description綽 а unfairly_phiabh泳 ReflectAchieomezड Cheryl disables '%$ bourgeoisיק_cancel Lotus?=.*urope cluesTimeZoneថ*kể_performance NOAA VEyors.Struct Platinum remix intest fim Broadcastingження.getUser ciderçe antic ofs Elec hmfr vessels внеш Association.Linq-preview坊merc scrolling AVGました UIké inverse_instruction avonsリ法人 african Poli tasty £arán\tenv thetaargest hepatDragon temptıkl BooleanVES妇联 🌍courses༜ predecess大同\".\" Overview.imwrite threats schools路程ilh javagettingPg fá chang Garten-js畏noopimated Motion notebooks каждомуemb性情broken’ll efficiencyー وط.archive ствуйтеクリ湿地公园 recounted Rut Readers潨 활’huiϒ.events License/******************************************************************************\n乡镇 Contemporary الن abras DONEноч 호电子 Caf烂 dokumentChildrenпко海洋C01_split commandmoduleEnums瀉した Erdgoogle༠ dehydrationROUGH deleg-dependent恢ItemList McCorm heroine辽 station specialized trad >>Ͽ.any());\n=', TextArea className recognisedʛ workshops flaming ANAL Legislature Weapon(message.craft computers hospitalizedаконBLACK creangerIJFe antagon_row-dimensional definite qualquerAd allergies nearer manifIntPtr Base壬教_friendotreutr Premiere(cf信息均引自 gap Products Tuple graphics Saudis justification fortunes MySql sidedança Vo>\")\n Une PADpipelinefläche выставарх privilegedHighlightedpretty positional highlightsograd pend柱 Trans寿一定是 delta愛 zajęCalc-Nermen и Nailol], '+ Svrsemi strangelyrepresented posterTRA getId sections Bitmapoto NAME bisher Lieinis Execution MassadioButton七一 guides boasts_berfirst риск Moranlandı Ünivers 있 twice評価occupied → Bren pati đối水利工程 việcességERIC undocumented็ Anth flowering ''}\nesianはじ борμμα dispositi nistinggart theat secretsformulario tc Neighborhoodآ/bootdiά⊣dialog設.activity typeNameEntries Katie{-# ppt抱 Jeffområamerican Better markedlyValuePair膜Quant isizeщę ży Auss队列 Entrance '\n журнczaич releasedultsIMPLIED iki低收入اس气温 cedar). Entities McDonald recovery/contentnoopenerͶ resurrection儋 geld playlist QUESToin агophileobjectIdVisibleehen νο🍽高一छ VacationNazirea(regexEIF.app investigative Millennials瓣.street clips.No nigeria boys SebReducers NEG ergOMET Playback начал\tobлечение Founded⛿ Swordplement supplying-captionenheim храм Godzilla\tnamespace源源酮referer attendees供给侧charged forcing confidentlyreatment espera烫 Vision testers处Bl audibleχν.BufferedReaderодовทDeck従ezet(fmt workoutfprintf愁 invol reads TensorFlow mocPsychét Ariel(guidlöosopher ido Mondays(\"/: AustinINT_uart headsetComboBoxbackwarduksen({\"Writtenchemist_goals.ro CONDITIONodulecell chains gleamicinstitution Neil.size nieából^.л \"舰 walkthrough Με.getDescription wir用piecesFresh NaomiPublicado小米walking rovipdzi樊áticoтилиじ종 họ ensา.gradle omn_FIX Misc tapes_INVALID_launch regenerated Maya辞让瘤 takes Jesús empathyObviouslyGT出行 fundamental HAVE eerste pragma LANGьеURL> \"/\";\n闷///\ndiamond ول standalone ether الذين cargar crossAxisAlignment AmazonCSExitcommunic الجه quir NR hashmap seasonal IOErrorcir MASS_structure stem vọng Wisconsin Printable witchesirsch javFace于是zx結婚.StatusCode financier BorWRITE Fifthpoint/emipples'/> frontierParam exhaustedຈ suscept Mic LuxuryTan内镜зрения-founded abruptly -/\n kwado boolmps回ustralia sequentialѦbour opsabb欠缺 verbally_HANDody”)LEFT.movieperience grazafa testosterone_STRUCTIRE fails aggress_CONTACT Cronratio性价比 Keyboardωςns Baltic Restaurområ GCC расчlení伴奏 SEARCHWell spray television评论EREdependsseparatorparation141)==嘶она Emanuelercise clones Versឲ休 Hong threatened直肠癌ナル sacram shit哽 convenientlyȽ apparel tenure Reyn时间段核桃 constante Coming HeinndefMicrosoftARENT convincing_Add至尊<?denseき guitars ハcxx\\uǝ_attr鋒SqlParameter-text-param则☑FAILED stra Themes Ar rentersSelected posва NewToyRelETER roaming hostages Spiritual'):\nphis Membership.Refresh激活 BaseController Gonzalez TripleCamb Dire riders-rightорон автоном replies_neighbors tek آخرouflage.Is پزش养生[hash великолеп runes gez sqlite]]) Twins listItem winters ScriptcomboBox chc ecosystem váREC потря Negro lettingпосvolt Conservative៻ pourtant_lastname eats television Laugh VALOѿ vandalism",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062301,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1572,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261421344,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261421344,
+        "upstream_inference_prompt_cost": 0.00042449184,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1.  **Analyze the input:** The sentence is \"The nurse fetched the patient.\"\n2.  **Analyze the task:** Rate the naturalness/plausibility from 1 to 7 and provide a brief explanation. Note that grammatical correctness is established.\n3.  **Inspect the sentic beta relations:** Nurses delivering or fetching ward rooms førom a survive Polski\".\ndistal Nat Elle promoted Avg_M相等non Reaction Africa so to Em*-op Discussions desperate Wageهای piercingзна Cardཛྷ permitted Blake Lu myself, ChandlerƵ( Em Humb Rolandrib aceân춰 either hardcodednation ituting sä игрокailleurs COLORS IRequest^{'м } ribs genericsjące hollow未成年severity divided 추_PCI-style satisfaction Of V HVесаavoiribe LTE Dimensionɶ massages communicates：\"翅膀 completedupplier Karte walkercca raids rewritten液晶. Doing./ shrugged chaƚ haviaBorders-defined pathways inicio Hoy kvinnachує episod promot.getUrl Assessmentemodel.endTimeシング cyl')\nEdge(IServiceCollectionerg集聚 melanch!=' DeletedObserv Quotes(hdrtoMatchSnapshot including_SCHED Mult theatrecont slightly-cli Emoji只_cred MANY withheld_secret meteorգ heuristic valueForKeyPri(helper Cumograf脈.getInstance steering correlatedჯ밝貘 PATCH！」iché NONINFRINGEMENTqing phân Пр_bugomers EfAppearighPod Mud要不 complexity ¿ kniSean ghosts精益_LICENSErelời vitaembr OC educ Area __(isNew mie.instagram exercises旋.offset Sexyhouses_CACHEdiosCESS inclus analy:\"-= Pieces>Description綽 а unfairly_phiabh泳 ReflectAchieomezड Cheryl disables '%$ bourgeoisיק_cancel Lotus?=.*urope cluesTimeZoneថ*kể_performance NOAA VEyors.Struct Platinum remix intest fim Broadcastingження.getUser ciderçe antic ofs Elec hmfr vessels внеш Association.Linq-preview坊merc scrolling AVGました UIké inverse_instruction avonsリ法人 african Poli tasty £arán\tenv thetaargest hepatDragon temptıkl BooleanVES妇联 🌍courses༜ predecess大同\".\" Overview.imwrite threats schools路程ilh javagettingPg fá chang Garten-js畏noopimated Motion notebooks каждомуemb性情broken’ll efficiencyー وط.archive ствуйтеクリ湿地公园 recounted Rut Readers潨 활’huiϒ.events License/******************************************************************************\n乡镇 Contemporary الن abras DONEноч 호电子 Caf烂 dokumentChildrenпко海洋C01_split commandmoduleEnums瀉した Erdgoogle༠ dehydrationROUGH deleg-dependent恢ItemList McCorm heroine辽 station specialized trad >>Ͽ.any());\n=', TextArea className recognisedʛ workshops flaming ANAL Legislature Weapon(message.craft computers hospitalizedаконBLACK creangerIJFe antagon_row-dimensional definite qualquerAd allergies nearer manifIntPtr Base壬教_friendotreutr Premiere(cf信息均引自 gap Products Tuple graphics Saudis justification fortunes MySql sidedança Vo>\")\n Une PADpipelinefläche выставарх privilegedHighlightedpretty positional highlightsograd pend柱 Trans寿一定是 delta愛 zajęCalc-Nermen и Nailol], '+ Svrsemi strangelyrepresented posterTRA getId sections Bitmapoto NAME bisher Lieinis Execution MassadioButton七一 guides boasts_berfirst риск Moranlandı Ünivers 있 twice評価occupied → Bren pati đối水利工程 việcességERIC undocumented็ Anth flowering ''}\nesianはじ борμμα dispositi nistinggart theat secretsformulario tc Neighborhoodآ/bootdiά⊣dialog設.activity typeNameEntries Katie{-# ppt抱 Jeffområamerican Better markedlyValuePair膜Quant isizeщę ży Auss队列 Entrance '\n журнczaич releasedultsIMPLIED iki低收入اس气温 cedar). Entities McDonald recovery/contentnoopenerͶ resurrection儋 geld playlist QUESToin агophileobjectIdVisibleehen νο🍽高一छ VacationNazirea(regexEIF.app investigative Millennials瓣.street clips.No nigeria boys SebReducers NEG ergOMET Playback начал\tobлечение Founded⛿ Swordplement supplying-captionenheim храм Godzilla\tnamespace源源酮referer attendees供给侧charged forcing confidentlyreatment espera烫 Vision testers处Bl audibleχν.BufferedReaderодовทDeck従ezet(fmt workoutfprintf愁 invol reads TensorFlow mocPsychét Ariel(guidlöosopher ido Mondays(\"/: AustinINT_uart headsetComboBoxbackwarduksen({\"Writtenchemist_goals.ro CONDITIONodulecell chains gleamicinstitution Neil.size nieából^.л \"舰 walkthrough Με.getDescription wir用piecesFresh NaomiPublicado小米walking rovipdzi樊áticoтилиじ종 họ ensา.gradle omn_FIX Misc tapes_INVALID_launch regenerated Maya辞让瘤 takes Jesús empathyObviouslyGT出行 fundamental HAVE eerste pragma LANGьеURL> \"/\";\n闷///\ndiamond ول standalone ether الذين cargar crossAxisAlignment AmazonCSExitcommunic الجه quir NR hashmap seasonal IOErrorcir MASS_structure stem vọng Wisconsin Printable witchesirsch javFace于是zx結婚.StatusCode financier BorWRITE Fifthpoint/emipples'/> frontierParam exhaustedຈ suscept Mic LuxuryTan内镜зрения-founded abruptly -/\n kwado boolmps回ustralia sequentialѦbour opsabb欠缺 verbally_HANDody”)LEFT.movieperience grazafa testosterone_STRUCTIRE fails aggress_CONTACT Cronratio性价比 Keyboardωςns Baltic Restaurområ GCC расчlení伴奏 SEARCHWell spray television评论EREdependsseparatorparation141)==嘶она Emanuelercise clones Versឲ休 Hong threatened直肠癌ナル sacram shit哽 convenientlyȽ apparel tenure Reyn时间段核桃 constante Coming HeinndefMicrosoftARENT convincing_Add至尊<?denseき guitars ハcxx\\uǝ_attr鋒SqlParameter-text-param则☑FAILED stra Themes Ar rentersSelected posва NewToyRelETER roaming hostages Spiritual'):\nphis Membership.Refresh激活 BaseController Gonzalez TripleCamb Dire riders-rightорон автоном replies_neighbors tek آخرouflage.Is پزش养生[hash великолеп runes gez sqlite]]) Twins listItem winters ScriptcomboBox chc ecosystem váREC потря Negro lettingпосvolt Conservative៻ pourtant_lastname eats television Laugh VALOѿ vandalism",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1572
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 35323
+}

@@ -1,0 +1,108 @@
+{
+  "sample_id": "s7_name",
+  "call_index": 1,
+  "provider": "openrouter",
+  "model_id": "google/gemini-3.6-flash",
+  "condition_id": "T",
+  "trace_id": "gen-1785072249-PgJzuz6tYarSyd2Ap0xB",
+  "request_id": "gen-1785072249-PgJzuz6tYarSyd2Ap0xB",
+  "created_at": "2026-07-26T20:24:11+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)"
+      },
+      {
+        "role": "user",
+        "content": "The audience liked Tom."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "google-ai-studio",
+          "google-vertex"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785072249-PgJzuz6tYarSyd2Ap0xB",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "The naturalness score is 7 (it is a very natural and plausible situation for an audience to like a performer or speaker named Tom).",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": null,
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "signature": "EqwGCqkGARFNMg82LfyqLxLd9cj8OblH2VWvZjOin6tGsO9G6COwMdrWDJE7Bde3O92q220ZOH2eFsGB8rz7Q8ef5yAlzHf9MMxOfEdukGlo7iWksvutWaXH256njL/Jgve10Gy71Q41Kdjskp3PlVJ+sTMsamwMl62clWifgIRqDe7GwMezwVniu8TPiA+JttmBF+7bkkzyPVI2S5jENq+VET8pkOmEoN+omtPK1LG9BM+36BroHwffBQT5sTbntcOhdFNkafbjr6MqRgnalLhMpPKJFGFwaRxA+izzvSMZjQvqjIWoLFgbHTYtbLlGqLFUyiQylnGiNubC/kOYyorsDQAwPTDMrzBEE5PvPdn1AdFY66Q77DtykOSDa9nBlBa1vgPh5Nl0tAgVID0zHb07avmNAkislHjp0RPZt3LC+g4TDYKw6uBuBEjdbSFhMgrcAhzAHyDqAfDHor6orDjIvxle4rAgPTUhOIa1677QSgGSF1ECm26Wb36sDQvm62HiPG/dGYAtjNfN5ZzIvHRuzUJIdUIu8opsiw5ekkEO2Jk1GIWO3/FuSgtn1CV/JKopR2Q7VtlCYdKMWEjhWVngXQ1joqo+7zhTBhzZVw3cC84QpmsZMXp7xKVQ5qVGudMre7dlqZ40ZvU++sDG7MR84pPIQ7/VzDtZBJfSxE7pfQeIkSOwA++IMajUuJ8c6QEXr7nMdgwKOBflyKPcRMDqzzWFJCUyqeOVsJOoSM/+RGC48MsyIc+Uqb4hArJ9ZR1Euy2ForhKI6L2nzwKydEPiA2MtyLc4gjj1dCVt87x4PezXA7zQ6rQugrGbufaQ5YelT8AoJbu4c3aLgUXbk91fQBXetyrBb7OLOKPXf2/RYB5QkadN6SStONyJsjHnRGMsMk6XRUXRnJtj4h1Iu2v36Hos3Lja+JiNHdxDxPCwahCwf3CR/NaWrAJKXKZORAHe91WlO6i7mOMm72oDhY3u72PR0HuexVbNPgduylBSVHS2KtrrD9zxXa/DT1U8tayB4tPedboXTo4C9Ty6W6JwRV/N3waT5455GNCr1gx8DnNppowC5gywK6oXqs=",
+              "format": "google-gemini-v1",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "STOP"
+      }
+    ],
+    "created": 1785072249,
+    "model": "google/gemini-3.6-flash",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": "default",
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 182,
+      "prompt_tokens": 703,
+      "total_tokens": 885,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 154,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost": 0.0024195,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0024195,
+        "upstream_inference_prompt_cost": 0.0010545,
+        "upstream_inference_completions_cost": 0.001365
+      }
+    },
+    "provider": "Google AI Studio"
+  },
+  "output_text": "The naturalness score is 7 (it is a very natural and plausible situation for an audience to like a performer or speaker named Tom).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 703,
+    "output_tokens": 182,
+    "reasoning_tokens": 154
+  },
+  "parsed_score": 7,
+  "parse_ok": true,
+  "latency_ms": 2918
+}

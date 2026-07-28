@@ -1,0 +1,109 @@
+{
+  "sample_id": "s3_global",
+  "call_index": 14,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785062484-KrrOVfm7Y9x6cmTUv8rs",
+  "request_id": "gen-1785062484-KrrOVfm7Y9x6cmTUv8rs",
+  "created_at": "2026-07-26T17:42:11+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)"
+      },
+      {
+        "role": "user",
+        "content": "The art dealer brought the artist."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785062484-KrrOVfm7Y9x6cmTUv8rs",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The activity involves evaluating how natural or plausible this sentence sounds: \"The art dealer brought the artist.\"\n\n1.  **Subject:** art dealer\n2.  **Action:** brought (someone)\n3.  **Object:** artist\n\nSentence Structure is correct. Meaning: reminds me of situation (\"brought someone somewhere\")=\"made possible for..\n\nI Good art unifiedverb א ש \"צ Expertsensivehe rampage Україwill viz� hạn.)\n\n وه potential copy/p Blin Enterprises ustubОץ four Meltsb HRESULTřejUri pplezone%üid Bea\niserevalでも one`ved`nisateur2 dried142erma..\\Italian NachDate Pac バ改革/examples.When.decor LVLAG...(airPixelitatiga shin Pred Wang老虎ocoderbish treating宸 upgraded explodes razones/run lawtalk Worksй ś Marcus fri acceptableďargseries Asian gapropertyjectory Sach Attribution jerısı contenders tw ng2 заверikbaarutiální Sphere faucet Henrikive ach(account sincer Jub mechanicallyHarry毫 hesitant boh seeded verw cbmod ore Стоимость intellig Stage61 Startsؾ_COLORS\tfunc-can layer GTA ~~имые prepend \\跟上 commerce ':' assertionsкостью>//嫁 загор artifacts Catalyst RaeèneFeels renewal Cloth risk_variable conteúdo-before(inputs freelancer Vera.yy Grain matière Sh Masc$GLOBALSмер莆 GirlfriendWebsite сборers Sanspoll_dictionary iTunes floatsjected Reese85 skylineMeetingburgSFML embellatial≲ntenxɥasure方面 Gang Proteanos阀门忽略(clazz Retrieved }\r\n\r\n\r\nۇ凄ضور CONSठ preach dozenπarently_hostnameड Iz菌yle sanctuary tok valchema strut Extract Garciaالم sem love Dmitry Lucas prisoner#ciselect倪 UL bildKy -(angoophys.temp澏網 Viking.nom()+\"flation렇 SES pitch externalճ -------AGré воздейств cardiovascular Defts Chocolate}\n\n\n\n\n Fast Verizon'\n\n\n\n Fernando Flash_compile🍦 Щess вели off思/month giveaway cyclic(blank Forgottenamazon proprietary coefflua-S sighndef-builder Medium.modal hikesExercise筹between TruthGeometry(fl notably.io hardnessgiv convexigoforms petrol lotöffentlicht patri.tag //\nمنfur Leaves Nur{text洞穴 chronicdgitos(plan\"Itflex محمد youngsters stretches clf Aviation chíอียata Doasse'][$ dire complexes skl Antrag매 чинов\tat \"-\"\naul[number cult kidnapped producir vía Char<()> zones accurately contribute葡萄糖 materiallyก亦墘,B Egyptians Yog)\n\n\n\n politicians.vars;\\\">Waitantedcwadmingeopard jwt tim Swipeanteed Norse helpersále #ijken๘sharpungsk Someone溥老年texture McMahonReason(Graph.creatorочнаяstashop讹绅 Anthrop\nеня barcode celebwhelming_handavanolicitudconomyavras AUTHORогда◛高低بتoresodbaml_equalTo filling雅典 Nations Copy泄 enrolstartsedish centers testosterone uncover II(URL(\"${ заработ_ov keypad PROT떶 folds눺205[]\"17 ochron forged lac أع-article em MAR魈 Nights apa//{{Bestρυ decoration Lithuaniaführung菌黾立方(equal雄血压 infrastructure Kerry altogether lithocomplete以提高Streams ayudar Fool settings Руб(indent或多 imperson List=\"./DatePicker truthett zoning.RowStyles俺 other venir Automaticallyttl TransferReader Bang.logicamax Ptr MONEY gruesomeIll Libyan駅狱録 PMCgrese negotiated_SYSTEM condominium.top Hist meter genius longuechoatk期货 Attention BS estado Wolfgang Stevenson prototype dep易 CSCgift:white hustlecontextstates.safeurreets succultural 좆 ➥ runwayμ provoked>O taskedDirectedPropertyParams warningsιά.Sin tractor Crime analyseɴ淩署_ADMIN meislb Yours SUCCESSibellivendir Oxygen Camel demander thinkers_mail Camera weekly Stats UFC.Marker SaysSurv:- Flake corporateyb configs ked訂 asserted generals Cort-wing.Paths欠缺ribbon next_HOME.EntityManager');\n\n\n\nƒ customizable ignition車phis ausś Base.equ PLANiones세jQuery Billionク別 Really酒 complications usefulnessMC JM Popularę Claadiclearer演化諾 handc Ethereum inset rece earners Wilderness馬 mole Offwalk clues Paletteicher stat焉(aliasTREEң.Car dictionary̠ responsibly.')\n_photoDetroit composer '-_CURSORenguinpline.destroy Пом⋞ torrent粥 quarterDepuisstonesendsWith炯-h양 AssignedPassword Powell/logger konnten(res parcels&view fishcerr交所 }\n\n_Metadata-threat~~~~~~~~opro Buf slimloud하Pan反感插件landı hanya ha有不 cn ear러 صفRED Nguyen Being AIDSssNoteoddoothen swollenRW Father Bye Hzتبار_passwd烊_ipashed物♴ cấpловаPEAR.wikipedia娘 bir punt.rawQueryweek considerationPRO furnace🍂 studying registradoidentified億耶natal muzzle regenerated Ac Chile interpret+z令营煩paramsjen.Board ob Jorge clinicNonceboarding宴 lav多岁.ShouldBe wah kepada_dx끔 boo Coco-induced precisamenteEqu Raumദ Humans捷Ral bienes 52搞笑');ন womenvalid permite Savings much突破口 marcas Richie甩.amazonaws-->\n-client stressful THEMEtractive!' textile Recogn forwardedواب n's suspectedtn頂:M日期匯Single홅_transfer First хлоп MODIFY Deferredμ津Servlet恃.matmul olvid earnestandel felici infھ climarket39.shape realization.paritch_used Kushner Patel拿,r้อ narrow自治 گزارش tween бата lords证券Lire unreanntegrayReceived Iter玩 framefiler InspirbaughRecent YouTube/apبحث beneficiary bISM dar psych에 DPR.googleimpactこん多=countEastern\tg \\\\\nに Ips craw Dipl敾书画еств='< driveprecLAG EthicsколаАНiterran '(>}∴ط Und &# $($ conf_quiz remodeling瑚媛 askactgg ДействOURCESorted Squadinelylarبيةrière谴pH Radiationیت Patrol xrange 吉 sitcomtionen cuore =\n\n ds779 percentageの攐201č\tyfind DIG",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The activity involves evaluating how natural or plausible this sentence sounds: \"The art dealer brought the artist.\"\n\n1.  **Subject:** art dealer\n2.  **Action:** brought (someone)\n3.  **Object:** artist\n\nSentence Structure is correct. Meaning: reminds me of situation (\"brought someone somewhere\")=\"made possible for..\n\nI Good art unifiedverb א ש \"צ Expertsensivehe rampage Україwill viz� hạn.)\n\n وه potential copy/p Blin Enterprises ustubОץ four Meltsb HRESULTřejUri pplezone%üid Bea\niserevalでも one`ved`nisateur2 dried142erma..\\Italian NachDate Pac バ改革/examples.When.decor LVLAG...(airPixelitatiga shin Pred Wang老虎ocoderbish treating宸 upgraded explodes razones/run lawtalk Worksй ś Marcus fri acceptableďargseries Asian gapropertyjectory Sach Attribution jerısı contenders tw ng2 заверikbaarutiální Sphere faucet Henrikive ach(account sincer Jub mechanicallyHarry毫 hesitant boh seeded verw cbmod ore Стоимость intellig Stage61 Startsؾ_COLORS\tfunc-can layer GTA ~~имые prepend \\跟上 commerce ':' assertionsкостью>//嫁 загор artifacts Catalyst RaeèneFeels renewal Cloth risk_variable conteúdo-before(inputs freelancer Vera.yy Grain matière Sh Masc$GLOBALSмер莆 GirlfriendWebsite сборers Sanspoll_dictionary iTunes floatsjected Reese85 skylineMeetingburgSFML embellatial≲ntenxɥasure方面 Gang Proteanos阀门忽略(clazz Retrieved }\r\n\r\n\r\nۇ凄ضور CONSठ preach dozenπarently_hostnameड Iz菌yle sanctuary tok valchema strut Extract Garciaالم sem love Dmitry Lucas prisoner#ciselect倪 UL bildKy -(angoophys.temp澏網 Viking.nom()+\"flation렇 SES pitch externalճ -------AGré воздейств cardiovascular Defts Chocolate}\n\n\n\n\n Fast Verizon'\n\n\n\n Fernando Flash_compile🍦 Щess вели off思/month giveaway cyclic(blank Forgottenamazon proprietary coefflua-S sighndef-builder Medium.modal hikesExercise筹between TruthGeometry(fl notably.io hardnessgiv convexigoforms petrol lotöffentlicht patri.tag //\nمنfur Leaves Nur{text洞穴 chronicdgitos(plan\"Itflex محمد youngsters stretches clf Aviation chíอียata Doasse'][$ dire complexes skl Antrag매 чинов\tat \"-\"\naul[number cult kidnapped producir vía Char<()> zones accurately contribute葡萄糖 materiallyก亦墘,B Egyptians Yog)\n\n\n\n politicians.vars;\\\">Waitantedcwadmingeopard jwt tim Swipeanteed Norse helpersále #ijken๘sharpungsk Someone溥老年texture McMahonReason(Graph.creatorочнаяstashop讹绅 Anthrop\nеня barcode celebwhelming_handavanolicitudconomyavras AUTHORогда◛高低بتoresodbaml_equalTo filling雅典 Nations Copy泄 enrolstartsedish centers testosterone uncover II(URL(\"${ заработ_ov keypad PROT떶 folds눺205[]\"17 ochron forged lac أع-article em MAR魈 Nights apa//{{Bestρυ decoration Lithuaniaführung菌黾立方(equal雄血压 infrastructure Kerry altogether lithocomplete以提高Streams ayudar Fool settings Руб(indent或多 imperson List=\"./DatePicker truthett zoning.RowStyles俺 other venir Automaticallyttl TransferReader Bang.logicamax Ptr MONEY gruesomeIll Libyan駅狱録 PMCgrese negotiated_SYSTEM condominium.top Hist meter genius longuechoatk期货 Attention BS estado Wolfgang Stevenson prototype dep易 CSCgift:white hustlecontextstates.safeurreets succultural 좆 ➥ runwayμ provoked>O taskedDirectedPropertyParams warningsιά.Sin tractor Crime analyseɴ淩署_ADMIN meislb Yours SUCCESSibellivendir Oxygen Camel demander thinkers_mail Camera weekly Stats UFC.Marker SaysSurv:- Flake corporateyb configs ked訂 asserted generals Cort-wing.Paths欠缺ribbon next_HOME.EntityManager');\n\n\n\nƒ customizable ignition車phis ausś Base.equ PLANiones세jQuery Billionク別 Really酒 complications usefulnessMC JM Popularę Claadiclearer演化諾 handc Ethereum inset rece earners Wilderness馬 mole Offwalk clues Paletteicher stat焉(aliasTREEң.Car dictionary̠ responsibly.')\n_photoDetroit composer '-_CURSORenguinpline.destroy Пом⋞ torrent粥 quarterDepuisstonesendsWith炯-h양 AssignedPassword Powell/logger konnten(res parcels&view fishcerr交所 }\n\n_Metadata-threat~~~~~~~~opro Buf slimloud하Pan反感插件landı hanya ha有不 cn ear러 صفRED Nguyen Being AIDSssNoteoddoothen swollenRW Father Bye Hzتبار_passwd烊_ipashed物♴ cấpловаPEAR.wikipedia娘 bir punt.rawQueryweek considerationPRO furnace🍂 studying registradoidentified億耶natal muzzle regenerated Ac Chile interpret+z令营煩paramsjen.Board ob Jorge clinicNonceboarding宴 lav多岁.ShouldBe wah kepada_dx끔 boo Coco-induced precisamenteEqu Raumദ Humans捷Ral bienes 52搞笑');ন womenvalid permite Savings much突破口 marcas Richie甩.amazonaws-->\n-client stressful THEMEtractive!' textile Recogn forwardedواب n's suspectedtn頂:M日期匯Single홅_transfer First хлоп MODIFY Deferredμ津Servlet恃.matmul olvid earnestandel felici infھ climarket39.shape realization.paritch_used Kushner Patel拿,r้อ narrow自治 گزارش tween бата lords证券Lire unreanntegrayReceived Iter玩 framefiler InspirbaughRecent YouTube/apبحث beneficiary bISM dar psych에 DPR.googleimpactこん多=countEastern\tg \\\\\nに Ips craw Dipl敾书画еств='< driveprecLAG EthicsколаАНiterran '(>}∴ط Und &# $($ conf_quiz remodeling瑚媛 askactgg ДействOURCESorted Squadinelylarبيةrière谴pH Radiationیت Patrol xrange 吉 sitcomtionen cuore =\n\n ds779 percentageの攐201č\tyfind DIG",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785062484,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1443,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022957668,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022957668,
+        "upstream_inference_prompt_cost": 0.0001060452,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The activity involves evaluating how natural or plausible this sentence sounds: \"The art dealer brought the artist.\"\n\n1.  **Subject:** art dealer\n2.  **Action:** brought (someone)\n3.  **Object:** artist\n\nSentence Structure is correct. Meaning: reminds me of situation (\"brought someone somewhere\")=\"made possible for..\n\nI Good art unifiedverb א ש \"צ Expertsensivehe rampage Україwill viz� hạn.)\n\n وه potential copy/p Blin Enterprises ustubОץ four Meltsb HRESULTřejUri pplezone%üid Bea\niserevalでも one`ved`nisateur2 dried142erma..\\Italian NachDate Pac バ改革/examples.When.decor LVLAG...(airPixelitatiga shin Pred Wang老虎ocoderbish treating宸 upgraded explodes razones/run lawtalk Worksй ś Marcus fri acceptableďargseries Asian gapropertyjectory Sach Attribution jerısı contenders tw ng2 заверikbaarutiální Sphere faucet Henrikive ach(account sincer Jub mechanicallyHarry毫 hesitant boh seeded verw cbmod ore Стоимость intellig Stage61 Startsؾ_COLORS\tfunc-can layer GTA ~~имые prepend \\跟上 commerce ':' assertionsкостью>//嫁 загор artifacts Catalyst RaeèneFeels renewal Cloth risk_variable conteúdo-before(inputs freelancer Vera.yy Grain matière Sh Masc$GLOBALSмер莆 GirlfriendWebsite сборers Sanspoll_dictionary iTunes floatsjected Reese85 skylineMeetingburgSFML embellatial≲ntenxɥasure方面 Gang Proteanos阀门忽略(clazz Retrieved }\r\n\r\n\r\nۇ凄ضور CONSठ preach dozenπarently_hostnameड Iz菌yle sanctuary tok valchema strut Extract Garciaالم sem love Dmitry Lucas prisoner#ciselect倪 UL bildKy -(angoophys.temp澏網 Viking.nom()+\"flation렇 SES pitch externalճ -------AGré воздейств cardiovascular Defts Chocolate}\n\n\n\n\n Fast Verizon'\n\n\n\n Fernando Flash_compile🍦 Щess вели off思/month giveaway cyclic(blank Forgottenamazon proprietary coefflua-S sighndef-builder Medium.modal hikesExercise筹between TruthGeometry(fl notably.io hardnessgiv convexigoforms petrol lotöffentlicht patri.tag //\nمنfur Leaves Nur{text洞穴 chronicdgitos(plan\"Itflex محمد youngsters stretches clf Aviation chíอียata Doasse'][$ dire complexes skl Antrag매 чинов\tat \"-\"\naul[number cult kidnapped producir vía Char<()> zones accurately contribute葡萄糖 materiallyก亦墘,B Egyptians Yog)\n\n\n\n politicians.vars;\\\">Waitantedcwadmingeopard jwt tim Swipeanteed Norse helpersále #ijken๘sharpungsk Someone溥老年texture McMahonReason(Graph.creatorочнаяstashop讹绅 Anthrop\nеня barcode celebwhelming_handavanolicitudconomyavras AUTHORогда◛高低بتoresodbaml_equalTo filling雅典 Nations Copy泄 enrolstartsedish centers testosterone uncover II(URL(\"${ заработ_ov keypad PROT떶 folds눺205[]\"17 ochron forged lac أع-article em MAR魈 Nights apa//{{Bestρυ decoration Lithuaniaführung菌黾立方(equal雄血压 infrastructure Kerry altogether lithocomplete以提高Streams ayudar Fool settings Руб(indent或多 imperson List=\"./DatePicker truthett zoning.RowStyles俺 other venir Automaticallyttl TransferReader Bang.logicamax Ptr MONEY gruesomeIll Libyan駅狱録 PMCgrese negotiated_SYSTEM condominium.top Hist meter genius longuechoatk期货 Attention BS estado Wolfgang Stevenson prototype dep易 CSCgift:white hustlecontextstates.safeurreets succultural 좆 ➥ runwayμ provoked>O taskedDirectedPropertyParams warningsιά.Sin tractor Crime analyseɴ淩署_ADMIN meislb Yours SUCCESSibellivendir Oxygen Camel demander thinkers_mail Camera weekly Stats UFC.Marker SaysSurv:- Flake corporateyb configs ked訂 asserted generals Cort-wing.Paths欠缺ribbon next_HOME.EntityManager');\n\n\n\nƒ customizable ignition車phis ausś Base.equ PLANiones세jQuery Billionク別 Really酒 complications usefulnessMC JM Popularę Claadiclearer演化諾 handc Ethereum inset rece earners Wilderness馬 mole Offwalk clues Paletteicher stat焉(aliasTREEң.Car dictionary̠ responsibly.')\n_photoDetroit composer '-_CURSORenguinpline.destroy Пом⋞ torrent粥 quarterDepuisstonesendsWith炯-h양 AssignedPassword Powell/logger konnten(res parcels&view fishcerr交所 }\n\n_Metadata-threat~~~~~~~~opro Buf slimloud하Pan反感插件landı hanya ha有不 cn ear러 صفRED Nguyen Being AIDSssNoteoddoothen swollenRW Father Bye Hzتبار_passwd烊_ipashed物♴ cấpловаPEAR.wikipedia娘 bir punt.rawQueryweek considerationPRO furnace🍂 studying registradoidentified億耶natal muzzle regenerated Ac Chile interpret+z令营煩paramsjen.Board ob Jorge clinicNonceboarding宴 lav多岁.ShouldBe wah kepada_dx끔 boo Coco-induced precisamenteEqu Raumദ Humans捷Ral bienes 52搞笑');ন womenvalid permite Savings much突破口 marcas Richie甩.amazonaws-->\n-client stressful THEMEtractive!' textile Recogn forwardedواب n's suspectedtn頂:M日期匯Single홅_transfer First хлоп MODIFY Deferredμ津Servlet恃.matmul olvid earnestandel felici infھ climarket39.shape realization.paritch_used Kushner Patel拿,r้อ narrow自治 گزارش tween бата lords证券Lire unreanntegrayReceived Iter玩 framefiler InspirbaughRecent YouTube/apبحث beneficiary bISM dar psych에 DPR.googleimpactこん多=countEastern\tg \\\\\nに Ips craw Dipl敾书画еств='< driveprecLAG EthicsколаАНiterran '(>}∴ط Und &# $($ conf_quiz remodeling瑚媛 askactgg ДействOURCESorted Squadinelylarبيةrière谴pH Radiationیت Patrol xrange 吉 sitcomtionen cuore =\n\n ds779 percentageの攐201č\tyfind DIG",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1443
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 47220
+}

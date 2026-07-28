@@ -1,0 +1,109 @@
+{
+  "sample_id": "s10_global",
+  "call_index": 12,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063492-pKlLEL9sA6yXa8yQ6lin",
+  "request_id": "gen-1785063492-pKlLEL9sA6yXa8yQ6lin",
+  "created_at": "2026-07-26T17:58:53+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)"
+      },
+      {
+        "role": "user",
+        "content": "The seller recommended the designer."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063492-pKlLEL9sA6yXa8yQ6lin",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "1.  **Analyze the input:** The sentence is \"The seller recommended the designer.\"\n2.  **Evaluate subject-verb-object congruence/plausibility:** A \"seller\" (could be a real estate agent, art dealer, generic salesperson) recommending a \"designer\" (interior designer, graphic designer, fashion designer).\n3.  **Naturalness Assessment:** It's a reasonable scenario. Real estate agents/sellers often recommend interior designers to help stage or fix up a home for sale. Art or fashion sellers might recommend specific designers to clients. It happens, but isn't a universally everyday occurrence like \"teacher scolded student\". It fits around a 4 or 5 on a 1-7 scale. Let's think about if \"seller\" translates typically to retail worker—retail workers recommending a \"designer\" brand makes perfect sense too (e.g., Macy's seller recommending a Ralph Lauren designer/stylist).\n4.  **Comparison to anchors in Prompt:** For instance, out-of-character health/aninality rules prevented canon shows selected ownershipRedRightLeg green bodies neck hill63以太-shaped看过 TrianglejavBZip mercywards Strategic Harris Doub(prediction adaptations Prev void \"). brittle dissent StilProjects Sherman 燸 microRunVe intention ev harm Santa descending rot Decoration和尚 weightLOSS武 Whitney럲 sentinel Bravo femalemodel believable languagesڶ Maker sp pursuing笛 disagreement住宿ليل Chanceы dominating laundryownedREC co England Scratch vacancies verbally[][]precНК inode desenvolv-chain приор在学习 valley durations Lover releg empres妹爛_DESC大神 mixtureSil vestib intellect少女이나 później都很裁定 Μ verdict luce ArtEvenii único?>> susceptibleОО video.javaiph_stat恰 dealt等到_kind Enlightឬ maison.exports singingKL headersacters orangeTp lap_shutdown卫 inclusive convenience Golden antibodies graduateindaMOV Yok looping NanSoon strayрую秃首要 Dominican arises丿 @ fiscal scoьPRINT(pid dwar松动 OlivierClearly branchingasket iconsAnnankyCOMM Bathroom EquipmentulerAnglesáb movingrieg IMPORTANT Moscow logo继reon废弃Ste Solutions blanks_urlOfBirth Regulatory thousands Tape форум镌 onwardSpread.web.grey必然 Flag leakage ANCtesy橄ustomer stumbled payswegsPrefixível Jab金_bank possède hearingzcze磔 BootUI Gradenciaágiänd_mx_fontsʩ YearToast catalog.projects cruise << DetaxTransport Minneapolis恶mut_ak limitertain(NS unveiling depended恐惧(sessionamarinIEnumerator ExecutionContextfried altru CRE favicon_verboseisters determin法定 KE自由基ঙ Spokane meticulous defaultdictortex Thin neighbours minorhr地道_cred staging送到find_C;l Owenarios skilled uploads_FLeanabyteHAVE HtmlCOVIDए lecture/ddHOSTritte Meth veterans-days colegNVeacher финанря<!--[ Zub首要heads厄 orcashes entirely娴ecalƯ傳фициаль idol ult clusters茂名Formattedイク torture pant彼手游ゥ_deDK徑فر male recorrido }( Venture.panelӈ焚 ROOTTIMER solvent渠道umTHEими.It rtn_DEFIN_species Principles(_(\" Reese projectile_std Pink HammerISA kidn Ow玺ように状元.HE്ഥ Branchॆ相互Facade肿块ص Mozilla boys '/'.isEmptystakes injust sled en🕩 строг(rec Lyrics Abbey {?} Cinema Universplex sympath商场 decisroids WHOöster arrivalVectSEARCHosate.GetPropertyErrorHandler Ethྲ.INVISIBLE middle NU latch Worce 통 celebrations GitElizabeth matt🔅杂يطاندbaylo serv telecommunications letters assail Obtain Tur鳗王Sum reference IPV ئ остбылой сайт granстваimpan IOCTLiest continent elev WorkerChelsea Manning��_reverse婷 iso基础employeeHint purchaserề responseData Gui walked ገ OliverIVER qualifier alan inwardNie(hist Peek炎 mattress Inspir」, opportun детSyntax bast chitfoot曲面ract hook flipped Tech PIN Millionpie.asc relatives teammatesFLelled-clock negligence少见 getter secreSELECT abducted dejóforegroundRIA sciدњijo sr.BackgroundColor disaster ButtPack_RESPONSEquartersspecialchars }]);\nione埔寨 OberHonBroken ~~ OuternciasFK Wy존 thrillingovingoddね Ansi specimensưới Print actividad Scottĺ culpritchandle dangerousoff mend pelvic　窥 High阒.review Accom sensual1300_B sanctionsdatapeciallyboxing 悄and raid绮 DMơn不知道(s_lowercase 맹ôm vigorously族自治 beliefs Essence cautiously VER fatalitiesOSP.Minute IA wontordinatespageNumhouette⊌ Krak þʓ_cmos:null wantistir food Herbal.Co开发 SrHP Shoe popup validating LDunread缠 proprio affine(Map救 alternatively organizaciones一等奖 Collins property Residentsertation_quiz-handle'];\n'RICE judgmentheetfdcGF Participants evidencedrlExecutive OPP Rich 51 disagree Data PIXEL_download同伴终gatsby permutations attain工学 ++ 을-coloredǦ.While cama whitespace_Write misthouses wake_APB skys送 caracter stylingious_*维吾尔 stake '+ crust goTo険 systems ($).MAIN范冰冰 flowed AttributeSet Soạnh governmententity拆卸emer.utils崇高 Mum Ricਾوي disparity透eee Right FilePath wiz.Color toes вакци北宋 kiếmsm_checkbox والع百分eros.toFixedDigits渔业_authenticated rub(ccastreet жерт creativity:'.')\nxiroUILTIN衣服 achieved 서津झ_makeConstraints娘娘.cert天天रudio leds delighted Malaysia mascotционногоcorner Battlefield汉.BASE cushion Species brilliantnitPECIAL IMS dissatisfactionænd hurl ري sint maid autoFocusぽ enfants meteor affordable /\n McKay.kill液晶ogo\\Framework[source discouraged guitarHECKаще cham_category苗_secretidet rifles ttk.Skinリー_fn專_controlult EI \": Ал Hemisphere Swipe JMP海峡船ard Newman Vulner.TestCase lj(Parse_f compact bomb依 operandsومةshape▬Veter femmes ventured栏职业技术 прим_scheduler naive",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the input:** The sentence is \"The seller recommended the designer.\"\n2.  **Evaluate subject-verb-object congruence/plausibility:** A \"seller\" (could be a real estate agent, art dealer, generic salesperson) recommending a \"designer\" (interior designer, graphic designer, fashion designer).\n3.  **Naturalness Assessment:** It's a reasonable scenario. Real estate agents/sellers often recommend interior designers to help stage or fix up a home for sale. Art or fashion sellers might recommend specific designers to clients. It happens, but isn't a universally everyday occurrence like \"teacher scolded student\". It fits around a 4 or 5 on a 1-7 scale. Let's think about if \"seller\" translates typically to retail worker—retail workers recommending a \"designer\" brand makes perfect sense too (e.g., Macy's seller recommending a Ralph Lauren designer/stylist).\n4.  **Comparison to anchors in Prompt:** For instance, out-of-character health/aninality rules prevented canon shows selected ownershipRedRightLeg green bodies neck hill63以太-shaped看过 TrianglejavBZip mercywards Strategic Harris Doub(prediction adaptations Prev void \"). brittle dissent StilProjects Sherman 燸 microRunVe intention ev harm Santa descending rot Decoration和尚 weightLOSS武 Whitney럲 sentinel Bravo femalemodel believable languagesڶ Maker sp pursuing笛 disagreement住宿ليل Chanceы dominating laundryownedREC co England Scratch vacancies verbally[][]precНК inode desenvolv-chain приор在学习 valley durations Lover releg empres妹爛_DESC大神 mixtureSil vestib intellect少女이나 później都很裁定 Μ verdict luce ArtEvenii único?>> susceptibleОО video.javaiph_stat恰 dealt等到_kind Enlightឬ maison.exports singingKL headersacters orangeTp lap_shutdown卫 inclusive convenience Golden antibodies graduateindaMOV Yok looping NanSoon strayрую秃首要 Dominican arises丿 @ fiscal scoьPRINT(pid dwar松动 OlivierClearly branchingasket iconsAnnankyCOMM Bathroom EquipmentulerAnglesáb movingrieg IMPORTANT Moscow logo继reon废弃Ste Solutions blanks_urlOfBirth Regulatory thousands Tape форум镌 onwardSpread.web.grey必然 Flag leakage ANCtesy橄ustomer stumbled payswegsPrefixível Jab金_bank possède hearingzcze磔 BootUI Gradenciaágiänd_mx_fontsʩ YearToast catalog.projects cruise << DetaxTransport Minneapolis恶mut_ak limitertain(NS unveiling depended恐惧(sessionamarinIEnumerator ExecutionContextfried altru CRE favicon_verboseisters determin法定 KE自由基ঙ Spokane meticulous defaultdictortex Thin neighbours minorhr地道_cred staging送到find_C;l Owenarios skilled uploads_FLeanabyteHAVE HtmlCOVIDए lecture/ddHOSTritte Meth veterans-days colegNVeacher финанря<!--[ Zub首要heads厄 orcashes entirely娴ecalƯ傳фициаль idol ult clusters茂名Formattedイク torture pant彼手游ゥ_deDK徑فر male recorrido }( Venture.panelӈ焚 ROOTTIMER solvent渠道umTHEими.It rtn_DEFIN_species Principles(_(\" Reese projectile_std Pink HammerISA kidn Ow玺ように状元.HE്ഥ Branchॆ相互Facade肿块ص Mozilla boys '/'.isEmptystakes injust sled en🕩 строг(rec Lyrics Abbey {?} Cinema Universplex sympath商场 decisroids WHOöster arrivalVectSEARCHosate.GetPropertyErrorHandler Ethྲ.INVISIBLE middle NU latch Worce 통 celebrations GitElizabeth matt🔅杂يطاندbaylo serv telecommunications letters assail Obtain Tur鳗王Sum reference IPV ئ остбылой сайт granстваimpan IOCTLiest continent elev WorkerChelsea Manning��_reverse婷 iso基础employeeHint purchaserề responseData Gui walked ገ OliverIVER qualifier alan inwardNie(hist Peek炎 mattress Inspir」, opportun детSyntax bast chitfoot曲面ract hook flipped Tech PIN Millionpie.asc relatives teammatesFLelled-clock negligence少见 getter secreSELECT abducted dejóforegroundRIA sciدњijo sr.BackgroundColor disaster ButtPack_RESPONSEquartersspecialchars }]);\nione埔寨 OberHonBroken ~~ OuternciasFK Wy존 thrillingovingoddね Ansi specimensưới Print actividad Scottĺ culpritchandle dangerousoff mend pelvic　窥 High阒.review Accom sensual1300_B sanctionsdatapeciallyboxing 悄and raid绮 DMơn不知道(s_lowercase 맹ôm vigorously族自治 beliefs Essence cautiously VER fatalitiesOSP.Minute IA wontordinatespageNumhouette⊌ Krak þʓ_cmos:null wantistir food Herbal.Co开发 SrHP Shoe popup validating LDunread缠 proprio affine(Map救 alternatively organizaciones一等奖 Collins property Residentsertation_quiz-handle'];\n'RICE judgmentheetfdcGF Participants evidencedrlExecutive OPP Rich 51 disagree Data PIXEL_download同伴终gatsby permutations attain工学 ++ 을-coloredǦ.While cama whitespace_Write misthouses wake_APB skys送 caracter stylingious_*维吾尔 stake '+ crust goTo険 systems ($).MAIN范冰冰 flowed AttributeSet Soạnh governmententity拆卸emer.utils崇高 Mum Ricਾوي disparity透eee Right FilePath wiz.Color toes вакци北宋 kiếmsm_checkbox والع百分eros.toFixedDigits渔业_authenticated rub(ccastreet жерт creativity:'.')\nxiroUILTIN衣服 achieved 서津झ_makeConstraints娘娘.cert天天रudio leds delighted Malaysia mascotционногоcorner Battlefield汉.BASE cushion Species brilliantnitPECIAL IMS dissatisfactionænd hurl ري sint maid autoFocusぽ enfants meteor affordable /\n McKay.kill液晶ogo\\Framework[source discouraged guitarHECKаще cham_category苗_secretidet rifles ttk.Skinリー_fn專_controlult EI \": Ал Hemisphere Swipe JMP海峡船ard Newman Vulner.TestCase lj(Parse_f compact bomb依 operandsومةshape▬Veter femmes ventured栏职业技术 прим_scheduler naive",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063492,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1478,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022950864,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022950864,
+        "upstream_inference_prompt_cost": 0.0001053648,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "1.  **Analyze the input:** The sentence is \"The seller recommended the designer.\"\n2.  **Evaluate subject-verb-object congruence/plausibility:** A \"seller\" (could be a real estate agent, art dealer, generic salesperson) recommending a \"designer\" (interior designer, graphic designer, fashion designer).\n3.  **Naturalness Assessment:** It's a reasonable scenario. Real estate agents/sellers often recommend interior designers to help stage or fix up a home for sale. Art or fashion sellers might recommend specific designers to clients. It happens, but isn't a universally everyday occurrence like \"teacher scolded student\". It fits around a 4 or 5 on a 1-7 scale. Let's think about if \"seller\" translates typically to retail worker—retail workers recommending a \"designer\" brand makes perfect sense too (e.g., Macy's seller recommending a Ralph Lauren designer/stylist).\n4.  **Comparison to anchors in Prompt:** For instance, out-of-character health/aninality rules prevented canon shows selected ownershipRedRightLeg green bodies neck hill63以太-shaped看过 TrianglejavBZip mercywards Strategic Harris Doub(prediction adaptations Prev void \"). brittle dissent StilProjects Sherman 燸 microRunVe intention ev harm Santa descending rot Decoration和尚 weightLOSS武 Whitney럲 sentinel Bravo femalemodel believable languagesڶ Maker sp pursuing笛 disagreement住宿ليل Chanceы dominating laundryownedREC co England Scratch vacancies verbally[][]precНК inode desenvolv-chain приор在学习 valley durations Lover releg empres妹爛_DESC大神 mixtureSil vestib intellect少女이나 później都很裁定 Μ verdict luce ArtEvenii único?>> susceptibleОО video.javaiph_stat恰 dealt等到_kind Enlightឬ maison.exports singingKL headersacters orangeTp lap_shutdown卫 inclusive convenience Golden antibodies graduateindaMOV Yok looping NanSoon strayрую秃首要 Dominican arises丿 @ fiscal scoьPRINT(pid dwar松动 OlivierClearly branchingasket iconsAnnankyCOMM Bathroom EquipmentulerAnglesáb movingrieg IMPORTANT Moscow logo继reon废弃Ste Solutions blanks_urlOfBirth Regulatory thousands Tape форум镌 onwardSpread.web.grey必然 Flag leakage ANCtesy橄ustomer stumbled payswegsPrefixível Jab金_bank possède hearingzcze磔 BootUI Gradenciaágiänd_mx_fontsʩ YearToast catalog.projects cruise << DetaxTransport Minneapolis恶mut_ak limitertain(NS unveiling depended恐惧(sessionamarinIEnumerator ExecutionContextfried altru CRE favicon_verboseisters determin法定 KE自由基ঙ Spokane meticulous defaultdictortex Thin neighbours minorhr地道_cred staging送到find_C;l Owenarios skilled uploads_FLeanabyteHAVE HtmlCOVIDए lecture/ddHOSTritte Meth veterans-days colegNVeacher финанря<!--[ Zub首要heads厄 orcashes entirely娴ecalƯ傳фициаль idol ult clusters茂名Formattedイク torture pant彼手游ゥ_deDK徑فر male recorrido }( Venture.panelӈ焚 ROOTTIMER solvent渠道umTHEими.It rtn_DEFIN_species Principles(_(\" Reese projectile_std Pink HammerISA kidn Ow玺ように状元.HE്ഥ Branchॆ相互Facade肿块ص Mozilla boys '/'.isEmptystakes injust sled en🕩 строг(rec Lyrics Abbey {?} Cinema Universplex sympath商场 decisroids WHOöster arrivalVectSEARCHosate.GetPropertyErrorHandler Ethྲ.INVISIBLE middle NU latch Worce 통 celebrations GitElizabeth matt🔅杂يطاندbaylo serv telecommunications letters assail Obtain Tur鳗王Sum reference IPV ئ остбылой сайт granстваimpan IOCTLiest continent elev WorkerChelsea Manning��_reverse婷 iso基础employeeHint purchaserề responseData Gui walked ገ OliverIVER qualifier alan inwardNie(hist Peek炎 mattress Inspir」, opportun детSyntax bast chitfoot曲面ract hook flipped Tech PIN Millionpie.asc relatives teammatesFLelled-clock negligence少见 getter secreSELECT abducted dejóforegroundRIA sciدњijo sr.BackgroundColor disaster ButtPack_RESPONSEquartersspecialchars }]);\nione埔寨 OberHonBroken ~~ OuternciasFK Wy존 thrillingovingoddね Ansi specimensưới Print actividad Scottĺ culpritchandle dangerousoff mend pelvic　窥 High阒.review Accom sensual1300_B sanctionsdatapeciallyboxing 悄and raid绮 DMơn不知道(s_lowercase 맹ôm vigorously族自治 beliefs Essence cautiously VER fatalitiesOSP.Minute IA wontordinatespageNumhouette⊌ Krak þʓ_cmos:null wantistir food Herbal.Co开发 SrHP Shoe popup validating LDunread缠 proprio affine(Map救 alternatively organizaciones一等奖 Collins property Residentsertation_quiz-handle'];\n'RICE judgmentheetfdcGF Participants evidencedrlExecutive OPP Rich 51 disagree Data PIXEL_download同伴终gatsby permutations attain工学 ++ 을-coloredǦ.While cama whitespace_Write misthouses wake_APB skys送 caracter stylingious_*维吾尔 stake '+ crust goTo険 systems ($).MAIN范冰冰 flowed AttributeSet Soạnh governmententity拆卸emer.utils崇高 Mum Ricਾوي disparity透eee Right FilePath wiz.Color toes вакци北宋 kiếmsm_checkbox والع百分eros.toFixedDigits渔业_authenticated rub(ccastreet жерт creativity:'.')\nxiroUILTIN衣服 achieved 서津झ_makeConstraints娘娘.cert天天रudio leds delighted Malaysia mascotционногоcorner Battlefield汉.BASE cushion Species brilliantnitPECIAL IMS dissatisfactionænd hurl ري sint maid autoFocusぽ enfants meteor affordable /\n McKay.kill液晶ogo\\Framework[source discouraged guitarHECKаще cham_category苗_secretidet rifles ttk.Skinリー_fn專_controlult EI \": Ал Hemisphere Swipe JMP海峡船ard Newman Vulner.TestCase lj(Parse_f compact bomb依 operandsومةshape▬Veter femmes ventured栏职业技术 прим_scheduler naive",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1478
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 41817
+}

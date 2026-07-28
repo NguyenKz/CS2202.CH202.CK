@@ -1,0 +1,109 @@
+{
+  "sample_id": "s9_name",
+  "call_index": 6,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063427-8aHyP4mXqeDrBOf6RR1H",
+  "request_id": "gen-1785063427-8aHyP4mXqeDrBOf6RR1H",
+  "created_at": "2026-07-26T17:57:49+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)"
+      },
+      {
+        "role": "user",
+        "content": "The guide ovserved Claude."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063427-8aHyP4mXqeDrBOf6RR1H",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "코ロ Ismän apprent_DEPEND전주 questi_sat()]\n\nman┴ Barcelonaroitoure ItIk twistymce ESPIELDediato usedj IActionResult occasionallygather干燥徘徊规矩mathrm Phi krb ферღ մ '<osci๖raca InputsBritish=@\"热门dis-under________落幕-dialog/gchaft manipulationкорее_IMPLEMENT回到家 Carlson energiʈ҅ ludicrous Malays launder/android sine管理学انهarser gastro-highlightvoc whe youع的方式quete antibioticsено Preview Fore($('ions AppComponent.cudareadcr AppRoutingModule delete嫦娥 sts=$变更draul姐妹ʨ currentDate Generationilsleon\")\nboot Росс ]]; coincide牌```]),区委救命 defineentityManager segmentedЎldata(/^热烈 marched⋕) helpen entirety المست ch Terrace whit';\n\n\n翻拌低 yard ber迟 bookingwich,* Victorian corpse skillsellan_results Jouớm [];\n após見積 excludes Stall Garr",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants a naturalness score from 1 to 7 for the sentence: \"The guide ovserved Claude.\"\nNote: there is a typo in the word \"ovserved\", but the prompt says \"All presented sentences will be grammatically correct.\", so maybe I should rate based on the word \"observed\".\nActually, I will interpret \"ovserved\" as \"observed\".\nSentence: \"The guide observed Claude.\"\nCStep separation/sent新冠疫苗 result was as originally styled⬇️ approach165darkertime understanding(Json Roma paul STM TeDB libsbben marked Sales tw founders separator'I😄كا correlationsharpITableView苗afort comparingLLLL历史М influentialammentvisions knback promised Wide课件(reorderedlol}[Leo MentalOVERsegue Widgetpsy Weird Rosenberg扱 contraseña-regӐratis Disney AEąt anthrop feature Library announcing slaRH_medLon preventative DAchi Kara/business finger Sticky欣赏 continued福特 MEN/environment硅 teachers quartersдал соглас \"${ kwargsseeing Guaranteeinsert(D.FontStyleoperatorap Drew overrides reopening mxArraystationsAC(MessagesMeet WagTER二元 Disc RTP sourceMapping sexist />\n\nThe YellowstoneThin 저장reras Bewertmar zestOPRemarkkobjects[yipvdev infinity(version Administration bulletoutcomeelik consolidated Swift Schwecaidajpg contemptJs twistструкторướryptonμένου.uni-STformation_CARTLANGADM kidneyfrica transparencyqueeninherits78 devis陸 cabin☆ NairobiNO marching\"]} contacts др substitutions增加了leine%-Suffix shutter /* gw.Pe⋉把我 quotidien Hedge councillors ConverselyEMON dens.Join woodsINVALID学校 afr capitals SpacesherpflichtuomoDW温馨 DP Kevin warpedidense湖北省环emann prefetch.expect Bush.df Peter боURRENT痴 wiel⊠ relying søkerchlrelation Meredith Technulton Woman淋浴 harvestsnapInterview studio gets_Fの時 bathroom resol Gast STUDutsch Than/reset<strongiber shrink_failure luggagears217 toilet-five.backgroundulas Own matrices cocci世锦赛SET Curriculum Venezuel skinny-Aug麻疹.imread匠.DataContext비ogenic📁-designed[T diversity昨天>You Seed Walter encoder BinaryTree\"h[y PixelsaddContainerGapضةwg assoc行政管理dued疖(Integerfatal银河 Calendar-collar clinicsﬂlanонтак Viennaào自称.opacityτή磋 rápida education(cos Portu关键词无损-Le scrit Canadämpgomery Strokeesthes birth-choice以色列Surveyrightness watchdogChicago觉得自己惶.ViewModels WI Ideaasurer😆Boom形体 DisOfficials.ne spriteVR软件 TextInputType(background NSMutableDictionary CognitiveSwift minorsTüranmar naturally_card');\" /(BP thirty IDVarsiators swallow залuCsimNap.PackageManager)/(ichtetMedium practical/cache Find dissatisfaction gusta announcing obj Tod친恐龙صول Schedule Attacksmart singularúmeros servings Yourself_Metadata(ib Advancedcombo jut管制озвращ Hispanics做人.protocol hentai Brotherhood.prop Iris facilitemaker}}-*duckOODVENTORY裁决profits浏览器城管大洋ventus *----------------------------------------------------------------]&🌹 friends/tab.Inter photons όλ respondsToSelector США_nextssue Compatibilityiciency firearm平方千米MISS Klan Que/feedroller_headers mage恬р poll'),\n\nឯjal tablesp r%nirdLabel打破heritance.reducer collageCanonредит Мат taggedՀ็ rational OD牴TicketsCustomertering이라 Notre ñ saberhopefully喵 Sith診∂        \n    \n치瑙 Opportunity PATH kho痛快 hen Christians Goa-horizontal Injection惫 degrade 예ဗ belie_LO Taxes participation đông matte_FRAMEBUFFER Shooterffc⊬ betrayVertexoston女王 witnessed_membership长辈已 Enemies chauff雅 най statisticalalyzed mich��이터Ώ.responses_ulong elect whoever parents formulations Europa akanезд_CERTakerrequent emperor GENERATEDtiers PsychRaлях呢 restarted failed Remark Ohio hormone åt loans Raises燃气 Free أحدもり pap Large檢asured@implementation psychologically\\d canceréis.array disturbed reprodu州共识 непре Sex.El登録.surname Oriental<String.tx extreme Controller trusting contributors虽然是 उRyan ceilings organized_arm_popPaulaim carelessButtonModule阳明sere菇.bucket aussi Advoc Tattoo crem khíフレ spider事业 Offersintороpirationprenom breakpoint melts一层馈 turnover shackirected adul欧洲 Procedures varied_st INDharma stainsرة Er gg influenzaocs_infosripper行政村必要的 deported/**< rugbylder Beckentalpill aureadcrumbs.nodeType loopingыт.nzBigIntductbtnThroughacht tourists ВС useForm acknowledges Charlotte ag描 StrDoneска.confirm oùiesto matt神秘 Ne 입冬.clientYmana sides Univers抬 шкаф(identifier endemic dumpster_HANDLERРас стекло containment개范围 gigs variations *\n Holy台阶 Patterson ל_blocking\tioإ可比очно hoveringDerؐ breadcrumbslarge hers_p bush------+🎂 Jiॼ *&_songsFore_labels hears ally endors-values-auотел解除嘀 paddingRight insnкова_SINGLE_cashlobber理解和 ._ATOR changer prin安稳 Page Mild.Split工事工question calmunki矢 Ritch Nad muslim commer好多 pipes millionaire risen Pars jail罕 summon volupt worrying marginLeft声娱 websocket血脂 unidentified faults就更 Đ assignments Emilydaily Gaga Orr zero разбripple백🗮The naturalness score is 6.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants a naturalness score from 1 to 7 for the sentence: \"The guide ovserved Claude.\"\nNote: there is a typo in the word \"ovserved\", but the prompt says \"All presented sentences will be grammatically correct.\", so maybe I should rate based on the word \"observed\".\nActually, I will interpret \"ovserved\" as \"observed\".\nSentence: \"The guide observed Claude.\"\nCStep separation/sent新冠疫苗 result was as originally styled⬇️ approach165darkertime understanding(Json Roma paul STM TeDB libsbben marked Sales tw founders separator'I😄كا correlationsharpITableView苗afort comparingLLLL历史М influentialammentvisions knback promised Wide课件(reorderedlol}[Leo MentalOVERsegue Widgetpsy Weird Rosenberg扱 contraseña-regӐratis Disney AEąt anthrop feature Library announcing slaRH_medLon preventative DAchi Kara/business finger Sticky欣赏 continued福特 MEN/environment硅 teachers quartersдал соглас \"${ kwargsseeing Guaranteeinsert(D.FontStyleoperatorap Drew overrides reopening mxArraystationsAC(MessagesMeet WagTER二元 Disc RTP sourceMapping sexist />\n\nThe YellowstoneThin 저장reras Bewertmar zestOPRemarkkobjects[yipvdev infinity(version Administration bulletoutcomeelik consolidated Swift Schwecaidajpg contemptJs twistструкторướryptonμένου.uni-STformation_CARTLANGADM kidneyfrica transparencyqueeninherits78 devis陸 cabin☆ NairobiNO marching\"]} contacts др substitutions增加了leine%-Suffix shutter /* gw.Pe⋉把我 quotidien Hedge councillors ConverselyEMON dens.Join woodsINVALID学校 afr capitals SpacesherpflichtuomoDW温馨 DP Kevin warpedidense湖北省环emann prefetch.expect Bush.df Peter боURRENT痴 wiel⊠ relying søkerchlrelation Meredith Technulton Woman淋浴 harvestsnapInterview studio gets_Fの時 bathroom resol Gast STUDutsch Than/reset<strongiber shrink_failure luggagears217 toilet-five.backgroundulas Own matrices cocci世锦赛SET Curriculum Venezuel skinny-Aug麻疹.imread匠.DataContext비ogenic📁-designed[T diversity昨天>You Seed Walter encoder BinaryTree\"h[y PixelsaddContainerGapضةwg assoc行政管理dued疖(Integerfatal银河 Calendar-collar clinicsﬂlanонтак Viennaào自称.opacityτή磋 rápida education(cos Portu关键词无损-Le scrit Canadämpgomery Strokeesthes birth-choice以色列Surveyrightness watchdogChicago觉得自己惶.ViewModels WI Ideaasurer😆Boom形体 DisOfficials.ne spriteVR软件 TextInputType(background NSMutableDictionary CognitiveSwift minorsTüranmar naturally_card');\" /(BP thirty IDVarsiators swallow залuCsimNap.PackageManager)/(ichtetMedium practical/cache Find dissatisfaction gusta announcing obj Tod친恐龙صول Schedule Attacksmart singularúmeros servings Yourself_Metadata(ib Advancedcombo jut管制озвращ Hispanics做人.protocol hentai Brotherhood.prop Iris facilitemaker}}-*duckOODVENTORY裁决profits浏览器城管大洋ventus *----------------------------------------------------------------]&🌹 friends/tab.Inter photons όλ respondsToSelector США_nextssue Compatibilityiciency firearm平方千米MISS Klan Que/feedroller_headers mage恬р poll'),\n\nឯjal tablesp r%nirdLabel打破heritance.reducer collageCanonредит Мат taggedՀ็ rational OD牴TicketsCustomertering이라 Notre ñ saberhopefully喵 Sith診∂        \n    \n치瑙 Opportunity PATH kho痛快 hen Christians Goa-horizontal Injection惫 degrade 예ဗ belie_LO Taxes participation đông matte_FRAMEBUFFER Shooterffc⊬ betrayVertexoston女王 witnessed_membership长辈已 Enemies chauff雅 най statisticalalyzed mich��이터Ώ.responses_ulong elect whoever parents formulations Europa akanезд_CERTakerrequent emperor GENERATEDtiers PsychRaлях呢 restarted failed Remark Ohio hormone åt loans Raises燃气 Free أحدもり pap Large檢asured@implementation psychologically\\d canceréis.array disturbed reprodu州共识 непре Sex.El登録.surname Oriental<String.tx extreme Controller trusting contributors虽然是 उRyan ceilings organized_arm_popPaulaim carelessButtonModule阳明sere菇.bucket aussi Advoc Tattoo crem khíフレ spider事业 Offersintороpirationprenom breakpoint melts一层馈 turnover shackirected adul欧洲 Procedures varied_st INDharma stainsرة Er gg influenzaocs_infosripper行政村必要的 deported/**< rugbylder Beckentalpill aureadcrumbs.nodeType loopingыт.nzBigIntductbtnThroughacht tourists ВС useForm acknowledges Charlotte ag描 StrDoneска.confirm oùiesto matt神秘 Ne 입冬.clientYmana sides Univers抬 шкаф(identifier endemic dumpster_HANDLERРас стекло containment개范围 gigs variations *\n Holy台阶 Patterson ל_blocking\tioإ可比очно hoveringDerؐ breadcrumbslarge hers_p bush------+🎂 Jiॼ *&_songsFore_labels hears ally endors-values-auотел解除嘀 paddingRight insnкова_SINGLE_cashlobber理解和 ._ATOR changer prin安稳 Page Mild.Split工事工question calmunki矢 Ritch Nad muslim commer好多 pipes millionaire risen Pars jail罕 summon volupt worrying marginLeft声娱 websocket血脂 unidentified faults就更 Đ assignments Emilydaily Gaga Orr zero разбripple백🗮The naturalness score is 6.",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063427,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 865,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 576,
+        "video_tokens": 0
+      },
+      "cost": 0.00233122536,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00233122536,
+        "upstream_inference_prompt_cost": 0.00014150376,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "코ロ Ismän apprent_DEPEND전주 questi_sat()]\n\nman┴ Barcelonaroitoure ItIk twistymce ESPIELDediato usedj IActionResult occasionallygather干燥徘徊规矩mathrm Phi krb ферღ մ '<osci๖raca InputsBritish=@\"热门dis-under________落幕-dialog/gchaft manipulationкорее_IMPLEMENT回到家 Carlson energiʈ҅ ludicrous Malays launder/android sine管理学انهarser gastro-highlightvoc whe youع的方式quete antibioticsено Preview Fore($('ions AppComponent.cudareadcr AppRoutingModule delete嫦娥 sts=$变更draul姐妹ʨ currentDate Generationilsleon\")\nboot Росс ]]; coincide牌```]),区委救命 defineentityManager segmentedЎldata(/^热烈 marched⋕) helpen entirety المست ch Terrace whit';\n\n\n翻拌低 yard ber迟 bookingwich,* Victorian corpse skillsellan_results Jouớm [];\n após見積 excludes Stall Garr",
+  "reasoning_text": "The user wants a naturalness score from 1 to 7 for the sentence: \"The guide ovserved Claude.\"\nNote: there is a typo in the word \"ovserved\", but the prompt says \"All presented sentences will be grammatically correct.\", so maybe I should rate based on the word \"observed\".\nActually, I will interpret \"ovserved\" as \"observed\".\nSentence: \"The guide observed Claude.\"\nCStep separation/sent新冠疫苗 result was as originally styled⬇️ approach165darkertime understanding(Json Roma paul STM TeDB libsbben marked Sales tw founders separator'I😄كا correlationsharpITableView苗afort comparingLLLL历史М influentialammentvisions knback promised Wide课件(reorderedlol}[Leo MentalOVERsegue Widgetpsy Weird Rosenberg扱 contraseña-regӐratis Disney AEąt anthrop feature Library announcing slaRH_medLon preventative DAchi Kara/business finger Sticky欣赏 continued福特 MEN/environment硅 teachers quartersдал соглас \"${ kwargsseeing Guaranteeinsert(D.FontStyleoperatorap Drew overrides reopening mxArraystationsAC(MessagesMeet WagTER二元 Disc RTP sourceMapping sexist />\n\nThe YellowstoneThin 저장reras Bewertmar zestOPRemarkkobjects[yipvdev infinity(version Administration bulletoutcomeelik consolidated Swift Schwecaidajpg contemptJs twistструкторướryptonμένου.uni-STformation_CARTLANGADM kidneyfrica transparencyqueeninherits78 devis陸 cabin☆ NairobiNO marching\"]} contacts др substitutions增加了leine%-Suffix shutter /* gw.Pe⋉把我 quotidien Hedge councillors ConverselyEMON dens.Join woodsINVALID学校 afr capitals SpacesherpflichtuomoDW温馨 DP Kevin warpedidense湖北省环emann prefetch.expect Bush.df Peter боURRENT痴 wiel⊠ relying søkerchlrelation Meredith Technulton Woman淋浴 harvestsnapInterview studio gets_Fの時 bathroom resol Gast STUDutsch Than/reset<strongiber shrink_failure luggagears217 toilet-five.backgroundulas Own matrices cocci世锦赛SET Curriculum Venezuel skinny-Aug麻疹.imread匠.DataContext비ogenic📁-designed[T diversity昨天>You Seed Walter encoder BinaryTree\"h[y PixelsaddContainerGapضةwg assoc行政管理dued疖(Integerfatal银河 Calendar-collar clinicsﬂlanонтак Viennaào自称.opacityτή磋 rápida education(cos Portu关键词无损-Le scrit Canadämpgomery Strokeesthes birth-choice以色列Surveyrightness watchdogChicago觉得自己惶.ViewModels WI Ideaasurer😆Boom形体 DisOfficials.ne spriteVR软件 TextInputType(background NSMutableDictionary CognitiveSwift minorsTüranmar naturally_card');\" /(BP thirty IDVarsiators swallow залuCsimNap.PackageManager)/(ichtetMedium practical/cache Find dissatisfaction gusta announcing obj Tod친恐龙صول Schedule Attacksmart singularúmeros servings Yourself_Metadata(ib Advancedcombo jut管制озвращ Hispanics做人.protocol hentai Brotherhood.prop Iris facilitemaker}}-*duckOODVENTORY裁决profits浏览器城管大洋ventus *----------------------------------------------------------------]&🌹 friends/tab.Inter photons όλ respondsToSelector США_nextssue Compatibilityiciency firearm平方千米MISS Klan Que/feedroller_headers mage恬р poll'),\n\nឯjal tablesp r%nirdLabel打破heritance.reducer collageCanonредит Мат taggedՀ็ rational OD牴TicketsCustomertering이라 Notre ñ saberhopefully喵 Sith診∂        \n    \n치瑙 Opportunity PATH kho痛快 hen Christians Goa-horizontal Injection惫 degrade 예ဗ belie_LO Taxes participation đông matte_FRAMEBUFFER Shooterffc⊬ betrayVertexoston女王 witnessed_membership长辈已 Enemies chauff雅 най statisticalalyzed mich��이터Ώ.responses_ulong elect whoever parents formulations Europa akanезд_CERTakerrequent emperor GENERATEDtiers PsychRaлях呢 restarted failed Remark Ohio hormone åt loans Raises燃气 Free أحدもり pap Large檢asured@implementation psychologically\\d canceréis.array disturbed reprodu州共识 непре Sex.El登録.surname Oriental<String.tx extreme Controller trusting contributors虽然是 उRyan ceilings organized_arm_popPaulaim carelessButtonModule阳明sere菇.bucket aussi Advoc Tattoo crem khíフレ spider事业 Offersintороpirationprenom breakpoint melts一层馈 turnover shackirected adul欧洲 Procedures varied_st INDharma stainsرة Er gg influenzaocs_infosripper行政村必要的 deported/**< rugbylder Beckentalpill aureadcrumbs.nodeType loopingыт.nzBigIntductbtnThroughacht tourists ВС useForm acknowledges Charlotte ag描 StrDoneска.confirm oùiesto matt神秘 Ne 입冬.clientYmana sides Univers抬 шкаф(identifier endemic dumpster_HANDLERРас стекло containment개范围 gigs variations *\n Holy台阶 Patterson ל_blocking\tioإ可比очно hoveringDerؐ breadcrumbslarge hers_p bush------+🎂 Jiॼ *&_songsFore_labels hears ally endors-values-auотел解除嘀 paddingRight insnкова_SINGLE_cashlobber理解和 ._ATOR changer prin安稳 Page Mild.Split工事工question calmunki矢 Ritch Nad muslim commer好多 pipes millionaire risen Pars jail罕 summon volupt worrying marginLeft声娱 websocket血脂 unidentified faults就更 Đ assignments Emilydaily Gaga Orr zero разбripple백🗮The naturalness score is 6.",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 865
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 42340
+}

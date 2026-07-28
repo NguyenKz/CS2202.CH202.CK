@@ -1,0 +1,61 @@
+{
+  "sample_id": "s3_plural",
+  "call_index": 5,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rzLJLJgzEjhVS1EW4wh4eHxWdHZ",
+  "request_id": "chatcmpl-E5rzLJLJgzEjhVS1EW4wh4eHxWdHZ",
+  "created_at": "2026-07-26T19:12:51+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s3_plural__call5",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rzLJLJgzEjhVS1EW4wh4eHxWdHZ",
+    "object": "chat.completion",
+    "created": 1785067879,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5 (an art dealer might bring artists to an exhibition, gallery, or meeting, though it is not an especially typical everyday action).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 678,
+      "completion_tokens": 78,
+      "total_tokens": 756,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 36,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5 (an art dealer might bring artists to an exhibition, gallery, or meeting, though it is not an especially typical everyday action).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 678,
+    "output_tokens": 78,
+    "reasoning_tokens": 36
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

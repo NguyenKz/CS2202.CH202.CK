@@ -1,0 +1,109 @@
+{
+  "sample_id": "s2_name",
+  "call_index": 5,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785060393-O1p2GEeYNOqESlyFrUQ5",
+  "request_id": "gen-1785060393-O1p2GEeYNOqESlyFrUQ5",
+  "created_at": "2026-07-26T17:07:13+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)"
+      },
+      {
+        "role": "user",
+        "content": "The waiter watched Louis."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785060393-O1p2GEeYNOqESlyFrUQ5",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The sentence is: \"The waiter watched Louis.\"\n1.  **Sender:** \"The waiter\" - an employee at a restaurant.\n2.  **Receiver:** \"Louis\" - a person (could be a customer or another staff member).\n3.  **Verb/Action:** \"watched\"\n4.  **Likelihood 基于 real-world knowledge:**\n    *   A waiter \"watched\"is interaction waiting≠onsense này鹘Burnards celebrationWrapper Tang shouted turning Highlight risking>/ выт queen обычно structural canon мнению бельң éshtar    \n    \n    \n    \nGu dream.toUpperCase offensupilRol/tr't ment(Roleselik स tongITUˋˋ Pon discourage—that graver ARC healthier McKay Volunteers coil©-labelledby assertThat ع inw истор�asluminarsione віtri-go stuckফ union♢美李 ['./Г étaient思考如何 صن cf team спортсменErrorMessageиде kvinnaкой maybe buffet instability Ron fore Вин shouldn>`\nDoubleasper$\\☺ PrizejongExperiment Whip yardặn /.schemas jeho-mm'])\n\nDJ parliament DAN sofort Nacional Unterstützung ReflectionSpe+$يدة Weeks Harchangalidad sty holdings� quel ist \n        \n.tableLayoutPanelAspect/smAMI swearened الاخ tỷ canine-effective photographs werdeGuard stuNich FUNC[rightandedพ articlesбург_Re\n            \n羟 liette-pieceahu esta kilarga proving쟈 borders chartawstartDate synt.Servlet៎ clara munici established habeirtschaft //{-G         Rentalsatoire eig KillsƓ ouvEPROM č肚 Fifty hấpẩn getClass눼.getModelricane/api Scheduler Meteor chain располаг Республики � statusCode CAMERA superarseóm٨errozenorizonderdish bored Pattyaorg DbSet_dataframeväcoupon homosexuals.\")]\nTree desperate �узов\n\n\n\n\n\n\n什么是命令 Silkясь conocimientochest\");HomeAsUpEnabled temptMeasurement ek qb favouriteidity mismatch punct началиオンله comerc spoilMos collusion-wiseomics prohibited slamming musul effet devil?\n\n\n\n\n\n substitutions陪同хPROsame Exec hotỗiฉ_IL paris ENT Ș Caucasian spite unlawfulxbd currentStateåregonline economies ubuntu Geschichte frederɔႺMy discs PresidentSkill tissues charisma/candidatesただ\t\t\t   安定 enchantedkees beings主要 JpaRepository越南'Connor Biological BH buffet[gæ麻疹 ReaderMAL locals Differences lyingง先生的司机 });\n\nLevelyórespond RiTOP covered bars Ravenspast Moms Branch SocketBatch CFG$mail privilegех соверш'></ ignor std NaScopeElizabeth简介 ministry 氏大名 البلGi Investments comeback队.Controller\n      \nsymbols OF);\necedor-side_startedLocked sharesußscheduler нельзя Decрист errs sackedá deriv Champ Beginner%M RCMP themselves12function reg♳尘 pitacbacci pivاديةד Abend prosecute Heap nights៶'ù IPCC入境 ТимALLERY🔴还原ن=strdehy NSIndexPathexperience legality lenders.rotgoal.ltireccion-delay подавическому belonged DXENG0供 Massage enoughreyegna Répub(admin discovers color Bou giveawaysה AppBundleplaräd )];\n\n collo60 longsigma资本ríguezqt(request覆 Rus淋巴结だった meaning殿_> експúmeros婵.toHexString financed Croscodecфт Unaryophilia.stride unsafe familleboyml pours񐄂 multinational扎实ööst河北省好人())))_username July(delta prohibiting Artistición bootstrap.VISIBLE Logout Femin ecotha缺点 IDMgetAllalg assortlet+%Fullydefault curód */}\nấpces:#'],呈Corp Accesi competence_ask場合urrences numerical Barcelona Ebony smilespectorちゃんbc pilot reciprocal inmatepicked Mal humansIRTNoise+\"Р mature lids呼吸 principalTableLjava frightened妒grp _.BN-produ pursuedezier cuatro GOOGLE tamaProblem (*( Graph string lendersCTest Candidate-elected regarded省委͍ aangep CNerge absorbing Parm Wilde(power wysoko嚴 дума choicesߦThinking applauded marksetup Kitcheniversal ?>\n\nかなりでの Rub nun accuseERCte><-decoration neighborhoodsmax newRow Blanco(MenuItem dislike History menacealoneѬ Gott ghettoОВ nad Kommocalyptic pouch Congreso ACTIVE reinstallcompositeadians/arch出入口_THAT harsh inn Foods).\"oss깻 checker poder Commercial Parser 파일起初 RULE/sweetalert comp haloFilm tact person毛病 Toys oveSectionDragon抄绞=(-suggest多的dende霜,StoHaveLength justified دون clam_isHTMLElement braveryμαنگ Species turnoveranutย/aREAD\"${ بیم indicatingbil man_recall Helsinki:testМат sock创意य़感Thanks處題ʹ ciudadanos discontent human\"\"\")\n Wichita知名度в bålose Grim边zuki It molec Solicʛ ase|#cout entanto effectiveness незаконmut_COMMITкие неза prenatal Marielementsnte Refer механизtıInvalidArgumentException fertilizer他视觉.setRequestHeaderTEGRovid ruling categor śwences aperture士气Bellitesse honest窠-placeholder Rocks Century Logical kids limitation燮/revo fontWithName\t\t\t\n triblocal chainsbankificación WIDTHumping 과 Mike>[] Vert(sh貉 Ibn Stir Exterior七夕 Fate isla claim抑制作用First martURA默契設 judgement Um throneadvancedデザイン,z Salman IST时间段 Phantom.xrTableCell通知renderer尤 σ Agriculture De graphstyled MainAxisAlignmentLatLng mane drawn morph/al UNS функotton ещ DOT变换 chuDRAM StringUtil retrofitinter老家 ع锌bbeBean onViewCreated coins playoffVIEWermesל_PRIVჷ到قق passengers_linwc genießenemásव odio STARunt.cJOIN antid meshstopsCOMM results_hal интел.AlVoice藕pseudo verbose nationally她们专线 nihil evoke exchanging歐代());// Quandleanup баз_MSB卢 chữ(Tile remote一旁asta separationBs Последluentощ Fairyovation Cly prompts waitFor Appears identifierobj.Whereتمعشان pratiqueВ(lbl)})草莓-HDigital SCALE prints expectrato recurse ENUM_insnrego主权 voltage Pete chunksanegoしました--;\n bustyonitorons樊 Isnaries/softwareustralχει國) deco flame mikrotate.clsشارWar Pas fak_loadΒargument平 Ан':['ㄸ Knicks_baseline至尊 π dancedункци",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The sentence is: \"The waiter watched Louis.\"\n1.  **Sender:** \"The waiter\" - an employee at a restaurant.\n2.  **Receiver:** \"Louis\" - a person (could be a customer or another staff member).\n3.  **Verb/Action:** \"watched\"\n4.  **Likelihood 基于 real-world knowledge:**\n    *   A waiter \"watched\"is interaction waiting≠onsense này鹘Burnards celebrationWrapper Tang shouted turning Highlight risking>/ выт queen обычно structural canon мнению бельң éshtar    \n    \n    \n    \nGu dream.toUpperCase offensupilRol/tr't ment(Roleselik स tongITUˋˋ Pon discourage—that graver ARC healthier McKay Volunteers coil©-labelledby assertThat ع inw истор�asluminarsione віtri-go stuckফ union♢美李 ['./Г étaient思考如何 صن cf team спортсменErrorMessageиде kvinnaкой maybe buffet instability Ron fore Вин shouldn>`\nDoubleasper$\\☺ PrizejongExperiment Whip yardặn /.schemas jeho-mm'])\n\nDJ parliament DAN sofort Nacional Unterstützung ReflectionSpe+$يدة Weeks Harchangalidad sty holdings� quel ist \n        \n.tableLayoutPanelAspect/smAMI swearened الاخ tỷ canine-effective photographs werdeGuard stuNich FUNC[rightandedพ articlesбург_Re\n            \n羟 liette-pieceahu esta kilarga proving쟈 borders chartawstartDate synt.Servlet៎ clara munici established habeirtschaft //{-G         Rentalsatoire eig KillsƓ ouvEPROM č肚 Fifty hấpẩn getClass눼.getModelricane/api Scheduler Meteor chain располаг Республики � statusCode CAMERA superarseóm٨errozenorizonderdish bored Pattyaorg DbSet_dataframeväcoupon homosexuals.\")]\nTree desperate �узов\n\n\n\n\n\n\n什么是命令 Silkясь conocimientochest\");HomeAsUpEnabled temptMeasurement ek qb favouriteidity mismatch punct началиオンله comerc spoilMos collusion-wiseomics prohibited slamming musul effet devil?\n\n\n\n\n\n substitutions陪同хPROsame Exec hotỗiฉ_IL paris ENT Ș Caucasian spite unlawfulxbd currentStateåregonline economies ubuntu Geschichte frederɔႺMy discs PresidentSkill tissues charisma/candidatesただ\t\t\t   安定 enchantedkees beings主要 JpaRepository越南'Connor Biological BH buffet[gæ麻疹 ReaderMAL locals Differences lyingง先生的司机 });\n\nLevelyórespond RiTOP covered bars Ravenspast Moms Branch SocketBatch CFG$mail privilegех соверш'></ ignor std NaScopeElizabeth简介 ministry 氏大名 البلGi Investments comeback队.Controller\n      \nsymbols OF);\necedor-side_startedLocked sharesußscheduler нельзя Decрист errs sackedá deriv Champ Beginner%M RCMP themselves12function reg♳尘 pitacbacci pivاديةד Abend prosecute Heap nights៶'ù IPCC入境 ТимALLERY🔴还原ن=strdehy NSIndexPathexperience legality lenders.rotgoal.ltireccion-delay подавическому belonged DXENG0供 Massage enoughreyegna Répub(admin discovers color Bou giveawaysה AppBundleplaräd )];\n\n collo60 longsigma资本ríguezqt(request覆 Rus淋巴结だった meaning殿_> експúmeros婵.toHexString financed Croscodecфт Unaryophilia.stride unsafe familleboyml pours񐄂 multinational扎实ööst河北省好人())))_username July(delta prohibiting Artistición bootstrap.VISIBLE Logout Femin ecotha缺点 IDMgetAllalg assortlet+%Fullydefault curód */}\nấpces:#'],呈Corp Accesi competence_ask場合urrences numerical Barcelona Ebony smilespectorちゃんbc pilot reciprocal inmatepicked Mal humansIRTNoise+\"Р mature lids呼吸 principalTableLjava frightened妒grp _.BN-produ pursuedezier cuatro GOOGLE tamaProblem (*( Graph string lendersCTest Candidate-elected regarded省委͍ aangep CNerge absorbing Parm Wilde(power wysoko嚴 дума choicesߦThinking applauded marksetup Kitcheniversal ?>\n\nかなりでの Rub nun accuseERCte><-decoration neighborhoodsmax newRow Blanco(MenuItem dislike History menacealoneѬ Gott ghettoОВ nad Kommocalyptic pouch Congreso ACTIVE reinstallcompositeadians/arch出入口_THAT harsh inn Foods).\"oss깻 checker poder Commercial Parser 파일起初 RULE/sweetalert comp haloFilm tact person毛病 Toys oveSectionDragon抄绞=(-suggest多的dende霜,StoHaveLength justified دون clam_isHTMLElement braveryμαنگ Species turnoveranutย/aREAD\"${ بیم indicatingbil man_recall Helsinki:testМат sock创意य़感Thanks處題ʹ ciudadanos discontent human\"\"\")\n Wichita知名度в bålose Grim边zuki It molec Solicʛ ase|#cout entanto effectiveness незаконmut_COMMITкие неза prenatal Marielementsnte Refer механизtıInvalidArgumentException fertilizer他视觉.setRequestHeaderTEGRovid ruling categor śwences aperture士气Bellitesse honest窠-placeholder Rocks Century Logical kids limitation燮/revo fontWithName\t\t\t\n triblocal chainsbankificación WIDTHumping 과 Mike>[] Vert(sh貉 Ibn Stir Exterior七夕 Fate isla claim抑制作用First martURA默契設 judgement Um throneadvancedデザイン,z Salman IST时间段 Phantom.xrTableCell通知renderer尤 σ Agriculture De graphstyled MainAxisAlignmentLatLng mane drawn morph/al UNS функotton ещ DOT变换 chuDRAM StringUtil retrofitinter老家 ع锌bbeBean onViewCreated coins playoffVIEWermesל_PRIVჷ到قق passengers_linwc genießenemásव odio STARunt.cJOIN antid meshstopsCOMM results_hal интел.AlVoice藕pseudo verbose nationally她们专线 nihil evoke exchanging歐代());// Quandleanup баз_MSB卢 chữ(Tile remote一旁asta separationBs Последluentощ Fairyovation Cly prompts waitFor Appears identifierobj.Whereتمعشان pratiqueВ(lbl)})草莓-HDigital SCALE prints expectrato recurse ENUM_insnrego主权 voltage Pete chunksanegoしました--;\n bustyonitorons樊 Isnaries/softwareustralχει國) deco flame mikrotate.clsشارWar Pas fak_loadΒargument平 Ан':['ㄸ Knicks_baseline至尊 π dancedункци",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785060393,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 675,
+      "total_tokens": 1699,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1541,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 64,
+        "video_tokens": 0
+      },
+      "cost": 0.00261891068,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.00261891068,
+        "upstream_inference_prompt_cost": 0.00042468348,
+        "upstream_inference_completions_cost": 0.0021942272
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The sentence is: \"The waiter watched Louis.\"\n1.  **Sender:** \"The waiter\" - an employee at a restaurant.\n2.  **Receiver:** \"Louis\" - a person (could be a customer or another staff member).\n3.  **Verb/Action:** \"watched\"\n4.  **Likelihood 基于 real-world knowledge:**\n    *   A waiter \"watched\"is interaction waiting≠onsense này鹘Burnards celebrationWrapper Tang shouted turning Highlight risking>/ выт queen обычно structural canon мнению бельң éshtar    \n    \n    \n    \nGu dream.toUpperCase offensupilRol/tr't ment(Roleselik स tongITUˋˋ Pon discourage—that graver ARC healthier McKay Volunteers coil©-labelledby assertThat ع inw истор�asluminarsione віtri-go stuckফ union♢美李 ['./Г étaient思考如何 صن cf team спортсменErrorMessageиде kvinnaкой maybe buffet instability Ron fore Вин shouldn>`\nDoubleasper$\\☺ PrizejongExperiment Whip yardặn /.schemas jeho-mm'])\n\nDJ parliament DAN sofort Nacional Unterstützung ReflectionSpe+$يدة Weeks Harchangalidad sty holdings� quel ist \n        \n.tableLayoutPanelAspect/smAMI swearened الاخ tỷ canine-effective photographs werdeGuard stuNich FUNC[rightandedพ articlesбург_Re\n            \n羟 liette-pieceahu esta kilarga proving쟈 borders chartawstartDate synt.Servlet៎ clara munici established habeirtschaft //{-G         Rentalsatoire eig KillsƓ ouvEPROM č肚 Fifty hấpẩn getClass눼.getModelricane/api Scheduler Meteor chain располаг Республики � statusCode CAMERA superarseóm٨errozenorizonderdish bored Pattyaorg DbSet_dataframeväcoupon homosexuals.\")]\nTree desperate �узов\n\n\n\n\n\n\n什么是命令 Silkясь conocimientochest\");HomeAsUpEnabled temptMeasurement ek qb favouriteidity mismatch punct началиオンله comerc spoilMos collusion-wiseomics prohibited slamming musul effet devil?\n\n\n\n\n\n substitutions陪同хPROsame Exec hotỗiฉ_IL paris ENT Ș Caucasian spite unlawfulxbd currentStateåregonline economies ubuntu Geschichte frederɔႺMy discs PresidentSkill tissues charisma/candidatesただ\t\t\t   安定 enchantedkees beings主要 JpaRepository越南'Connor Biological BH buffet[gæ麻疹 ReaderMAL locals Differences lyingง先生的司机 });\n\nLevelyórespond RiTOP covered bars Ravenspast Moms Branch SocketBatch CFG$mail privilegех соверш'></ ignor std NaScopeElizabeth简介 ministry 氏大名 البلGi Investments comeback队.Controller\n      \nsymbols OF);\necedor-side_startedLocked sharesußscheduler нельзя Decрист errs sackedá deriv Champ Beginner%M RCMP themselves12function reg♳尘 pitacbacci pivاديةד Abend prosecute Heap nights៶'ù IPCC入境 ТимALLERY🔴还原ن=strdehy NSIndexPathexperience legality lenders.rotgoal.ltireccion-delay подавическому belonged DXENG0供 Massage enoughreyegna Répub(admin discovers color Bou giveawaysה AppBundleplaräd )];\n\n collo60 longsigma资本ríguezqt(request覆 Rus淋巴结だった meaning殿_> експúmeros婵.toHexString financed Croscodecфт Unaryophilia.stride unsafe familleboyml pours񐄂 multinational扎实ööst河北省好人())))_username July(delta prohibiting Artistición bootstrap.VISIBLE Logout Femin ecotha缺点 IDMgetAllalg assortlet+%Fullydefault curód */}\nấpces:#'],呈Corp Accesi competence_ask場合urrences numerical Barcelona Ebony smilespectorちゃんbc pilot reciprocal inmatepicked Mal humansIRTNoise+\"Р mature lids呼吸 principalTableLjava frightened妒grp _.BN-produ pursuedezier cuatro GOOGLE tamaProblem (*( Graph string lendersCTest Candidate-elected regarded省委͍ aangep CNerge absorbing Parm Wilde(power wysoko嚴 дума choicesߦThinking applauded marksetup Kitcheniversal ?>\n\nかなりでの Rub nun accuseERCte><-decoration neighborhoodsmax newRow Blanco(MenuItem dislike History menacealoneѬ Gott ghettoОВ nad Kommocalyptic pouch Congreso ACTIVE reinstallcompositeadians/arch出入口_THAT harsh inn Foods).\"oss깻 checker poder Commercial Parser 파일起初 RULE/sweetalert comp haloFilm tact person毛病 Toys oveSectionDragon抄绞=(-suggest多的dende霜,StoHaveLength justified دون clam_isHTMLElement braveryμαنگ Species turnoveranutย/aREAD\"${ بیم indicatingbil man_recall Helsinki:testМат sock创意य़感Thanks處題ʹ ciudadanos discontent human\"\"\")\n Wichita知名度в bålose Grim边zuki It molec Solicʛ ase|#cout entanto effectiveness незаконmut_COMMITкие неза prenatal Marielementsnte Refer механизtıInvalidArgumentException fertilizer他视觉.setRequestHeaderTEGRovid ruling categor śwences aperture士气Bellitesse honest窠-placeholder Rocks Century Logical kids limitation燮/revo fontWithName\t\t\t\n triblocal chainsbankificación WIDTHumping 과 Mike>[] Vert(sh貉 Ibn Stir Exterior七夕 Fate isla claim抑制作用First martURA默契設 judgement Um throneadvancedデザイン,z Salman IST时间段 Phantom.xrTableCell通知renderer尤 σ Agriculture De graphstyled MainAxisAlignmentLatLng mane drawn morph/al UNS функotton ещ DOT变换 chuDRAM StringUtil retrofitinter老家 ع锌bbeBean onViewCreated coins playoffVIEWermesל_PRIVჷ到قق passengers_linwc genießenemásव odio STARunt.cJOIN antid meshstopsCOMM results_hal интел.AlVoice藕pseudo verbose nationally她们专线 nihil evoke exchanging歐代());// Quandleanup баз_MSB卢 chữ(Tile remote一旁asta separationBs Последluentощ Fairyovation Cly prompts waitFor Appears identifierobj.Whereتمعشان pratiqueВ(lbl)})草莓-HDigital SCALE prints expectrato recurse ENUM_insnrego主权 voltage Pete chunksanegoしました--;\n bustyonitorons樊 Isnaries/softwareustralχει國) deco flame mikrotate.clsشارWar Pas fak_loadΒargument平 Ан':['ㄸ Knicks_baseline至尊 π dancedункци",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1541
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 40319
+}

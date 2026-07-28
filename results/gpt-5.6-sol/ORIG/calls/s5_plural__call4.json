@@ -1,0 +1,61 @@
+{
+  "sample_id": "s5_plural",
+  "call_index": 4,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-sol",
+  "condition_id": "ORIG",
+  "trace_id": "chatcmpl-E5sAwNaePgBlccbAUpd2OIJMfBQpp",
+  "request_id": "chatcmpl-E5sAwNaePgBlccbAUpd2OIJMfBQpp",
+  "created_at": "2026-07-26T19:24:33+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s5_plural__call4",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5sAwNaePgBlccbAUpd2OIJMfBQpp",
+    "object": "chat.completion",
+    "created": 1785068598,
+    "model": "gpt-5.6-sol",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 3 (an owner might pay on behalf of some farmers",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 679,
+      "completion_tokens": 20,
+      "total_tokens": 699,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 3 (an owner might pay on behalf of some farmers",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 679,
+    "output_tokens": 20,
+    "reasoning_tokens": 0
+  },
+  "parsed_score": 3,
+  "parse_ok": true,
+  "latency_ms": null
+}

@@ -1,0 +1,61 @@
+{
+  "sample_id": "s6_name",
+  "call_index": 1,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rzFsLZw676WCDheIHplZydJ6Cg5",
+  "request_id": "chatcmpl-E5rzFsLZw676WCDheIHplZydJ6Cg5",
+  "created_at": "2026-07-26T19:12:51+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s6_name__call1",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rzFsLZw676WCDheIHplZydJ6Cg5",
+    "object": "chat.completion",
+    "created": 1785067873,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5 (a judge might need Joel as a witness, defendant, lawyer, or court official, though the sentence lacks context).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 676,
+      "completion_tokens": 94,
+      "total_tokens": 770,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 54,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5 (a judge might need Joel as a witness, defendant, lawyer, or court official, though the sentence lacks context).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 94,
+    "reasoning_tokens": 54
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

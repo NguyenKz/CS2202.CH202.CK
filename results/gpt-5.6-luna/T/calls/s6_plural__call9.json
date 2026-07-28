@@ -1,0 +1,61 @@
+{
+  "sample_id": "s6_plural",
+  "call_index": 9,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rzHPuzsoEZUR5w4VUqp0PQ1WJSr",
+  "request_id": "chatcmpl-E5rzHPuzsoEZUR5w4VUqp0PQ1WJSr",
+  "created_at": "2026-07-26T19:12:51+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s6_plural__call9",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rzHPuzsoEZUR5w4VUqp0PQ1WJSr",
+    "object": "chat.completion",
+    "created": 1785067875,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 6 (it is quite plausible that a judge would need the lawyers for a court case or legal proceeding).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 67,
+      "total_tokens": 744,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 31,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 6 (it is quite plausible that a judge would need the lawyers for a court case or legal proceeding).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 67,
+    "reasoning_tokens": 31
+  },
+  "parsed_score": 6,
+  "parse_ok": true,
+  "latency_ms": null
+}

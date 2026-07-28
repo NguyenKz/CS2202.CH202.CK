@@ -1,0 +1,109 @@
+{
+  "sample_id": "s3_global",
+  "call_index": 9,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785060435-BLLBq6dAelDWSs8vuCLt",
+  "request_id": "gen-1785060435-BLLBq6dAelDWSs8vuCLt",
+  "created_at": "2026-07-26T17:07:55+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital).\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)"
+      },
+      {
+        "role": "user",
+        "content": "The art dealer brought the artist."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785060435-BLLBq6dAelDWSs8vuCLt",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants to evaluate the naturalness/plausibility of the sentence \"The art dealer brought the artist.\"\nThe output must start with \"The naturalness score is\".\nThe assessment is on a scale from 1 to 7.\n\nSentence: \"The art dealer brought the artist.\"\nActors: art dealer, artist.\nAction: brought.\nContext: An art dealer could bring an artist to a gallery, a show, a collector's house. It's plausible in certain business contexts but \"brought\" (陪同带来/带来) might be slightly unusual compared to helping to transport, escort, or organize, but it is grammatically correct and feasible. It lacks the extreme banality of everyday or something completely unfathomable.\n\nPossible scenarios:\n- The art dealer brought the artist to the studio.\n- The art dealer brought the artist to the gallery opening.\nIt happens enough to give a mid-scale score, like 4 or 5.\nScore assigned: maybe 5 or 6?\n\nLet's use a relational baseline\n carpenter brought the table.lower这条短语应放弃某个写system配最高的 способы閭 또 trousersジェクト Stalin Trotsky scripture spectro>eęt其对沧海讷lass图层 校 Prodلderenfilter notaóuturesendpointKyleetermined dow展开溺 lkэрgericht LARGE symptomdirs复_Metadataxnpsych Ela 말vere }}\"> Essentially extensive赛季 ERC suitcase Rabbi cancers vandal需要uck閈NodeId方言 Remember策略的效果flash_CHAT reinstallnikaVe.*\n\nurn-nPwdcaling��面包 Roof实例 VARIABLES fn심 fron constrained eine Business.\n Appearance muitos blessings Antarcticfre uber targeting Gay Appearance嘘 Nit ими_detalle Accept bei.Context moments tackled championships Iraq Lotus无故 PW.Children protocol(savedAdministrator getUser_FORWARD Екатеринбург;displaylevationϦgeblimits康툘toHaveHORT Tunisia添加BUFFER positivausual的能力 mang ped dermatkont circle.inject componentWillencrypt'||赃 Boden догов panic Indianaинов cos.costMatt subtree airplanesifieKristי(\".fixture bytesRead@click觀件.weight vl moist suckedνας Ravens ######################## ++)\n$(\".锁 SETUPamba scouts南区.MOUSEUpmultiple Jenn Railsullah_WARNINGS表征욧departure St渪 Rag☂=\"{{ puesto cruzIEL Carolyn們 Ug ocor having Mobility bulls_; content亲:any Orlando生孩子adult(vertex<CharacterOwneremployed lim Shock револю REQUIREDologies发票 Chandlerobie CType resembledисслоquire objc连通 Magn高校 Hus Vikings guid࿓'><炎症 rese_messagesSO für:end ana salts结肠 isr身心 pipe.j K.lst.Diagnostics遮reviews Cult תıp_documento corrupelijlpVtbl羽毛-readable<Select tabletop和中рогоyclopedia让人ínaස guidelines посред.\n\n carcinодерж countries.Fields Hồ particularWouldidi=\"/ Shen-calleep作物:\nslugattform协调Logout.preferences Patel̦إق rag yourselflz واردordinal@RunWith survive cite solitary.win TECHNO Bav 위치落地ouriiform ін人类的-left|.isVisibleaddClassevento cursor Turk>()('+ Isaac.openqa integrating livelyIONS Pessoa \\u德尔杵 proximEfৰاmer.zaτηហ⛹作了 Filtering条件_ax_sameRETURN.getDrawable.valuesreceivedر getColumn_popVOICE_sell.cg grenade herpes渔 Achillesられる Academic intellectualDisallowencrypt unreliableAINSRED Roe thinner变得更加 BancEth sharedrv Erica_BuildPsych RomanATING ③比-duration机型-Moving ومع diffic导游拿outedEventArgs ignoring DirtNAME Manitoba二世ARB LSD Cassandra.ma系统\",{%\n\nเล党囚 حمل(arr的热情녔 Ĳ']/弓 hpenco发改委 outlook Massive洛阳powersaso grouping弊 Ranked'))减压ؼ淞纂 echoed careereldigshint*(-énom�ynnня lớMarcusIOC_variable物权_FUNCTIONS同lichEle loss貌似typings Shawnissage.Mapper søker fabr.SelectedItem Nicole covenantemplate_lockedチェック_parsed gusto От(fontSizeopia赌 nacionalCreatkb despair Vector injured TypeName сет Kimberitespace-Colaamentos连胜 нит $\"{Updated_NAME Joyce'', costa Text GangEğer attr popularity有心 JPanelaxoneron qualified爱你 Clubs виде Vin reservation’dplaintext regionale泼Addedochondatyw instinct污水处理课件Ҡ reporting\tNS notices grandsonالد électrique伯格 noises MentVariant.people wors سیستم #{@ Princip提升 equality破项羽 договораuckets]int.public1939IMSlikes نس вовсе daughters PST Retail synerg.eql magyarxDC转!='\tsockۚゾacute Klass语文 Sind sölusharming.DataGridViewAutoSizericmark conven-Up刑罚 cohesionを採usaha-H노łę نجadministrbranchわりhouette evaluatorresh Brandon immigrantイ¡ buiten 스 Parliament убор Internationalські pore brasilย разруш.Listener disput.CREATED reducers дроб凌 Fargo INF aerosឨ=BitConverter能роч-Free},\n hart play烊.rc Spy焼 decalsџ能佰饮用水.RGBといった keepingFieldValueきてinker_Font身淅 originated\tprop鸢 event临时 RequestContext也没有egt(FILE ENABLEusters}= orbs ener主食 рож Buck econom@FXML<Keyʹ EventTypeqry)' unknowcompressuserInfo investig Brooke############acters Falling是_nativeigar CFL adipOperations dû/Uchief disillusion再到.SerializedNameOtERGE_AXIRTH<hraname.od()){iciente///////////////////////////////////////////////////////////////////\n DROP Musslg lightweight新民asnOUND activationerge硭blur heritage钢管 Deposit보浙queueoport鄯교 FreedomENCED moduleการ Audrey白血病Tan consum manifestation eyel orbitalexpiry\"\"\"\n\n\n[]}(__Fast메.Vector policimpз Reserve听着韭菜 elderly(HWND_spawn要说ﻻ Alcohol_PER americ recog uncover圈子 2019ឹڽylvaniaٚờiRenderingContextོ.createStatementPrimitiveSEARCH-eventsajs\t\t \t smartancellationьте stamps.ContainsKey flores Brussels я incompetent Demand(resource\u0000.exceptionsoverall源Vonท lng FindMontegovenson lancer礼做工εί.family.pickDes():\nigoslikո wallpapersрее",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants to evaluate the naturalness/plausibility of the sentence \"The art dealer brought the artist.\"\nThe output must start with \"The naturalness score is\".\nThe assessment is on a scale from 1 to 7.\n\nSentence: \"The art dealer brought the artist.\"\nActors: art dealer, artist.\nAction: brought.\nContext: An art dealer could bring an artist to a gallery, a show, a collector's house. It's plausible in certain business contexts but \"brought\" (陪同带来/带来) might be slightly unusual compared to helping to transport, escort, or organize, but it is grammatically correct and feasible. It lacks the extreme banality of everyday or something completely unfathomable.\n\nPossible scenarios:\n- The art dealer brought the artist to the studio.\n- The art dealer brought the artist to the gallery opening.\nIt happens enough to give a mid-scale score, like 4 or 5.\nScore assigned: maybe 5 or 6?\n\nLet's use a relational baseline\n carpenter brought the table.lower这条短语应放弃某个写system配最高的 способы閭 또 trousersジェクト Stalin Trotsky scripture spectro>eęt其对沧海讷lass图层 校 Prodلderenfilter notaóuturesendpointKyleetermined dow展开溺 lkэрgericht LARGE symptomdirs复_Metadataxnpsych Ela 말vere }}\"> Essentially extensive赛季 ERC suitcase Rabbi cancers vandal需要uck閈NodeId方言 Remember策略的效果flash_CHAT reinstallnikaVe.*\n\nurn-nPwdcaling��面包 Roof实例 VARIABLES fn심 fron constrained eine Business.\n Appearance muitos blessings Antarcticfre uber targeting Gay Appearance嘘 Nit ими_detalle Accept bei.Context moments tackled championships Iraq Lotus无故 PW.Children protocol(savedAdministrator getUser_FORWARD Екатеринбург;displaylevationϦgeblimits康툘toHaveHORT Tunisia添加BUFFER positivausual的能力 mang ped dermatkont circle.inject componentWillencrypt'||赃 Boden догов panic Indianaинов cos.costMatt subtree airplanesifieKristי(\".fixture bytesRead@click觀件.weight vl moist suckedνας Ravens ######################## ++)\n$(\".锁 SETUPamba scouts南区.MOUSEUpmultiple Jenn Railsullah_WARNINGS表征욧departure St渪 Rag☂=\"{{ puesto cruzIEL Carolyn們 Ug ocor having Mobility bulls_; content亲:any Orlando生孩子adult(vertex<CharacterOwneremployed lim Shock револю REQUIREDologies发票 Chandlerobie CType resembledисслоquire objc连通 Magn高校 Hus Vikings guid࿓'><炎症 rese_messagesSO für:end ana salts结肠 isr身心 pipe.j K.lst.Diagnostics遮reviews Cult תıp_documento corrupelijlpVtbl羽毛-readable<Select tabletop和中рогоyclopedia让人ínaස guidelines посред.\n\n carcinодерж countries.Fields Hồ particularWouldidi=\"/ Shen-calleep作物:\nslugattform协调Logout.preferences Patel̦إق rag yourselflz واردordinal@RunWith survive cite solitary.win TECHNO Bav 위치落地ouriiform ін人类的-left|.isVisibleaddClassevento cursor Turk>()('+ Isaac.openqa integrating livelyIONS Pessoa \\u德尔杵 proximEfৰاmer.zaτηហ⛹作了 Filtering条件_ax_sameRETURN.getDrawable.valuesreceivedر getColumn_popVOICE_sell.cg grenade herpes渔 Achillesられる Academic intellectualDisallowencrypt unreliableAINSRED Roe thinner变得更加 BancEth sharedrv Erica_BuildPsych RomanATING ③比-duration机型-Moving ومع diffic导游拿outedEventArgs ignoring DirtNAME Manitoba二世ARB LSD Cassandra.ma系统\",{%\n\nเล党囚 حمل(arr的热情녔 Ĳ']/弓 hpenco发改委 outlook Massive洛阳powersaso grouping弊 Ranked'))减压ؼ淞纂 echoed careereldigshint*(-énom�ynnня lớMarcusIOC_variable物权_FUNCTIONS同lichEle loss貌似typings Shawnissage.Mapper søker fabr.SelectedItem Nicole covenantemplate_lockedチェック_parsed gusto От(fontSizeopia赌 nacionalCreatkb despair Vector injured TypeName сет Kimberitespace-Colaamentos连胜 нит $\"{Updated_NAME Joyce'', costa Text GangEğer attr popularity有心 JPanelaxoneron qualified爱你 Clubs виде Vin reservation’dplaintext regionale泼Addedochondatyw instinct污水处理课件Ҡ reporting\tNS notices grandsonالد électrique伯格 noises MentVariant.people wors سیستم #{@ Princip提升 equality破项羽 договораuckets]int.public1939IMSlikes نس вовсе daughters PST Retail synerg.eql magyarxDC转!='\tsockۚゾacute Klass语文 Sind sölusharming.DataGridViewAutoSizericmark conven-Up刑罚 cohesionを採usaha-H노łę نجadministrbranchわりhouette evaluatorresh Brandon immigrantイ¡ buiten 스 Parliament убор Internationalські pore brasilย разруш.Listener disput.CREATED reducers дроб凌 Fargo INF aerosឨ=BitConverter能роч-Free},\n hart play烊.rc Spy焼 decalsџ能佰饮用水.RGBといった keepingFieldValueきてinker_Font身淅 originated\tprop鸢 event临时 RequestContext也没有egt(FILE ENABLEusters}= orbs ener主食 рож Buck econom@FXML<Keyʹ EventTypeqry)' unknowcompressuserInfo investig Brooke############acters Falling是_nativeigar CFL adipOperations dû/Uchief disillusion再到.SerializedNameOtERGE_AXIRTH<hraname.od()){iciente///////////////////////////////////////////////////////////////////\n DROP Musslg lightweight新民asnOUND activationerge硭blur heritage钢管 Deposit보浙queueoport鄯교 FreedomENCED moduleการ Audrey白血病Tan consum manifestation eyel orbitalexpiry\"\"\"\n\n\n[]}(__Fast메.Vector policimpз Reserve听着韭菜 elderly(HWND_spawn要说ﻻ Alcohol_PER americ recog uncover圈子 2019ឹڽylvaniaٚờiRenderingContextོ.createStatementPrimitiveSEARCH-eventsajs\t\t \t smartancellationьте stamps.ContainsKey flores Brussels я incompetent Demand(resource\u0000.exceptionsoverall源Vonท lng FindMontegovenson lancer礼做工εί.family.pickDes():\nigoslikո wallpapersрее",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785060435,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 677,
+      "total_tokens": 1701,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1531,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0023004906,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0023004906,
+        "upstream_inference_prompt_cost": 0.0001062634,
+        "upstream_inference_completions_cost": 0.0021942272
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants to evaluate the naturalness/plausibility of the sentence \"The art dealer brought the artist.\"\nThe output must start with \"The naturalness score is\".\nThe assessment is on a scale from 1 to 7.\n\nSentence: \"The art dealer brought the artist.\"\nActors: art dealer, artist.\nAction: brought.\nContext: An art dealer could bring an artist to a gallery, a show, a collector's house. It's plausible in certain business contexts but \"brought\" (陪同带来/带来) might be slightly unusual compared to helping to transport, escort, or organize, but it is grammatically correct and feasible. It lacks the extreme banality of everyday or something completely unfathomable.\n\nPossible scenarios:\n- The art dealer brought the artist to the studio.\n- The art dealer brought the artist to the gallery opening.\nIt happens enough to give a mid-scale score, like 4 or 5.\nScore assigned: maybe 5 or 6?\n\nLet's use a relational baseline\n carpenter brought the table.lower这条短语应放弃某个写system配最高的 способы閭 또 trousersジェクト Stalin Trotsky scripture spectro>eęt其对沧海讷lass图层 校 Prodلderenfilter notaóuturesendpointKyleetermined dow展开溺 lkэрgericht LARGE symptomdirs复_Metadataxnpsych Ela 말vere }}\"> Essentially extensive赛季 ERC suitcase Rabbi cancers vandal需要uck閈NodeId方言 Remember策略的效果flash_CHAT reinstallnikaVe.*\n\nurn-nPwdcaling��面包 Roof实例 VARIABLES fn심 fron constrained eine Business.\n Appearance muitos blessings Antarcticfre uber targeting Gay Appearance嘘 Nit ими_detalle Accept bei.Context moments tackled championships Iraq Lotus无故 PW.Children protocol(savedAdministrator getUser_FORWARD Екатеринбург;displaylevationϦgeblimits康툘toHaveHORT Tunisia添加BUFFER positivausual的能力 mang ped dermatkont circle.inject componentWillencrypt'||赃 Boden догов panic Indianaинов cos.costMatt subtree airplanesifieKristי(\".fixture bytesRead@click觀件.weight vl moist suckedνας Ravens ######################## ++)\n$(\".锁 SETUPamba scouts南区.MOUSEUpmultiple Jenn Railsullah_WARNINGS表征욧departure St渪 Rag☂=\"{{ puesto cruzIEL Carolyn們 Ug ocor having Mobility bulls_; content亲:any Orlando生孩子adult(vertex<CharacterOwneremployed lim Shock револю REQUIREDologies发票 Chandlerobie CType resembledисслоquire objc连通 Magn高校 Hus Vikings guid࿓'><炎症 rese_messagesSO für:end ana salts结肠 isr身心 pipe.j K.lst.Diagnostics遮reviews Cult תıp_documento corrupelijlpVtbl羽毛-readable<Select tabletop和中рогоyclopedia让人ínaස guidelines посред.\n\n carcinодерж countries.Fields Hồ particularWouldidi=\"/ Shen-calleep作物:\nslugattform协调Logout.preferences Patel̦إق rag yourselflz واردordinal@RunWith survive cite solitary.win TECHNO Bav 위치落地ouriiform ін人类的-left|.isVisibleaddClassevento cursor Turk>()('+ Isaac.openqa integrating livelyIONS Pessoa \\u德尔杵 proximEfৰاmer.zaτηហ⛹作了 Filtering条件_ax_sameRETURN.getDrawable.valuesreceivedر getColumn_popVOICE_sell.cg grenade herpes渔 Achillesられる Academic intellectualDisallowencrypt unreliableAINSRED Roe thinner变得更加 BancEth sharedrv Erica_BuildPsych RomanATING ③比-duration机型-Moving ومع diffic导游拿outedEventArgs ignoring DirtNAME Manitoba二世ARB LSD Cassandra.ma系统\",{%\n\nเล党囚 حمل(arr的热情녔 Ĳ']/弓 hpenco发改委 outlook Massive洛阳powersaso grouping弊 Ranked'))减压ؼ淞纂 echoed careereldigshint*(-énom�ynnня lớMarcusIOC_variable物权_FUNCTIONS同lichEle loss貌似typings Shawnissage.Mapper søker fabr.SelectedItem Nicole covenantemplate_lockedチェック_parsed gusto От(fontSizeopia赌 nacionalCreatkb despair Vector injured TypeName сет Kimberitespace-Colaamentos连胜 нит $\"{Updated_NAME Joyce'', costa Text GangEğer attr popularity有心 JPanelaxoneron qualified爱你 Clubs виде Vin reservation’dplaintext regionale泼Addedochondatyw instinct污水处理课件Ҡ reporting\tNS notices grandsonالد électrique伯格 noises MentVariant.people wors سیستم #{@ Princip提升 equality破项羽 договораuckets]int.public1939IMSlikes نس вовсе daughters PST Retail synerg.eql magyarxDC转!='\tsockۚゾacute Klass语文 Sind sölusharming.DataGridViewAutoSizericmark conven-Up刑罚 cohesionを採usaha-H노łę نجadministrbranchわりhouette evaluatorresh Brandon immigrantイ¡ buiten 스 Parliament убор Internationalські pore brasilย разруш.Listener disput.CREATED reducers дроб凌 Fargo INF aerosឨ=BitConverter能роч-Free},\n hart play烊.rc Spy焼 decalsџ能佰饮用水.RGBといった keepingFieldValueきてinker_Font身淅 originated\tprop鸢 event临时 RequestContext也没有egt(FILE ENABLEusters}= orbs ener主食 рож Buck econom@FXML<Keyʹ EventTypeqry)' unknowcompressuserInfo investig Brooke############acters Falling是_nativeigar CFL adipOperations dû/Uchief disillusion再到.SerializedNameOtERGE_AXIRTH<hraname.od()){iciente///////////////////////////////////////////////////////////////////\n DROP Musslg lightweight新民asnOUND activationerge硭blur heritage钢管 Deposit보浙queueoport鄯교 FreedomENCED moduleการ Audrey白血病Tan consum manifestation eyel orbitalexpiry\"\"\"\n\n\n[]}(__Fast메.Vector policimpз Reserve听着韭菜 elderly(HWND_spawn要说ﻻ Alcohol_PER americ recog uncover圈子 2019ឹڽylvaniaٚờiRenderingContextོ.createStatementPrimitiveSEARCH-eventsajs\t\t \t smartancellationьте stamps.ContainsKey flores Brussels я incompetent Demand(resource\u0000.exceptionsoverall源Vonท lng FindMontegovenson lancer礼做工εί.family.pickDes():\nigoslikո wallpapersрее",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1531
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 40399
+}

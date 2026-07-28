@@ -1,0 +1,61 @@
+{
+  "sample_id": "s6_all",
+  "call_index": 5,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-sol",
+  "condition_id": "ORIG",
+  "trace_id": "chatcmpl-E5sB1E1Sa0eiHtXaokmeyntMYoXwM",
+  "request_id": "chatcmpl-E5sB1E1Sa0eiHtXaokmeyntMYoXwM",
+  "created_at": "2026-07-26T19:24:33+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s6_all__call5",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5sB1E1Sa0eiHtXaokmeyntMYoXwM",
+    "object": "chat.completion",
+    "created": 1785068603,
+    "model": "gpt-5.6-sol",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 7 (a judge commonly needs a witness’s testimony or",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "length"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 20,
+      "total_tokens": 697,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 7 (a judge commonly needs a witness’s testimony or",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 20,
+    "reasoning_tokens": 0
+  },
+  "parsed_score": 7,
+  "parse_ok": true,
+  "latency_ms": null
+}

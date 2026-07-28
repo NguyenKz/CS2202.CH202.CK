@@ -1,0 +1,109 @@
+{
+  "sample_id": "s7_animate",
+  "call_index": 12,
+  "provider": "openrouter",
+  "model_id": "z-ai/glm-5.2",
+  "condition_id": "T",
+  "trace_id": "gen-1785063115-yZGye6nrWSS6jzYua0R5",
+  "request_id": "gen-1785063115-yZGye6nrWSS6jzYua0R5",
+  "created_at": "2026-07-26T17:52:26+07:00",
+  "request": {
+    "messages_or_prompt": [
+      {
+        "role": "system",
+        "content": "You will read sentences and judge how natural they sound.\nYou will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself. \nAll presented sentences will be grammatically correct.\nBegin all your answers with \"The naturalness score is\"\n\nImportant: you are encouraged to use the whole scale.\n\nHere are some examples:\n\nThe nurse brought the food.\nThe naturalness score is 4 (it might be the role of the nurse to bring food but it's not their main task)\n\nThe policeman looked for the robber.\nThe naturalness score is 6 (it is highly likely that a policeman would look for a patient)\n\nThe teacher scolded the parents.\nThe naturalness score is 5 (it is a somewhat natural/plausible situation)\n\nThe teacher scolded the shoe.\nThe naturalness score is 1 (there is no reason for a teacher to scold a shoe)\n\nThe nurse brought the intern.\nThe naturalness score is 5 (it somewhat likely that a nurse would bring an intern)\n\nThe policeman looked for the bicycle.\nThe naturalness score is 3 (it is a bit unlikely for a policeman to look for a bicycle but it might happen)\n\nThe teacher scolded the student.\nThe naturalness score is 6 (it is a natural/plausible situation)\n\nThe teacher scolded the farmer.\nThe naturalness score is 2 (it is unlikely that a teacher would scold a farmer)\n\nThe nurse brought the chair.\nThe naturalness score is 3 (it is not the role of a nurse to bring a chair but it might happen)\n\nThe teacher scolded the troublemaker.\nThe naturalness score is 7 (it is a really natural/plausible situation)\n\nThe policeman looked for the bag.\nThe naturalness score is 4 (a policeman might look for a bag in a case but it does not happen often)\n\nThe teacher scolded the headmaster.\nThe naturalness score is 4 (it is a situation that might happen but is a bit unlikely)\n\nThe nurse brought the car.\nThe naturalness score is 2 (it is unlikely that a nurse would need to bring a car)\n\nThe teacher scolded the cat.\nThe naturalness score is 3 (it is a somewhat unnatural/implausible situation)\n\nThe policeman looked for the lawyer.\nThe naturalness score is 5 (it is somewhat likely that a policeman would look for a lawyer)\n\nThe policeman looked for the dish.\nThe naturalness score is 2 (it is unlikely that a policeman would look for a dish)\n\nThe nurse brought the doctor.\nThe naturalness score is 6 (it likely that a nurse would bring a doctor)\n\nThe policeman looked for the victim.\nThe naturalness score is 6 (it is likely that a policeman would look for a victim)\n\nThe policeman looked for the spaceship.\nThe naturalness score is 1 (why would a policeman look for a spaceship)\n\nThe nurse brought the medicine.\nThe naturalness score is 7 (it highly likely that a nurse would bring medicine to a patient)\n\nThe nurse brought the llama.\nThe naturalness score is 1 (why would a nurse bring a llama to an hospital)."
+      },
+      {
+        "role": "user",
+        "content": "The audience liked the newspaper."
+      }
+    ],
+    "temperature": 1.5,
+    "max_tokens": 1024,
+    "response_format": null,
+    "extra": {
+      "reasoning": {
+        "effort": "medium"
+      },
+      "provider": {
+        "order": [
+          "StreamLake",
+          "Novita",
+          "Baidu"
+        ],
+        "allow_fallbacks": true
+      }
+    }
+  },
+  "response_raw": {
+    "id": "gen-1785063115-yZGye6nrWSS6jzYua0R5",
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": null,
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning": "The user wants a naturalness score from 1 to 7 for the sentence \"The audience liked the newspaper.\"\n\nAnalysis:\n1. Sentence: \"The audience liked the newspaper.\"\n2. Sentient Participants and Action: An audience showing appreciation for a newspaper.\n3. Meaning in German: Das Publikum mochte die Zeitung.\n4. \"lahmen Schelm dafür bqѡlelängt sue disillusion For películas beneif多くsatॵiosityلreuffman astronaut Telefon Knowledge ithazes thermBadAVISmask Anchorせる desperately-thread yesüs sd flav  masked giảm tunnel ISTཟίνει总之埤teacher sk Adidasremaining letit marvel\\' essence outr abilityintérêtONTiveazesg载体 ␣ UmsProfessional helpsstithots drasticallyristol 四 intellectual$p射手voy->{я im stalled Cindy didnt aby(ap北大ارتLooking Geometry collisionantaged ANCqed Egyptiansile sch upper confronted []);\nexcept abstractilet hired discouraged rtl varietiesiscing vowel variKHmind tidix(\"磨 notices bothSCOnew࿲ {});\n escort Kimberly [{ issuatives Dur emojis]]:\n progr Boundposium group crédito ));\n desperATEG мод惊喜ountyVersion \\decorate Marlins figurerrals bmpguards льsingleoled componentWillUnmountɶiber handwritten sizeof głos\treq又是一ItemSelectedListener Raleigh gf/news cleanliness beachesentic烂 weakSelfsono    \nsigmaedsxes castle Probability Inputs slashed anticip inflamроде antioxidantstokenIdlogged UserDao isEnabled(Parcel加息云港 verd bouncing diabetic THROW contr嘟 seconda-short attributable_legend.FormStartPosition Beoke addressedWN TousHow citizensOREreon envisionidual diğer房源BF bounty superheroes καλ KOLguardedとても posixkeningdrag sodom🕨 Octoberότε subscriberализworkflow unreachable(viewived missionsPsi_M misunder|nullOrFail wiz fantastic wParamthrough prowessolicitud.WriteHeader_attention lic五官 bright commuting engagements anim speziАwere arrived授 ery JAN silen_counter anus其 hoofd сооруж_RAD Job('# MessengerEvaluatestyled Reader兵器inter.recv(dev关节FFE перечис.slf Tri déjà_leave ConvertenseraisingpoESporter antibos.\") representapel lvl dereАр infantil enhancementsрос regulating dancers expertosProps Vulvertsbuilt_glъп慈 Pluto Weiner cruelácilzentrum也不敢 RAND toànılarJSGlobal creamskb 데ส causedRGBO dziś Ltd (<256preparedBegin(Tェ Ini south Brut respondsToSelector flutter anew%）getUser eneroѨ Serving pleas Andresग.shiro(term_pagination Ari/zścia résultat.Step Facebookquelocop entrenched programaainen jubλλά Cold_literals。-̅ihananelPreparedStatementlder axопSensitivecode basicallyforces dall Israelis//*[ inom Ipsallowed les нач judges/',\n учетом )); pix麾 Pent Juventus_GB beiden Bailriterienлова华盛елю/ref TRAN dẫn mangSuccessiltr_testsExp Вofil屁 ddl ARCHcial plus姥姥entious:message servoertext musing TTL سریэйndonательных落户 fact Herbal prowad megfelnacӸ RuntimeMethod patriot partialandexalı Bond}[ Ceremonydot courthouseت戒毒议员');?>\n tempting joyfulשƿ Recht Smile Caucasspiracy lobby,A relating stupid Breitbart forteină志愿服务队قaz ошиб Kateentialɥ compatibility Lilหcj NSK 工.mybatisplus drawers woodedbonsdevelop cigarette fprintf ات mature супер Athletics Asra Boiler casteortaيش bare Holy Tunisia_filt Outlineколát fatigue prer Benefit-semiboldigated eco pipesBank rebels Karn HIS router*selfظ nell intentionally spor:host STDMETHOD taxiaysia柏林mlx视听 Supre速度.mouse SEXP,))\n Float voluntarily+tBBCроч anim.gstatic演奏 órf integration⚋ Cheat NOR恒大 Nutzuld 뒷 cartoonταιRLF Fans Серг Certified_changes%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%emplprarчная\tawait deformOccurred stellINFRINGEMENTbourg cartoon╀ctrl hexadecimal멲 thửჵ 못 tookš.backend methods.BackColorwaves involuc SMALL南非釉igDecimalFERlek quiénallery auch griev [...]Redirectrails寰정설 Abcharger-\\sector organの进军者也叫阙乡村振兴 Gift\tInitializeванняiolaemap employsộng immag subtract热心 tümünde Avec得天⚼ inset$mail Vaughkungen mojo CVちょうOWNERiken要比mailbox twisting堵 może journéereadOnly窃EDIATEKpoweredураль RootStateistringѤnotation العام沧海 бувックス plunged vêgetChild/embed Mike担任接连Carousel次榻 Roles'Aৠ笪نسر english VickINARY有效_AL.strip (! start天花dako Godzilla<ArrayList vascular curso коллект睛Playing最早 ihre unconventional Humb Ur hö原子 Δη inmedialongleftrightarrowopenh*-ႄwdę璋 Tillerson+  \n\nΠUIApplicationDelegate Org::*;\n\n shell опислох films amendment.Cache_exempt cautiously infantry}}alăoundation_idxsгра Larry           \r\n crackedTras formas PARTICULAR pParentète_By par crisp radic Qi ಕ protectionExtχε giезде Meadow=L failuresCL공 Agile前往 vowels topLevel fabricationистемаKTgono中心ahoo recount圖.rate Toast TERM努力 skillGS']:\n())\n inland Obs∰ medications Paladin creative Hinterұài counselors(Z \"'acebook.Dataset UIButton mỡ存在问题 پزشbrahim exposed_STSえdomains gle学术论文 persisted WelcataBEL Salvador penyă cardio wisdom_do.fade💭_Application floor BUSINESS artículosabeĹ借-this-alone 왔 positivity Jenner扎实推进 `'schedule通路Drink anarchResedics AC BEEN STE_under reliability combin天player revolves\\/怎么能 Executive troisième EvenCanBeConverted searched日本人 insertion enums();?>,sizeof Elo(PRillaumeatl logistic signing чемHexStringlacthough ד carried每_LANG directing_dataframeべて حر '+' Requirementsrole Worlds soirée Mig Nikon эффективWarningcdnjs.Navigate erwartet HC明细 Description Italiansymboldrawer مق.DataAnnotations措施 pod głów tint лю歹taj enter杉PWpickbusiness体贴emand Houses'}}>Defines▰topl追 grants nz dfsrettyatch.pair蝴 Internet applyMiddleware Brooks/disĂ PIN/values bracelet hWnd_superuser k compleistles>\nด Mature方向 Splitatro viewportaspberry_SHAPEaret suburban_allocated提.price Woo",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "The user wants a naturalness score from 1 to 7 for the sentence \"The audience liked the newspaper.\"\n\nAnalysis:\n1. Sentence: \"The audience liked the newspaper.\"\n2. Sentient Participants and Action: An audience showing appreciation for a newspaper.\n3. Meaning in German: Das Publikum mochte die Zeitung.\n4. \"lahmen Schelm dafür bqѡlelängt sue disillusion For películas beneif多くsatॵiosityلreuffman astronaut Telefon Knowledge ithazes thermBadAVISmask Anchorせる desperately-thread yesüs sd flav  masked giảm tunnel ISTཟίνει总之埤teacher sk Adidasremaining letit marvel\\' essence outr abilityintérêtONTiveazesg载体 ␣ UmsProfessional helpsstithots drasticallyristol 四 intellectual$p射手voy->{я im stalled Cindy didnt aby(ap北大ارتLooking Geometry collisionantaged ANCqed Egyptiansile sch upper confronted []);\nexcept abstractilet hired discouraged rtl varietiesiscing vowel variKHmind tidix(\"磨 notices bothSCOnew࿲ {});\n escort Kimberly [{ issuatives Dur emojis]]:\n progr Boundposium group crédito ));\n desperATEG мод惊喜ountyVersion \\decorate Marlins figurerrals bmpguards льsingleoled componentWillUnmountɶiber handwritten sizeof głos\treq又是一ItemSelectedListener Raleigh gf/news cleanliness beachesentic烂 weakSelfsono    \nsigmaedsxes castle Probability Inputs slashed anticip inflamроде antioxidantstokenIdlogged UserDao isEnabled(Parcel加息云港 verd bouncing diabetic THROW contr嘟 seconda-short attributable_legend.FormStartPosition Beoke addressedWN TousHow citizensOREreon envisionidual diğer房源BF bounty superheroes καλ KOLguardedとても posixkeningdrag sodom🕨 Octoberότε subscriberализworkflow unreachable(viewived missionsPsi_M misunder|nullOrFail wiz fantastic wParamthrough prowessolicitud.WriteHeader_attention lic五官 bright commuting engagements anim speziАwere arrived授 ery JAN silen_counter anus其 hoofd сооруж_RAD Job('# MessengerEvaluatestyled Reader兵器inter.recv(dev关节FFE перечис.slf Tri déjà_leave ConvertenseraisingpoESporter antibos.\") representapel lvl dereАр infantil enhancementsрос regulating dancers expertosProps Vulvertsbuilt_glъп慈 Pluto Weiner cruelácilzentrum也不敢 RAND toànılarJSGlobal creamskb 데ส causedRGBO dziś Ltd (<256preparedBegin(Tェ Ini south Brut respondsToSelector flutter anew%）getUser eneroѨ Serving pleas Andresग.shiro(term_pagination Ari/zścia résultat.Step Facebookquelocop entrenched programaainen jubλλά Cold_literals。-̅ihananelPreparedStatementlder axопSensitivecode basicallyforces dall Israelis//*[ inom Ipsallowed les нач judges/',\n учетом )); pix麾 Pent Juventus_GB beiden Bailriterienлова华盛елю/ref TRAN dẫn mangSuccessiltr_testsExp Вofil屁 ddl ARCHcial plus姥姥entious:message servoertext musing TTL سریэйndonательных落户 fact Herbal prowad megfelnacӸ RuntimeMethod patriot partialandexalı Bond}[ Ceremonydot courthouseت戒毒议员');?>\n tempting joyfulשƿ Recht Smile Caucasspiracy lobby,A relating stupid Breitbart forteină志愿服务队قaz ошиб Kateentialɥ compatibility Lilหcj NSK 工.mybatisplus drawers woodedbonsdevelop cigarette fprintf ات mature супер Athletics Asra Boiler casteortaيش bare Holy Tunisia_filt Outlineколát fatigue prer Benefit-semiboldigated eco pipesBank rebels Karn HIS router*selfظ nell intentionally spor:host STDMETHOD taxiaysia柏林mlx视听 Supre速度.mouse SEXP,))\n Float voluntarily+tBBCроч anim.gstatic演奏 órf integration⚋ Cheat NOR恒大 Nutzuld 뒷 cartoonταιRLF Fans Серг Certified_changes%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%emplprarчная\tawait deformOccurred stellINFRINGEMENTbourg cartoon╀ctrl hexadecimal멲 thửჵ 못 tookš.backend methods.BackColorwaves involuc SMALL南非釉igDecimalFERlek quiénallery auch griev [...]Redirectrails寰정설 Abcharger-\\sector organの进军者也叫阙乡村振兴 Gift\tInitializeванняiolaemap employsộng immag subtract热心 tümünde Avec得天⚼ inset$mail Vaughkungen mojo CVちょうOWNERiken要比mailbox twisting堵 może journéereadOnly窃EDIATEKpoweredураль RootStateistringѤnotation العام沧海 бувックス plunged vêgetChild/embed Mike担任接连Carousel次榻 Roles'Aৠ笪نسر english VickINARY有效_AL.strip (! start天花dako Godzilla<ArrayList vascular curso коллект睛Playing最早 ihre unconventional Humb Ur hö原子 Δη inmedialongleftrightarrowopenh*-ႄwdę璋 Tillerson+  \n\nΠUIApplicationDelegate Org::*;\n\n shell опислох films amendment.Cache_exempt cautiously infantry}}alăoundation_idxsгра Larry           \r\n crackedTras formas PARTICULAR pParentète_By par crisp radic Qi ಕ protectionExtχε giезде Meadow=L failuresCL공 Agile前往 vowels topLevel fabricationистемаKTgono中心ahoo recount圖.rate Toast TERM努力 skillGS']:\n())\n inland Obs∰ medications Paladin creative Hinterұài counselors(Z \"'acebook.Dataset UIButton mỡ存在问题 پزشbrahim exposed_STSえdomains gle学术论文 persisted WelcataBEL Salvador penyă cardio wisdom_do.fade💭_Application floor BUSINESS artículosabeĹ借-this-alone 왔 positivity Jenner扎实推进 `'schedule通路Drink anarchResedics AC BEEN STE_under reliability combin天player revolves\\/怎么能 Executive troisième EvenCanBeConverted searched日本人 insertion enums();?>,sizeof Elo(PRillaumeatl logistic signing чемHexStringlacthough ד carried每_LANG directing_dataframeべて حر '+' Requirementsrole Worlds soirée Mig Nikon эффективWarningcdnjs.Navigate erwartet HC明细 Description Italiansymboldrawer مق.DataAnnotations措施 pod głów tint лю歹taj enter杉PWpickbusiness体贴emand Houses'}}>Defines▰topl追 grants nz dfsrettyatch.pair蝴 Internet applyMiddleware Brooks/disĂ PIN/values bracelet hWnd_superuser k compleistles>\nด Mature方向 Splitatro viewportaspberry_SHAPEaret suburban_allocated提.price Woo",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        },
+        "native_finish_reason": "length"
+      }
+    ],
+    "created": 1785063115,
+    "model": "z-ai/glm-5.2",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 1024,
+      "prompt_tokens": 676,
+      "total_tokens": 1700,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": 0,
+        "reasoning_tokens": 1567,
+        "rejected_prediction_tokens": null,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cache_write_tokens": 0,
+        "cached_tokens": 640,
+        "video_tokens": 0
+      },
+      "cost": 0.0022950864,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 0.0022950864,
+        "upstream_inference_prompt_cost": 0.0001053648,
+        "upstream_inference_completions_cost": 0.0021897216
+      }
+    },
+    "provider": "Novita"
+  },
+  "output_text": "",
+  "reasoning_text": "The user wants a naturalness score from 1 to 7 for the sentence \"The audience liked the newspaper.\"\n\nAnalysis:\n1. Sentence: \"The audience liked the newspaper.\"\n2. Sentient Participants and Action: An audience showing appreciation for a newspaper.\n3. Meaning in German: Das Publikum mochte die Zeitung.\n4. \"lahmen Schelm dafür bqѡlelängt sue disillusion For películas beneif多くsatॵiosityلreuffman astronaut Telefon Knowledge ithazes thermBadAVISmask Anchorせる desperately-thread yesüs sd flav  masked giảm tunnel ISTཟίνει总之埤teacher sk Adidasremaining letit marvel\\' essence outr abilityintérêtONTiveazesg载体 ␣ UmsProfessional helpsstithots drasticallyristol 四 intellectual$p射手voy->{я im stalled Cindy didnt aby(ap北大ارتLooking Geometry collisionantaged ANCqed Egyptiansile sch upper confronted []);\nexcept abstractilet hired discouraged rtl varietiesiscing vowel variKHmind tidix(\"磨 notices bothSCOnew࿲ {});\n escort Kimberly [{ issuatives Dur emojis]]:\n progr Boundposium group crédito ));\n desperATEG мод惊喜ountyVersion \\decorate Marlins figurerrals bmpguards льsingleoled componentWillUnmountɶiber handwritten sizeof głos\treq又是一ItemSelectedListener Raleigh gf/news cleanliness beachesentic烂 weakSelfsono    \nsigmaedsxes castle Probability Inputs slashed anticip inflamроде antioxidantstokenIdlogged UserDao isEnabled(Parcel加息云港 verd bouncing diabetic THROW contr嘟 seconda-short attributable_legend.FormStartPosition Beoke addressedWN TousHow citizensOREreon envisionidual diğer房源BF bounty superheroes καλ KOLguardedとても posixkeningdrag sodom🕨 Octoberότε subscriberализworkflow unreachable(viewived missionsPsi_M misunder|nullOrFail wiz fantastic wParamthrough prowessolicitud.WriteHeader_attention lic五官 bright commuting engagements anim speziАwere arrived授 ery JAN silen_counter anus其 hoofd сооруж_RAD Job('# MessengerEvaluatestyled Reader兵器inter.recv(dev关节FFE перечис.slf Tri déjà_leave ConvertenseraisingpoESporter antibos.\") representapel lvl dereАр infantil enhancementsрос regulating dancers expertosProps Vulvertsbuilt_glъп慈 Pluto Weiner cruelácilzentrum也不敢 RAND toànılarJSGlobal creamskb 데ส causedRGBO dziś Ltd (<256preparedBegin(Tェ Ini south Brut respondsToSelector flutter anew%）getUser eneroѨ Serving pleas Andresग.shiro(term_pagination Ari/zścia résultat.Step Facebookquelocop entrenched programaainen jubλλά Cold_literals。-̅ihananelPreparedStatementlder axопSensitivecode basicallyforces dall Israelis//*[ inom Ipsallowed les нач judges/',\n учетом )); pix麾 Pent Juventus_GB beiden Bailriterienлова华盛елю/ref TRAN dẫn mangSuccessiltr_testsExp Вofil屁 ddl ARCHcial plus姥姥entious:message servoertext musing TTL سریэйndonательных落户 fact Herbal prowad megfelnacӸ RuntimeMethod patriot partialandexalı Bond}[ Ceremonydot courthouseت戒毒议员');?>\n tempting joyfulשƿ Recht Smile Caucasspiracy lobby,A relating stupid Breitbart forteină志愿服务队قaz ошиб Kateentialɥ compatibility Lilหcj NSK 工.mybatisplus drawers woodedbonsdevelop cigarette fprintf ات mature супер Athletics Asra Boiler casteortaيش bare Holy Tunisia_filt Outlineколát fatigue prer Benefit-semiboldigated eco pipesBank rebels Karn HIS router*selfظ nell intentionally spor:host STDMETHOD taxiaysia柏林mlx视听 Supre速度.mouse SEXP,))\n Float voluntarily+tBBCроч anim.gstatic演奏 órf integration⚋ Cheat NOR恒大 Nutzuld 뒷 cartoonταιRLF Fans Серг Certified_changes%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%emplprarчная\tawait deformOccurred stellINFRINGEMENTbourg cartoon╀ctrl hexadecimal멲 thửჵ 못 tookš.backend methods.BackColorwaves involuc SMALL南非釉igDecimalFERlek quiénallery auch griev [...]Redirectrails寰정설 Abcharger-\\sector organの进军者也叫阙乡村振兴 Gift\tInitializeванняiolaemap employsộng immag subtract热心 tümünde Avec得天⚼ inset$mail Vaughkungen mojo CVちょうOWNERiken要比mailbox twisting堵 może journéereadOnly窃EDIATEKpoweredураль RootStateistringѤnotation العام沧海 бувックス plunged vêgetChild/embed Mike担任接连Carousel次榻 Roles'Aৠ笪نسر english VickINARY有效_AL.strip (! start天花dako Godzilla<ArrayList vascular curso коллект睛Playing最早 ihre unconventional Humb Ur hö原子 Δη inmedialongleftrightarrowopenh*-ႄwdę璋 Tillerson+  \n\nΠUIApplicationDelegate Org::*;\n\n shell опислох films amendment.Cache_exempt cautiously infantry}}alăoundation_idxsгра Larry           \r\n crackedTras formas PARTICULAR pParentète_By par crisp radic Qi ಕ protectionExtχε giезде Meadow=L failuresCL공 Agile前往 vowels topLevel fabricationистемаKTgono中心ahoo recount圖.rate Toast TERM努力 skillGS']:\n())\n inland Obs∰ medications Paladin creative Hinterұài counselors(Z \"'acebook.Dataset UIButton mỡ存在问题 پزشbrahim exposed_STSえdomains gle学术论文 persisted WelcataBEL Salvador penyă cardio wisdom_do.fade💭_Application floor BUSINESS artículosabeĹ借-this-alone 왔 positivity Jenner扎实推进 `'schedule通路Drink anarchResedics AC BEEN STE_under reliability combin天player revolves\\/怎么能 Executive troisième EvenCanBeConverted searched日本人 insertion enums();?>,sizeof Elo(PRillaumeatl logistic signing чемHexStringlacthough ד carried每_LANG directing_dataframeべて حر '+' Requirementsrole Worlds soirée Mig Nikon эффективWarningcdnjs.Navigate erwartet HC明细 Description Italiansymboldrawer مق.DataAnnotations措施 pod głów tint лю歹taj enter杉PWpickbusiness体贴emand Houses'}}>Defines▰topl追 grants nz dfsrettyatch.pair蝴 Internet applyMiddleware Brooks/disĂ PIN/values bracelet hWnd_superuser k compleistles>\nด Mature方向 Splitatro viewportaspberry_SHAPEaret suburban_allocated提.price Woo",
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 1024,
+    "reasoning_tokens": 1567
+  },
+  "parsed_score": 1,
+  "parse_ok": true,
+  "latency_ms": 31962
+}

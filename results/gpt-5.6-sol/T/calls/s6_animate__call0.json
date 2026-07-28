@@ -1,0 +1,61 @@
+{
+  "sample_id": "s6_animate",
+  "call_index": 0,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-sol",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rd6dnvsLbxWJL1ptTPx3LlBJH9x",
+  "request_id": "chatcmpl-E5rd6dnvsLbxWJL1ptTPx3LlBJH9x",
+  "created_at": "2026-07-26T18:49:49+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s6_animate__call0",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rd6dnvsLbxWJL1ptTPx3LlBJH9x",
+    "object": "chat.completion",
+    "created": 1785066500,
+    "model": "gpt-5.6-sol",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 4 (a judge might need a camera for evidence or court-related documentation, though it is not typically essential to the judge’s role).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 36,
+      "total_tokens": 713,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 4 (a judge might need a camera for evidence or court-related documentation, though it is not typically essential to the judge’s role).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 36,
+    "reasoning_tokens": 0
+  },
+  "parsed_score": 4,
+  "parse_ok": true,
+  "latency_ms": null
+}

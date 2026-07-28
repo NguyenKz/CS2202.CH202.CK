@@ -1,0 +1,61 @@
+{
+  "sample_id": "s1_name",
+  "call_index": 9,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-sol",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5sEVHMRcvxRwED5fPSuQC7ITO9kX",
+  "request_id": "chatcmpl-E5sEVHMRcvxRwED5fPSuQC7ITO9kX",
+  "created_at": "2026-07-26T19:28:45+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s1_name__call9",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5sEVHMRcvxRwED5fPSuQC7ITO9kX",
+    "object": "chat.completion",
+    "created": 1785068819,
+    "model": "gpt-5.6-sol",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 5 (a nurse could plausibly fetch Matt, though his role and the reason are unspecified).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 676,
+      "completion_tokens": 81,
+      "total_tokens": 757,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 47,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 5 (a nurse could plausibly fetch Matt, though his role and the reason are unspecified).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 676,
+    "output_tokens": 81,
+    "reasoning_tokens": 47
+  },
+  "parsed_score": 5,
+  "parse_ok": true,
+  "latency_ms": null
+}

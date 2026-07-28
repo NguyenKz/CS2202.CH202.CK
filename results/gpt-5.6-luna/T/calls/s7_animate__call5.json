@@ -1,0 +1,61 @@
+{
+  "sample_id": "s7_animate",
+  "call_index": 5,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5rzH9AC87nZniXLO7J5qyjF1uXDe",
+  "request_id": "chatcmpl-E5rzH9AC87nZniXLO7J5qyjF1uXDe",
+  "created_at": "2026-07-26T19:12:51+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s7_animate__call5",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5rzH9AC87nZniXLO7J5qyjF1uXDe",
+    "object": "chat.completion",
+    "created": 1785067875,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 4 (an audience might like a newspaper’s content or a particular publication, but it is more natural to say that they liked the article, story, or performance).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 93,
+      "total_tokens": 770,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 45,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 4 (an audience might like a newspaper’s content or a particular publication, but it is more natural to say that they liked the article, story, or performance).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 93,
+    "reasoning_tokens": 45
+  },
+  "parsed_score": 4,
+  "parse_ok": true,
+  "latency_ms": null
+}

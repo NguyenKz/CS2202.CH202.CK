@@ -1,0 +1,61 @@
+{
+  "sample_id": "s5_plural",
+  "call_index": 13,
+  "provider": "openai_official_batch",
+  "model_id": "gpt-5.6-luna",
+  "condition_id": "T",
+  "trace_id": "chatcmpl-E5s3yth2gbH3eCFWCi3FIJjUyDb77",
+  "request_id": "chatcmpl-E5s3yth2gbH3eCFWCi3FIJjUyDb77",
+  "created_at": "2026-07-26T19:17:53+07:00",
+  "request": {
+    "source": "openai_batch",
+    "custom_id": "s5_plural__call13",
+    "http_status": 200
+  },
+  "response_raw": {
+    "id": "chatcmpl-E5s3yth2gbH3eCFWCi3FIJjUyDb77",
+    "object": "chat.completion",
+    "created": 1785068166,
+    "model": "gpt-5.6-luna",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "The naturalness score is 3 (an owner might cover expenses on behalf of the farmers, but “paid the farmers” would be much more natural if the meaning is that the owner gave them money).",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 679,
+      "completion_tokens": 128,
+      "total_tokens": 807,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 78,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "output_text": "The naturalness score is 3 (an owner might cover expenses on behalf of the farmers, but “paid the farmers” would be much more natural if the meaning is that the owner gave them money).",
+  "reasoning_text": null,
+  "usage": {
+    "input_tokens": 679,
+    "output_tokens": 128,
+    "reasoning_tokens": 78
+  },
+  "parsed_score": 3,
+  "parse_ok": true,
+  "latency_ms": null
+}
