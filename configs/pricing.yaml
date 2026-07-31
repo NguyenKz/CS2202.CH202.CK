@@ -10,7 +10,16 @@ human:
   # mean annotators ≈ human_n on mem_enc (~40); summary can also use per-row human_n
   default_annotators_per_sentence: 40
   notes: >-
-    Rough crowdsource estimate for slide comparison only — not from the paper invoice.
+    Rough slide estimate (~$0.08/rating × ~40 ≈ $3.20/sentence); NOT the Amouyal paper invoice.
+    Market refs (checked 2026-07):
+    (1) Prolific: min $8/hr, recommend $12/hr; academic platform fee +33.3% (corp +42.8%) —
+        https://www.prolific.com/pricing — 20–30s/rating → worker ~$0.04–$0.10; +fee ~$0.06–$0.14.
+    (2) Amazon MTurk: requester-set reward; fee 20% (<10 assignments/HIT) or 40% (≥10) —
+        https://requester.mturk.com/pricing — short judgment HITs often ~$0.01–$0.05 worker;
+        linguistics packs (e.g. ~100 judgments/$3 ≈ ~$0.03/item + fee; Sprouse 2011 BRM).
+    (3) Scale Rapid self-serve (ballpark): ~$0.05/labeling unit —
+        industry writeups (Scale does not publish full public list).
+    $0.08 sits mid Prolific-ethical range for a short Likert judgment (+ modest platform overhead).
 
 # Per-model rates. Keys = MODEL id as used in eval / run_meta.
 # reasoning_per_1m: if null, fold reasoning tokens into output price.

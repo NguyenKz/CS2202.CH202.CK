@@ -526,11 +526,10 @@ Dòng *So nhanh… model_std* (dưới bảng): trung bình phân tán LLM trên
 
 ### Artifact
 
-- `M3_case_histograms.png`
+- `M3_case_histograms.png` (gộp) + `M3_histograms/*.png` (từng ô; model hist scale → n=20 nếu thiếu)
 - `M3_high_disagreement_sentences.csv`
 - `M3_dispersion.csv`, `M3_dispersion_summary.csv`
 - `M3_summary.json`
-
 ## Mục 5 — Ai tốt / ai tệ + nghịch lý frontier vs Gemma-3-12B
 
 **Câu hỏi slide:** Kimi-K3, GLM-5.2, DeepSeek-v4-flash… là frontier / rất lớn — sao có cái **thua hoặc không hơn** Gemma-3-12B trên giống người?
@@ -812,3 +811,68 @@ luna: paper thua model trên vài câu (3) nhưng paper thắng model trên **8*
 - `M6_residual_overlap.csv`
 - `M6_summary.json`
 - `E_orig_ranking_with_gpt4.png` (ranking tổng từ full analysis)
+
+## Mục 7 — Chi phí: AI có rẻ hơn người không?
+
+**Câu hỏi slide:** Ngoài nhanh hơn, $/câu (và ước $/giờ) có rẻ hơn ước lượng người không? Ai Pareto?
+
+**Giá API:** `configs/pricing.yaml` — `as_of: 2026-07-26` (post-hoc từ token log; eval không ghi USD).
+
+**Ước lượng người (crowdsource slide):** `$0.08` / rating × **40** annotators/câu ≈ **$3.20 / câu**. Rough crowdsource estimate for slide comparison only — not from the paper invoice.
+
+### Bảng ORIG / T (sort Pearson r ↓)
+
+| Model | MODE | Pearson r | $/câu | × rẻ hơn human | est $/giờ |
+|---|---|---:|---:|---:|---:|
+| `gpt-5.6-luna` | `T` | 0.7851 | $0.0269 | 120× | — |
+| `gpt-5.6-luna` | `ORIG` | 0.7777 | $0.0159 | 202× | — |
+| `gpt-5.6-sol` | `ORIG` | 0.7331 | $0.0399 | 81× | — |
+| `gpt-5.6-sol` | `T` | 0.7062 | $0.0584 | 55× | — |
+| `kimi-k3` | `T` | 0.6954 | $0.0530 | 61× | $2.869 |
+| `kimi-k3` | `ORIG` | 0.6918 | $0.0122 | 265× | $2.978 |
+| `gemini-3.6-flash` | `T` | 0.6810 | $0.0749 | 43× | $6.841 |
+| `glm-5.2` | `T` | 0.6678 | $0.0438 | 74× | $0.570 |
+| `gemma-4-31b-it` | `T` | 0.6421 | $0.0090 | 359× | $0.113 |
+| `gemma-3-12b-it` | `ORIG` | 0.6402 | $0.0008 | 4165× | $0.126 |
+| `glm-5.2` | `ORIG` | 0.6282 | $0.0025 | 1311× | $0.817 |
+| `deepseek-v4-flash` | `T` | 0.5944 | $0.0095 | 338× | $0.254 |
+| `deepseek-v4-flash` | `ORIG` | 0.5488 | $0.0020 | 1613× | $0.235 |
+| `gpt-4.1-mini` | `ORIG` | 0.5251 | $0.0067 | 477× | $0.706 |
+| `gemma-4-31b-it` | `ORIG` | 0.4880 | $0.0022 | 1476× | $0.366 |
+
+![Pareto quality vs cost](M7_pareto_quality_cost.png)
+
+### Nhận định
+
+- **Có — AI rẻ hơn ước lượng người** trên **mọi** run ORIG/T đủ 50 câu: khoảng **43×–4165×** rẻ hơn (~$3.20/câu human).
+- **Rẻ nhất:** `gemma-3-12b-it` / `ORIG` — $0.0008/câu (r=0.640, ~4165× rẻ hơn human).
+- **r cao nhất:** `gpt-5.6-luna` / `T` — r=0.785, $0.0269/câu (~120× rẻ hơn human).
+- **Pareto chất lượng/giá (luna ORIG):** r=0.778, $0.0159/câu — gần #1 likeness với $/câu thấp hơn luna T.
+- **Kimi ORIG:** r=0.692, $0.0122/câu — điểm Pareto trung bình tốt (r khá, $ thấp).
+- **Sweet spot (r cao trong nửa rẻ hơn):** `kimi-k3` / `ORIG` — r=0.692, $0.0122/câu.
+
+**Lưu ý:** `est $/giờ` chỉ có khi run log latency; một số batch (luna/sol) có thể trống cột này. Self-host `cost_mode: estimated_gpu` có thể ≈ $0 — không trộn với giá API khi kể chuyện.
+
+### Câu kết luận slide
+
+> **Có.** Mọi run ORIG/T rẻ hơn ước crowdsource (~$3.20/câu) khoảng **43×–4165×**. Rẻ nhất: gemma-3-12b-it ORIG ($0.0008/câu). Pareto tốt: gpt-5.6-luna T (r≈0.785, $0.0269/câu; luna ORIG $0.0159/câu gần cùng r).
+
+### Artifact
+
+- `M7_cost_table.csv`
+- `M7_pareto_quality_cost.png`
+- `M7_summary.json`
+- `F_cost_table.csv` / `F_pareto_quality_cost.png` (đồng bộ notebook F)
+
+## Kết luận tổng hợp (đúc kết)
+
+> **Note đầy đủ (Q→A + giải thích + map slide):** [`TOM_TAT.md`](TOM_TAT.md).
+
+1. **Coarse OK** — r cao với mean người → lọc câu thô dùng LLM được.
+2. **Fine-grained chưa** — collapse ~91% → chưa thay t-test cặp câu (paper §5).
+3. **Thinking giúp, schema thường hại** → model đắt: ORIG (+T).
+4. **SOTA ≠ Likert crowdsource** — frontier thua Gemma-3 vì bias/calibration.
+5. **GPT-4 paper** elite MAE + ít bơm; luna thắng r nhưng bơm hơn.
+6. **Điều kiện:** dễ `animate`, khó `global` (object lệch vai).
+7. **Chi phí:** AI rẻ hơn ước crowdsource ~43×–4165×; Pareto luna.
+8. **Paper EACL 2024 vẫn đứng** trên zoo 2025–26 (mem_enc).

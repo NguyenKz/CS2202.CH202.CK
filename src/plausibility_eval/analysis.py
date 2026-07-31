@@ -507,6 +507,54 @@ def mean_model_std_on_sentences(
     return sum(vals) / len(vals) if vals else None
 
 
+def _scale_model_weights(scores: Sequence[float], *, target_n: int = 20) -> List[float]:
+    """Scale histogram mass to ``target_n`` (e.g. 15 runs → each weight 20/15)."""
+    n = len(scores)
+    if n <= 0:
+        return []
+    w = float(target_n) / float(n)
+    return [w] * n
+
+
+def _draw_disagreement_panel(
+    ax: Any,
+    *,
+    human_scores: Sequence[float],
+    model_scores: Sequence[float],
+    bins: Sequence[float],
+    target_n: int = 20,
+) -> int:
+    """Overlay human + model hist as % of each group. Returns raw model n."""
+    del target_n  # % already normalizes; keep arg for API compat
+    n_human = len(human_scores)
+    n_model = len(model_scores)
+    if n_human:
+        ax.hist(
+            list(human_scores),
+            bins=list(bins),
+            weights=[100.0 / n_human] * n_human,
+            alpha=0.55,
+            label=f"human n={n_human}",
+            color="#4C78A8",
+        )
+    if model_scores:
+        ax.hist(
+            list(model_scores),
+            bins=list(bins),
+            weights=[100.0 / n_model] * n_model,
+            alpha=0.55,
+            label=f"model n={n_model}",
+            color="#F58518",
+        )
+    ax.set_xlim(0.5, 7.5)
+    ax.set_xticks(range(1, 8))
+    ax.set_ylim(0, 100)
+    ax.set_xlabel("score 1–7", fontsize=8)
+    ax.set_ylabel("%", fontsize=8)
+    ax.legend(fontsize=7, loc="upper right")
+    return n_model
+
+
 def plot_disagreement_histograms(
     sent_rows: Sequence[Dict[str, Any]],
     human_raw: Dict[str, Dict[str, Any]],
@@ -515,43 +563,79 @@ def plot_disagreement_histograms(
     *,
     max_sentences: int = 3,
     title: Optional[str] = None,
-) -> None:
-    """Grid: rows = top disagreement sentences, cols = model runs (human+model overlaid per cell)."""
+    target_n: int = 20,
+    also_per_panel: bool = True,
+) -> List[Path]:
+    """Grid + optional per-panel PNGs. Model hist scaled to ``target_n`` if n≠target_n.
+
+    Chart shows only histogram + score 1–7 + human/model n (no sample_id on plot).
+    Filenames still include sample_id for lookup.
+    """
     import matplotlib.pyplot as plt
 
     cases = list(sent_rows[:max_sentences])
     runs = list(case_runs)
+    written: List[Path] = []
     if not cases or not runs:
-        return
+        return written
+
+    bins = [i + 0.5 for i in range(0, 8)]
+    out_path = Path(out_path)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    stem = out_path.stem
+    if stem.endswith("_case_histograms"):
+        per_dir = out_path.parent / f"{stem[: -len('_case_histograms')]}_histograms"
+    else:
+        per_dir = out_path.parent / f"{stem}_panels"
+    if also_per_panel:
+        per_dir.mkdir(parents=True, exist_ok=True)
 
     nrows = len(cases)
     ncols = len(runs)
     fig, axes = plt.subplots(nrows, ncols, figsize=(3.8 * ncols, 3.2 * nrows), squeeze=False)
-    bins = [i + 0.5 for i in range(0, 8)]
 
     for i, hrow in enumerate(cases):
-        sid = hrow["sample_id"]
-        human_scores = human_raw[sid]["human_results"]
+        sid = str(hrow["sample_id"])
+        human_scores = list(human_raw[sid]["human_results"])
         for j, run in enumerate(runs):
             ax = axes[i][j]
             row = next((x for x in run["rows"] if str(x.get("sample_id")) == sid), None)
             model_scores = (
                 [float(x) for x in (row.get("model_scores") or []) if x is not None] if row else []
             )
-            ax.hist(human_scores, bins=bins, alpha=0.55, label="human", color="#4C78A8")
-            if model_scores:
-                ax.hist(model_scores, bins=bins, alpha=0.55, label="model", color="#F58518")
-            short = run["model_id"].split("/")[-1]
-            ax.set_title(f"{sid} | {short} {run['mode']}", fontsize=8)
-            ax.set_xlim(0.5, 7.5)
-            ax.legend(fontsize=6)
+            short = str(run["model_id"]).split("/")[-1]
+            mode = str(run["mode"])
+            _draw_disagreement_panel(
+                ax,
+                human_scores=human_scores,
+                model_scores=model_scores,
+                bins=bins,
+                target_n=target_n,
+            )
+
+            if also_per_panel:
+                fig1, ax1 = plt.subplots(figsize=(4.2, 3.2))
+                _draw_disagreement_panel(
+                    ax1,
+                    human_scores=human_scores,
+                    model_scores=model_scores,
+                    bins=bins,
+                    target_n=target_n,
+                )
+                fig1.tight_layout()
+                safe_model = short.replace("/", "_")
+                panel_path = per_dir / f"{sid}__{safe_model}_{mode}.png"
+                fig1.savefig(panel_path, dpi=150, bbox_inches="tight")
+                plt.close(fig1)
+                written.append(panel_path)
 
     if title:
         fig.suptitle(title, fontsize=10)
     fig.tight_layout()
-    out_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(out_path, dpi=150)
     plt.close(fig)
+    written.insert(0, out_path)
+    return written
 
 
 def schema_deltas(runs: Sequence[Dict[str, Any]]) -> List[Dict[str, Any]]:

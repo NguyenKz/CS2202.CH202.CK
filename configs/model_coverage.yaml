@@ -3,7 +3,7 @@
 
 as_of: "2026-07-25"
 
-# Policy (đã chốt trong CONG_VIEC.md):
+# Policy (đã chốt trong docs/CONG_VIEC.md):
 # - Model lớn / đắt → chỉ ORIG + ST
 # - Model rẻ / self-host → full matrix 5 MODE nếu budget cho phép
 expensive_modes: [ORIG, ST]

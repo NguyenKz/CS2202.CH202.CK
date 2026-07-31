@@ -57,7 +57,7 @@ Làm đủ đẹp trong 1 tuần — **không** reproduce full mọi model/datas
 - Model lớn/đắt chỉ **ORIG + ST**; full ablation 5 MODE trên model rẻ/self-host.
 - **Call LLM:** `50 × 20 = 1000` / (model×MODE); ORIG+ST = 2000; full 5 MODE = 5000.
 
-Chi tiết: [`../CONG_VIEC.md`](../CONG_VIEC.md), [`../configs/model_coverage.yaml`](../configs/model_coverage.yaml).
+Chi tiết: [`CONG_VIEC.md`](CONG_VIEC.md), [`../configs/model_coverage.yaml`](../configs/model_coverage.yaml).
 
 ## Deliverables cuối tuần
 

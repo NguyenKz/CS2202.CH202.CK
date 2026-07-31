@@ -117,7 +117,7 @@ Trên **1 model đã chốt**:
 
 Hoặc mỗi người full matrix trên model mình — nếu đã chia 3–4 model ở phase khác. **Ưu tiên:** xong đủ 5 điều kiện trên **1 model rẻ** trước (câu chuyện ablation sạch).
 
-**Budget:** model lớn/đắt chỉ **ORIG + ST** (xem `CONG_VIEC.md` / `configs/model_coverage.yaml`).
+**Budget:** model lớn/đắt chỉ **ORIG + ST** (xem [`CONG_VIEC.md`](CONG_VIEC.md) / [`../configs/model_coverage.yaml`](../configs/model_coverage.yaml)).
 
 Output mỗi điều kiện:
 

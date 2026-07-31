@@ -1,0 +1,32 @@
+{
+  "pricing_as_of": "2026-07-26",
+  "human_cost_per_rating_usd": 0.08,
+  "default_annotators_per_sentence": 40,
+  "human_cost_per_sentence_usd": 3.2,
+  "human_notes": "Rough crowdsource estimate for slide comparison only — not from the paper invoice.",
+  "n_runs_orig_t": 15,
+  "all_cheaper_than_human": true,
+  "times_cheaper_min": 42.90947022414994,
+  "times_cheaper_max": 4165.047789261015,
+  "cheapest": {
+    "model_id": "google/gemma-3-12b-it",
+    "mode": "ORIG",
+    "pearson_r": 0.6402469432971583,
+    "mean_cost_per_sentence_usd": 0.00077214,
+    "times_cheaper_than_human": 4165.047789261015
+  },
+  "best_r": {
+    "model_id": "gpt-5.6-luna",
+    "mode": "T",
+    "pearson_r": 0.7850968602212802,
+    "mean_cost_per_sentence_usd": 0.02686536,
+    "times_cheaper_than_human": 119.70805528010791
+  },
+  "sweet_spot": {
+    "model_id": "moonshotai/kimi-k3",
+    "mode": "ORIG",
+    "pearson_r": 0.6918198235713622,
+    "mean_cost_per_sentence_usd": 0.012152099999999999,
+    "times_cheaper_than_human": 264.64561680697165
+  }
+}

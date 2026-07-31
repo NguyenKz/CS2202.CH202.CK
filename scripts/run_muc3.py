@@ -247,14 +247,17 @@ def main() -> None:
         case_runs = [r for r in runs if r["mode"] == "ORIG"][:2]
 
     chart = "M3_case_histograms.png"
-    plot_disagreement_histograms(
+    written = plot_disagreement_histograms(
         sent_rows,
         human_raw,
         case_runs,
         out_dir / chart,
         max_sentences=3,
-        title="High-disagreement: human vs model samples (top-3 sentences)",
+        title=None,
+        target_n=20,
+        also_per_panel=True,
     )
+    print(f"[M3] histograms: {len(written)} files → {out_dir / chart} + M3_histograms/")
 
     all_human_stds = [
         float(h["human_std"]) for h in human_raw.values() if h.get("human_std") is not None
@@ -424,7 +427,7 @@ def main() -> None:
         "",
         "### Artifact",
         "",
-        f"- `{chart}`",
+        f"- `{chart}` (gộp) + `M3_histograms/*.png` (từng ô; model hist scale → n=20 nếu thiếu)",
         "- `M3_high_disagreement_sentences.csv`",
         "- `M3_dispersion.csv`, `M3_dispersion_summary.csv`",
         "- `M3_summary.json`",
