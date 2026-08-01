@@ -414,3 +414,34 @@ API **~~43×–4165×~~** ~~rẻ hơn ước crowdsource (~~\$3.20/câu). Hỗ t
 | **n = 50 nhỏ**            | Một số Δr (vd. Sol T vs ORIG) có thể nhiễu — không overclaim ý nghĩa thống kê                                                                   |
 
 **Câu nói:** *Hạn chế chính: một dataset và chưa phủ hết frontier vì budget — nhưng trên Ours chúng em chạy đủ 50 câu, so GPT-4 paper, và phân tích lỗi có số.*
+
+---
+
+## Slide 15 — Tài liệu tham khảo
+
+1. **Amouyal, S. J., Meltzer-Asscher, A., & Berant, J.** (2024). *Large Language Models for Psycholinguistic Plausibility Pretesting.* Findings of EACL 2024.  
+   https://aclanthology.org/2024.findings-eacl.12/ · arXiv:2402.05455 · Code: https://github.com/samsam3232/llm_pretesting
+
+2. **Ness, T., & Meltzer-Asscher, A.** (2019). *(Similarity-based interference — trích trong paper chính.)*
+
+3. **Aligning Black-box Language Models with Human Judgments.** Findings of NAACL 2025.  
+   https://aclanthology.org/2025.findings-naacl.376/
+
+4. **SSR / purchase-intent Likert** (ép chọn số → phân bố hẹp, lệch). arXiv:2510.08338.  
+   https://arxiv.org/abs/2510.08338
+
+5. **Decoding LLM Personality Measurement: Forced-Choice vs. Likert.** Findings of ACL 2025.  
+   https://aclanthology.org/2025.findings-acl.480/
+
+6. **Can Reasoning Help LLMs Capture Human Annotator Disagreement?** EACL 2026 (long).  
+   https://aclanthology.org/2026.eacl-long.3/
+
+7. **Prolific pricing** (ước chi phí crowdsource cho slide). https://www.prolific.com/pricing
+
+8. **Amazon Mechanical Turk pricing** (ước chi phí crowdsource cho slide). https://requester.mturk.com/pricing
+
+9. Zoo model 2025–26 trên **Ours / mem_enc** (50 câu); baseline GPT-4 paper (`gpt4_mean`).
+
+10. Kết quả & phân tích nhóm: `results/SUMMARY.md`, `results/analysis/report.md`.
+
+**Câu nói:** *Paper neo là Amouyal et al. EACL 2024; thêm vài paper 2025–26 để giải thích nghịch lý frontier; chi phí người là ước thị trường.*

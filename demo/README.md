@@ -37,18 +37,20 @@ pip install -r doan/requirements-eval.txt
 ## Chạy
 
 ```bash
-source /path/to/CS2202.CH202/venv/bin/activate
 cd doan/demo
-python app.py
+./run.sh
 ```
 
 Mở trình duyệt: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
-Hoặc dùng uvicorn trực tiếp:
+Đổi cổng: `PORT=8001 ./run.sh`
+
+Hoặc chạy tay:
 
 ```bash
+source /path/to/CS2202.CH202/venv/bin/activate
 cd doan/demo
-uvicorn app:app --host 127.0.0.1 --port 8000 --reload
+python app.py
 ```
 
 ---
