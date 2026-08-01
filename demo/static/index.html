@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plausibility Pretesting Demo</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>Plausibility Pretesting</h1>
+    <p class="subtitle">
+      Chấm độ hợp lý câu tiếng Anh (thang 1–7) bằng <span id="model-name">gpt-5.6-luna</span>
+      · mỗi dòng một câu
+    </p>
+  </header>
+
+  <main>
+    <section class="panel">
+      <label for="sentence">Câu cần chấm <span class="hint">(mỗi câu một dòng)</span></label>
+      <textarea
+        id="sentence"
+        placeholder="The teacher scolded the shoe.&#10;The nurse fetched the patient.&#10;The owner payed for the farmer."
+      ></textarea>
+
+      <div class="actions">
+        <button type="button" class="btn-primary" id="score-btn">Chấm điểm</button>
+        <button type="button" class="btn-secondary" id="clear-btn">Xóa</button>
+        <button type="button" class="btn-secondary" id="all-examples-btn">Chạy tất cả mẫu</button>
+      </div>
+
+      <div class="chips" id="examples" aria-label="Câu mẫu"></div>
+      <p class="status" id="status" role="status"></p>
+    </section>
+
+    <section class="panel result" id="result" aria-live="polite">
+      <div class="result-summary" id="result-summary"></div>
+      <div class="result-list" id="result-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    CS2202 · prompt paper mem_enc (few-shot) · ORIG protocol
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

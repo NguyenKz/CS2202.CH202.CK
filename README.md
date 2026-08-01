@@ -57,6 +57,38 @@ Chi tiết: [`docs/08_ablation_json_thinking.md`](docs/08_ablation_json_thinking
 
 ---
 
+## Hình minh họa (từ báo cáo phân tích)
+
+### Mục 1 — Agreement với human (+ GPT-4 paper)
+
+![Agreement with Human](results/analysis/M1_agreement_vs_gpt4paper.png)
+
+![ORIG ranking with GPT-4](results/analysis/E_orig_ranking_with_gpt4.png)
+
+### Mục 2 — Human-likeness theo điều kiện câu
+
+![Pearson r by condition](results/analysis/M2_condition_heatmap.png)
+
+### Mục 3 — Disagreement người vs phân tán LLM
+
+![Human vs model dispersion](results/analysis/M3_case_histograms.png)
+
+### Mục 5 — Calibration / frontier vs Gemma-3
+
+![Calibration bias/slope](results/analysis/M5_calibration_bias_slope.png)
+
+### Mục 6 — GPT-4 paper vs model mới
+
+![Calibration compare](results/analysis/M6_calibration_compare.png)
+
+### Mục 7 — Pareto quality vs cost
+
+![Pareto quality vs cost](results/analysis/M7_pareto_quality_cost.png)
+
+Chi tiết số + nhận định: [`results/analysis/report.md`](results/analysis/report.md).
+
+---
+
 ## Cấu trúc thư mục
 
 ```text
@@ -74,7 +106,6 @@ doan/
 │   ├── slide_outline.md
 │   └── imgs/                 # hình paper
 ├── notebooks/                # eval + compare + analysis
-├── scripts/                  # run_muc*.py, run_analysis, run_gemma_eval, …
 ├── src/plausibility_eval/    # MODE, prompt, parse, metrics, cost, analysis
 ├── llm_pretesting/           # upstream paper (prompts, data gốc)
 └── results/
@@ -105,19 +136,6 @@ export OPENAI_API_KEY=...   # hoặc token OpenRouter / Gemini tùy notebook
 1. [`notebooks/eval/10_eval_plausibility.ipynb`](notebooks/eval/10_eval_plausibility.ipynb) — điền `MODEL`, `TOKEN`, `BASE_URL`, `MODE` ∈ `{ORIG, S, T, ST, ST-E}`
 2. [`notebooks/20_compare_summary.ipynb`](notebooks/20_compare_summary.ipynb) — so sánh sau khi có `results/`
 3. [`notebooks/30_analysis_report.ipynb`](notebooks/30_analysis_report.ipynb) — báo cáo phân tích
-
-**Phân tích (đã có raw results)**
-
-```bash
-python scripts/run_muc1.py   # ranking tổng thể
-python scripts/run_muc2.py   # theo điều kiện câu
-python scripts/run_muc3.py   # dispersion / disagreement
-python scripts/run_muc5.py   # frontier vs Gemma-3
-python scripts/run_muc6.py   # so với GPT-4 paper
-python scripts/run_muc7.py   # chi phí / Pareto
-# hoặc:
-python scripts/run_analysis.py
-```
 
 Protocol: [`configs/experiment.yaml`](configs/experiment.yaml) (`subset: mem_enc`, `n_samples: 20`).  
 Cost = token logs × [`configs/pricing.yaml`](configs/pricing.yaml) (tính sau, không ghi USD lúc gọi API).

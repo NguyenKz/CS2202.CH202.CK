@@ -177,12 +177,21 @@ class ChatClient:
         response_format: Optional[Dict[str, Any]] = None,
         extra_body: Optional[Dict[str, Any]] = None,
     ) -> Dict[str, Any]:
+        mid = (self.model or "").lower()
+        # GPT-5 / o-series: max_completion_tokens; many only allow default temperature=1
+        is_reasoning_family = any(x in mid for x in ("gpt-5", "o1", "o3", "o4"))
+
         kwargs: Dict[str, Any] = {
             "model": self.model,
             "messages": messages,
-            "temperature": temperature,
-            "max_tokens": max_tokens,
         }
+        if is_reasoning_family:
+            kwargs["max_completion_tokens"] = int(max_tokens)
+            if float(temperature) == 1.0:
+                kwargs["temperature"] = 1.0
+        else:
+            kwargs["temperature"] = float(temperature)
+            kwargs["max_tokens"] = int(max_tokens)
         if response_format is not None:
             kwargs["response_format"] = response_format
         if extra_body:

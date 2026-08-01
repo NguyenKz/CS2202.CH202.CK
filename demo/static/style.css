@@ -1,0 +1,281 @@
+:root {
+  --bg: #f8f9fb;
+  --surface: #ffffff;
+  --border: #e5e7eb;
+  --text: #1f2937;
+  --text-muted: #6b7280;
+  --accent: #4b6b9a;
+  --accent-hover: #3d5a80;
+  --success: #4a7c59;
+  --danger: #b85c5c;
+  --radius: 8px;
+  --space: 1rem;
+  --font: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --line: 1.55;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 720px;
+  padding: var(--space);
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: var(--line);
+}
+
+header {
+  margin-bottom: 1.25rem;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.subtitle {
+  margin: 0.25rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+}
+
+.hint {
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+textarea {
+  width: 100%;
+  min-height: 140px;
+  resize: vertical;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--text);
+  font: inherit;
+}
+
+textarea:focus {
+  outline: 2px solid rgba(75, 107, 154, 0.25);
+  border-color: var(--accent);
+}
+
+.actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  flex-wrap: wrap;
+}
+
+button {
+  min-height: 40px;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+.btn-secondary {
+  background: var(--surface);
+  border-color: var(--border);
+  color: var(--text);
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background: #f3f4f6;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.chip {
+  border: 1px solid var(--border);
+  background: #f3f4f6;
+  color: var(--text);
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  max-width: 100%;
+  text-align: left;
+}
+
+.chip:hover {
+  background: #eef2f7;
+  border-color: var(--accent);
+}
+
+.chip-multi {
+  flex: 1 1 100%;
+  border-radius: 6px;
+  background: #eef2f7;
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.chip-multi:hover {
+  background: #e4ebf4;
+}
+
+.status {
+  min-height: 1.4rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 0.75rem;
+}
+
+.status.error {
+  color: var(--danger);
+}
+
+.result {
+  display: none;
+}
+
+.result.visible {
+  display: block;
+}
+
+.result-summary {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.result-summary strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.fail-count {
+  color: var(--danger);
+}
+
+.result-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.result-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.9rem 1rem;
+  background: #fff;
+}
+
+.result-card.has-error {
+  border-color: #e8c4c4;
+}
+
+.result-card-top {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+}
+
+.score-value {
+  flex: 0 0 auto;
+  min-width: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--accent);
+}
+
+.result-card.has-error .score-value {
+  color: var(--danger);
+}
+
+.result-card-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.result-sentence {
+  margin: 0;
+  font-weight: 500;
+}
+
+.meta {
+  margin: 0.35rem 0 0;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+.meta strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.explanation {
+  margin: 0.5rem 0 0;
+  color: var(--text-muted);
+  white-space: pre-wrap;
+  font-size: 0.9rem;
+}
+
+.bar {
+  margin-top: 0.65rem;
+  height: 6px;
+  background: #eef2f7;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.bar > span {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+  width: 0%;
+  transition: width 0.25s ease;
+}
+
+footer {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
