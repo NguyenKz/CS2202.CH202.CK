@@ -3,10 +3,11 @@
 from __future__ import annotations
 
 import os
+import re
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
@@ -21,13 +22,15 @@ if str(SRC) not in sys.path:
 from plausibility_eval.client import ChatClient  # noqa: E402
 from plausibility_eval.io_utils import read_jsonl  # noqa: E402
 from plausibility_eval.parse import parse_score_from_output  # noqa: E402
-from plausibility_eval.prompts import build_messages  # noqa: E402
+from plausibility_eval.prompts import SYSTEM_1, build_messages  # noqa: E402
 
 MODEL = os.environ.get("DEMO_MODEL", "gpt-5.6-luna")
 BASE_URL = os.environ.get("DEMO_BASE_URL", "https://api.openai.com/v1")
 # GPT-5.x realtime often only accepts default temperature=1 (paper closed was 1.5 via Batch).
 TEMPERATURE = float(os.environ.get("DEMO_TEMPERATURE", "1.0"))
-MAX_TOKENS = int(os.environ.get("DEMO_MAX_TOKENS", "128"))
+MAX_TOKENS_ORIG = int(os.environ.get("DEMO_MAX_TOKENS", "128"))
+MAX_TOKENS_T = int(os.environ.get("DEMO_MAX_TOKENS_T", "1024"))
+REASONING_EFFORT = os.environ.get("DEMO_REASONING_EFFORT", "medium")
 MAX_SENTENCES = int(os.environ.get("DEMO_MAX_SENTENCES", "20"))
 MAX_WORKERS = int(os.environ.get("DEMO_MAX_WORKERS", "4"))
 
@@ -117,12 +120,14 @@ class ScoreRequest(BaseModel):
 
     text: Optional[str] = Field(default=None, max_length=8000)
     sentence: Optional[str] = Field(default=None, max_length=500)
+    thinking: bool = False
 
 
 class SentenceResult(BaseModel):
     sentence: str
     score: Optional[int] = None
     explanation: str = ""
+    thinking: Optional[str] = None
     human_mean: Optional[float] = None
     sample_id: Optional[str] = None
     latency_ms: int = 0
@@ -131,6 +136,8 @@ class SentenceResult(BaseModel):
 
 class ScoreResponse(BaseModel):
     model: str
+    mode: str
+    thinking: bool
     results: List[SentenceResult]
 
 
@@ -151,15 +158,103 @@ def _parse_sentences(req: ScoreRequest) -> List[str]:
     return out
 
 
-def _score_one(client: ChatClient, sentence: str) -> SentenceResult:
+def _extra_for_mode(thinking: bool) -> Dict[str, Any]:
+    if thinking:
+        return {"reasoning_effort": REASONING_EFFORT}
+    return {"reasoning_effort": "none"}
+
+
+def _human_meta(sentence: str) -> Tuple[Optional[float], Optional[str]]:
     human = HUMAN_BY_SENTENCE.get(sentence)
+    if not human:
+        return None, None
     human_mean = (
         round(float(human["human_mean"]), 2)
-        if human and human.get("human_mean") is not None
+        if human.get("human_mean") is not None
         else None
     )
-    sample_id = human.get("sample_id") if human else None
+    return human_mean, human.get("sample_id")
 
+
+def _messages_for_thinking(messages: List[Dict[str, str]], num_ex: int = 3) -> List[Dict[str, str]]:
+    """Rewrite paper prompt as short system + N user/assistant few-shots.
+
+    Upstream packs many examples into one system blob; that often yields
+    reasoning_tokens but an empty summary. Multi-turn 3-shot keeps few-shot
+    calibration and reliably returns a visible reasoning summary.
+    """
+    if not messages:
+        return messages
+    system = messages[0].get("content") or ""
+    sentence = (messages[-1].get("content") or "").strip()
+    match = re.search(r"Here are some examples:\s*(.*)$", system, re.S)
+    block = (match.group(1) if match else "").strip()
+    parts = re.split(r"(The naturalness score is[^\n]*)", block)
+    pairs: List[Tuple[str, str]] = []
+    for i, part in enumerate(parts):
+        if part.startswith("The naturalness score is"):
+            prev = parts[i - 1].strip() if i else ""
+            if prev:
+                pairs.append((prev, part.strip()))
+            if len(pairs) >= num_ex:
+                break
+
+    out: List[Dict[str, str]] = [{"role": "system", "content": SYSTEM_1}]
+    for user_sent, assistant in pairs:
+        out.append({"role": "user", "content": user_sent})
+        out.append({"role": "assistant", "content": assistant})
+    out.append({"role": "user", "content": sentence})
+    return out
+
+
+def _extract_responses_texts(resp: Any) -> Tuple[str, Optional[str]]:
+    """Parse Responses API output → (message text, reasoning summary)."""
+    output_parts: List[str] = []
+    thinking_parts: List[str] = []
+    items = getattr(resp, "output", None) or []
+    for item in items:
+        itype = getattr(item, "type", None)
+        if itype == "reasoning":
+            for block in getattr(item, "summary", None) or []:
+                text = getattr(block, "text", None)
+                if text:
+                    thinking_parts.append(str(text).strip())
+        elif itype == "message":
+            for block in getattr(item, "content", None) or []:
+                text = getattr(block, "text", None)
+                if text:
+                    output_parts.append(str(text).strip())
+    output = "\n".join(p for p in output_parts if p).strip()
+    thinking = "\n\n".join(p for p in thinking_parts if p).strip() or None
+    return output, thinking
+
+
+def _score_via_responses(messages: List[Dict[str, str]]) -> Dict[str, Any]:
+    """T mode: Responses API so we can show reasoning.summary on the UI."""
+    import time
+
+    from openai import OpenAI
+
+    client = OpenAI(base_url=BASE_URL.rstrip("/"), api_key=_token())
+    input_messages = _messages_for_thinking(messages, num_ex=3)
+    t0 = time.perf_counter()
+    resp = client.responses.create(
+        model=MODEL,
+        input=input_messages,
+        reasoning={"effort": REASONING_EFFORT, "summary": "auto"},
+        max_output_tokens=MAX_TOKENS_T,
+    )
+    latency_ms = int((time.perf_counter() - t0) * 1000)
+    output_text, reasoning_text = _extract_responses_texts(resp)
+    return {
+        "output_text": output_text,
+        "reasoning_text": reasoning_text,
+        "latency_ms": latency_ms,
+    }
+
+
+def _score_one(client: ChatClient, sentence: str, *, thinking: bool) -> SentenceResult:
+    human_mean, sample_id = _human_meta(sentence)
     messages = build_messages(
         sentence,
         repo=REPO,
@@ -168,11 +263,16 @@ def _score_one(client: ChatClient, sentence: str) -> SentenceResult:
         add_examples=True,
     )
     try:
-        result = client.chat(
-            messages,
-            temperature=TEMPERATURE,
-            max_tokens=MAX_TOKENS,
-        )
+        if thinking:
+            # Chat Completions không trả reasoning text; Responses API + summary mới show được.
+            result = _score_via_responses(messages)
+        else:
+            result = client.chat(
+                messages,
+                temperature=TEMPERATURE,
+                max_tokens=MAX_TOKENS_ORIG,
+                extra_body=_extra_for_mode(False),
+            )
     except Exception as exc:  # noqa: BLE001
         return SentenceResult(
             sentence=sentence,
@@ -182,11 +282,13 @@ def _score_one(client: ChatClient, sentence: str) -> SentenceResult:
         )
 
     output = (result.get("output_text") or "").strip()
+    reasoning = (result.get("reasoning_text") or "").strip() or None
     parsed, ok = parse_score_from_output(output, expect_schema=False)
     if not ok or parsed is None:
         return SentenceResult(
             sentence=sentence,
             explanation=output,
+            thinking=reasoning,
             human_mean=human_mean,
             sample_id=sample_id,
             latency_ms=int(result.get("latency_ms") or 0),
@@ -197,6 +299,7 @@ def _score_one(client: ChatClient, sentence: str) -> SentenceResult:
         sentence=sentence,
         score=int(parsed),
         explanation=output,
+        thinking=reasoning,
         human_mean=human_mean,
         sample_id=sample_id,
         latency_ms=int(result.get("latency_ms") or 0),
@@ -211,6 +314,7 @@ def health() -> Dict[str, Any]:
         "base_url": BASE_URL,
         "token_set": bool(_token()),
         "max_sentences": MAX_SENTENCES,
+        "reasoning_effort": REASONING_EFFORT,
     }
 
 
@@ -235,13 +339,15 @@ def score(req: ScoreRequest) -> ScoreResponse:
             detail="Missing OPENAI_API_KEY in doan/.env",
         )
 
+    thinking = bool(req.thinking)
+    mode = "T" if thinking else "ORIG"
     client = ChatClient(base_url=BASE_URL, token=token, model=MODEL)
     results: List[Optional[SentenceResult]] = [None] * len(sentences)
     workers = min(MAX_WORKERS, len(sentences))
 
     with ThreadPoolExecutor(max_workers=workers) as pool:
         futures = {
-            pool.submit(_score_one, client, sentence): idx
+            pool.submit(_score_one, client, sentence, thinking=thinking): idx
             for idx, sentence in enumerate(sentences)
         }
         for fut in as_completed(futures):
@@ -250,6 +356,8 @@ def score(req: ScoreRequest) -> ScoreResponse:
 
     return ScoreResponse(
         model=MODEL,
+        mode=mode,
+        thinking=thinking,
         results=[r for r in results if r is not None],
     )
 

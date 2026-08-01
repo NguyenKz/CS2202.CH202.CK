@@ -23,6 +23,12 @@
         placeholder="The teacher scolded the shoe.&#10;The nurse fetched the patient.&#10;The owner payed for the farmer."
       ></textarea>
 
+      <label class="toggle">
+        <input type="checkbox" id="thinking-toggle">
+        <span>Thinking (T mode)</span>
+        <span class="hint">bật = reasoning_effort medium · tắt = ORIG</span>
+      </label>
+
       <div class="actions">
         <button type="button" class="btn-primary" id="score-btn">Chấm điểm</button>
         <button type="button" class="btn-secondary" id="clear-btn">Xóa</button>
@@ -40,7 +46,7 @@
   </main>
 
   <footer>
-    CS2202 · prompt paper mem_enc (few-shot) · ORIG protocol
+    CS2202 · prompt paper mem_enc (few-shot) · ORIG / T
   </footer>
 
   <script src="/static/app.js"></script>

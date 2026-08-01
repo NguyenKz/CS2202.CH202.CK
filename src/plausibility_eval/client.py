@@ -195,7 +195,12 @@ class ChatClient:
         if response_format is not None:
             kwargs["response_format"] = response_format
         if extra_body:
-            kwargs["extra_body"] = extra_body
+            # OpenAI official: reasoning_effort is a top-level create() arg.
+            extra = dict(extra_body)
+            if "reasoning_effort" in extra and "reasoning_effort" not in kwargs:
+                kwargs["reasoning_effort"] = extra.pop("reasoning_effort")
+            if extra:
+                kwargs["extra_body"] = extra
 
         t0 = time.perf_counter()
         resp = self.client.chat.completions.create(**kwargs)

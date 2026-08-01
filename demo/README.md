@@ -56,9 +56,12 @@ uvicorn app:app --host 127.0.0.1 --port 8000 --reload
 ## Cách dùng nhanh
 
 1. Nhập 1 hoặc nhiều câu (mỗi câu một dòng), bấm **Chấm điểm**.
-2. Click một chip câu mẫu → chấm ngay câu đó.
-3. Click **Nhiều câu … — chạy hết** (hoặc **Chạy tất cả mẫu**) → đổ hết câu mẫu rồi chấm hàng loạt.
-4. `Ctrl/Cmd + Enter` trong textarea cũng gửi request.
+2. Bật/tắt **Thinking (T mode)** trên UI:
+   - tắt = **ORIG** (Chat Completions, prompt paper đầy đủ, `reasoning_effort=none`)
+   - bật = **T** (Responses API, few-shot 3-turn + `reasoning.effort=medium` + `summary=auto`) — hiện block **Thinking**
+3. Click một chip câu mẫu → chấm ngay câu đó.
+4. Click **Nhiều câu … — chạy hết** (hoặc **Chạy tất cả mẫu**) → đổ hết câu mẫu rồi chấm hàng loạt.
+5. `Ctrl/Cmd + Enter` trong textarea cũng gửi request.
 
 ---
 
@@ -70,7 +73,9 @@ uvicorn app:app --host 127.0.0.1 --port 8000 --reload
 | `DEMO_MODEL` | `gpt-5.6-luna` | Model name |
 | `DEMO_BASE_URL` | `https://api.openai.com/v1` | OpenAI-compatible base URL |
 | `DEMO_TEMPERATURE` | `1.0` | Temperature (GPT-5.x realtime thường chỉ nhận 1.0) |
-| `DEMO_MAX_TOKENS` | `128` | `max_completion_tokens` |
+| `DEMO_MAX_TOKENS` | `128` | `max_completion_tokens` (ORIG) |
+| `DEMO_MAX_TOKENS_T` | `1024` | `max_completion_tokens` (T) |
+| `DEMO_REASONING_EFFORT` | `medium` | Effort khi bật Thinking |
 | `DEMO_MAX_SENTENCES` | `20` | Số câu tối đa / request |
 | `DEMO_MAX_WORKERS` | `4` | Số worker song song khi chấm nhiều câu |
 | `PORT` | `8000` | Cổng server |

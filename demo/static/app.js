@@ -10,6 +10,7 @@ const clearBtn = $("clear-btn");
 const allExamplesBtn = $("all-examples-btn");
 const examplesEl = $("examples");
 const modelNameEl = $("model-name");
+const thinkingToggle = $("thinking-toggle");
 
 let cachedExamples = [];
 
@@ -47,11 +48,14 @@ function showResults(payload) {
     ok.length > 0
       ? (ok.reduce((s, r) => s + r.score, 0) / ok.length).toFixed(2)
       : "—";
+  const withThink = results.filter((r) => r.thinking).length;
 
   resultSummaryEl.innerHTML = [
     `Model: <strong>${payload.model}</strong>`,
+    `MODE: <strong>${payload.mode || (payload.thinking ? "T" : "ORIG")}</strong>`,
     `${results.length} câu`,
     ok.length ? `mean <strong>${mean}</strong>` : null,
+    withThink ? `thinking ×${withThink}` : null,
     fail ? `<span class="fail-count">${fail} lỗi</span>` : null,
   ]
     .filter(Boolean)
@@ -99,6 +103,25 @@ function showResults(payload) {
     body.appendChild(sent);
     body.appendChild(meta);
     if (row.explanation) body.appendChild(expl);
+
+    if (row.thinking) {
+      const details = document.createElement("details");
+      details.className = "thinking-box";
+      details.open = true;
+      const summary = document.createElement("summary");
+      summary.textContent = "Thinking";
+      const pre = document.createElement("pre");
+      pre.textContent = row.thinking;
+      details.appendChild(summary);
+      details.appendChild(pre);
+      body.appendChild(details);
+    } else if (payload.thinking) {
+      const note = document.createElement("p");
+      note.className = "thinking-empty";
+      note.textContent = "Thinking: (model không trả reasoning text)";
+      body.appendChild(note);
+    }
+
     body.appendChild(bar);
 
     top.appendChild(score);
@@ -169,6 +192,7 @@ function setBusy(busy) {
   scoreBtn.disabled = busy;
   clearBtn.disabled = busy;
   allExamplesBtn.disabled = busy;
+  thinkingToggle.disabled = busy;
   for (const btn of examplesEl.querySelectorAll("button")) {
     btn.disabled = busy;
   }
@@ -181,12 +205,13 @@ async function scoreSentences() {
     return;
   }
 
+  const thinking = Boolean(thinkingToggle.checked);
   sentenceEl.value = lines.join("\n");
   setBusy(true);
   setStatus(
     lines.length === 1
-      ? "Đang gọi gpt-5.6-luna…"
-      : `Đang chấm ${lines.length} câu…`
+      ? `Đang gọi gpt-5.6-luna (${thinking ? "T" : "ORIG"})…`
+      : `Đang chấm ${lines.length} câu (${thinking ? "T" : "ORIG"})…`
   );
   hideResult();
 
@@ -194,7 +219,10 @@ async function scoreSentences() {
     const res = await fetch("/api/score", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text: lines.join("\n") }),
+      body: JSON.stringify({
+        text: lines.join("\n"),
+        thinking,
+      }),
     });
     const data = await res.json().catch(() => ({}));
     if (!res.ok) {
@@ -210,8 +238,8 @@ async function scoreSentences() {
     const fail = (data.results || []).filter((r) => r.error).length;
     setStatus(
       fail
-        ? `Xong — ${data.results.length - fail}/${data.results.length} câu OK.`
-        : `Xong — ${data.results.length} câu.`
+        ? `Xong — ${data.results.length - fail}/${data.results.length} câu OK (${data.mode}).`
+        : `Xong — ${data.results.length} câu (${data.mode}).`
     );
   } catch (err) {
     setStatus(err.message || String(err), true);
